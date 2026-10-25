@@ -3,14 +3,14 @@
     {
       "book": "jubilees",
       "englishSections": 50,
-      "chineseSections": 27,
+      "chineseSections": 30,
       "complete": false
     },
     {
       "book": "1-enoch",
       "englishSections": 109,
-      "chineseSections": 85,
-      "complete": false
+      "chineseSections": 109,
+      "complete": true
     },
     {
       "book": "2-enoch",
@@ -21,7 +21,7 @@
     {
       "book": "3-enoch",
       "englishSections": 54,
-      "chineseSections": 0,
+      "chineseSections": 10,
       "complete": false
     },
     {
@@ -45,14 +45,14 @@
     {
       "book": "4-ezra",
       "englishSections": 12,
-      "chineseSections": 0,
+      "chineseSections": 3,
       "complete": false
     },
     {
       "book": "2-baruch",
       "englishSections": 87,
-      "chineseSections": 30,
-      "complete": false
+      "chineseSections": 87,
+      "complete": true
     }
   ],
   "allChineseComplete": false

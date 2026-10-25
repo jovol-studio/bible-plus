@@ -8,19 +8,19 @@ The application-code license does not license the bundled scripture texts. See [
 
 ## Current translation coverage
 
-**This is a work in progress, not a complete bilingual release.** Translation agents stopped at the account usage limit. Completed Chinese chapters are available in the reader; unavailable chapters explicitly display a notice and English. No English passage is labelled as Chinese, and no missing chapter is filled with a summary.
+**This is a work in progress, not a complete bilingual release.** Translation is continuing sequentially. Completed Chinese chapters are available in the reader; unavailable chapters explicitly display a notice and English. No English passage is labelled as Chinese, and no missing chapter is filled with a summary.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
-| Book of Jubilees / 禧年書 | 50 | 27 |
-| 1 Enoch / 以諾一書 | 109 | 85 |
+| Book of Jubilees / 禧年書 | 50 | 30 |
+| 1 Enoch / 以諾一書 | 109 | 109 |
 | 2 Enoch / 以諾二書 | 68 | 68 |
-| 3 Enoch / 以諾三書 | 54 | 0 |
+| 3 Enoch / 以諾三書 | 54 | 10 |
 | Apocalypse of Abraham / 亞伯拉罕啟示錄 | 33 | 33 |
 | Life of Adam and Eve / 亞當和夏娃生平 | 64 | 64 |
 | Testaments of the Twelve Patriarchs / 十二族長遺訓 | 142 | 142 |
-| 4 Ezra / 以斯拉四書 | 12 | 0 |
-| 2 Baruch / 巴錄二書 | 87 | 30 |
+| 4 Ezra / 以斯拉四書 | 12 | 3 |
+| 2 Baruch / 巴錄二書 | 87 | 87 |
 
 The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. Chinese is a newly produced AI translation of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.
 
