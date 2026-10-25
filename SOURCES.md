@@ -19,7 +19,7 @@ The application-code license does not license the bundled scripture texts. See [
 | Apocalypse of Abraham / 亞伯拉罕啟示錄 | 33 | 33 |
 | Life of Adam and Eve / 亞當和夏娃生平 | 64 | 64 |
 | Testaments of the Twelve Patriarchs / 十二族長遺訓 | 142 | 142 |
-| 4 Ezra / 以斯拉四書 | 12 | 3 |
+| 4 Ezra / 以斯拉四書 | 12 | 12 |
 | 2 Baruch / 巴錄二書 | 87 | 87 |
 
 The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. Chinese is a newly produced AI translation of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.

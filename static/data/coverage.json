@@ -45,8 +45,8 @@
     {
       "book": "4-ezra",
       "englishSections": 12,
-      "chineseSections": 3,
-      "complete": false
+      "chineseSections": 12,
+      "complete": true
     },
     {
       "book": "2-baruch",
