@@ -1,0 +1,469 @@
+/*
+Bible Plus (Bible+) by JovoL Studio. Copyright (c) 2026 JovoL Studio (its contributions).
+AGPL-3.0-only with Section 7(b) attribution term; see NOTICE.md and LICENSE.
+Original source: https://github.com/jovol-studio/bible-plus
+*/
+:root {
+  color-scheme: light;
+  --paper: #faf8f3;
+  --ink: #292d2a;
+  --accent: #46634e;
+  --line: #dcded4;
+  --text-size: 1.25rem;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family:
+    system-ui,
+    -apple-system,
+    "Noto Sans TC",
+    sans-serif;
+  line-height: 1.65;
+}
+header,
+main,
+footer,
+nav {
+  max-width: 1400px;
+  margin: auto;
+  padding: 1.25rem 2rem;
+}
+header {
+  padding-top: 2rem;
+}
+a {
+  color: var(--accent);
+}
+h1 {
+  font-family: Georgia, serif;
+  font-weight: 500;
+  margin: 0.5rem 0;
+}
+h1 span {
+  font-size: 0.6em;
+  display: inline-block;
+  color: #5b655d;
+}
+header p,
+footer {
+  color: #63695e;
+  font-size: 0.9rem;
+}
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  border-block: 1px solid var(--line);
+  background: #f1f2e9;
+}
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+label:first-child {
+  flex: 2 1 280px;
+}
+label:nth-child(2) {
+  flex: 2 1 230px;
+}
+select,
+button {
+  font: inherit;
+  color: inherit;
+  border: 1px solid #aeb7a8;
+  border-radius: 6px;
+  padding: 0.6rem;
+  background: white;
+  min-height: 44px;
+}
+select {
+  max-width: 100%;
+}
+button {
+  cursor: pointer;
+}
+button:hover {
+  background: #e8eee2;
+}
+button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+:focus-visible {
+  outline: 3px solid #53755b;
+  outline-offset: 3px;
+}
+h2 {
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+}
+#section {
+  color: #606b60;
+  margin-top: 0;
+}
+.notice {
+  padding: 0.75rem 1rem;
+  border-left: 3px solid #ac9a68;
+  background: #f0eddf;
+  font-size: 0.85rem;
+}
+.paging {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+#position {
+  font-size: 0.85rem;
+  text-align: center;
+}
+.passage {
+  display: grid;
+  grid-template-columns: 4rem 1fr 1fr;
+  gap: 1.25rem;
+  padding: 1rem 0.5rem;
+  border-top: 1px solid var(--line);
+  scroll-margin: 1rem;
+}
+.passage.single {
+  grid-template-columns: 4rem 1fr;
+}
+.passage.selected {
+  background: #e9eee3;
+  border-radius: 4px;
+}
+.ref {
+  font-size: 0.8rem;
+  color: #666d60;
+  padding-top: 0.3rem;
+  overflow-wrap: anywhere;
+}
+.text {
+  margin: 0;
+  font-size: var(--text-size);
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+.text[lang="en"] {
+  font-family: Georgia, "Times New Roman", serif;
+}
+.text[lang="zh-Hant"] {
+  font-family: "Noto Serif TC", "Songti TC", serif;
+}
+details {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+#status:not(:empty) {
+  padding: 1rem;
+  background: #eee4ce;
+}
+footer {
+  border-top: 1px solid var(--line);
+}
+body[data-size="large"] {
+  --text-size: 1.9rem;
+}
+body[data-size="presentation"] {
+  --text-size: 3.5rem;
+}
+@media (max-width: 720px) {
+  header,
+  main,
+  footer,
+  nav {
+    padding: 1rem;
+  }
+  .passage,
+  .passage.single {
+    grid-template-columns: 2.5rem 1fr;
+    gap: 0.6rem;
+  }
+  .passage .text:last-child {
+    grid-column: 2;
+  }
+  h1 span {
+    display: block;
+  }
+  .paging {
+    gap: 0.4rem;
+  }
+  .paging button {
+    font-size: 0.8rem;
+  }
+  body[data-size="presentation"] {
+    --text-size: 2.5rem;
+  }
+}
+@media print {
+  nav,
+  .paging,
+  footer,
+  header > a {
+    display: none;
+  }
+  body {
+    background: white;
+  }
+  .passage {
+    break-inside: avoid;
+  }
+}
+Z/* Bible Plus: quiet reader with a persistent bottom navigation bar. */
+:root { --controls-height: 165px; }
+body { padding-bottom: calc(var(--controls-height) + 2rem); }
+header { display:flex; align-items:center; justify-content:space-between; }
+h1 .plus { color:var(--accent); font-size:1em; }
+.info-button { border:0; background:transparent; font-size:1.6rem; width:48px; }
+#controls { position:fixed; bottom:0; left:0; right:0; z-index:10; max-width:none; padding:.7rem max(1rem, calc((100vw - 1336px)/2)); gap:.6rem 1.5rem; box-shadow:0 -3px 20px #292d2a0a; padding-bottom:max(.7rem, env(safe-area-inset-bottom)); }
+#navigation, .preferences { display:flex; align-items:end; gap:.65rem; flex:1 1 auto; min-width:0; margin:0; }
+#controls label { flex:0 1 auto; min-width:0; }
+#controls .book-control { flex:1 1 210px; }
+#controls .location-control { flex:0 0 76px; }
+input { width:100%; font:inherit; border:1px solid #aeb7a8; border-radius:6px; padding:.6rem; min-height:44px; background:white; color:inherit; }
+#controls select { width:100%; }
+#status:empty, #section:empty { display:none; }
+.passage { scroll-margin-top:1rem; cursor:pointer; }
+dialog { color:var(--ink); background:var(--paper); border:1px solid var(--line); border-radius:12px; padding:1.5rem 2rem; max-width:700px; width:calc(100% - 2rem); max-height:85dvh; }
+dialog::backdrop { background:#18241bb3; }
+.dialog-heading { display:flex; align-items:center; justify-content:space-between; gap:1rem; }
+.dialog-heading h2 { margin:0; }
+#source-details a { overflow-wrap:anywhere; }
+body[data-size="presentation"] main { max-width:none; padding:0 1rem; }
+body[data-size="presentation"] header, body[data-size="presentation"] .paging, body[data-size="presentation"] #heading, body[data-size="presentation"] #section { display:none; }
+body[data-size="presentation"] { padding-bottom:calc(100vh + var(--controls-height)); }
+body[data-size="presentation"] .passage { border:0; border-radius:0; background:transparent; padding:.25rem .75rem; grid-template-columns: minmax(4rem, auto) 1fr 1fr; scroll-margin-top:0; }
+body[data-size="presentation"] .passage.selected { background: #e9eee3; border-radius: 4px; }
+body[data-size="presentation"] .passage.single { grid-template-columns: minmax(4rem, auto) 1fr; }
+body[data-size="presentation"] .ref { font-size:.65em; color:var(--ink); }
+body[data-size="presentation"] .passage { font-size:var(--text-size); }
+body[data-size="presentation"] .text { font-family:system-ui, sans-serif; }
+@media(max-width:720px) {
+  h1 span { display:inline-block; }
+  #controls { padding:.5rem .75rem; }
+  #navigation, .preferences { width:100%; gap:.4rem; }
+  #controls .location-control { flex-basis:60px; }
+  #controls .book-control { flex-basis:100px; }
+  .preferences label { flex:1 1 0; }
+  #controls select, #controls input { padding:.4rem; }
+  body[data-size="presentation"] .passage { grid-template-columns:3rem 1fr; gap:.5rem; }
+  body[data-size="presentation"] .passage.single { grid-template-columns:3rem 1fr; }
+  dialog { padding:1rem; }
+}
+@media print { body, body[data-size="presentation"] { padding-bottom:0; } #info, dialog { display:none; } }
+
+/* Material-inspired controls, using the reader's existing colour palette. */
+#info {
+  align-self: flex-end;
+  margin: 0 0 0 auto;
+  min-height: 44px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  padding: 10px;
+  border: 0;
+  border-radius: 50%;
+  color: var(--accent);
+  background: transparent;
+  transition: background-color .15s ease;
+}
+#info:hover { background: #46634e14; }
+#info:active { background: #46634e26; }
+#info svg { flex-shrink: 0; }
+#go {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  box-shadow: 0 1px 2px #0003;
+  transition: background-color .15s ease, box-shadow .15s ease;
+}
+#go:hover:not(:disabled) { background: #38503f; box-shadow: 0 2px 4px #0003; }
+#go:active:not(:disabled) { background: #2d4233; box-shadow: none; }
+#go:disabled { opacity: .4; box-shadow: none; }
+@media (prefers-reduced-motion: reduce) { #info, #go { transition: none; } }
+
+/* Material outlined fields: permanent labels and a clear focus state. */
+#controls label {
+  position: relative;
+  margin-top: .5rem;
+  gap: 0;
+  font-weight: 400;
+}
+#controls .field-label {
+  position: absolute;
+  z-index: 1;
+  top: -.65em;
+  left: 10px;
+  padding: 0 4px;
+  background: #f1f2e9;
+  color: #596358;
+  font-size: .75rem;
+  line-height: 1.3;
+  pointer-events: none;
+}
+#controls input, #controls select {
+  height: 44px;
+  min-height: 44px;
+  border: 1px solid #7b8577;
+  border-radius: 8px;
+  padding: 10px 12px;
+  background-color: #f1f2e9;
+  color: var(--ink);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+#controls select {
+  appearance: none;
+  padding-right: 32px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m7 10 5 5 5-5' fill='none' stroke='%23596358' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 6px center;
+  cursor: pointer;
+}
+#controls input:hover:not(:disabled), #controls select:hover:not(:disabled) { border-color: var(--ink); }
+#controls input:focus, #controls select:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+#controls label:focus-within .field-label { color: var(--accent); font-weight: 600; }
+#controls input:disabled, #controls select:disabled {
+  color: #a1a79b;
+  border-color: #d4d8ce;
+  background-color: #f5f5ef;
+  cursor: default;
+  opacity: 1;
+}
+#controls input:user-invalid { border-color: #b3261e; }
+#controls input:user-invalid:focus { box-shadow: inset 0 0 0 1px #b3261e; }
+@media (max-width: 720px) {
+  #controls input { padding-inline: 8px; }
+  #controls select { padding-left: 8px; padding-right: 26px; background-position: right 2px center; }
+  #controls .field-label { left: 6px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #controls input, #controls select { transition: none; }
+}
+@media (forced-colors: active) {
+  #controls select { appearance: auto; background-image: none; padding-right: 6px; }
+  #controls input:focus, #controls select:focus { outline: 2px solid Highlight; }
+}
+
+/* Match the About dialog close action to the Material-style info control. */
+#close-info, #close-picker {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  min-height: 44px;
+  padding: 10px;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--accent);
+  line-height: 1;
+  transition: background-color .15s ease;
+}
+#close-info:hover, #close-picker:hover { background: #46634e14; }
+#close-info:active, #close-picker:active { background: #46634e26; }
+#close-info svg, #close-picker svg { flex-shrink: 0; }
+@media (prefers-reduced-motion: reduce) { #close-info, #close-picker { transition: none; } }
+
+/* Chapter navigation sits beside the passage inputs, including in projection. */
+#navigation { flex-wrap: wrap; }
+.chapter-paging { display: flex; align-items: center; gap: 2px; flex: 0 0 auto; height: 44px; }
+.chapter-paging button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 10px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--accent);
+}
+.chapter-paging button:hover:not(:disabled) { background: #46634e14; }
+.chapter-paging button:active:not(:disabled) { background: #46634e26; }
+.chapter-paging svg { flex-shrink: 0; }
+.chapter-paging #position { min-width: 3.5rem; font-size: .75rem; color: #596358; }
+@media (max-width: 480px) {
+  #controls .book-control { flex-basis: 100%; }
+  .chapter-paging { margin-left: auto; }
+  .chapter-paging #position { display: none; }
+}
+
+#reference-picker { width: min(440px, calc(100% - 2rem)); padding: 1rem; overflow: hidden; }
+#reference-picker .dialog-heading { margin-bottom: .75rem; }
+#picker-title { font-size: 1.15rem; }
+#picker-options { max-height: 55dvh; overflow-y: auto; padding: 4px; }
+#picker-options button {
+  display: block;
+  width: 100%;
+  min-height: 44px;
+  margin: 2px 0;
+  padding: .65rem .8rem;
+  text-align: left;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  overflow-wrap: anywhere;
+}
+#picker-options button:hover { background: #46634e14; }
+#picker-options button[aria-current="true"] { background: #e1eadb; color: #304b37; font-weight: 600; }
+
+/* Long bilingual book names must not push desktop preferences onto a new row. */
+@media (min-width: 1100px) {
+  #controls { flex-wrap: nowrap; align-items: flex-end; }
+  #navigation { flex: 1 1 0; flex-wrap: nowrap; min-width: 0; }
+  #controls .book-control { flex: 1 1 0; min-width: 0; }
+  #book { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  #controls .preferences { flex: 0 0 auto; width: auto; }
+  #controls .preferences label { flex: 0 0 auto; }
+  #controls .location-control { flex: 0 0 64px; }
+}
+
+#controls label:has(input:disabled) .field-label,
+#controls label:has(select:disabled) .field-label { color: #a1a79b; }
+#controls select:disabled {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m7 10 5 5 5-5' fill='none' stroke='%23a1a79b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+#controls button:disabled { opacity: .3; box-shadow: none; }
+@media (forced-colors: active) {
+  #controls select:disabled { background-image: none; }
+}

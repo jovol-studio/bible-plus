@@ -1,0 +1,69 @@
+<!doctype html>
+<!--
+Bible Plus (Bible+) by JovoL Studio. Copyright (c) 2026 JovoL Studio (its contributions).
+AGPL-3.0-only with Section 7(b) attribution term; see NOTICE.md and LICENSE.
+Original source: https://github.com/jovol-studio/bible-plus
+-->
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#46634e">
+  <title>Bible Plus · Bible+</title>
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="icon" type="image/x-icon" href="static/icons/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="static/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="static/icons/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="static/icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-title" content="Bible+">
+  <link rel="stylesheet" href="static/css/main.css">
+  <script defer src="static/js/books.js"></script>
+  <script defer src="static/js/main.js"></script>
+</head>
+<body>
+<main>
+  <div id="status" role="status" aria-live="polite"></div>
+  <h2 id="heading"></h2><p id="section"></p>
+  <div id="passages"></div>
+</main>
+<nav id="controls" aria-label="閱讀選項">
+  <form id="navigation">
+    <label class="book-control"><span class="field-label">書卷</span><select id="book"></select></label>
+    <label class="location-control"><span class="field-label">章</span><input id="chapter" type="number" list="chapter-options" required autocomplete="off" aria-label="章" title="輸入章號，或按兩下選取" aria-haspopup="dialog" aria-controls="reference-picker"><datalist id="chapter-options"></datalist></label>
+    <label class="location-control"><span class="field-label">節</span><input id="verse" type="text" list="verse-options" required autocomplete="off" aria-label="節" title="輸入節號，或按兩下選取" aria-haspopup="dialog" aria-controls="reference-picker"><datalist id="verse-options"></datalist></label>
+    <button id="go" type="submit">去</button>
+    <div class="chapter-paging" role="group" aria-label="切換章節">
+      <button id="previous" type="button" aria-label="上一章" title="上一章"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m14 6-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      <span id="position"></span>
+      <button id="next" type="button" aria-label="下一章" title="下一章"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m10 6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    </div>
+  </form>
+  <div class="preferences">
+    <label><span class="field-label">版本</span><select id="version"><option value="cuv">和合本</option><option value="rcuv">和修本</option><option value="cnv">新譯本</option></select></label>
+    <label><span class="field-label">語言</span><select id="language"><option value="both">中英對照</option><option value="zh-Hant">正體中文</option><option value="en">英文</option></select></label>
+    <label><span class="field-label">顯示</span><select id="size"><option value="normal">標準</option><option value="large">大字</option><option value="presentation">投影</option></select></label>
+    <button class="info-button" id="info" aria-label="版本、說明與來源" title="版本、說明與來源"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 11v6" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="7.5" r="1.2" fill="currentColor"/></svg></button>
+  </div>
+</nav>
+<dialog id="about" aria-labelledby="about-title">
+  <div class="dialog-heading"><h2 id="about-title">關於 Bible+</h2><button id="close-info" type="button" aria-label="關閉" title="關閉"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>
+  <p>Bible Plus（Bible+）· 版本 1.0.0</p>
+  <h3>作者與授權</h3>
+  <p>Bible Plus（Bible+）by JovoL Studio · © 2026 JovoL Studio（其原創貢獻）</p>
+  <p><a href="https://github.com/jovol-studio/bible-plus" target="_blank" rel="noopener noreferrer">原始碼 · Original source</a></p>
+  <p>應用程式碼依 <a href="LICENSE" target="_blank" rel="noopener">GNU AGPL-3.0</a> 及第 7(b) 節的<a href="NOTICE.md" target="_blank" rel="noopener">作者署名條款</a>提供；可依條款修改及再散布。本軟體不提供任何保證（以法律允許範圍為限）。經文與第三方內容另依各自權利及授權處理。</p>
+  <h3>閱讀說明</h3><p>在底部選取書卷，輸入章與節後按「去」。← → 切換章，↑ ↓ 選取上一節或下一節。投影模式以大字顯示，將選取經文移至畫面頂部。按 Esc 返回標準顯示。</p>
+  <p>章輸入欄使用數字。包含重複章號、字母章號或標題篇的典外書卷，使用閱讀順序編號（例如十二族長遺訓為 1–142）；原篇名及章號仍顯示於經文標題與選取清單。按兩下章、節輸入欄可開啟選單。經文及原有節號保持不變。</p>
+  <h3>目前書卷的版本與來源</h3><div id="source-details"></div>
+  <h3>內容與注意事項</h3>
+  <p>聖經和合本、和修本、新譯本均沿用原應用程式的 MGBC 資料，經文保持原樣。目前未提供英文聖經譯本；缺少指定語言時會提示並顯示現有語言。</p>
+  <p>典外書卷中文為根據所列英譯本製作的 AI 翻譯初稿，非已出版中譯本，並非直接從古代原文翻譯，尚未經獨立學術審校。部分中文章節尚未備妥；人名及疑難讀法仍需審校。</p>
+  <p>典外書卷保留來源的編號、編輯標記及抄本差異；不同版本的編排可能不同。歷史英譯本的公版標示不代表所有地區的權利狀況。</p>
+  <p><a href="SOURCES.md" target="_blank" rel="noopener">典外書卷完整來源、版本與資料說明</a></p>
+</dialog>
+<dialog id="reference-picker" aria-labelledby="picker-title">
+  <div class="dialog-heading"><h2 id="picker-title">選取章</h2><button id="close-picker" type="button" aria-label="關閉選單"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>
+  <div id="picker-options"></div>
+</dialog>
+</body>
+</html>
