@@ -4,7 +4,7 @@
 
 ## Rights and software-license boundary
 
-The application-code license does not license the bundled scripture texts. See [NOTICE.md](NOTICE.md). MGBC is the recorded acquisition source for the three Chinese Bible versions, not proof of permission from their copyright holders. Source credits do not by themselves authorize full-text redistribution. Existing public-domain status and third-party rights remain unchanged.
+The application-code license does not license the bundled scripture texts. See [NOTICE.md](NOTICE.md). Source credits do not by themselves authorize full-text redistribution. Existing public-domain status and third-party rights remain unchanged.
 
 ## Current translation coverage
 
@@ -76,3 +76,24 @@ python3 scripts/validate_data.py --require-complete
 Temporary HTML downloads, translation batch copies, and one-time import/assembly scripts were removed after verifying that every saved translation passage was already present in `static/data/`. Source URLs, edition credits, original download hashes, and documented corrections remain in the book JSON files. Keep `scripts/validate_data.py` for ongoing data and translation checks.
 
 Browser visual/interaction testing has not been completed: the Browser runtime reported no connected browsers. JavaScript syntax and corpus alignment checks are available independently.
+
+## Canonical English translation: WEB British Edition
+
+The 66 canonical books use World English Bible British Edition (WEBPB), the
+Protestant edition distributed by [eBible.org](https://ebible.org/find/show.php?id=engwebpb).
+The publisher dedicates the text to the public domain and permits redistribution.
+The World English Bible name remains a trademark identifying faithful copies.
+
+The official verse-per-line archive was downloaded on 2026-10-25. Its source
+notice identifies the 2020 stable text edition. The archive, publisher notice,
+SHA-256 checksums, and import details are saved in [sources/web/](sources/web/README.md).
+All 66 books and 1,189 chapters are included. The 31,103 verse entries preserve
+five blank source entries (Luke 17:36; Acts 8:37, 15:34, 24:7; Romans 16:25),
+which the app marks as unavailable rather than filling or silently renumbering.
+The VPL export excludes notes, formatting and noncanonical headings.
+
+Chinese and English passages are paired by chapter/verse identifier, with a
+union of references so neither edition's extra verses disappear. Identical
+reference numbers do not guarantee identical verse boundaries across editions.
+WEB is an independent English translation, not an English edition of CUV, RCUV,
+or CNV. Extension-book English editions remain unchanged. NIV is not bundled.

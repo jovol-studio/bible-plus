@@ -22,7 +22,7 @@ python3 -m http.server 8765 --bind 127.0.0.1
 
 ## 內容與來源
 
-聖經三版本均來源於原應用程式的 **MGBC** 資料。`static/data/cuv.json`、`rcuv.json`、`cnv.json` 原樣複製，保留原有 JavaScript 資料封裝，並非一般 JSON。未修改經文，也未新增英文翻譯。未提供英文時顯示提示及現有中文。
+聖經提供和合本、和修本、新譯本。`static/data/cuv.json`、`rcuv.json`、`cnv.json` 原樣複製，保留原有 JavaScript 資料封裝，並非一般 JSON。中文經文未修改。英文對照採用 WEB 英式英文版（WEBPB），可選英文或中英對照。
 
 典外書卷資料亦原樣複製。中文部分仍未完成，缺少中文時顯示提示及現有英文。來源網址、譯者、版本說明及 AI 翻譯警告均保留於資料及資訊視窗。詳見 [SOURCES.md](SOURCES.md)。
 
@@ -48,3 +48,17 @@ Bible Plus（Bible+）by **JovoL Studio** · © 2026 JovoL Studio（其原創貢
 應用程式碼採用 [GNU AGPL-3.0](LICENSE)，並附有第 7(b) 節允許的合理署名保留條款，詳見 [NOTICE.md](NOTICE.md)。使用相關程式碼時，須依該條款保留作者與原始碼網址；About／Credits 視窗可作為顯示位置。修改版亦須履行適用的 AGPL 原始碼提供義務，僅連結原專案並不足以取代修改版的原始碼。
 
 本授權仍允許商業使用，不要求使用者事先取得個別許可。第三方經文不受本軟體授權涵蓋；下載來源的署名並不等於版權持有人的再散布許可。詳見 [SOURCES.md](SOURCES.md)。
+
+## WEB 英文版本
+
+已收錄 World English Bible British Edition（WEBPB），共 66 卷、1,189 章、31,103 個原來源節條目。來源為 eBible.org 的公版逐節純文字資料，英式拼字並使用 LORD／GOD。與三種中文版本按章節編號對照；WEB 是獨立英譯本，不是中文版本的英譯。
+
+來源 ZIP、下載網址、SHA-256 與出版者權利聲明保存在 `sources/web/`；閱讀檔在 `static/data/web/`。原來源含五個空白節，顯示時會提示缺文，不會補譯或移動編號。版次之間的分節差異可能造成同一節內容不完全對應。詳細來源見 [sources/web/README.md](sources/web/README.md)。
+
+```sh
+python3 scripts/import_web.py --check
+# 從已保存的官方 ZIP 重建閱讀檔：
+python3 scripts/import_web.py
+```
+
+WEB 經文的公版狀態不受應用程式的 AGPL 授權限制。

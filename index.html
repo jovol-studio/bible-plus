@@ -21,9 +21,11 @@ Original source: https://github.com/jovol-studio/bible-plus
   <script defer src="static/js/main.js"></script>
 </head>
 <body>
+<div id="reading-header">
+  <div class="reading-title"><img class="reading-icon" src="static/icons/bible-plus.svg" alt="Bible+" width="40" height="40"><h2 id="heading"></h2></div><p id="section"></p>
+</div>
 <main>
   <div id="status" role="status" aria-live="polite"></div>
-  <h2 id="heading"></h2><p id="section"></p>
   <div id="passages"></div>
 </main>
 <nav id="controls" aria-label="閱讀選項">
@@ -56,10 +58,10 @@ Original source: https://github.com/jovol-studio/bible-plus
   <p>章輸入欄使用數字。包含重複章號、字母章號或標題篇的典外書卷，使用閱讀順序編號（例如十二族長遺訓為 1–142）；原篇名及章號仍顯示於經文標題與選取清單。按兩下章、節輸入欄可開啟選單。經文及原有節號保持不變。</p>
   <h3>目前書卷的版本與來源</h3><div id="source-details"></div>
   <h3>內容與注意事項</h3>
-  <p>聖經和合本、和修本、新譯本均沿用原應用程式的 MGBC 資料，經文保持原樣。目前未提供英文聖經譯本；缺少指定語言時會提示並顯示現有語言。</p>
+  <p>聖經提供和合本、和修本、新譯本，經文保持原樣。英文對照使用 WEB 英式英文版；缺少指定語言或原來源未提供某節時，會明確提示。</p>
+  <p>英文聖經採用 WEB（World English Bible British Edition，WEBPB），為 eBible.org 提供的 66 卷英式英文版，經文屬公版，可自由複製及再散布。WEB 是獨立英譯本，並非和合本、和修本或新譯本的英文版。中英按章節編號對照，不同版本的分節仍可能不同。來源為逐節純文字匯出，未包含註腳或編輯標題；原來源的空白節保留並顯示缺文提示。World English Bible 名稱為商標，僅用於標示忠實的原文副本。<a href="https://ebible.org/find/show.php?id=engwebpb" target="_blank" rel="noopener noreferrer">WEB 來源與公版說明</a>。典外書卷仍使用各自所列的歷史英譯本。</p>
   <p>典外書卷中文為根據所列英譯本製作的 AI 翻譯初稿，非已出版中譯本，並非直接從古代原文翻譯，尚未經獨立學術審校。部分中文章節尚未備妥；人名及疑難讀法仍需審校。</p>
   <p>典外書卷保留來源的編號、編輯標記及抄本差異；不同版本的編排可能不同。歷史英譯本的公版標示不代表所有地區的權利狀況。</p>
-  <p><a href="SOURCES.md" target="_blank" rel="noopener">典外書卷完整來源、版本與資料說明</a></p>
 </dialog>
 <dialog id="reference-picker" aria-labelledby="picker-title">
   <div class="dialog-heading"><h2 id="picker-title">選取章</h2><button id="close-picker" type="button" aria-label="關閉選單"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>

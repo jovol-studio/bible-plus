@@ -61,6 +61,14 @@ function setBusy(busy) {
   ready = !busy;
   for (const id of ['chapter', 'verse', 'go', 'previous', 'next']) $(id).disabled = busy;
 }
+function mergeBibleChapters(zh, en) {
+  const ids = [...new Set([...zh.chapters, ...(en?.chapters || [])].map(c => c.id))].sort((a, b) => Number(a) - Number(b));
+  return ids.map(id => {
+    const z = zh.chapters.find(c => c.id === id), e = en?.chapters.find(c => c.id === id);
+    const numbers = [...new Set([...(z?.verses || []), ...(e?.verses || [])].map(v => v.number))].sort((a, b) => Number(a) - Number(b));
+    return {id, label: z?.label || e.label, section: '', verses: numbers.map(number => ({number}))};
+  });
+}
 async function loadBook(chapterId, verseNumber) {
   const ticket = ++request, book = activeBook();
   syncVersionOptions(book);
@@ -75,10 +83,13 @@ async function loadBook(chapterId, verseNumber) {
   }
   try {
     if (book.index !== undefined) {
-      const data = await fetchBible(version);
+      const results = await Promise.allSettled([fetchBible(version), fetchData(`web/${book.id}.en`)]);
       if (ticket !== request) return;
+      if (results[0].status === 'rejected') throw results[0].reason;
+      const data = results[0].value;
+      english = results[1].status === 'fulfilled' ? results[1].value : null;
       chinese = { chapters: data[book.index].map((verses, i) => ({id: String(i + 1), label: `第${i + 1}章`, section: '', verses: verses.map((text, j) => ({number: String(j + 1), text}))})) };
-      chapters = chinese.chapters;
+      chapters = mergeBibleChapters(chinese, english);
     } else {
       const results = await Promise.allSettled([fetchData(`${book.id}.en`), fetchData(`${book.id}.zh-Hant`, true)]);
       if (ticket !== request) return;
@@ -128,7 +139,7 @@ function updateVerseOptions() {
   const chapterNumbers = chapters.map(c => Number(chapterValue(c)));
   $('chapter').min = String(Math.min(...chapterNumbers));
   $('chapter').max = String(Math.max(...chapterNumbers));
-  $('verse').max = String(chapter?.verses.length || 1);
+  $('verse').max = String(Math.max(1, ...(chapter?.verses || []).map(v => Number(v.number)).filter(Number.isFinite)));
   $('verse-options').replaceChildren(...(chapter?.verses || []).filter(v => v.number !== 'preface').map(v => option(verseValue(v), v.number === 'paragraph' ? '正文' : v.number)));
 }
 function render() {
@@ -136,7 +147,10 @@ function render() {
   const book = activeBook(), base = chapters[current], en = english?.chapters.find(c => c.id === base.id), zh = chinese?.chapters.find(c => c.id === base.id), mode = $('language').value;
   $('status').textContent = !en && mode !== 'zh-Hant' ? '英文尚未備妥；目前顯示中文。 English is unavailable; showing Chinese.' : !zh && mode !== 'en' ? '此章中文尚未備妥；目前顯示英文。 Chinese is unavailable for this chapter; showing English.' : '';
   $('heading').textContent = `${book.name} · ${zh?.label || base.label}`;
-  $('section').textContent = zh?.section || base.section || '';
+  $('section').textContent = book.index !== undefined
+    ? mode === 'both' && en ? `${$('version').selectedOptions[0].textContent} · WEB（英式英文）`
+      : mode === 'en' && en ? 'WEB · World English Bible British Edition' : $('version').selectedOptions[0].textContent
+    : zh?.section || base.section || '';
   $('chapter').value = chapterValue(base);
   $('previous').disabled = current === 0; $('next').disabled = current === chapters.length - 1;
   $('position').textContent = `${current + 1} / ${chapters.length}`;
@@ -147,7 +161,15 @@ function render() {
     const ref = document.createElement('span'); ref.className = 'ref';
     ref.textContent = verse.number === 'preface' ? '序' : verse.number === 'paragraph' ? '文' : `${activeBook().index !== undefined ? base.id : chapterLabel(base)}:${verse.number}`;
     row.append(ref);
-    const add = (v, lang) => { if (!v) return; const p = document.createElement('p'); p.className = 'text'; p.lang = lang; p.textContent = v.text; row.append(p); };
+    const add = (v, lang) => {
+      const p = document.createElement('p'); p.className = 'text'; p.lang = lang;
+      if (v?.text?.trim()) p.textContent = v.text;
+      else {
+        p.classList.add('missing-text');
+        p.textContent = lang === 'en' ? 'No text at this reference in the supplied English edition.' : '所選中文版本未提供此節經文。';
+      }
+      row.append(p);
+    };
     if (mode !== 'en' || !en) add(zh?.verses.find(v => v.number === verse.number), 'zh-Hant');
     if (mode !== 'zh-Hant' || !zh) add(en?.verses.find(v => v.number === verse.number), 'en');
     if (row.children.length === 2) row.classList.add('single');
@@ -172,8 +194,13 @@ function renderSources() {
   const container = $('source-details'); container.replaceChildren();
   const paragraph = text => { const p = document.createElement('p'); p.textContent = text; container.append(p); };
   if (activeBook().index !== undefined) {
-    paragraph(`${$('version').selectedOptions[0].textContent} · 資料來源：MGBC（原聖經應用程式）。`);
+    paragraph(`中文版本：${$('version').selectedOptions[0].textContent}`);
     paragraph('三個版本均從原應用程式的資料檔原樣複製。原檔未記錄來源網頁網址。');
+    paragraph('英文：World English Bible British Edition（WEBPB），66 卷英式英文版，來源為 eBible.org；經文屬公版。WEB 是獨立英譯本，並非所選中文版本的英文翻譯。');
+    if (english) paragraph(english.source.editionNote);
+    const link = document.createElement('a');
+    link.href = 'https://ebible.org/find/show.php?id=engwebpb'; link.textContent = 'WEB 原始來源與公版說明'; link.target = '_blank'; link.rel = 'noopener noreferrer';
+    container.append(link);
     return;
   }
   paragraph('網路本：典外書卷的閱讀分類名稱，包含不同歷史英譯版本及 AI 中文翻譯初稿，並非單一出版譯本。');
@@ -289,5 +316,6 @@ async function restore() {
   if (ready && (params.has('verse') || $('size').value === 'presentation')) selectPassage(selected);
 }
 new ResizeObserver(() => document.documentElement.style.setProperty('--controls-height', `${$('controls').offsetHeight}px`)).observe($('controls'));
+new ResizeObserver(() => document.documentElement.style.setProperty('--reading-header-height', `${$('reading-header').offsetHeight}px`)).observe($('reading-header'));
 window.addEventListener('hashchange', restore);
 restore();

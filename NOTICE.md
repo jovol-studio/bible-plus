@@ -43,8 +43,8 @@ The bundled reading corpus in static/data/ is outside this software-license
 grant; its source-specific rights and any public-domain status remain unchanged.
 AI-derived translations do not establish new permission to use a protected
 underlying translation. See SOURCES.md and the source metadata in the data files.
-MGBC identifies where the original app obtained its data; it is not evidence
-of permission from each translation's copyright holder.
+An acquisition source is not evidence of permission from each translation's
+copyright holder.
 
 ## Warranty
 

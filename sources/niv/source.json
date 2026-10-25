@@ -1,0 +1,19 @@
+{
+  "id": "niv",
+  "name": "New International Version",
+  "abbreviation": "NIV",
+  "language": "en",
+  "rightsHolder": "Biblica, Inc.",
+  "permissionsUrl": "https://www.biblica.com/permissions/",
+  "providerDocumentationUrl": "https://docs.api.bible/",
+  "checkedOn": "2026-10-25",
+  "status": "superseded-by-web",
+  "textIncluded": false,
+  "notes": [
+    "WEBPB was selected instead; NIV is not used by the app.",
+    "Intended English translation for the 66 canonical Bible books only.",
+    "An independent English translation, not an English edition of CUV, RCUV, or CNV.",
+    "Exact edition and required copyright acknowledgment must come from the licensed source.",
+    "No redistribution or offline-bundling permission has been established for this project."
+  ]
+}

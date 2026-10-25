@@ -467,3 +467,38 @@ body[data-size="presentation"] .text { font-family:system-ui, sans-serif; }
 @media (forced-colors: active) {
   #controls select:disabled { background-image: none; }
 }
+
+.text.missing-text { color: #777b70; font-size: 1rem; font-style: italic; }
+
+/* Fixed chapter title and edition row, retaining the existing typography. */
+:root { --reading-header-height: 78px; }
+body { padding-top: var(--reading-header-height); }
+#reading-header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 9;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .5rem 1.5rem;
+  padding: 1rem max(2rem, calc((100vw - 1336px) / 2));
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+#reading-header #heading { margin: 0; min-width: 0; }
+#reading-header #section { margin: 0 0 0 auto; text-align: right; min-width: 0; }
+#reading-header > * { overflow-wrap: anywhere; }
+.passage { scroll-margin-top: calc(var(--reading-header-height) + 1rem); }
+body[data-size="presentation"] { padding-top: 0; }
+body[data-size="presentation"] #reading-header { display: none; }
+@media (max-width: 720px) {
+  #reading-header { padding: .75rem 1rem; gap: .5rem 1rem; flex-wrap: wrap; }
+}
+@media print {
+  body { padding-top: 0; }
+  #reading-header { position: static; }
+}
+
+#reading-header { align-items: center; }
+.reading-title { display: flex; align-items: center; gap: .65rem; min-width: 0; }
+.reading-icon { display: block; width: 40px; height: 40px; flex: 0 0 40px; border-radius: 10px; }
