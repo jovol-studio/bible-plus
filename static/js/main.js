@@ -83,12 +83,13 @@ async function loadBook(chapterId, verseNumber) {
   }
   try {
     if (book.index !== undefined) {
-      const results = await Promise.allSettled([fetchBible(version), fetchData(`web/${book.id}.en`)]);
+      const results = await Promise.allSettled([fetchBible(version), fetchData(`web/${book.id}.en`), fetchData('chapter-labels.zh-Hant', true)]);
       if (ticket !== request) return;
       if (results[0].status === 'rejected') throw results[0].reason;
       const data = results[0].value;
       english = results[1].status === 'fulfilled' ? results[1].value : null;
-      chinese = { chapters: data[book.index].map((verses, i) => ({id: String(i + 1), label: `第${i + 1}章`, section: '', verses: verses.map((text, j) => ({number: String(j + 1), text}))})) };
+      const labels = results[2].status === 'fulfilled' ? results[2].value?.books?.[book.id] : null;
+      chinese = { chapters: data[book.index].map((verses, i) => ({id: String(i + 1), label: `第${i + 1}章`, section: '', shortSection: labels?.[String(i + 1)] || '', verses: verses.map((text, j) => ({number: String(j + 1), text}))})) };
       chapters = mergeBibleChapters(chinese, english);
     } else {
       const results = await Promise.allSettled([fetchData(`${book.id}.en`), fetchData(`${book.id}.zh-Hant`, true)]);
@@ -276,6 +277,7 @@ function openReferencePicker(id) {
       pickerInput.dispatchEvent(new Event('input', {bubbles: true}));
       pickerInput.dispatchEvent(new Event('change', {bubbles: true}));
       $('reference-picker').close();
+      $('navigation').requestSubmit();
     });
     return button;
   });

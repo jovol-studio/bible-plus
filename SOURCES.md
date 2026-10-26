@@ -92,6 +92,12 @@ five blank source entries (Luke 17:36; Acts 8:37, 15:34, 24:7; Romans 16:25),
 which the app marks as unavailable rather than filling or silently renumbering.
 The VPL export excludes notes, formatting and noncanonical headings.
 
+Chapter-picker labels in `static/data/chapter-labels.zh-Hant.json` are Bible+
+editorial navigation summaries for all 1,189 canonical chapters, not headings
+from the Bible editions. Related chapters may share a topic label. Extension
+books store their concise navigation labels in chapter `shortSection` metadata;
+these labels do not replace or modify scripture text or source headings.
+
 Chinese and English passages are paired by chapter/verse identifier, with a
 union of references so neither edition's extra verses disappear. Identical
 reference numbers do not guarantee identical verse boundaries across editions.
