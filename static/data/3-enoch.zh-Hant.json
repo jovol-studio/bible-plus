@@ -7,10 +7,12 @@
   "language": "zh-Hant",
   "source": {
     "url": "https://www.studylight.org/historical-writings/pseudepigrapha/3-enoch.html",
-    "credit": "Translation by Hugo Odeberg, 3 Enoch or The Hebrew Book of Enoch (Cambridge University Press, 1928); public domain. Introduction by StudyLight.org. Where Odeberg prints two manuscript recensions in parallel columns, one column is given; his diacritics on transliterated Hebrew are not reproduced.",
+    "credit": "Translation by Hugo Odeberg, 3 Enoch or The Hebrew Book of Enoch (Cambridge University Press, 1928); described as public domain by the source host; territorial rights require verification. Introduction by StudyLight.org. Where Odeberg prints two manuscript recensions in parallel columns, one column is given; his diacritics on transliterated Hebrew are not reproduced.",
     "retrieved": "2026-10-24",
     "sha256": "24a9af993653be39e7ade5f0621d543643d83db88c908ce7128336a177a235bd",
-    "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed."
+    "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed.",
+    "rightsNotice": "中文為 Bible+ 根據所列英文底本製作的 AI 翻譯初稿，並非已出版中文譯本。底本的權利限制仍適用；本專案未為此譯稿另訂內容授權，不應將程式碼的 AGPL 授權視為譯稿或底本的再散布許可。",
+    "rightsReviewed": "2026-10-26"
   },
   "chapters": [
     {

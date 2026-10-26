@@ -10,7 +10,9 @@
     "credit": "Translation by R. H. Charles, The Apocrypha and Pseudepigrapha of the Old Testament in English, vol. 2, ed. R. H. Charles (Oxford: Clarendon Press, 1913) ; public domain. Introduction by StudyLight.org.",
     "retrieved": "2026-10-24",
     "sha256": "af90f71f8faebef5a4b19f260b779ab6578cb1c213df239f4752f1004964f3d7",
-    "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed."
+    "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed.",
+    "rightsNotice": "中文為 Bible+ 根據所列英文底本製作的 AI 翻譯初稿，並非已出版中文譯本。底本的權利限制仍適用；本專案未為此譯稿另訂內容授權，不應將程式碼的 AGPL 授權視為譯稿或底本的再散布許可。",
+    "rightsReviewed": "2026-10-26"
   },
   "chapters": [
     {

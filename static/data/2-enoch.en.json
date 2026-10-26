@@ -11,7 +11,10 @@
     "retrieved": "2026-10-24",
     "sha256": "362094cc76fd0b339ff565f60b552f74c8230b22187cf7fab5dd7efdbb50c4d1",
     "editionNote": "This is the 68-chapter Morfill/Charles 1896 main text. Chapter 22 begins at verse 4 because the editors print 22:1–3 in manuscript A’s apparatus on printed page 27, not in the running text. Numbering is preserved. 這是1896年版正文；第22章從第4節開始，因第1–3節列於第27頁抄本A的校勘註中。",
-    "editionCheckUrl": "https://archive.org/details/bookofsecretsofe00morf/page/27"
+    "editionCheckUrl": "https://archive.org/details/bookofsecretsofe00morf/page/27",
+    "rightsUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/2-enoch.html",
+    "rightsNotice": "英文歷史譯本的譯者及版次見上述來源署名；來源網站將該版本標示為公版。這不是全球適用的授權保證，後來的導言、編輯或網站內容不因此一併成為公版；本應用未收錄網站的現代導言。",
+    "rightsReviewed": "2026-10-26"
   },
   "chapters": [
     {

@@ -12,7 +12,9 @@
     "sha256": "362094cc76fd0b339ff565f60b552f74c8230b22187cf7fab5dd7efdbb50c4d1",
     "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed.",
     "editionNote": "This is the 68-chapter Morfill/Charles 1896 main text. Chapter 22 begins at verse 4 because the editors print 22:1–3 in manuscript A’s apparatus on printed page 27, not in the running text. Numbering is preserved. 這是1896年版正文；第22章從第4節開始，因第1–3節列於第27頁抄本A的校勘註中。",
-    "editionCheckUrl": "https://archive.org/details/bookofsecretsofe00morf/page/27"
+    "editionCheckUrl": "https://archive.org/details/bookofsecretsofe00morf/page/27",
+    "rightsNotice": "中文為 Bible+ 根據所列英文底本製作的 AI 翻譯初稿，並非已出版中文譯本。底本的權利限制仍適用；本專案未為此譯稿另訂內容授權，不應將程式碼的 AGPL 授權視為譯稿或底本的再散布許可。",
+    "rightsReviewed": "2026-10-26"
   },
   "chapters": [
     {

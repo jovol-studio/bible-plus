@@ -18,6 +18,7 @@ Original source: https://github.com/jovol-studio/bible-plus
   <meta name="apple-mobile-web-app-title" content="Bible+">
   <link rel="stylesheet" href="static/css/main.css">
   <script defer src="static/js/books.js"></script>
+  <script defer src="static/js/content-rights.js"></script>
   <script defer src="static/js/main.js"></script>
 </head>
 <body>
@@ -50,13 +51,16 @@ Original source: https://github.com/jovol-studio/bible-plus
 <dialog id="about" aria-labelledby="about-title">
   <div class="dialog-heading"><h2 id="about-title">關於 Bible+</h2><button id="close-info" type="button" aria-label="關閉" title="關閉"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>
   <p>Bible Plus（Bible+）· 版本 1.0.0</p>
+  <h3>建立 Bible+ 的目的</h3>
+  <p>Bible+ 希望提供一個簡潔、專注的閱讀空間，讓讀者方便查閱聖經不同譯本，透過中英對照、章節導覽及投影模式，支援日常閱讀、查經與分享。</p>
+  <p>本應用以原有的66卷聖經（舊約39卷、新約27卷）為信仰與教導的依據。其他收錄的次經及典外文獻（偽經），僅供興趣閱讀（如作歷史研究及文學參考）；收錄不代表認同其教義，也不視其具有與這66卷聖經相同的權威。這是本應用程式的信仰立場；另外，不同教會傳統的正典範圍亦有所不同，敬請注意。</p>
   <h3>作者與授權</h3>
   <p>Bible Plus（Bible+）by JovoL Studio · © 2026 JovoL Studio（其原創貢獻）</p>
   <p><a href="https://github.com/jovol-studio/bible-plus" target="_blank" rel="noopener noreferrer">原始碼 · Original source</a></p>
   <p>應用程式碼依 <a href="LICENSE" target="_blank" rel="noopener">GNU AGPL-3.0</a> 及第 7(b) 節的<a href="NOTICE.md" target="_blank" rel="noopener">作者署名條款</a>提供；可依條款修改及再散布。本軟體不提供任何保證（以法律允許範圍為限）。經文與第三方內容另依各自權利及授權處理。</p>
   <h3>閱讀說明</h3><p>在底部選取書卷，輸入章與節後按「去」。← → 切換章，↑ ↓ 選取上一節或下一節。投影模式以大字顯示，將選取經文移至畫面頂部。按 Esc 返回標準顯示。</p>
   <p>章輸入欄使用數字。包含重複章號、字母章號或標題篇的典外書卷，使用閱讀順序編號（例如十二族長遺訓為 1–142）；原篇名及章號仍顯示於經文標題與選取清單。按兩下章、節輸入欄可開啟選單。經文及原有節號保持不變。</p>
-  <h3>目前書卷的版本與來源</h3><div id="source-details"></div>
+  <h3>目前書卷的版本、來源與授權</h3><div id="source-details"></div>
   <h3>內容與注意事項</h3>
   <p>共通增收書卷按天主教常見書序排列，增補部分隨所屬書卷的位置列出。東正教各版本的書序與收錄範圍不同；此處採歷史、詩歌禱文、附錄的導覽次序。以斯拉續篇下卷亦見於部分東正教傳統，在此保留於舊約次經。</p>
   <p>「新約次經」組主要為使徒教父文獻，並非天主教或東正教新約正典。此組及「典外書卷 / 偽經」按相關作品編排，沒有統一的正典次序，也不是成書年代排序；以諾一至三書並列，並不表示它們是一套連續故事。</p>

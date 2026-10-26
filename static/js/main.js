@@ -230,15 +230,27 @@ function selectPassage(index, scroll = true) {
 function renderSources() {
   const container = $('source-details'); container.replaceChildren();
   const paragraph = text => { const p = document.createElement('p'); p.textContent = text; container.append(p); };
+  const sourceLink = (label, url) => {
+    if (!url || !/^https?:\/\//.test(url)) return;
+    const p = document.createElement('p'), a = document.createElement('a');
+    a.href = url; a.textContent = label; a.target = '_blank'; a.rel = 'noopener noreferrer'; p.append(a); container.append(p);
+  };
   if (activeBook().available === false) {
     paragraph('此書目前僅列入書目，內容尚未備妥。');
+    paragraph('尚未選定或收錄文本版本，因此未指定經文授權；書名列入目錄不代表已取得內容使用權。');
     if (activeBook().catalogNote) paragraph(activeBook().catalogNote);
     return;
   }
   if (activeBook().index !== undefined) {
     paragraph(`中文版本：${bibleVersions.find(([id]) => id === preferredBibleVersion)[1]}`);
-    paragraph('三個版本均從原應用程式的資料檔原樣複製。原檔未記錄來源網頁網址。');
-    paragraph('英文：World English Bible British Edition（WEBPB），66 卷英式英文版，來源為 eBible.org；經文屬公版。WEB 是獨立英譯本，並非所選中文版本的英文翻譯。');
+    paragraph('譯本及版權資料參考 eBible.org、香港聖經公會、環球聖經公會及出版版本聲明核對；相關網站列於各譯本說明下方。');
+    paragraph('以下版權說明適用於本書及其餘原有66卷的相應譯本；經文不因收錄於本應用而改採 AGPL 授權。');
+    for (const id of ['cuv', 'rcuv', 'cnv', 'web']) {
+      const rights = bibleContentRights[id];
+      paragraph(rights.notice); paragraph(rights.scope);
+      for (const [label, url] of rights.links) sourceLink(label, url);
+    }
+    paragraph('WEB 是獨立英譯本，並非所選中文版本的英文翻譯。');
     if (english) paragraph(english.source.editionNote);
     const link = document.createElement('a');
     link.href = 'https://ebible.org/find/show.php?id=engwebpb'; link.textContent = 'WEB 原始來源與公版說明'; link.target = '_blank'; link.rel = 'noopener noreferrer';
@@ -249,11 +261,10 @@ function renderSources() {
   for (const [data, label] of [[english, '英文'], [chinese, '中文']]) {
     if (!data) continue;
     paragraph(`${label}：${data.source.credit}`);
+    paragraph(`${label}授權說明：${data.source.rightsNotice || '尚未記錄此版本的內容授權，請向權利人確認。'}`);
     for (const field of ['translationNote', 'editionNote']) if (data.source[field]) paragraph(data.source[field]);
-    for (const field of ['url', 'editionCheckUrl']) {
-      const url = data.source[field];
-      if (!url || !/^https?:\/\//.test(url)) continue;
-      const p = document.createElement('p'), a = document.createElement('a'); a.href = url; a.textContent = field === 'url' ? `${label}原始來源` : '版本核對來源'; a.target = '_blank'; a.rel = 'noopener noreferrer'; p.append(a); container.append(p);
+    for (const [field, title] of [['url', `${label}原始來源`], ['editionCheckUrl', '版本核對來源'], ['rightsUrl', `${label}權利說明來源`]]) {
+      sourceLink(title, data.source[field]);
     }
   }
 }

@@ -9,6 +9,7 @@ expected={'jubilees':50,'1-enoch':109,'2-enoch':68,'3-enoch':54,'apocalypse-of-a
 rows=[]; incomplete=[]
 for slug,n in expected.items():
  en=json.loads((R/'static/data'/f'{slug}.en.json').read_text());assert en['language']=='en'
+ assert en.get('source',{}).get('rightsNotice'),(slug,'missing English rights notice')
  assert len(en['chapters'])==n,(slug,'sections')
  ids=[c['id'] for c in en['chapters']];assert len(set(ids))==n
  for c in en['chapters']:
@@ -25,6 +26,7 @@ for slug,n in expected.items():
    assert not re.search(r'\b(TODO|PLACEHOLDER|TBD)\b',v['text'])
  if zh['chapters']:
   assert zh['language']=='zh-Hant' and 'AI-generated' in zh['source']['translationNote']
+  assert zh['source'].get('rightsNotice'),(slug,'missing Chinese rights notice')
  complete=len(zi)==n
  if not complete:incomplete.append(slug)
  row={'book':slug,'englishSections':n,'chineseSections':len(zi),'complete':complete};rows.append(row)

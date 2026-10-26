@@ -10,7 +10,9 @@
     "credit": "Translation by G. H. Box with J. I. Landsman, The Apocalypse of Abraham (London: SPCK, 1918); public domain. Introduction by StudyLight.org.",
     "retrieved": "2026-10-24",
     "sha256": "9e3a2be5803f48d77188e415646875759bf1cd87ab4786c3a1b3b67ed1e4f2ef",
-    "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed."
+    "translationNote": "AI-generated Traditional Chinese translation from the cited historical English edition; not a published Chinese edition; not independently scholarly reviewed.",
+    "rightsNotice": "中文為 Bible+ 根據所列英文底本製作的 AI 翻譯初稿，並非已出版中文譯本。底本的權利限制仍適用；本專案未為此譯稿另訂內容授權，不應將程式碼的 AGPL 授權視為譯稿或底本的再散布許可。",
+    "rightsReviewed": "2026-10-26"
   },
   "chapters": [
     {

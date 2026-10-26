@@ -46,6 +46,45 @@ underlying translation. See SOURCES.md and the source metadata in the data files
 An acquisition source is not evidence of permission from each translation's
 copyright holder.
 
+### Chinese Bible edition notices
+
+- **和合本 (CUV)**: the 1919 translation is generally treated as public domain.
+  [eBible.org lists its Traditional CUV edition as public domain](https://ebible.org/bible/details.php?id=cmn-cu89t).
+  The inherited local file has no original copyright page; its exact electronic
+  edition, punctuation and later editorial provenance have not been verified.
+- **和合本修訂版 (RCUV)**: © 2006, 2010 Hong Kong Bible Society
+  (香港聖經公會). See the [publisher's edition information](https://www.hkbs.org.hk/en-us/9)
+  and [edition copyright notice](https://www.accordancebible.com/product/chinese-revised-union-version-traditional-and-simplified/).
+- **聖經新譯本 (CNV)**: © 1976, 1992, 1999, 2001, 2005, 2010
+  The Worldwide Bible Society Limited (環球聖經公會).
+  凡註以「新譯本」的經文，均引自《聖經新譯本》，版權屬於環球聖經公會。
+  See the [rights holder's copyright and application terms](https://www.wwbible.org/download/category/12927).
+
+These notices identify the editions' rights, not a licence granted to Bible+.
+No full-text bundling/redistribution permission records for RCUV or CNV were
+found in this project. CNV's limited quotation terms do not establish permission
+to bundle complete books. Do not add “used by permission” without an applicable
+grant. The inherited Chinese files are unchanged; their exact editions still
+need confirmation from the original copyright pages.
+
+### English and AI translation notices
+
+WEBPB and WEB Classic are dedicated to the public domain by their publisher.
+The World English Bible name is a trademark; altered text should not retain
+that name. See [WEBPB](https://ebible.org/engwebpb/copyright.htm) and
+[WEB Classic](https://ebible.org/eng-web/copyright.htm).
+
+Historical extension translations retain their named translator, edition and
+source-host public-domain claim. That claim is not worldwide rights clearance;
+in particular, the territorial status of Hugo Odeberg's 1928 *3 Enoch* remains
+unverified. Each bundled extension file carries its own `source.rightsNotice`.
+Chinese AI drafts have no separate content licence granted by this project and
+remain subject to any applicable underlying-edition rights. The app's software
+licence must not be presented as permission to reuse those texts.
+
+Unprepared catalog entries contain no scripture text and have no selected
+text edition or content licence. Rights information reviewed 2026-10-26.
+
 ## Warranty
 
 The software is supplied without warranty, to the extent permitted by law,

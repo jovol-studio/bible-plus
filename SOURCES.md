@@ -6,6 +6,15 @@
 
 The application-code license does not license the bundled scripture texts. See [NOTICE.md](NOTICE.md). Source credits do not by themselves authorize full-text redistribution. Existing public-domain status and third-party rights remain unchanged.
 
+Edition copyright notices and permission-record limitations for CUV, RCUV and
+CNV are detailed in [NOTICE.md](NOTICE.md#chinese-bible-edition-notices) and shown
+in the Info dialog using `static/js/content-rights.js`. The inherited files have
+not been modified or authenticated against original copyright pages. This
+project has no documented full-text redistribution grant for RCUV or CNV.
+Each bundled extension language file has a `source.rightsNotice`; the validator
+requires it. Info displays the notice with translator/edition credits and
+available rights links. Unprepared titles do not claim a content licence.
+
 ## Dropdown catalog
 
 The extension dropdown follows the user-requested categories and the main book

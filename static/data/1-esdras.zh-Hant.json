@@ -22,7 +22,9 @@
       "1ES08.htm": "fdd68008d1deda663177eb57ccbb75e6f3dac660ddbcfccc6be0095493320ebf",
       "1ES09.htm": "51f54a5e931ea6adc95f61fe4044a62173bedb9157e6895570866dab3526b1c8"
     },
-    "translationNote": "AI-generated Traditional Chinese translation from the cited World English Bible Classic edition; not a published Chinese edition; not independently scholarly reviewed."
+    "translationNote": "AI-generated Traditional Chinese translation from the cited World English Bible Classic edition; not a published Chinese edition; not independently scholarly reviewed.",
+    "rightsNotice": "中文為 Bible+ 根據所列英文底本製作的 AI 翻譯初稿，並非已出版中文譯本。底本的權利限制仍適用；本專案未為此譯稿另訂內容授權，不應將程式碼的 AGPL 授權視為譯稿或底本的再散布許可。",
+    "rightsReviewed": "2026-10-26"
   },
   "chapters": [
     {
