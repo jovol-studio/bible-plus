@@ -8,14 +8,14 @@ The application-code license does not license the bundled scripture texts. See [
 
 ## Current translation coverage
 
-**This is a work in progress, not a complete bilingual release.** Translation is continuing sequentially. Completed Chinese chapters are available in the reader; unavailable chapters explicitly display a notice and English. No English passage is labelled as Chinese, and no missing chapter is filled with a summary.
+**All nine extension books now have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
-| Book of Jubilees / 禧年書 | 50 | 30 |
+| Book of Jubilees / 禧年書 | 50 | 50 |
 | 1 Enoch / 以諾一書 | 109 | 109 |
 | 2 Enoch / 以諾二書 | 68 | 68 |
-| 3 Enoch / 以諾三書 | 54 | 10 |
+| 3 Enoch / 以諾三書 | 54 | 54 |
 | Apocalypse of Abraham / 亞伯拉罕啟示錄 | 33 | 33 |
 | Life of Adam and Eve / 亞當和夏娃生平 | 64 | 64 |
 | Testaments of the Twelve Patriarchs / 十二族長遺訓 | 142 | 142 |
@@ -48,7 +48,7 @@ Published Traditional Chinese editions were found in Christian Literature Counci
 
 - 1 Enoch follows the source's split 91a / 91b, so it has 109 reader sections covering the 108 numbered chapters.
 - 2 Enoch uses the 68-chapter Morfill text as transcribed by the host, not later 73-chapter arrangements. The original 1896 edition places 22:1–3 in manuscript A’s apparatus on printed page 27, so the main text begins chapter 22 at verse 4. This is an editorial arrangement, not a lost download; see the [original edition](https://archive.org/details/bookofsecretsofe00morf/page/27). Other gaps and manuscript distinctions remain as printed, not silently renumbered.
-- 3 Enoch includes lettered sections and 48 A–D. The host uses one reading where Odeberg prints parallel manuscript versions; this is not a transcription of his entire critical apparatus.
+- 3 Enoch includes lettered sections and 48 A–D. All 54 sections (408 passages, including headings) now have Chinese drafts. Source order, repeated verse numbers, and the alternative passages in 48 C are retained. The divine-name lists in 48 B and 48 D retain their source transliterations, with surrounding explanations translated. Conflicting numerical readings are not silently reconciled. The host transcription is not Odeberg’s entire critical apparatus.
 - Apocalypse of Abraham includes a title section plus chapters 1–32. Its source is unversed prose; the reader labels it as text, not invented Bible verse numbers.
 - Life of Adam and Eve is the 51-chapter **Latin Life** plus the source's Slavonic appendix, chapters 28–40. It is not the distinct *Conflict of Adam and Eve with Satan*. Some source combined verse numbers remain within a passage.
 - The Twelve Patriarchs have twelve separately titled testaments with their own chapter numbering. Source manuscript gaps in Zebulun 4, Gad 2 and Joseph 19 are retained. Benjamin 5:5's truncated ending was restored from the [parallel Charles transcription](https://www.earlychristianwritings.com/text/patriarchs-charles.html) and recorded in `source.repairs`.

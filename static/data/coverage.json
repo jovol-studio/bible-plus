@@ -3,8 +3,8 @@
     {
       "book": "jubilees",
       "englishSections": 50,
-      "chineseSections": 30,
-      "complete": false
+      "chineseSections": 50,
+      "complete": true
     },
     {
       "book": "1-enoch",
@@ -21,8 +21,8 @@
     {
       "book": "3-enoch",
       "englishSections": 54,
-      "chineseSections": 10,
-      "complete": false
+      "chineseSections": 54,
+      "complete": true
     },
     {
       "book": "apocalypse-of-abraham",
@@ -55,5 +55,5 @@
       "complete": true
     }
   ],
-  "allChineseComplete": false
+  "allChineseComplete": true
 }
