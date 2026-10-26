@@ -1,0 +1,727 @@
+{
+  "id": "additions-to-esther",
+  "title": {
+    "en": "Additions to Esther",
+    "zh-Hant": "以斯帖記補編"
+  },
+  "language": "zh-Hant",
+  "source": {
+    "url": "https://ebible.org/eng-web/ESG.htm",
+    "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
+    "credit": "World English Bible Classic, Esther (Greek): additions A–F extracted in narrative order. English wording and punctuation retained; reader chapter and paragraph numbers are editorial, not WEB verse numbers.",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "retrieved": "2026-10-27",
+    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
+    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "editionNote": "本書僅收錄希臘文以斯帖記的六段補錄，按甲至己（A–F）的故事次序排列，不重複收錄原有十章正文。章欄 1–6 為補錄閱讀順序；節欄為本應用的段落編號（各篇 21、6、30、18、15、11 段，共 101 段），並非 WEB、思高或拉丁通行本的原有章節號。英文措辭及標點保留，部分長節依句子分段；方括號沿用底本。底本位置：甲＝ESG 1:1 方括號內；乙＝3:13 方括號內及 4:8 後段末底改的囑咐；丙＝4:18–47；丁＝5:1–2 的擴充敘事；戊＝8:13 方括號內；己＝10:4–14（含末尾譯者題記）。逐節文字來源不含註腳，簡題為編輯導覽文字。",
+    "sectionMappings": [
+      {
+        "addition": "A",
+        "readerChapter": "1",
+        "sourceReferences": [
+          "ESG 1:1"
+        ],
+        "paragraphCount": 21
+      },
+      {
+        "addition": "B",
+        "readerChapter": "2",
+        "sourceReferences": [
+          "ESG 3:13",
+          "ESG 4:8"
+        ],
+        "paragraphCount": 6
+      },
+      {
+        "addition": "C",
+        "readerChapter": "3",
+        "sourceReferences": [
+          "ESG 4:18",
+          "ESG 4:19",
+          "ESG 4:20",
+          "ESG 4:21",
+          "ESG 4:22",
+          "ESG 4:23",
+          "ESG 4:24",
+          "ESG 4:25",
+          "ESG 4:26",
+          "ESG 4:27",
+          "ESG 4:28",
+          "ESG 4:29",
+          "ESG 4:30",
+          "ESG 4:31",
+          "ESG 4:32",
+          "ESG 4:33",
+          "ESG 4:34",
+          "ESG 4:35",
+          "ESG 4:36",
+          "ESG 4:37",
+          "ESG 4:38",
+          "ESG 4:39",
+          "ESG 4:40",
+          "ESG 4:41",
+          "ESG 4:42",
+          "ESG 4:43",
+          "ESG 4:44",
+          "ESG 4:45",
+          "ESG 4:46",
+          "ESG 4:47"
+        ],
+        "paragraphCount": 30
+      },
+      {
+        "addition": "D",
+        "readerChapter": "4",
+        "sourceReferences": [
+          "ESG 5:1",
+          "ESG 5:2"
+        ],
+        "paragraphCount": 18
+      },
+      {
+        "addition": "E",
+        "readerChapter": "5",
+        "sourceReferences": [
+          "ESG 8:13"
+        ],
+        "paragraphCount": 15
+      },
+      {
+        "addition": "F",
+        "readerChapter": "6",
+        "sourceReferences": [
+          "ESG 10:4",
+          "ESG 10:5",
+          "ESG 10:6",
+          "ESG 10:7",
+          "ESG 10:8",
+          "ESG 10:9",
+          "ESG 10:10",
+          "ESG 10:11",
+          "ESG 10:12",
+          "ESG 10:13",
+          "ESG 10:14"
+        ],
+        "paragraphCount": 11
+      }
+    ],
+    "rightsNotice": "中文為 Bible+ 根據所列公版英文底本製作的 AI 翻譯初稿，並非思高或其他已出版中文譯本，尚未經獨立學術審校。本專案未為此譯稿另訂內容授權，不應將程式碼的 AGPL 授權視為譯稿的再散布許可。",
+    "rightsReviewed": "2026-10-27",
+    "translationNote": "AI-generated Traditional Chinese translation from the cited World English Bible Classic excerpts; not the Sigao version or another published Chinese edition; not independently scholarly reviewed. 英文底本補錄甲（ESG 1:1）出現 affection 一詞；中文依災難語境暫譯「苦況」，此處仍待學術校訂。",
+    "editionCheckUrl": "https://bible.usccb.org/bible/esther/0"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "第1章",
+      "section": "補錄甲：末底改的夢與宮廷陰謀",
+      "addition": "A",
+      "sourceReferences": [
+        "ESG 1:1"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "［亞哈隨魯大王在位第二年，尼散月初一，便雅憫支派基士的曾孫、示每的孫子、睚珥的兒子末底改，看見了一個異象。他是住在書珊城的猶太人，是在王宮供職的顯要人物。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "2",
+          "text": "他是巴比倫王尼布甲尼撒從耶路撒冷擄走的人之一，當時猶太王耶哥尼雅也一同被擄。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "3",
+          "text": "他的夢是這樣：看，有呼聲和喧鬧、雷鳴和地震，大地一片騷動。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "4",
+          "text": "看，有兩條巨蛇出現，都準備爭鬥。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "5",
+          "text": "牠們發出巨大的聲音。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "6",
+          "text": "列國因牠們的聲音而準備作戰，要攻擊義人的民族。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "7",
+          "text": "看，那是黑暗幽冥的日子，大地充滿苦難、痛楚、苦況與騷亂。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "8",
+          "text": "整個公義的民族都驚惶，害怕自己將遭的苦難。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "9",
+          "text": "他們準備受死，向神呼求。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "10",
+          "text": "隨着他們的呼求，有一道小泉湧出大量的水，彷彿成了一條大河。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "11",
+          "text": "光和太陽升起，卑微的人被高舉，吞滅了尊貴的人。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "12",
+          "text": "末底改看見這異象和神要行的事，醒來後就記在心裏，直到晚上，仍竭力尋求明白其中的意思。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "13",
+          "text": "末底改與王的兩個內臣迦巴他和他拉，同住在宮中；他們是守衛王宮的太監。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "14",
+          "text": "他聽見他們的談話，查究他們的計劃。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "15",
+          "text": "他得知他們正準備向亞哈隨魯王下手，就把他們的事告訴王。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "16",
+          "text": "王審問那兩個內臣。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "17",
+          "text": "他們認罪後，被帶出去處死。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "18",
+          "text": "王把這些事寫下，留作記錄。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "19",
+          "text": "末底改也把這些事記錄下來。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "20",
+          "text": "王吩咐末底改在宮中供職，又因這次功勞賞賜他。",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "21",
+          "text": "但在王面前受尊重的布基人哈米大他的兒子哈曼，因王那兩個內臣的事，設法加害末底改和他的同胞。］",
+          "sourceReference": "ESG 1:1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "第2章",
+      "section": "補錄乙：詔令與末底改囑咐",
+      "addition": "B",
+      "sourceReferences": [
+        "ESG 3:13",
+        "ESG 4:8"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "［以下是詔書的副本。",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "2",
+          "text": "「大王亞哈隨魯，致從印度直到古實的一百二十七省，在他權下掌權的首領及其下屬官長：我統治許多民族，取得全世界的統治權，卻沒有因倚仗權勢而自高，始終以極大的節制和溫和行事，定意使臣民的生活長久安寧。我既願國境各處保持平靜有序，也願恢復人人所盼望的和平。",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "3",
+          "text": "我曾詢問謀士，如何實現這事。在我們中間判斷明智、顯然始終懷有善意、忠誠堅定，又位居全國第二的哈曼，告訴我們，有一個心懷惡意的民族散居世界各族之中；他們的律法與所有其他民族相反，又不斷忽視王的命令，使我們無可指責地施行的統一治理，不能安穩建立。",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "4",
+          "text": "我們既認定這民族不斷與眾人對立，引進外來的法規作變革，圖謀最邪惡的事，損害我們的利益和王國美好的安定，現在便藉管理公共事務、作我們第二位統治者的哈曼所寫的詔書，命令你們在今年十二月亞達月十四日，用敵人的刀將他們連同妻子兒女全部消滅，不可憐憫，也不可放過任何人。使這些從前和現在都對我們懷有惡意的人，在一天之內被強力處死，從此確保我們的國事長久有序安寧。」］",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "5",
+          "text": "「要記得，他說，你卑微時的日子，你怎樣由我親手養育；因為位居王之次的哈曼已發言攻擊我們，要置我們於死地。",
+          "sourceReference": "ESG 4:8"
+        },
+        {
+          "number": "6",
+          "text": "要呼求主，為我們向王進言，救我們脫離死亡。」",
+          "sourceReference": "ESG 4:8"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "第3章",
+      "section": "補錄丙：末底改與以斯帖禱告",
+      "addition": "C",
+      "sourceReferences": [
+        "ESG 4:18",
+        "ESG 4:19",
+        "ESG 4:20",
+        "ESG 4:21",
+        "ESG 4:22",
+        "ESG 4:23",
+        "ESG 4:24",
+        "ESG 4:25",
+        "ESG 4:26",
+        "ESG 4:27",
+        "ESG 4:28",
+        "ESG 4:29",
+        "ESG 4:30",
+        "ESG 4:31",
+        "ESG 4:32",
+        "ESG 4:33",
+        "ESG 4:34",
+        "ESG 4:35",
+        "ESG 4:36",
+        "ESG 4:37",
+        "ESG 4:38",
+        "ESG 4:39",
+        "ESG 4:40",
+        "ESG 4:41",
+        "ESG 4:42",
+        "ESG 4:43",
+        "ESG 4:44",
+        "ESG 4:45",
+        "ESG 4:46",
+        "ESG 4:47"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "［他向主禱告，述說主的一切作為。",
+          "sourceReference": "ESG 4:18"
+        },
+        {
+          "number": "2",
+          "text": "他說：「主神啊，你是統管萬有的王，一切都在你的權能之下；你定意拯救以色列，無人能反對。",
+          "sourceReference": "ESG 4:19"
+        },
+        {
+          "number": "3",
+          "text": "天地和天下一切奇妙之物，都是你所造的。",
+          "sourceReference": "ESG 4:20"
+        },
+        {
+          "number": "4",
+          "text": "你是萬有的主；主啊，沒有人能抵擋你。",
+          "sourceReference": "ESG 4:21"
+        },
+        {
+          "number": "5",
+          "text": "你知道一切。主啊，你知道，我拒絕向狂傲的哈曼下拜，不是出於無禮、傲慢，或貪愛榮耀。",
+          "sourceReference": "ESG 4:22"
+        },
+        {
+          "number": "6",
+          "text": "為了以色列的安全，我本來甘願親吻他的腳底。",
+          "sourceReference": "ESG 4:23"
+        },
+        {
+          "number": "7",
+          "text": "我這樣做，是為了不把人的榮耀置於神的榮耀之上。我的主啊，除了你，我不敬拜任何人；我做這些事，並非出於傲慢。",
+          "sourceReference": "ESG 4:24"
+        },
+        {
+          "number": "8",
+          "text": "主神啊，君王啊，亞伯拉罕的神啊，現在求你顧惜你的子民；敵人正圖謀消滅我們，要毀掉你自古以來的產業。",
+          "sourceReference": "ESG 4:25"
+        },
+        {
+          "number": "9",
+          "text": "求你不要忽略你的子民，就是你從埃及地救贖出來、歸你所有的人。",
+          "sourceReference": "ESG 4:26"
+        },
+        {
+          "number": "10",
+          "text": "求你聽我的禱告，憐憫你的產業，使我們的悲哀變為喜樂，讓我們可以存活，歌頌你的名。主啊，求你不要使那些讚美你的口全然滅絕，主啊！」",
+          "sourceReference": "ESG 4:27"
+        },
+        {
+          "number": "11",
+          "text": "全以色列都竭力呼求，因為死亡就在眼前。",
+          "sourceReference": "ESG 4:28"
+        },
+        {
+          "number": "12",
+          "text": "以斯帖王后彷彿陷在死亡的痛苦中，便投靠主。",
+          "sourceReference": "ESG 4:29"
+        },
+        {
+          "number": "13",
+          "text": "她脫下華美的衣服，換上困苦哀傷的衣裳；不用貴重的香料，反把灰和糞撒滿頭上。她極其刻苦己身，任蓬亂的頭髮遮住從前歡喜裝飾的各處。",
+          "sourceReference": "ESG 4:30"
+        },
+        {
+          "number": "14",
+          "text": "她懇求以色列的主神，說：「我的主啊，惟有你是我們的王。求你幫助我！我孤苦無依，除了你，沒有幫助者，",
+          "sourceReference": "ESG 4:31"
+        },
+        {
+          "number": "15",
+          "text": "因為危險已逼近我。",
+          "sourceReference": "ESG 4:32"
+        },
+        {
+          "number": "16",
+          "text": "我自幼在本族中就聽說，主啊，你從萬國中揀選以色列，從各親族中揀選我們的祖先，作你永遠的產業，又為他們成就了你所說的一切。",
+          "sourceReference": "ESG 4:33"
+        },
+        {
+          "number": "17",
+          "text": "如今我們在你面前犯罪，你便把我們交在敵人手中，",
+          "sourceReference": "ESG 4:34"
+        },
+        {
+          "number": "18",
+          "text": "因為我們尊崇他們的神。主啊，你是公義的。",
+          "sourceReference": "ESG 4:35"
+        },
+        {
+          "number": "19",
+          "text": "但現在，他們不以我們受奴役的苦境為足，還把手搭在偶像的手上，",
+          "sourceReference": "ESG 4:36"
+        },
+        {
+          "number": "20",
+          "text": "要廢除你口中的諭令，徹底毀滅你的產業，封住讚美你的人的口，熄滅你殿宇和祭壇的榮光，",
+          "sourceReference": "ESG 4:37"
+        },
+        {
+          "number": "21",
+          "text": "使外族人開口頌讚虛妄之物，又使一個必死的君王永遠受人崇拜。",
+          "sourceReference": "ESG 4:38"
+        },
+        {
+          "number": "22",
+          "text": "主啊，不要把你的權杖交給那些根本不存在的神，也不要讓他們嘲笑我們的敗落；求你使他們的計謀反落在自己身上，懲戒那首先加害我們的人。",
+          "sourceReference": "ESG 4:39"
+        },
+        {
+          "number": "23",
+          "text": "主啊，求你記念我們，在我們受苦的時候顯現。眾神之王、統管一切權柄的主啊，求你使我有勇氣！",
+          "sourceReference": "ESG 4:40"
+        },
+        {
+          "number": "24",
+          "text": "當我面對那獅子時，求你把合宜的話放在我口中，使他的心轉而憎恨攻擊我們的人，徹底消滅所有附和他的人。",
+          "sourceReference": "ESG 4:41"
+        },
+        {
+          "number": "25",
+          "text": "主啊，求你親手救我們，幫助孤單的我，因為除了你，我沒有別人。",
+          "sourceReference": "ESG 4:42"
+        },
+        {
+          "number": "26",
+          "text": "你知道一切，知道我恨惡罪人的榮耀，也厭惡未受割禮者和所有外族人的床。",
+          "sourceReference": "ESG 4:43"
+        },
+        {
+          "number": "27",
+          "text": "你知道我的不得已；我厭惡在顯耀的日子戴在頭上的尊貴身分標記，厭惡它如同經血布。在我私下安靜的日子，我不戴它。",
+          "sourceReference": "ESG 4:44"
+        },
+        {
+          "number": "28",
+          "text": "你的婢女沒有在哈曼席上吃飯，也沒有尊崇王的宴席，更沒有喝奠祭的酒。",
+          "sourceReference": "ESG 4:45"
+        },
+        {
+          "number": "29",
+          "text": "亞伯拉罕的主神啊，自從我被擢升直到如今，除了因你，婢女再沒有別的喜樂。",
+          "sourceReference": "ESG 4:46"
+        },
+        {
+          "number": "30",
+          "text": "掌管萬有的神啊，求你垂聽絕望者的聲音，救我們脫離圖謀惡事之人的手，也救我脫離恐懼。」］",
+          "sourceReference": "ESG 4:47"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "第4章",
+      "section": "補錄丁：以斯帖進見王",
+      "addition": "D",
+      "sourceReferences": [
+        "ESG 5:1",
+        "ESG 5:2"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "第三天，她禱告完畢，就脫下僕人的衣服，穿上華美的衣裳。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "2",
+          "text": "她盛裝打扮，呼求那監察並保守萬有的神，然後帶上兩個婢女；她像嬌弱的女子一樣倚着其中一個，另一個在後面托着她的衣裾。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "3",
+          "text": "她的美貌盛放，完美動人。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "4",
+          "text": "她面帶喜色，容貌可愛，心中卻充滿恐懼。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "5",
+          "text": "她穿過一道道門，站在王面前。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "6",
+          "text": "王正坐在王位上。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "7",
+          "text": "他穿着全套華美的衣服，渾身鑲滿金子和寶石，令人十分畏懼。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "8",
+          "text": "他抬起榮光煥發的臉，目露烈怒。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "9",
+          "text": "王后倒下，臉色改變，昏了過去。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "10",
+          "text": "她俯身靠在前面婢女的頭上。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "11",
+          "text": "但神使王的心轉為溫和；他情急之下從王位跳起，把她抱在懷裏，直到她甦醒。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "12",
+          "text": "他用平和的話安慰她，說：「以斯帖，你怎麼了？",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "13",
+          "text": "我是你的親人。",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "14",
+          "text": "放心吧！",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "15",
+          "text": "你不會死，因為我的命令已公開向你宣告：『上前來。』」",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "16",
+          "text": "他舉起金杖，放在她的頸上，擁抱她。",
+          "sourceReference": "ESG 5:2"
+        },
+        {
+          "number": "17",
+          "text": "他說：「對我說話吧。」她回答：「我主，我看見你，如同神的天使；我的心因懼怕你的榮耀而不安。我主，你令人驚嘆，你的面容滿有恩慈。」她說着，又昏倒了。",
+          "sourceReference": "ESG 5:2"
+        },
+        {
+          "number": "18",
+          "text": "王便焦急，所有臣僕都安慰她。",
+          "sourceReference": "ESG 5:2"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "第5章",
+      "section": "補錄戊：保護猶太人的詔令",
+      "addition": "E",
+      "sourceReferences": [
+        "ESG 8:13"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "［大王亞哈隨魯，向從印度直到古實的一百二十七個行政區的省長，以及忠於我們利益的人，致以問候。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "2",
+          "text": "許多人屢次蒙恩人厚待，卻生出野心，不但設法傷害我們的臣民，更因承受不了順境，連自己的恩人也要謀害。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "3",
+          "text": "他們不但想從人間徹底除去感恩之心，也因那些對一切良善都陌生之人的吹捧而自高，以為可以逃過那鑒察萬事、恨惡罪惡之神的報應。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "4",
+          "text": "惡人的勸誘往往使許多獲委任掌權、受託管理朋友事務的人，陷入流無辜人血的罪，遭遇無可挽回的災難；因為心術不正的人，以虛假的詭辯，欺騙了執政者單純的善意。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "5",
+          "text": "這些事，不必只從古老的傳聞中查考；你們只要察看那些不配掌權的人，因卑劣而作出的惡行，就能立即看見。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "6",
+          "text": "為了將來，我們應當謹慎，作出必要的改變，對一切呈到面前的案件，始終作真正公平的判決，好使政局不受擾亂，人人享有和平。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "7",
+          "text": "馬其頓人哈米大他的兒子哈曼，實際上並非波斯血統，與我們溫和的治理方式大不相同。他曾受我們殷勤款待，得到如此豐厚的恩惠，甚至被稱為我們的父，位居王座之次，受到眾人尊重。然而，他被驕傲勝過，竟想奪去我們的統治權和性命，又用各種巧詐手段，要求消滅我們的救命恩人、長久施恩於我們的末底改，以及本國無可指責的王后以斯帖，連同他們全族。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "8",
+          "text": "他以為能藉這些方法，趁我們毫無防備時突襲，把波斯人的統治權轉交馬其頓人。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "9",
+          "text": "但我們查明，那些被這最可憎之人判定要消滅的猶太人，並非作惡者，而是遵行極其公正的律法，是永活、至高、大能之神的兒女。這位神為我們和祖先保守王國，使它秩序極其美好。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "10",
+          "text": "所以，你們不要服從哈米大他的兒子哈曼所發的詔書，這樣才是對的。做這些事的人，已與全家一同被掛在書珊城門，全能的神迅速給了他應得的懲罰。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "11",
+          "text": "現在我們命令你們，在各處公開張貼這封詔書的副本，准許猶太人遵行自己的合法習俗，並給他們支持，使他們在十二月亞達月十三日，就是那同一天，可以抵抗在患難時攻擊他們的人，保護自己。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "12",
+          "text": "全能的神使蒙揀選的民族免於滅亡，轉而賜給他們這歡樂的時節。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "13",
+          "text": "因此，你們也要在著名的節期中，特別訂定一天，隆重歡慶；使它從現在直到將來，對我們和善待波斯人的人成為得救的日子，對那些圖謀害我們的人，卻成為毀滅的紀念。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "14",
+          "text": "凡不照此遵行的城邑和省分，都要受報復，被刀槍和火毀滅。",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "15",
+          "text": "那裏不但人不能到達，連野獸和飛鳥也要永遠厭惡它。］",
+          "sourceReference": "ESG 8:13"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "第6章",
+      "section": "補錄己：夢的解釋與普珥節",
+      "addition": "F",
+      "sourceReferences": [
+        "ESG 10:4",
+        "ESG 10:5",
+        "ESG 10:6",
+        "ESG 10:7",
+        "ESG 10:8",
+        "ESG 10:9",
+        "ESG 10:10",
+        "ESG 10:11",
+        "ESG 10:12",
+        "ESG 10:13",
+        "ESG 10:14"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "［末底改說：「這些事都是從神而來。",
+          "sourceReference": "ESG 10:4"
+        },
+        {
+          "number": "2",
+          "text": "我還記得關於這些事所做的夢，沒有一個細節落空。",
+          "sourceReference": "ESG 10:5"
+        },
+        {
+          "number": "3",
+          "text": "那小泉變成大河，又有光、太陽和大量的水；那河就是以斯帖，王娶了她，立她為后。",
+          "sourceReference": "ESG 10:6"
+        },
+        {
+          "number": "4",
+          "text": "那兩條巨蛇，就是哈曼和我。",
+          "sourceReference": "ESG 10:7"
+        },
+        {
+          "number": "5",
+          "text": "列國就是那些聯合起來，要消滅猶太人名號的民族。",
+          "sourceReference": "ESG 10:8"
+        },
+        {
+          "number": "6",
+          "text": "我的民族就是以色列，就是那些向神呼求而蒙拯救的人，因為主救了他的子民。主把我們從這一切災難中救出來；神行了列國中從未有過的神蹟和大奇事。",
+          "sourceReference": "ESG 10:9"
+        },
+        {
+          "number": "7",
+          "text": "所以他定了兩個籤，一個為神的子民，一個為所有其他民族。",
+          "sourceReference": "ESG 10:10"
+        },
+        {
+          "number": "8",
+          "text": "這兩個籤在所定的時期、在審判的日子，為所有民族來到神面前。",
+          "sourceReference": "ESG 10:11"
+        },
+        {
+          "number": "9",
+          "text": "神記念他的子民，為自己的產業伸冤。",
+          "sourceReference": "ESG 10:12"
+        },
+        {
+          "number": "10",
+          "text": "他的子民以色列，要在亞達月十四和十五日守這些日子，在神面前聚集，歡欣快樂，世世代代，直到永遠。」",
+          "sourceReference": "ESG 10:13"
+        },
+        {
+          "number": "11",
+          "text": "在托勒密和克麗奧佩脫拉統治的第四年，自稱祭司和利未人的多西提，以及他的兒子托勒密，帶來這封關於普珥節的信。他們說這信是真實的，由住在耶路撒冷的托勒密之子呂西馬古翻譯。］",
+          "sourceReference": "ESG 10:14"
+        }
+      ]
+    }
+  ]
+}

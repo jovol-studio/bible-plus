@@ -44,19 +44,20 @@ Shared books appear once. No texts were downloaded for this regrouping.
 - The nine 新約次經 entries are principally [Apostolic Fathers writings](https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/second-century/the-apostolic-fathers), not additional Catholic/Orthodox New Testament canonical books. The list groups Clement together, Ignatius and Polycarp next (with Polycarp’s martyrdom), then Didache, Barnabas, Hermas and Papias. This is editorial navigation, not a prescribed reading sequence or chronological order.
 - Pseudepigrapha keep Enoch 1–3 together, then related patriarchal narratives/testaments, prophetic material, psalms/oracles/War Scroll, and gospels. The unverified 水徒行紀 title remains last as a placeholder. This broad category includes writings from different periods and traditions, not a single canon or literary series.
 
-There are 37 catalog-only entries marked `available: false` in `books.js`. No
+There are 36 catalog-only entries marked `available: false` in `books.js`. No
 scripture text was downloaded for these entries. Selecting them displays a
 not-ready message and does not request a data file. Coverage validation below
-applies to the twelve bundled works, not these placeholders.
+applies to the thirteen bundled works, not these placeholders.
 
 ## Current translation coverage
 
-**All twelve bundled extension books have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
+**All thirteen bundled extension books have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
 | Tobit / 多比傳 | 14 | 14 |
 | Judith / 猶滴傳 | 16 | 16 |
+| Additions to Esther / 以斯帖記補編 | 6 | 6 |
 | Book of Jubilees / 禧年書 | 50 | 50 |
 | 1 Enoch / 以諾一書 | 109 | 109 |
 | 2 Enoch / 以諾二書 | 68 | 68 |
@@ -78,6 +79,7 @@ Eight English works were extracted from [StudyLight's Pseudepigrapha collection]
 | --- | --- |
 | Tobit | [World English Bible Classic, Tobit 1–14](https://ebible.org/eng-web/TOB01.htm) |
 | Judith | [World English Bible Classic, Judith 1–16](https://ebible.org/eng-web/JDT01.htm) |
+| Additions to Esther | [World English Bible Classic, Esther (Greek), extracted additions A–F](https://ebible.org/eng-web/ESG.htm) |
 | Jubilees | R. H. Charles, APOT vol. 2, 1913 |
 | 1 Enoch | R. H. Charles, APOT vol. 2, 1913 |
 | 2 Enoch | W. R. Morfill, edited by R. H. Charles, 1896 |
@@ -169,3 +171,22 @@ The Traditional Chinese text is a new AI translation draft of this specific Engl
 English: all 16 chapters and 339 verses are imported verbatim from the [official WEB Classic verse-per-line archive](https://ebible.org/Scriptures/eng-web_vpl.zip). The [publisher dedicates this translation to the public domain](https://ebible.org/eng-web/copyright.htm); the WEB name identifies the unchanged English only. The source archive and text hashes are stored in both JSON files. Footnotes are not included. Per-chapter verse counts: 16, 28, 10, 15, 24, 21, 32, 36, 14, 23, 23, 20, 20, 19, 13, 25.
 
 Chinese-source search found the [online Sigao text, 友弟德傳](https://www.ccreadbible.org/chinesebible/sigao/Judith_bible_Ch_1_.html) and the [Catholic Taiwan PDF](https://www.catholic.org.tw/about/Bible/Old/Giuditta_zh-t.pdf). No clear permission for this project to redistribute that full Chinese book was established, so neither Chinese text was imported or used as the translation base. The bundled Traditional Chinese is a new AI translation draft from the cited public-domain English, aligned verse by verse. It is not the Sigao version or an independently scholarly-reviewed translation. Short Chinese chapter headings are editorial navigation aids. Both files carry edition and rights notices for Info; no separate content licence is granted for the Chinese draft.
+
+## Additions to Esther / 以斯帖記補編 (2026-10-27)
+
+English is excerpted from the public-domain [WEB Classic Esther (Greek)](https://ebible.org/eng-web/ESG.htm) in the official `eng-web_vpl.zip` archive. The unchanged English excerpts are regrouped as six additions, in narrative order A–F. [USCCB’s introduction and mapping](https://bible.usccb.org/bible/esther/0) were consulted for the arrangement only; no USCCB translation text is bundled. The edition includes the expanded royal-audience narrative and the final translator’s colophon. It does not duplicate the complete ten-chapter Esther narrative.
+
+| Reader chapter | Addition | WEB ESG source location | Reader paragraphs |
+| --- | --- | --- | ---: |
+| 1 | A / 甲 | Bracketed text within 1:1 | 21 |
+| 2 | B / 乙 | Bracketed text within 3:13, followed by the speech beginning “Remember” in 4:8 | 6 |
+| 3 | C / 丙 | 4:18–47 | 30 |
+| 4 | D / 丁 | Expanded narrative in 5:1–2 | 18 |
+| 5 | E / 戊 | Bracketed text within 8:13 | 15 |
+| 6 | F / 己 | 10:4–14, including the final colophon | 11 |
+
+The 101 paragraph numbers are editorial reading aids, **not** WEB, Sigao, Vulgate, or standard A–F verse numbers. Long source entries in A, B, D, and E are split at sentence boundaries; C and F preserve source-entry boundaries. Joining each source-reference group with a space reconstructs the corresponding English excerpt verbatim, including punctuation and source brackets. Each paragraph stores `sourceReference`; chapter metadata and `source.sectionMappings` retain the mapping. Both files retain the archive and full VPL-text SHA-256 values. Footnotes are not imported.
+
+Chinese sources located include [the Sigao text](https://www.ccreadbible.org/chinesebible/sigao/Esther_bible_Ch_1_.html) and [the Vatican-hosted Traditional Chinese PDF](https://www.vatican.va/chinese/bibbia/antico-testamento/Ester_zh-t.pdf). [The online Sigao edition’s copyright notice](https://www.ccreadbible.org/chinesebible/otherbible-1/htmtr/bible_21_Ch_2_esther.html) reserves rights. No full-text redistribution permission for this project was established, so these Chinese texts were not imported or used as the translation base.
+
+Chinese is a new Traditional Chinese AI translation draft of the selected WEB excerpts, with short editorial headings. It is not a published Chinese edition and has not received independent scholarly review. The unusual English word `affection` in ESG 1:1 is retained in English; the Chinese draft provisionally interprets it as 苦況 in the calamity context, explicitly flagged for review in `source.translationNote`. English-source public-domain status and trademark conditions, Chinese draft status, and the numbering explanation appear in Info. The project grants no separate content licence for the Chinese draft.

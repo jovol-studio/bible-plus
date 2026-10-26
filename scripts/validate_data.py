@@ -5,7 +5,7 @@
 import json,re,sys
 from pathlib import Path
 R=Path(__file__).resolve().parents[1]
-expected={'tobit':14,'judith':16,'jubilees':50,'1-enoch':109,'2-enoch':68,'3-enoch':54,'apocalypse-of-abraham':33,'life-of-adam-and-eve':64,'testaments-of-the-twelve-patriarchs':142,'1-esdras':9,'2-esdras':16,'2-baruch':87}
+expected={'tobit':14,'judith':16,'additions-to-esther':6,'jubilees':50,'1-enoch':109,'2-enoch':68,'3-enoch':54,'apocalypse-of-abraham':33,'life-of-adam-and-eve':64,'testaments-of-the-twelve-patriarchs':142,'1-esdras':9,'2-esdras':16,'2-baruch':87}
 rows=[]; incomplete=[]
 for slug,n in expected.items():
  en=json.loads((R/'static/data'/f'{slug}.en.json').read_text());assert en['language']=='en'
@@ -31,11 +31,18 @@ for slug,n in expected.items():
  if not complete:incomplete.append(slug)
  row={'book':slug,'englishSections':n,'chineseSections':len(zi),'complete':complete};rows.append(row)
  print(f'{slug}: Chinese {len(zi)}/{n} sections')
-for slug,verse_counts in [('tobit',[22,14,17,21,22,17,18,21,6,12,19,22,18,15]),('judith',[16,28,10,15,24,21,32,36,14,23,23,20,20,19,13,25]),('1-esdras',[58,30,24,63,73,34,15,96,55]),('2-esdras',[40,48,36,52,56,59,140,63,47,59,46,51,58,48,63,78])]:
+for slug,verse_counts in [('tobit',[22,14,17,21,22,17,18,21,6,12,19,22,18,15]),('judith',[16,28,10,15,24,21,32,36,14,23,23,20,20,19,13,25]),('additions-to-esther',[21,6,30,18,15,11]),('1-esdras',[58,30,24,63,73,34,15,96,55]),('2-esdras',[40,48,36,52,56,59,140,63,47,59,46,51,58,48,63,78])]:
  data=json.loads((R/'static/data'/f'{slug}.en.json').read_text())
  assert [c['id'] for c in data['chapters']]==list(map(str,range(1,len(verse_counts)+1)))
  for c,count in zip(data['chapters'],verse_counts):
   assert [v['number'] for v in c['verses']]==list(map(str,range(1,count+1))),(slug,c['id'],'verse sequence')
+for lang in ['en','zh-Hant']:
+ est=json.loads((R/'static/data'/f'additions-to-esther.{lang}.json').read_text())
+ refs=[['ESG 1:1'],['ESG 3:13','ESG 4:8'],[f'ESG 4:{v}' for v in range(18,48)],['ESG 5:1','ESG 5:2'],['ESG 8:13'],[f'ESG 10:{v}' for v in range(4,15)]]
+ assert [c['addition'] for c in est['chapters']]==list('ABCDEF')
+ for c,rs in zip(est['chapters'],refs):
+  assert c['sourceReferences']==rs
+  assert list(dict.fromkeys(v['sourceReference'] for v in c['verses']))==rs
 pat=json.loads((R/'static/data/testaments-of-the-twelve-patriarchs.en.json').read_text());assert len(set(c['section'] for c in pat['chapters']))==12
 assert next(v for v in pat['chapters'][134]['verses'] if v['number']=='5')['text'].endswith('as was Joseph my brother.')
 (R/'static/data/coverage.json').write_text(json.dumps({'books':rows,'allChineseComplete':not incomplete},ensure_ascii=False,indent=2)+'\n')

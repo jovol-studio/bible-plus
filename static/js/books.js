@@ -546,7 +546,6 @@ const books = [
   },
   {
     "id": "additions-to-esther",
-    "available": false,
     "name": "以斯帖記補編",
     "english": "Additions to Esther",
     "category": "天主教及東正教增收書卷"

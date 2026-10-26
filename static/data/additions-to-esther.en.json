@@ -1,0 +1,726 @@
+{
+  "id": "additions-to-esther",
+  "title": {
+    "en": "Additions to Esther",
+    "zh-Hant": "以斯帖記補編"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://ebible.org/eng-web/ESG.htm",
+    "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
+    "credit": "World English Bible Classic, Esther (Greek): additions A–F extracted in narrative order. English wording and punctuation retained; reader chapter and paragraph numbers are editorial, not WEB verse numbers.",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "retrieved": "2026-10-27",
+    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
+    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "editionNote": "本書僅收錄希臘文以斯帖記的六段補錄，按甲至己（A–F）的故事次序排列，不重複收錄原有十章正文。章欄 1–6 為補錄閱讀順序；節欄為本應用的段落編號（各篇 21、6、30、18、15、11 段，共 101 段），並非 WEB、思高或拉丁通行本的原有章節號。英文措辭及標點保留，部分長節依句子分段；方括號沿用底本。底本位置：甲＝ESG 1:1 方括號內；乙＝3:13 方括號內及 4:8 後段末底改的囑咐；丙＝4:18–47；丁＝5:1–2 的擴充敘事；戊＝8:13 方括號內；己＝10:4–14（含末尾譯者題記）。逐節文字來源不含註腳，簡題為編輯導覽文字。",
+    "sectionMappings": [
+      {
+        "addition": "A",
+        "readerChapter": "1",
+        "sourceReferences": [
+          "ESG 1:1"
+        ],
+        "paragraphCount": 21
+      },
+      {
+        "addition": "B",
+        "readerChapter": "2",
+        "sourceReferences": [
+          "ESG 3:13",
+          "ESG 4:8"
+        ],
+        "paragraphCount": 6
+      },
+      {
+        "addition": "C",
+        "readerChapter": "3",
+        "sourceReferences": [
+          "ESG 4:18",
+          "ESG 4:19",
+          "ESG 4:20",
+          "ESG 4:21",
+          "ESG 4:22",
+          "ESG 4:23",
+          "ESG 4:24",
+          "ESG 4:25",
+          "ESG 4:26",
+          "ESG 4:27",
+          "ESG 4:28",
+          "ESG 4:29",
+          "ESG 4:30",
+          "ESG 4:31",
+          "ESG 4:32",
+          "ESG 4:33",
+          "ESG 4:34",
+          "ESG 4:35",
+          "ESG 4:36",
+          "ESG 4:37",
+          "ESG 4:38",
+          "ESG 4:39",
+          "ESG 4:40",
+          "ESG 4:41",
+          "ESG 4:42",
+          "ESG 4:43",
+          "ESG 4:44",
+          "ESG 4:45",
+          "ESG 4:46",
+          "ESG 4:47"
+        ],
+        "paragraphCount": 30
+      },
+      {
+        "addition": "D",
+        "readerChapter": "4",
+        "sourceReferences": [
+          "ESG 5:1",
+          "ESG 5:2"
+        ],
+        "paragraphCount": 18
+      },
+      {
+        "addition": "E",
+        "readerChapter": "5",
+        "sourceReferences": [
+          "ESG 8:13"
+        ],
+        "paragraphCount": 15
+      },
+      {
+        "addition": "F",
+        "readerChapter": "6",
+        "sourceReferences": [
+          "ESG 10:4",
+          "ESG 10:5",
+          "ESG 10:6",
+          "ESG 10:7",
+          "ESG 10:8",
+          "ESG 10:9",
+          "ESG 10:10",
+          "ESG 10:11",
+          "ESG 10:12",
+          "ESG 10:13",
+          "ESG 10:14"
+        ],
+        "paragraphCount": 11
+      }
+    ],
+    "rightsNotice": "英文摘錄底本採 World English Bible Classic；出版者已將譯文奉獻為公版（Public Domain），可複製與再散布，包括商業使用。此處僅重新編排補錄及閱讀段落，未改寫英文文字；World English Bible 名稱為商標，用於標示底本，不表示本應用的編號或中文譯稿為官方 WEB 版本。",
+    "rightsReviewed": "2026-10-27",
+    "editionCheckUrl": "https://bible.usccb.org/bible/esther/0"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "",
+      "addition": "A",
+      "sourceReferences": [
+        "ESG 1:1"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "[In the second year of the reign of Ahasuerus the great king, on the first day of Nisan, Mordecai the son of Jair, the son of Shimei, the son of Kish, of the tribe of Benjamin, a Jew dwelling in the city Susa, a great man, serving in the king’s palace, saw a vision.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "2",
+          "text": "Now he was one of the captives whom Nebuchadnezzar king of Babylon had carried captive from Jerusalem with Jeconiah the king of Judea.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "3",
+          "text": "This was his dream: Behold, voices and a noise, thunders and earthquake, tumult upon the earth.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "4",
+          "text": "And, behold, two great serpents came out, both ready for conflict.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "5",
+          "text": "A great voice came from them.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "6",
+          "text": "Every nation was prepared for battle by their voice, even to fight against the nation of the just.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "7",
+          "text": "Behold, a day of darkness and blackness, suffering and anguish, affection and tumult upon the earth.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "8",
+          "text": "And all the righteous nation was troubled, fearing their own afflictions.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "9",
+          "text": "They prepared to die, and cried to God.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "10",
+          "text": "Something like a great river from a little spring with much water, came from their cry.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "11",
+          "text": "Light and the sun arose, and the lowly were exalted, and devoured the honorable.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "12",
+          "text": "Mordecai, who had seen this vision and what God desired to do, having arisen, kept it in his heart, and desired by all means to interpret it, even until night.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "13",
+          "text": "Mordecai rested quietly in the palace with Gabatha and Tharrha the king’s two chamberlains, eunuchs who guarded the palace.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "14",
+          "text": "He heard their conversation and searched out their plans.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "15",
+          "text": "He learned that they were preparing to lay hands on King Ahasuerus; and he informed the king concerning them.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "16",
+          "text": "The king examined the two chamberlains.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "17",
+          "text": "They confessed, and were led away and executed.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "18",
+          "text": "The king wrote these things for a record.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "19",
+          "text": "Mordecai also wrote concerning these matters.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "20",
+          "text": "The king commanded Mordecai to serve in the palace, and gave gifts for this service.",
+          "sourceReference": "ESG 1:1"
+        },
+        {
+          "number": "21",
+          "text": "But Haman the son of Hammedatha the Bougean was honored in the sight of the king, and he endeavored to harm Mordecai and his people, because of the king’s two chamberlains.]",
+          "sourceReference": "ESG 1:1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Chapter 2",
+      "section": "",
+      "addition": "B",
+      "sourceReferences": [
+        "ESG 3:13",
+        "ESG 4:8"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "[The following is the copy of the letter.",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "2",
+          "text": "“From the great King Ahasuerus to the rulers and the governors under them of one hundred twenty-seven provinces, from India even to Ethiopia, who hold authority under him: “Ruling over many nations and having obtained dominion over the whole world, I was determined (not elated by the confidence of power, but ever conducting myself with great moderation and gentleness) to make the lives of my subjects continually tranquil, desiring both to maintain the kingdom quiet and orderly to its utmost limits, and to restore the peace desired by all men.",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "3",
+          "text": "When I had asked my counselors how this should be brought to pass, Haman, who excels in soundness of judgment among us, and has been manifestly well inclined without wavering and with unshaken fidelity, and had obtained the second post in the kingdom, informed us that a certain ill-disposed people is scattered among all the tribes throughout the world, opposed in their law to every other nation, and continually neglecting the commands of the king, so that the united government blamelessly administered by us is not quietly established.",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "4",
+          "text": "Having then conceived that this nation is continually set in opposition to every man, introducing as a change a foreign code of laws, and injuriously plotting to accomplish the worst of evils against our interests, and against the happy establishment of the monarchy, we instruct you in the letter written by Haman, who is set over the public affairs and is our second governor, to destroy them all utterly with their wives and children by the swords of the enemies, without pitying or sparing any, on the fourteenth day of the twelfth month Adar, of the present year; that the people aforetime and now ill-disposed to us having been violently consigned to death in one day, may hereafter secure to us continually a well constituted and quiet state of affairs.”]",
+          "sourceReference": "ESG 3:13"
+        },
+        {
+          "number": "5",
+          "text": "“Remember, he said, the days of your humble condition, how you were nursed by my hand; because Haman, who holds the next place to the king, has spoken against us to cause our death.",
+          "sourceReference": "ESG 4:8"
+        },
+        {
+          "number": "6",
+          "text": "Call upon the Lord, and speak to the king concerning us, to deliver us from death.”",
+          "sourceReference": "ESG 4:8"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "Chapter 3",
+      "section": "",
+      "addition": "C",
+      "sourceReferences": [
+        "ESG 4:18",
+        "ESG 4:19",
+        "ESG 4:20",
+        "ESG 4:21",
+        "ESG 4:22",
+        "ESG 4:23",
+        "ESG 4:24",
+        "ESG 4:25",
+        "ESG 4:26",
+        "ESG 4:27",
+        "ESG 4:28",
+        "ESG 4:29",
+        "ESG 4:30",
+        "ESG 4:31",
+        "ESG 4:32",
+        "ESG 4:33",
+        "ESG 4:34",
+        "ESG 4:35",
+        "ESG 4:36",
+        "ESG 4:37",
+        "ESG 4:38",
+        "ESG 4:39",
+        "ESG 4:40",
+        "ESG 4:41",
+        "ESG 4:42",
+        "ESG 4:43",
+        "ESG 4:44",
+        "ESG 4:45",
+        "ESG 4:46",
+        "ESG 4:47"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "[He prayed to the Lord, making mention of all the works of the Lord.",
+          "sourceReference": "ESG 4:18"
+        },
+        {
+          "number": "2",
+          "text": "He said, “Lord God, you are king ruling over all, for all things are in your power, and there is no one who can oppose you in your purpose to save Israel;",
+          "sourceReference": "ESG 4:19"
+        },
+        {
+          "number": "3",
+          "text": "for you have made the sky and the earth and every wonderful thing under the sky.",
+          "sourceReference": "ESG 4:20"
+        },
+        {
+          "number": "4",
+          "text": "You are Lord of all, and there is no one who can resist you, Lord.",
+          "sourceReference": "ESG 4:21"
+        },
+        {
+          "number": "5",
+          "text": "You know all things. You know, Lord, that it is not in insolence, nor arrogance, nor love of glory, that I have done this, to refuse to bow down to the arrogant Haman.",
+          "sourceReference": "ESG 4:22"
+        },
+        {
+          "number": "6",
+          "text": "For I would gladly have kissed the soles of his feet for the safety of Israel.",
+          "sourceReference": "ESG 4:23"
+        },
+        {
+          "number": "7",
+          "text": "But I have done this that I might not set the glory of man above the glory of God. I will not worship anyone except you, my Lord, and I will not do these things in arrogance.",
+          "sourceReference": "ESG 4:24"
+        },
+        {
+          "number": "8",
+          "text": "And now, O Lord God, the King, the God of Abraham, spare your people, for our enemies are planning our destruction, and they have desired to destroy your ancient inheritance.",
+          "sourceReference": "ESG 4:25"
+        },
+        {
+          "number": "9",
+          "text": "Do not overlook your people, whom you have redeemed for yourself out of the land of Egypt.",
+          "sourceReference": "ESG 4:26"
+        },
+        {
+          "number": "10",
+          "text": "Listen to my prayer. Have mercy on your inheritance and turn our mourning into gladness, that we may live and sing praise to your name, O Lord. Don’t utterly destroy the mouth of those who praise you, O Lord.”",
+          "sourceReference": "ESG 4:27"
+        },
+        {
+          "number": "11",
+          "text": "All Israel cried with all their might, for death was before their eyes.",
+          "sourceReference": "ESG 4:28"
+        },
+        {
+          "number": "12",
+          "text": "And queen Esther took refuge in the Lord, being taken as it were in the agony of death.",
+          "sourceReference": "ESG 4:29"
+        },
+        {
+          "number": "13",
+          "text": "Having taken off her glorious apparel, she put on garments of distress and mourning. Instead of grand perfumes she filled her head with ashes and dung. She greatly humbled her body, and she filled every place of her glad adorning with her tangled hair.",
+          "sourceReference": "ESG 4:30"
+        },
+        {
+          "number": "14",
+          "text": "She implored the Lord God of Israel, and said, “O my Lord, you alone are our king. Help me. I am destitute, and have no helper but you,",
+          "sourceReference": "ESG 4:31"
+        },
+        {
+          "number": "15",
+          "text": "for my danger is near at hand.",
+          "sourceReference": "ESG 4:32"
+        },
+        {
+          "number": "16",
+          "text": "I have heard from my birth in the tribe of my kindred that you, Lord, took Israel out of all the nations, and our fathers out of all their kindred for a perpetual inheritance, and have done for them all that you have said.",
+          "sourceReference": "ESG 4:33"
+        },
+        {
+          "number": "17",
+          "text": "And now we have sinned before you, and you have delivered us into the hands of our enemies,",
+          "sourceReference": "ESG 4:34"
+        },
+        {
+          "number": "18",
+          "text": "because we honored their gods. You are righteous, O Lord.",
+          "sourceReference": "ESG 4:35"
+        },
+        {
+          "number": "19",
+          "text": "But now they have not been content with the bitterness of our slavery, but have laid their hands on the hands of their idols",
+          "sourceReference": "ESG 4:36"
+        },
+        {
+          "number": "20",
+          "text": "to abolish the decree of your mouth, and utterly to destroy your inheritance, and to stop the mouth of those who praise you, and to extinguish the glory of your house and your altar,",
+          "sourceReference": "ESG 4:37"
+        },
+        {
+          "number": "21",
+          "text": "and to open the mouth of the Gentiles to speak the praises of vanities, and that a mortal king should be admired forever.",
+          "sourceReference": "ESG 4:38"
+        },
+        {
+          "number": "22",
+          "text": "O Lord, don’t surrender your sceptre to those who don’t exist, and don’t let them laugh at our fall, but turn their counsel against themselves, and make an example of him who has begun to injure us.",
+          "sourceReference": "ESG 4:39"
+        },
+        {
+          "number": "23",
+          "text": "Remember us, O Lord! Manifest yourself in the time of our affliction. Encourage me, O King of gods, and ruler of all dominion!",
+          "sourceReference": "ESG 4:40"
+        },
+        {
+          "number": "24",
+          "text": "Put harmonious speech into my mouth before the lion, and turn his heart to hate him who fights against us, to the utter destruction of those who agree with him.",
+          "sourceReference": "ESG 4:41"
+        },
+        {
+          "number": "25",
+          "text": "But deliver us by your hand, and help me who am alone and have no one but you, O Lord.",
+          "sourceReference": "ESG 4:42"
+        },
+        {
+          "number": "26",
+          "text": "You know all things, and know that I hate the glory of transgressors, and that I abhor the bed of the uncircumcised and of every stranger.",
+          "sourceReference": "ESG 4:43"
+        },
+        {
+          "number": "27",
+          "text": "You know my necessity, for I abhor the symbol of my proud station, which is upon my head in the days of my splendor. I abhor it as a menstruous cloth, and I don’t wear it in the days of my tranquility.",
+          "sourceReference": "ESG 4:44"
+        },
+        {
+          "number": "28",
+          "text": "Your handmaid has not eaten at Haman’s table, and I have not honored the banquet of the king, neither have I drunk wine of libations.",
+          "sourceReference": "ESG 4:45"
+        },
+        {
+          "number": "29",
+          "text": "Neither has your handmaid rejoiced since the day of my promotion until now, except in you, O Lord God of Abraham.",
+          "sourceReference": "ESG 4:46"
+        },
+        {
+          "number": "30",
+          "text": "O god, who has power over all, listen to the voice of the desperate, and deliver us from the hand of those who devise mischief. Deliver me from my fear.]",
+          "sourceReference": "ESG 4:47"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Chapter 4",
+      "section": "",
+      "addition": "D",
+      "sourceReferences": [
+        "ESG 5:1",
+        "ESG 5:2"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "It came to pass on the third day, when she had ceased praying, that she took off her servant’s dress and put on her glorious apparel.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "2",
+          "text": "Being splendidly dressed and having called upon God the Overseer and Preserver of all things, she took her two maids, and she leaned upon one, as a delicate female, and the other followed bearing her train.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "3",
+          "text": "She was blooming in the perfection of her beauty.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "4",
+          "text": "Her face was cheerful and looked lovely, but her heart was filled with fear.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "5",
+          "text": "Having passed through all the doors, she stood before the king.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "6",
+          "text": "He was sitting on his royal throne.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "7",
+          "text": "He had put on all his glorious apparel, covered all over with gold and precious stones, and was very terrifying.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "8",
+          "text": "And having raised his face resplendent with glory, he looked with intense anger.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "9",
+          "text": "The queen fell, and changed her color as she fainted.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "10",
+          "text": "She bowed herself upon the head of the maid who went before her.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "11",
+          "text": "But God changed the spirit of the king to gentleness, and in intense feeling, he sprang from off his throne, and took her into his arms, until she recovered.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "12",
+          "text": "He comforted her with peaceful words, and said to her, “What is the matter, Esther?",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "13",
+          "text": "I am your relative.",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "14",
+          "text": "Cheer up!",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "15",
+          "text": "You shall not die, for our command is openly declared to you: ‘Draw near.’”",
+          "sourceReference": "ESG 5:1"
+        },
+        {
+          "number": "16",
+          "text": "And having raised the golden sceptre, he laid it upon her neck, and embraced her.",
+          "sourceReference": "ESG 5:2"
+        },
+        {
+          "number": "17",
+          "text": "He said, “Speak to me.” So she said to him, “I saw you, my lord, as an angel of God, and my heart was troubled for fear of your glory; for you, my lord, are to be wondered at, and your face is full of grace.” While she was speaking, she fainted and fell.",
+          "sourceReference": "ESG 5:2"
+        },
+        {
+          "number": "18",
+          "text": "Then the king was troubled, and all his servants comforted her.",
+          "sourceReference": "ESG 5:2"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "Chapter 5",
+      "section": "",
+      "addition": "E",
+      "sourceReferences": [
+        "ESG 8:13"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "[The great King Ahasuerus sends greetings to the rulers of provinces in one hundred twenty-seven local governance regions, from India to Ethiopia, even to those who are faithful to our interests.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "2",
+          "text": "Many who have been frequently honored by the most abundant kindness of their benefactors have conceived ambitious designs, and not only endeavor to hurt our subjects, but moreover, not being able to bear prosperity, they also endeavor to plot against their own benefactors.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "3",
+          "text": "They not only would utterly abolish gratitude from among men, but also, elated by the boastings of men who are strangers to all that is good, they supposed that they would escape the sin-hating vengeance of the ever-seeing God.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "4",
+          "text": "And oftentimes evil exhortation has made partakers of the guilt of shedding innocent blood, and has involved in irremediable calamities many of those who had been appointed to offices of authority, who had been entrusted with the management of their friends’ affairs; while men, by the false sophistry of an evil disposition, have deceived the simple goodwill of the ruling powers.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "5",
+          "text": "And it is possible to see this, not so much from more ancient traditional accounts, as it is immediately in your power to see it by examining what things have been wickedly perpetrated by the baseness of men unworthily holding power.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "6",
+          "text": "It is right to take heed with regard to the future, that we may maintain the government in undisturbed peace for all men, adopting needful changes, and ever judging those cases which come under our notice with truly equitable decisions.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "7",
+          "text": "For whereas Haman, a Macedonian, the son of Hammedatha, in reality an alien from the blood of the Persians, and differing widely from our mild course of government, having been hospitably entertained by us, obtained so large a share of our universal kindness as to be called our father, and to continue the person next to the royal throne, reverenced of all; he however, overcome by pride, endeavored to deprive us of our dominion, and our life; having by various and subtle artifices demanded for destruction both Mordecai our deliverer and perpetual benefactor, and Esther the blameless consort of our kingdom, along with their whole nation.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "8",
+          "text": "For by these methods he thought, having surprised us in a defenseless state, to transfer the dominion of the Persians to the Macedonians.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "9",
+          "text": "But we find that the Jews, who have been consigned to destruction by the most abominable of men, are not malefactors, but living according to the most just laws, and being the sons of the living God, the most high and mighty, who maintains the kingdom, to us as well as to our forefathers, in the most excellent order.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "10",
+          "text": "You will therefore do well in refusing to obey the letter sent by Haman the son of Hammedatha, because he who has done these things has been hanged with his whole family at the gates of Susa, Almighty God having swiftly returned to him a worthy punishment.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "11",
+          "text": "We enjoin you then, having openly published a copy of this letter in every place, to give the Jews permission to use their own lawful customs and to strengthen them, that on the thirteenth of the twelfth month Adar, on the self-same day, they may defend themselves against those who attack them in a time of affliction.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "12",
+          "text": "For in the place of the destruction of the chosen race, Almighty God has granted them this time of gladness.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "13",
+          "text": "Therefore you also, among your notable feasts, must keep a distinct day with all festivity, that both now and hereafter it may be a day of deliverance to us and who are well disposed toward the Persians, but to those that plotted against us a memorial of destruction.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "14",
+          "text": "And every city and province collectively, which shall not do accordingly, shall be consumed with vengeance by spear and fire.",
+          "sourceReference": "ESG 8:13"
+        },
+        {
+          "number": "15",
+          "text": "It shall be made not only inaccessible to men, but most hateful to wild beasts and birds forever.]",
+          "sourceReference": "ESG 8:13"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "Chapter 6",
+      "section": "",
+      "addition": "F",
+      "sourceReferences": [
+        "ESG 10:4",
+        "ESG 10:5",
+        "ESG 10:6",
+        "ESG 10:7",
+        "ESG 10:8",
+        "ESG 10:9",
+        "ESG 10:10",
+        "ESG 10:11",
+        "ESG 10:12",
+        "ESG 10:13",
+        "ESG 10:14"
+      ],
+      "verses": [
+        {
+          "number": "1",
+          "text": "[Mordecai said, “These things have come from God.",
+          "sourceReference": "ESG 10:4"
+        },
+        {
+          "number": "2",
+          "text": "For I remember the dream which I had concerning these matters; for not one detail of them has failed.",
+          "sourceReference": "ESG 10:5"
+        },
+        {
+          "number": "3",
+          "text": "There was the little spring which became a river, and there was light, and the sun and much water. The river is Esther, whom the king married and made queen.",
+          "sourceReference": "ESG 10:6"
+        },
+        {
+          "number": "4",
+          "text": "The two serpents are Haman and me.",
+          "sourceReference": "ESG 10:7"
+        },
+        {
+          "number": "5",
+          "text": "The nations are those which combined to destroy the name of the Jews.",
+          "sourceReference": "ESG 10:8"
+        },
+        {
+          "number": "6",
+          "text": "But as for my nation, this is Israel, even those who cried to God and were delivered; for the Lord delivered his people. The Lord rescued us out of all these calamities; and God worked such signs and great wonders as have not been done among the nations.",
+          "sourceReference": "ESG 10:9"
+        },
+        {
+          "number": "7",
+          "text": "Therefore he ordained two lots. One for the people of God, and one for all the other nations.",
+          "sourceReference": "ESG 10:10"
+        },
+        {
+          "number": "8",
+          "text": "And these two lots came for an appointed season, and for a day of judgment, before God, and for all the nations.",
+          "sourceReference": "ESG 10:11"
+        },
+        {
+          "number": "9",
+          "text": "God remembered his people and vindicated his inheritance.",
+          "sourceReference": "ESG 10:12"
+        },
+        {
+          "number": "10",
+          "text": "They shall observe these days in the month Adar, on the fourteenth and on the fifteenth day of the month, with an assembly, joy, and gladness before God, throughout the generations forever among his people Israel.",
+          "sourceReference": "ESG 10:13"
+        },
+        {
+          "number": "11",
+          "text": "In the fourth year of the reign of Ptolemeus and Cleopatra, Dositheus, who said he was a priest and Levite, and Ptolemeus his son brought this letter of Purim, which they said was authentic, and that Lysimachus the son of Ptolemeus, who was in Jerusalem, had interpreted.]",
+          "sourceReference": "ESG 10:14"
+        }
+      ]
+    }
+  ]
+}
