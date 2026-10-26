@@ -235,7 +235,7 @@ h1 .plus { color:var(--accent); font-size:1em; }
 #navigation, .preferences { display:flex; align-items:end; gap:.65rem; flex:1 1 auto; min-width:0; margin:0; }
 #controls label { flex:0 1 auto; min-width:0; }
 #controls .book-control { flex:1 1 210px; }
-#controls .location-control { flex:0 0 76px; }
+#controls .location-control { flex:0 0 88px; }
 input { width:100%; font:inherit; border:1px solid #aeb7a8; border-radius:6px; padding:.6rem; min-height:44px; background:white; color:inherit; }
 #controls select { width:100%; }
 #status:empty, #section:empty { display:none; }
@@ -258,7 +258,7 @@ body[data-size="presentation"] .text { font-family:system-ui, sans-serif; }
   h1 span { display:inline-block; }
   #controls { padding:.5rem .75rem; }
   #navigation, .preferences { width:100%; gap:.4rem; }
-  #controls .location-control { flex-basis:60px; }
+  #controls .location-control { flex-basis:72px; }
   #controls .book-control { flex-basis:100px; }
   .preferences label { flex:1 1 0; }
   #controls select, #controls input { padding:.4rem; }
@@ -461,7 +461,6 @@ body[data-size="presentation"] .text { font-family:system-ui, sans-serif; }
   #book { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
   #controls .preferences { flex: 0 0 auto; width: auto; }
   #controls .preferences label { flex: 0 0 auto; }
-  #controls .location-control { flex: 0 0 64px; }
 }
 
 #controls label:has(input:disabled) .field-label,
