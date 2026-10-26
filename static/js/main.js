@@ -102,7 +102,18 @@ async function loadBook(chapterId, verseNumber) {
     }
     current = Math.max(0, chapters.findIndex(c => c.id === chapterId));
     selected = Math.max(0, chapters[current].verses.findIndex(v => v.number === verseNumber));
-    $('chapter-options').replaceChildren(...chapters.map(c => option(chapterValue(c), `${chinese?.chapters.find(z => z.id === c.id)?.section || c.section || ''} · ${chinese?.chapters.find(z => z.id === c.id)?.label || c.label}`)));
+    const usesReaderPositions = book.index === undefined && chapters.some(c => chapterValue(c) !== chapterLabel(c));
+    $('chapter-options').replaceChildren(...chapters.map(c => {
+      const translated = chinese?.chapters.find(z => z.id === c.id);
+      const section = (translated?.shortSection || translated?.section || c.shortSection || c.section || '').trim().replace(/。+$/, '');
+      const label = `第 ${chapterValue(c)} 章`;
+      const sourceLabel = (translated?.label || c.label.replace(/^Chapter\s+(.+)$/i, '第$1章')).replace(/^第\s*(.*?)\s*章$/, '第$1章');
+      const description = usesReaderPositions ? `${section}${sourceLabel}` : section;
+      const choice = option(chapterValue(c), [label, description].filter(Boolean).join(' '));
+      choice.dataset.chapterLabel = label;
+      choice.dataset.section = description;
+      return choice;
+    }));
     setBusy(false); render();
     window.scrollTo({top: 0, behavior: 'instant'});
   } catch (error) {
@@ -150,7 +161,7 @@ function render() {
   $('section').textContent = book.index !== undefined
     ? mode === 'both' && en ? `${$('version').selectedOptions[0].textContent} · WEB（英式英文）`
       : mode === 'en' && en ? 'WEB · World English Bible British Edition' : $('version').selectedOptions[0].textContent
-    : zh?.section || base.section || '';
+    : '網路本';
   $('chapter').value = chapterValue(base);
   $('previous').disabled = current === 0; $('next').disabled = current === chapters.length - 1;
   $('position').textContent = `${current + 1} / ${chapters.length}`;
@@ -245,7 +256,20 @@ function openReferencePicker(id) {
   const buttons = choices.map(choice => {
     const button = document.createElement('button');
     button.type = 'button';
-    button.textContent = choice.textContent === choice.value ? choice.value : `${choice.value} · ${choice.textContent}`;
+    if (id === 'chapter') {
+      button.classList.add('chapter-choice');
+      const label = document.createElement('span');
+      label.className = 'chapter-choice-label';
+      label.textContent = choice.dataset.chapterLabel;
+      button.append(label);
+      if (choice.dataset.section) {
+        const section = document.createElement('span');
+        section.textContent = choice.dataset.section;
+        button.append(section);
+      }
+    } else {
+      button.textContent = choice.textContent === choice.value ? choice.value : `${choice.value} · ${choice.textContent}`;
+    }
     if (choice.value === pickerInput.value) button.setAttribute('aria-current', 'true');
     button.addEventListener('click', () => {
       pickerInput.value = choice.value;

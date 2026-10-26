@@ -445,6 +445,12 @@ body[data-size="presentation"] .text { font-family:system-ui, sans-serif; }
   overflow-wrap: anywhere;
 }
 #picker-options button:hover { background: #46634e14; }
+#picker-options button.chapter-choice {
+  display: grid;
+  grid-template-columns: 6.5em minmax(0, 1fr);
+  align-items: baseline;
+}
+.chapter-choice-label { white-space: nowrap; font-variant-numeric: tabular-nums; }
 #picker-options button[aria-current="true"] { background: #e1eadb; color: #304b37; font-weight: 600; }
 
 /* Long bilingual book names must not push desktop preferences onto a new row. */
