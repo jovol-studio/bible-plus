@@ -44,17 +44,18 @@ Shared books appear once. No texts were downloaded for this regrouping.
 - The nine 新約次經 entries are principally [Apostolic Fathers writings](https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/second-century/the-apostolic-fathers), not additional Catholic/Orthodox New Testament canonical books. The list groups Clement together, Ignatius and Polycarp next (with Polycarp’s martyrdom), then Didache, Barnabas, Hermas and Papias. This is editorial navigation, not a prescribed reading sequence or chronological order.
 - Pseudepigrapha keep Enoch 1–3 together, then related patriarchal narratives/testaments, prophetic material, psalms/oracles/War Scroll, and gospels. The unverified 水徒行紀 title remains last as a placeholder. This broad category includes writings from different periods and traditions, not a single canon or literary series.
 
-There are 39 catalog-only entries marked `available: false` in `books.js`. No
+There are 38 catalog-only entries marked `available: false` in `books.js`. No
 scripture text was downloaded for these entries. Selecting them displays a
 not-ready message and does not request a data file. Coverage validation below
-applies to the ten bundled works, not these placeholders.
+applies to the eleven bundled works, not these placeholders.
 
 ## Current translation coverage
 
-**All ten bundled extension books have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
+**All eleven bundled extension books have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
+| Tobit / 多比傳 | 14 | 14 |
 | Book of Jubilees / 禧年書 | 50 | 50 |
 | 1 Enoch / 以諾一書 | 109 | 109 |
 | 2 Enoch / 以諾二書 | 68 | 68 |
@@ -74,6 +75,7 @@ Eight English works were extracted from [StudyLight's Pseudepigrapha collection]
 
 | Work | English edition |
 | --- | --- |
+| Tobit | [World English Bible Classic, Tobit 1–14](https://ebible.org/eng-web/TOB01.htm) |
 | Jubilees | R. H. Charles, APOT vol. 2, 1913 |
 | 1 Enoch | R. H. Charles, APOT vol. 2, 1913 |
 | 2 Enoch | W. R. Morfill, edited by R. H. Charles, 1896 |
@@ -153,3 +155,9 @@ union of references so neither edition's extra verses disappear. Identical
 reference numbers do not guarantee identical verse boundaries across editions.
 WEB is an independent English translation, not an English edition of CUV, RCUV,
 or CNV. Extension-book English editions remain unchanged. NIV is not bundled.
+
+## Tobit / 多比傳 (2026-10-27)
+
+Added all 14 chapters and 244 verses from the [official WEB Classic verse-per-line archive](https://ebible.org/Scriptures/eng-web_vpl.zip), preserving every English verse verbatim. Per-chapter verse counts: 22, 14, 17, 21, 22, 17, 18, 21, 6, 12, 19, 22, 18, 15. Archive and extracted-text SHA-256 values are stored in both reading files. The source text is [public domain](https://ebible.org/eng-web/copyright.htm); WEB branding identifies only the unchanged English. The import excludes footnotes.
+
+The Traditional Chinese text is a new AI translation draft of this specific English edition, not the Sigao Bible or another published Chinese translation. Its 244 verses align one-to-one with the English, with short editorial Chinese chapter headings for navigation. Source wording, names, numbers, and narrative differences are retained rather than silently harmonized to other Tobit editions. Independent scholarly review remains outstanding. Both language files include source, edition and rights notices displayed in Info. No separate content licence is granted for the Chinese draft.

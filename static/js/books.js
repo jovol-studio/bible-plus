@@ -534,7 +534,6 @@ const books = [
   },
   {
     "id": "tobit",
-    "available": false,
     "name": "多比傳",
     "english": "Tobit",
     "category": "天主教及東正教增收書卷"
@@ -864,8 +863,8 @@ const books = [
     "id": "shuitu-xingji",
     "available": false,
     "name": "水徒行紀",
-    "english": "Shuitu Xingji",
+    "english": "The Aquarian Gospel of Jesus the Christ",
     "category": "典外書卷 / 偽經",
-    "catalogNote": "參考條目列名；英文書名與具體文本版本尚待核實。Shuitu Xingji 為中文書名音譯。"
+    "catalogNote": "Levi H. Dowling 於 1908 年出版的近代宗教著作，並非古代《彼得福音》。具體收錄版本尚待選定。"
   }
 ];

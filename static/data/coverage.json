@@ -1,6 +1,12 @@
 {
   "books": [
     {
+      "book": "tobit",
+      "englishSections": 14,
+      "chineseSections": 14,
+      "complete": true
+    },
+    {
       "book": "jubilees",
       "englishSections": 50,
       "chineseSections": 50,
