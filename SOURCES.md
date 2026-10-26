@@ -6,9 +6,43 @@
 
 The application-code license does not license the bundled scripture texts. See [NOTICE.md](NOTICE.md). Source credits do not by themselves authorize full-text redistribution. Existing public-domain status and third-party rights remain unchanged.
 
+## Dropdown catalog
+
+The extension dropdown follows the user-requested categories and the main book
+lists in Wikipedia’s [聖經](https://zh.wikipedia.org/zh-tw/聖經), [次經](https://zh.wikipedia.org/wiki/次經) and
+[偽典](https://zh.wikipedia.org/wiki/偽典), consulted 2026-10-26.
+
+- 天主教及東正教增收書卷: 12 entries for shared additional books and separately navigable additions (including the Letter of Jeremiah, incorporated into Catholic Baruch).
+- 東正教增收書卷: five additional entries — 1 Esdras, 3 and 4 Maccabees, Psalm 151 and the Prayer of Manasseh. Orthodox traditions differ; 4 Maccabees can be an appendix.
+- 舊約次經: the remaining 2 Esdras entry. This is a navigation placement, not a claim that every Orthodox tradition excludes it.
+- 新約次經: the nine listed works/collections, retaining the seven Ignatian letters as one collection.
+- 典外書卷 / 偽經: 22 entries, retaining existing readable works and adding the named works in the main pseudepigrapha lists. The War Scroll represents the explicitly named Dead Sea Scrolls example; the whole manuscript collection is not duplicated as a book.
+
+The source’s 黑馬福音 link redirects to 黑馬牧人書, so it appears only once under
+新約次經. 水徒行紀 is retained as an unprepared entry with its English title and
+text identity explicitly unverified; “Shuitu Xingji” is a transliteration. The
+Egyptian Gospel’s specific edition is also not selected yet. Baruch and 2 Baruch,
+and the Epistle of Barnabas and Gospel of Barnabas, remain distinct works.
+These are navigation categories, not a universal judgment of canonical status.
+The two denominational groups precede the remaining apocrypha groups and are
+relative to the existing 66-book collection, not complete denominational Bibles.
+Shared books appear once. No texts were downloaded for this regrouping.
+
+### Ordering review (2026-10-26)
+
+- Shared additional books follow the relative order in the [Catholic canon list](https://www.usccb.org/sites/default/files/flipbooks/catechism/36/index.html): Tobit, Judith, Esther additions, 1–2 Maccabees, Wisdom, Sirach, Baruch (followed here by the separately selectable Letter of Jeremiah), then Daniel additions. Daniel additions follow the Catholic sequence: Prayer/Song in chapter 3, Susanna in 13, Bel and the Dragon in 14; Greek arrangements can differ.
+- The Orthodox group is an editorial history → psalm/prayer → appendix sequence, not a universal Orthodox table of contents. [OCA’s canon discussion](https://www.oca.org/questions/scripture/canon-of-scripture) and [Essential Orthodox Christian Beliefs, pp. 100–102](https://www.oca.org/cdn/PDFs/2023-0609-EOCB.pdf) document the broader collection and variations. 4 Maccabees is marked as an appendix and placed last. Keeping 2 Esdras under 舊約次經 does not imply it is absent from every Orthodox Bible; Esdras numbering also varies by tradition.
+- The nine 新約次經 entries are principally [Apostolic Fathers writings](https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/second-century/the-apostolic-fathers), not additional Catholic/Orthodox New Testament canonical books. The list groups Clement together, Ignatius and Polycarp next (with Polycarp’s martyrdom), then Didache, Barnabas, Hermas and Papias. This is editorial navigation, not a prescribed reading sequence or chronological order.
+- Pseudepigrapha keep Enoch 1–3 together, then related patriarchal narratives/testaments, prophetic material, psalms/oracles/War Scroll, and gospels. The unverified 水徒行紀 title remains last as a placeholder. This broad category includes writings from different periods and traditions, not a single canon or literary series.
+
+There are 39 catalog-only entries marked `available: false` in `books.js`. No
+scripture text was downloaded for these entries. Selecting them displays a
+not-ready message and does not request a data file. Coverage validation below
+applies to the ten bundled works, not these placeholders.
+
 ## Current translation coverage
 
-**All ten extension books now have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
+**All ten bundled extension books have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
@@ -19,8 +53,8 @@ The application-code license does not license the bundled scripture texts. See [
 | Apocalypse of Abraham / 亞伯拉罕啟示錄 | 33 | 33 |
 | Life of Adam and Eve / 亞當和夏娃生平 | 64 | 64 |
 | Testaments of the Twelve Patriarchs / 十二族長遺訓 | 142 | 142 |
-| 1 Esdras / 以斯拉一書 | 9 | 9 |
-| 2 Esdras / 以斯拉二書 | 16 | 16 |
+| 1 Esdras / 以斯拉續篇上卷 | 9 | 9 |
+| 2 Esdras / 以斯拉續篇下卷 | 16 | 16 |
 | 2 Baruch / 巴錄二書 | 87 | 87 |
 
 The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. Chinese is a newly produced AI translation of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.

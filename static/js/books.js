@@ -533,63 +533,339 @@ const books = [
     "english": "Revelation"
   },
   {
-    "id": "jubilees",
-    "name": "禧年書",
-    "english": "Book of Jubilees",
-    "category": "典外書卷"
+    "id": "tobit",
+    "available": false,
+    "name": "多比傳",
+    "english": "Tobit",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "judith",
+    "available": false,
+    "name": "猶滴傳",
+    "english": "Judith",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "additions-to-esther",
+    "available": false,
+    "name": "以斯帖記補編",
+    "english": "Additions to Esther",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "1-maccabees",
+    "available": false,
+    "name": "馬加比一書",
+    "english": "1 Maccabees",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "2-maccabees",
+    "available": false,
+    "name": "馬加比二書",
+    "english": "2 Maccabees",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "wisdom-of-solomon",
+    "available": false,
+    "name": "所羅門智訓",
+    "english": "Wisdom of Solomon",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "sirach",
+    "available": false,
+    "name": "便西拉智訓",
+    "english": "Sirach",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "baruch",
+    "available": false,
+    "name": "巴錄書",
+    "english": "Baruch",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "letter-of-jeremiah",
+    "available": false,
+    "name": "耶利米書信",
+    "english": "Letter of Jeremiah",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "prayer-of-azariah",
+    "available": false,
+    "name": "三童歌",
+    "english": "Prayer of Azariah and Song of the Three Holy Children",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "susanna",
+    "available": false,
+    "name": "蘇撒拿傳",
+    "english": "Susanna",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "bel-and-the-dragon",
+    "available": false,
+    "name": "比勒與大龍",
+    "english": "Bel and the Dragon",
+    "category": "天主教及東正教增收書卷"
+  },
+  {
+    "id": "1-esdras",
+    "name": "以斯拉續篇上卷",
+    "english": "1 Esdras",
+    "category": "東正教增收書卷"
+  },
+  {
+    "id": "3-maccabees",
+    "available": false,
+    "name": "馬加比三書",
+    "english": "3 Maccabees",
+    "category": "東正教增收書卷"
+  },
+  {
+    "id": "psalm-151",
+    "available": false,
+    "name": "詩篇第151篇",
+    "english": "Psalm 151",
+    "category": "東正教增收書卷"
+  },
+  {
+    "id": "prayer-of-manasseh",
+    "available": false,
+    "name": "瑪拿西禱言",
+    "english": "Prayer of Manasseh",
+    "category": "東正教增收書卷"
+  },
+  {
+    "id": "4-maccabees",
+    "available": false,
+    "name": "馬加比四書（附錄）",
+    "english": "4 Maccabees",
+    "category": "東正教增收書卷",
+    "catalogNote": "部分東正教聖經列為附錄；收錄與地位因傳統及版本而異。"
+  },
+  {
+    "id": "2-esdras",
+    "name": "以斯拉續篇下卷",
+    "english": "2 Esdras",
+    "category": "舊約次經"
+  },
+  {
+    "id": "1-clement",
+    "available": false,
+    "name": "革利免前書",
+    "english": "1 Clement",
+    "category": "新約次經"
+  },
+  {
+    "id": "2-clement",
+    "available": false,
+    "name": "革利免後書",
+    "english": "2 Clement",
+    "category": "新約次經"
+  },
+  {
+    "id": "letters-of-ignatius",
+    "available": false,
+    "name": "依格那丟七書",
+    "english": "Seven Letters of Ignatius",
+    "category": "新約次經"
+  },
+  {
+    "id": "epistle-of-polycarp",
+    "available": false,
+    "name": "波利甲書",
+    "english": "Epistle of Polycarp",
+    "category": "新約次經"
+  },
+  {
+    "id": "martyrdom-of-polycarp",
+    "available": false,
+    "name": "波利甲殉道記",
+    "english": "Martyrdom of Polycarp",
+    "category": "新約次經"
+  },
+  {
+    "id": "didache",
+    "available": false,
+    "name": "十二使徒遺訓",
+    "english": "Didache",
+    "category": "新約次經"
+  },
+  {
+    "id": "epistle-of-barnabas",
+    "available": false,
+    "name": "巴拿巴書",
+    "english": "Epistle of Barnabas",
+    "category": "新約次經"
+  },
+  {
+    "id": "shepherd-of-hermas",
+    "available": false,
+    "name": "黑馬牧人書",
+    "english": "Shepherd of Hermas",
+    "category": "新約次經"
+  },
+  {
+    "id": "fragments-of-papias",
+    "available": false,
+    "name": "帕皮亞殘篇",
+    "english": "Fragments of Papias",
+    "category": "新約次經"
   },
   {
     "id": "1-enoch",
     "name": "以諾一書",
     "english": "1 Enoch",
-    "category": "典外書卷"
+    "category": "典外書卷 / 偽經"
   },
   {
     "id": "2-enoch",
     "name": "以諾二書",
     "english": "2 Enoch",
-    "category": "典外書卷"
+    "category": "典外書卷 / 偽經"
   },
   {
     "id": "3-enoch",
     "name": "以諾三書",
     "english": "3 Enoch",
-    "category": "典外書卷"
+    "category": "典外書卷 / 偽經"
   },
   {
-    "id": "apocalypse-of-abraham",
-    "name": "亞伯拉罕啟示錄",
-    "english": "Apocalypse of Abraham",
-    "category": "典外書卷"
+    "id": "jubilees",
+    "name": "禧年書",
+    "english": "Book of Jubilees",
+    "category": "典外書卷 / 偽經"
   },
   {
     "id": "life-of-adam-and-eve",
     "name": "亞當和夏娃生平",
     "english": "Life of Adam and Eve",
-    "category": "典外書卷"
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "testament-of-abraham",
+    "available": false,
+    "name": "亞伯拉罕遺訓",
+    "english": "Testament of Abraham",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "apocalypse-of-abraham",
+    "name": "亞伯拉罕啟示錄",
+    "english": "Apocalypse of Abraham",
+    "category": "典外書卷 / 偽經"
   },
   {
     "id": "testaments-of-the-twelve-patriarchs",
     "name": "十二族長遺訓",
     "english": "Testaments of the Twelve Patriarchs",
-    "category": "典外書卷"
+    "category": "典外書卷 / 偽經"
   },
   {
-    "id": "1-esdras",
-    "name": "以斯拉一書",
-    "english": "1 Esdras",
-    "category": "典外書卷"
+    "id": "testament-of-moses",
+    "available": false,
+    "name": "摩西遺訓",
+    "english": "Testament of Moses",
+    "category": "典外書卷 / 偽經"
   },
   {
-    "id": "2-esdras",
-    "name": "以斯拉二書",
-    "english": "2 Esdras",
-    "category": "典外書卷"
+    "id": "martyrdom-of-isaiah",
+    "available": false,
+    "name": "以賽亞殉道記",
+    "english": "Martyrdom of Isaiah",
+    "category": "典外書卷 / 偽經"
   },
   {
     "id": "2-baruch",
     "name": "巴錄二書",
     "english": "2 Baruch",
-    "category": "典外書卷"
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "psalms-of-solomon",
+    "available": false,
+    "name": "所羅門詩篇",
+    "english": "Psalms of Solomon",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "sibylline-oracles-3",
+    "available": false,
+    "name": "西卜神諭篇卷三",
+    "english": "Sibylline Oracles, Book 3",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "war-scroll",
+    "available": false,
+    "name": "戰卷",
+    "english": "War Scroll",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "gospel-of-thomas",
+    "available": false,
+    "name": "多馬福音",
+    "english": "Gospel of Thomas",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "gospel-of-philip",
+    "available": false,
+    "name": "腓力福音",
+    "english": "Gospel of Philip",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "gospel-of-judas",
+    "available": false,
+    "name": "猶大福音",
+    "english": "Gospel of Judas",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "gospel-of-peter",
+    "available": false,
+    "name": "彼得福音",
+    "english": "Gospel of Peter",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "gospel-of-the-egyptians",
+    "available": false,
+    "name": "埃及人福音",
+    "english": "Gospel of the Egyptians",
+    "category": "典外書卷 / 偽經",
+    "catalogNote": "同名作品及具體文本版本尚待核實。"
+  },
+  {
+    "id": "gospel-of-mary",
+    "available": false,
+    "name": "抹大拉的馬利亞福音",
+    "english": "Gospel of Mary",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "gospel-of-barnabas",
+    "available": false,
+    "name": "巴拿巴福音",
+    "english": "Gospel of Barnabas",
+    "category": "典外書卷 / 偽經"
+  },
+  {
+    "id": "shuitu-xingji",
+    "available": false,
+    "name": "水徒行紀",
+    "english": "Shuitu Xingji",
+    "category": "典外書卷 / 偽經",
+    "catalogNote": "參考條目列名；英文書名與具體文本版本尚待核實。Shuitu Xingji 為中文書名音譯。"
   }
 ];

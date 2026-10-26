@@ -12,7 +12,7 @@ function syncVersionOptions(book) {
   if (bibleVersions.some(([id]) => id === $('version').value)) preferredBibleVersion = $('version').value;
   const isBible = book.index !== undefined;
   const englishOnly = isBible && $('language').value === 'en';
-  $('version').replaceChildren(...(englishOnly ? [['web', 'WEB']] : isBible ? bibleVersions : [['web', '網路本']]).map(([id, label]) => option(id, label)));
+  $('version').replaceChildren(...(englishOnly ? [['web', 'WEB']] : isBible ? bibleVersions : [['web', book.available === false ? '尚未備妥' : '網路本']]).map(([id, label]) => option(id, label)));
   $('version').value = isBible && !englishOnly ? preferredBibleVersion : 'web';
   $('version').disabled = !isBible || englishOnly;
 }
@@ -30,13 +30,17 @@ const categoryEnglish = {
   '新約歷史書': 'New Testament History',
   '保羅書信': 'Pauline Epistles',
   '普通書信': 'General Epistles',
-  '典外書卷': 'Extra-canonical Books'
+  '天主教及東正教增收書卷': 'Catholic and Orthodox Additional Books',
+  '東正教增收書卷': 'Additional Orthodox Books',
+  '舊約次經': 'Old Testament Apocrypha',
+  '新約次經': 'New Testament Apocrypha',
+  '典外書卷 / 偽經': 'Extra-canonical Books / Pseudepigrapha'
 };
 let group;
 for (const book of books) {
   const groupLabel = `${book.category} · ${categoryEnglish[book.category]}`;
   if (group?.label !== groupLabel) { group = document.createElement('optgroup'); group.label = groupLabel; $('book').append(group); }
-  group.append(option(book.id, `${book.name} · ${book.english}`));
+  group.append(option(book.id, `${book.name} · ${book.english}${book.available === false ? '（尚未備妥）' : ''}`));
 }
 async function fetchData(key, optional = false) {
   if (!cache.has(key)) {
@@ -78,6 +82,20 @@ async function loadBook(chapterId, verseNumber) {
   $('passages').replaceChildren(); $('heading').textContent = book.name;
   $('section').textContent = ''; $('position').textContent = '';
   $('status').textContent = '載入中…'; $('source-details').replaceChildren();
+  if (book.available === false) {
+    current = selected = 0;
+    for (const id of ['chapter', 'verse']) {
+      $(id).value = '';
+      $(id).setCustomValidity('');
+      $(`${id}-options`).replaceChildren();
+    }
+    $('section').textContent = book.english;
+    $('status').textContent = '內容尚未備妥。 Content not ready yet.';
+    document.title = `${book.name} · Bible+`;
+    renderSources(); persist();
+    window.scrollTo({top: 0, behavior: 'instant'});
+    return;
+  }
   for (const id of ['chapter', 'verse']) {
     $(id).type = id === 'chapter' || book.index !== undefined ? 'number' : 'text';
     $(id).min = '1'; $(id).step = '1';
@@ -126,6 +144,10 @@ async function loadBook(chapterId, verseNumber) {
   }
 }
 function persist() {
+  if (activeBook().available === false) {
+    history.replaceState(null, '', '#' + new URLSearchParams({book: $('book').value, language: $('language').value, size: $('size').value}));
+    return;
+  }
   if (!ready) return;
   history.replaceState(null, '', '#' + new URLSearchParams({book: $('book').value, chapter: chapters[current].id, verse: chapters[current].verses[selected].number, version: activeBook().index !== undefined ? preferredBibleVersion : 'web', language: $('language').value, size: $('size').value}));
 }
@@ -156,6 +178,7 @@ function updateVerseOptions() {
   $('verse-options').replaceChildren(...(chapter?.verses || []).filter(v => v.number !== 'preface').map(v => option(verseValue(v), v.number === 'paragraph' ? '正文' : v.number)));
 }
 function render() {
+  if (activeBook().available === false) { persist(); return; }
   if (!ready) return;
   syncVersionOptions(activeBook());
   const book = activeBook(), base = chapters[current], en = english?.chapters.find(c => c.id === base.id), zh = chinese?.chapters.find(c => c.id === base.id), mode = $('language').value;
@@ -207,6 +230,11 @@ function selectPassage(index, scroll = true) {
 function renderSources() {
   const container = $('source-details'); container.replaceChildren();
   const paragraph = text => { const p = document.createElement('p'); p.textContent = text; container.append(p); };
+  if (activeBook().available === false) {
+    paragraph('此書目前僅列入書目，內容尚未備妥。');
+    if (activeBook().catalogNote) paragraph(activeBook().catalogNote);
+    return;
+  }
   if (activeBook().index !== undefined) {
     paragraph(`中文版本：${bibleVersions.find(([id]) => id === preferredBibleVersion)[1]}`);
     paragraph('三個版本均從原應用程式的資料檔原樣複製。原檔未記錄來源網頁網址。');
@@ -321,6 +349,11 @@ $('size').addEventListener('change', () => { document.body.dataset.size = $('siz
 $('previous').addEventListener('click', () => move(-1)); $('next').addEventListener('click', () => move(1));
 $('info').addEventListener('click', () => $('about').showModal());
 $('close-info').addEventListener('click', () => $('about').close());
+$('about').addEventListener('click', event => {
+  if (event.target !== $('about')) return;
+  const rect = event.target.getBoundingClientRect();
+  if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) event.target.close();
+});
 document.addEventListener('keydown', event => {
   if ($('about').open || $('reference-picker').open || event.altKey || event.ctrlKey || event.metaKey) return;
   if (event.key === 'Escape' && $('size').value === 'presentation') { $('size').value = 'normal'; $('size').dispatchEvent(new Event('change')); return; }
