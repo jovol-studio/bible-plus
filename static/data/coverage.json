@@ -43,9 +43,15 @@
       "complete": true
     },
     {
-      "book": "4-ezra",
-      "englishSections": 12,
-      "chineseSections": 12,
+      "book": "1-esdras",
+      "englishSections": 9,
+      "chineseSections": 9,
+      "complete": true
+    },
+    {
+      "book": "2-esdras",
+      "englishSections": 16,
+      "chineseSections": 16,
       "complete": true
     },
     {

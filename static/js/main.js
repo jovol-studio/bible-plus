@@ -11,9 +11,10 @@ let preferredBibleVersion = 'cuv';
 function syncVersionOptions(book) {
   if (bibleVersions.some(([id]) => id === $('version').value)) preferredBibleVersion = $('version').value;
   const isBible = book.index !== undefined;
-  $('version').replaceChildren(...(isBible ? bibleVersions : [['web', '網路本']]).map(([id, label]) => option(id, label)));
-  $('version').value = isBible ? preferredBibleVersion : 'web';
-  $('version').disabled = !isBible;
+  const englishOnly = isBible && $('language').value === 'en';
+  $('version').replaceChildren(...(englishOnly ? [['web', 'WEB']] : isBible ? bibleVersions : [['web', '網路本']]).map(([id, label]) => option(id, label)));
+  $('version').value = isBible && !englishOnly ? preferredBibleVersion : 'web';
+  $('version').disabled = !isBible || englishOnly;
 }
 window.bible = {};
 let chapters = [], english = null, chinese = null, current = 0, selected = 0, request = 0, ready = false;
@@ -72,7 +73,7 @@ function mergeBibleChapters(zh, en) {
 async function loadBook(chapterId, verseNumber) {
   const ticket = ++request, book = activeBook();
   syncVersionOptions(book);
-  const version = $('version').value;
+  const version = preferredBibleVersion;
   setBusy(true); chapters = []; english = chinese = null;
   $('passages').replaceChildren(); $('heading').textContent = book.name;
   $('section').textContent = ''; $('position').textContent = '';
@@ -126,7 +127,7 @@ async function loadBook(chapterId, verseNumber) {
 }
 function persist() {
   if (!ready) return;
-  history.replaceState(null, '', '#' + new URLSearchParams({book: $('book').value, chapter: chapters[current].id, verse: chapters[current].verses[selected].number, version: $('version').value, language: $('language').value, size: $('size').value}));
+  history.replaceState(null, '', '#' + new URLSearchParams({book: $('book').value, chapter: chapters[current].id, verse: chapters[current].verses[selected].number, version: activeBook().index !== undefined ? preferredBibleVersion : 'web', language: $('language').value, size: $('size').value}));
 }
 function chapterLabel(chapter) {
   return chapter.label.replace(/^Chapter\s+/i, '');
@@ -156,6 +157,7 @@ function updateVerseOptions() {
 }
 function render() {
   if (!ready) return;
+  syncVersionOptions(activeBook());
   const book = activeBook(), base = chapters[current], en = english?.chapters.find(c => c.id === base.id), zh = chinese?.chapters.find(c => c.id === base.id), mode = $('language').value;
   $('status').textContent = !en && mode !== 'zh-Hant' ? '英文尚未備妥；目前顯示中文。 English is unavailable; showing Chinese.' : !zh && mode !== 'en' ? '此章中文尚未備妥；目前顯示英文。 Chinese is unavailable for this chapter; showing English.' : '';
   $('heading').textContent = `${book.name} · ${zh?.label || base.label}`;
@@ -206,7 +208,7 @@ function renderSources() {
   const container = $('source-details'); container.replaceChildren();
   const paragraph = text => { const p = document.createElement('p'); p.textContent = text; container.append(p); };
   if (activeBook().index !== undefined) {
-    paragraph(`中文版本：${$('version').selectedOptions[0].textContent}`);
+    paragraph(`中文版本：${bibleVersions.find(([id]) => id === preferredBibleVersion)[1]}`);
     paragraph('三個版本均從原應用程式的資料檔原樣複製。原檔未記錄來源網頁網址。');
     paragraph('英文：World English Bible British Edition（WEBPB），66 卷英式英文版，來源為 eBible.org；經文屬公版。WEB 是獨立英譯本，並非所選中文版本的英文翻譯。');
     if (english) paragraph(english.source.editionNote);
@@ -332,6 +334,11 @@ document.addEventListener('keydown', event => {
 });
 async function restore() {
   const params = new URLSearchParams(location.hash.slice(1));
+  const legacyEzraStart = {'4-ezra': '3', '5-ezra': '1', '6-ezra': '15'}[params.get('book')];
+  if (legacyEzraStart) {
+    params.set('book', '2-esdras');
+    if (!params.has('chapter')) params.set('chapter', legacyEzraStart);
+  }
   $('book').value = books.some(b => b.id === params.get('book')) ? params.get('book') : books[0].id;
   preferredBibleVersion = bibleVersions.some(([id]) => id === params.get('version')) ? params.get('version') : preferredBibleVersion;
   $('version').value = '';

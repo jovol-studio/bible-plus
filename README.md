@@ -1,6 +1,6 @@
 # Bible Plus（Bible+）
 
-一個靜態閱讀應用程式，整合 66 卷聖經（和合本、和修本、新譯本）及 9 部典外書卷。
+一個靜態閱讀應用程式，整合 66 卷聖經（和合本、和修本、新譯本）及 10 部典外書卷。
 
 ## 開啟
 
@@ -24,7 +24,7 @@ python3 -m http.server 8765 --bind 127.0.0.1
 
 聖經提供和合本、和修本、新譯本。`static/data/cuv.json`、`rcuv.json`、`cnv.json` 原樣複製，保留原有 JavaScript 資料封裝，並非一般 JSON。中文經文未修改。英文對照採用 WEB 英式英文版（WEBPB），可選英文或中英對照。
 
-九部典外書卷的英文來源保留原文，對應的正體中文 AI 翻譯初稿已全部補齊，尚未經獨立學術審校。若個別資料無法載入，閱讀器仍會顯示缺少內容的提示及可用文本。來源網址、譯者、版本說明及 AI 翻譯警告均保留於資料及資訊視窗。詳見 [SOURCES.md](SOURCES.md)。
+十部典外書卷的英文來源保留原文，對應的正體中文 AI 翻譯初稿已全部補齊，尚未經獨立學術審校。若個別資料無法載入，閱讀器仍會顯示缺少內容的提示及可用文本。典外的以斯拉一書（1 Esdras，9章）與以斯拉二書（2 Esdras，16章），並非原有聖經的以斯拉記和尼希米記。以斯拉二書已按原章號合併原先的5 Ezra（1–2章）、4 Ezra（3–14章）及6 Ezra（15–16章）；舊書籤會自動轉到對應章節。來源網址、譯者、版本說明及 AI 翻譯警告均保留於資料及資訊視窗。詳見 [SOURCES.md](SOURCES.md)。
 
 應用程式由根目錄啟動，所有閱讀資料均存放於 `static/data/`。合併前的兩個應用程式目錄已於完成資料一致性及閱讀器檢查後移除。
 
@@ -36,7 +36,7 @@ node --check static/js/books.js
 python3 scripts/validate_data.py
 ```
 
-清理前已通過輕量 DOM 模擬檢查：版本、章節跳轉、特殊編號、缺少語言、雙語呈現、投影定位、對話框、網址還原及原始檔案逐位元組一致性。合併用的閱讀器測試腳本已移除。資料驗證檢查典外書卷章節及中英對齊，不代表學術審校。完整中文覆蓋檢查 `python3 scripts/validate_data.py --require-complete` 目前預期不通過。
+清理前已通過輕量 DOM 模擬檢查：版本、章節跳轉、特殊編號、缺少語言、雙語呈現、投影定位、對話框、網址還原及原始檔案逐位元組一致性。合併用的閱讀器測試腳本已移除。資料驗證檢查典外書卷章節及中英對齊，不代表學術審校。完整中文覆蓋檢查 `python3 scripts/validate_data.py --require-complete` 目前通過。
 
 本次環境沒有可連線的瀏覽器；尚未完成實際瀏覽器的視覺與行動裝置驗證。
 
@@ -53,12 +53,12 @@ Bible Plus（Bible+）by **JovoL Studio** · © 2026 JovoL Studio（其原創貢
 
 已收錄 World English Bible British Edition（WEBPB），共 66 卷、1,189 章、31,103 個原來源節條目。來源為 eBible.org 的公版逐節純文字資料，英式拼字並使用 LORD／GOD。與三種中文版本按章節編號對照；WEB 是獨立英譯本，不是中文版本的英譯。
 
-來源 ZIP、下載網址、SHA-256 與出版者權利聲明保存在 `sources/web/`；閱讀檔在 `static/data/web/`。原來源含五個空白節，顯示時會提示缺文，不會補譯或移動編號。版次之間的分節差異可能造成同一節內容不完全對應。詳細來源見 [sources/web/README.md](sources/web/README.md)。
+閱讀檔及來源網址、SHA-256、權利說明等資料保存在 `static/data/web/`。原始下載檔已移除，應用程式不依賴這些檔案。原來源含五個空白節，顯示時會提示缺文，不會補譯或移動編號。版次之間的分節差異可能造成同一節內容不完全對應。詳細來源見 [SOURCES.md](SOURCES.md)。
 
 ```sh
-python3 scripts/import_web.py --check
-# 從已保存的官方 ZIP 重建閱讀檔：
-python3 scripts/import_web.py
+# 如需核對或重建，先另行下載官方 engwebpb_vpl.zip：
+python3 scripts/import_web.py --archive /path/to/engwebpb_vpl.zip --check
+python3 scripts/import_web.py --archive /path/to/engwebpb_vpl.zip
 ```
 
 WEB 經文的公版狀態不受應用程式的 AGPL 授權限制。

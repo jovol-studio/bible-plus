@@ -575,9 +575,15 @@ const books = [
     "category": "典外書卷"
   },
   {
-    "id": "4-ezra",
-    "name": "以斯拉四書",
-    "english": "4 Ezra",
+    "id": "1-esdras",
+    "name": "以斯拉一書",
+    "english": "1 Esdras",
+    "category": "典外書卷"
+  },
+  {
+    "id": "2-esdras",
+    "name": "以斯拉二書",
+    "english": "2 Esdras",
     "category": "典外書卷"
   },
   {

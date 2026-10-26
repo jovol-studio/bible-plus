@@ -8,7 +8,7 @@ The application-code license does not license the bundled scripture texts. See [
 
 ## Current translation coverage
 
-**All nine extension books now have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
+**All ten extension books now have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
@@ -19,7 +19,8 @@ The application-code license does not license the bundled scripture texts. See [
 | Apocalypse of Abraham / 亞伯拉罕啟示錄 | 33 | 33 |
 | Life of Adam and Eve / 亞當和夏娃生平 | 64 | 64 |
 | Testaments of the Twelve Patriarchs / 十二族長遺訓 | 142 | 142 |
-| 4 Ezra / 以斯拉四書 | 12 | 12 |
+| 1 Esdras / 以斯拉一書 | 9 | 9 |
+| 2 Esdras / 以斯拉二書 | 16 | 16 |
 | 2 Baruch / 巴錄二書 | 87 | 87 |
 
 The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. Chinese is a newly produced AI translation of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.
@@ -37,7 +38,8 @@ Eight English works were extracted from [StudyLight's Pseudepigrapha collection]
 | Apocalypse of Abraham | G. H. Box with J. I. Landsman, 1918 |
 | Life of Adam and Eve | L. S. A. Wells, APOT vol. 2, 1913 |
 | Twelve Patriarchs | R. H. Charles, APOT vol. 2, 1913 |
-| 4 Ezra | [World English Bible Classic, 2 Esdras 3–14](https://ebible.org/eng-web/2ES03.htm) |
+| 1 Esdras | [World English Bible Classic, 1 Esdras 1–9](https://ebible.org/eng-web/1ES01.htm) |
+| 2 Esdras | [World English Bible Classic, 2 Esdras 1–16](https://ebible.org/eng-web/2ES01.htm) |
 | 2 Baruch | R. H. Charles, APOT vol. 2, 1913 |
 
 The historical English editions are presented by the hosts as public domain; that designation should not be read as a worldwide rights opinion. In particular, the 1928 Odeberg edition can have different status in countries using the translator's life plus a term. [WEB's publisher explicitly dedicates its text to the public domain](https://ebible.org/eng-web/copyright.htm); the new Chinese translation is not called the World English Bible.
@@ -52,7 +54,8 @@ Published Traditional Chinese editions were found in Christian Literature Counci
 - Apocalypse of Abraham includes a title section plus chapters 1–32. Its source is unversed prose; the reader labels it as text, not invented Bible verse numbers.
 - Life of Adam and Eve is the 51-chapter **Latin Life** plus the source's Slavonic appendix, chapters 28–40. It is not the distinct *Conflict of Adam and Eve with Satan*. Some source combined verse numbers remain within a passage.
 - The Twelve Patriarchs have twelve separately titled testaments with their own chapter numbering. Source manuscript gaps in Zebulun 4, Gad 2 and Joseph 19 are retained. Benjamin 5:5's truncated ending was restored from the [parallel Charles transcription](https://www.earlychristianwritings.com/text/patriarchs-charles.html) and recorded in `source.repairs`.
-- 4 Ezra is the Jewish apocalypse in **2 Esdras chapters 3–14**, retaining those numbers, including all 140 verses of chapter 7. The other works sometimes called 5 Ezra (chapters 1–2) and 6 Ezra (15–16) are excluded.
+- 1 Esdras is a separate nine-chapter work (448 verses), not the canonical book of Ezra. Its own wording, names and verse divisions are preserved rather than harmonized with Ezra, Nehemiah or Chronicles.
+- 2 Esdras combines the existing 5 Ezra (chapters 1–2), 4 Ezra (3–14) and 6 Ezra (15–16) files in chapter order, preserving every English and Chinese passage unchanged, including all 140 verses of chapter 7. The old book IDs redirect to the corresponding chapter of `2-esdras`. These naming conventions do not rename canonical Ezra or Nehemiah. Source URLs, credits and original download hashes remain in the reading JSON files. Downloaded source snapshots have been removed; the app uses the prepared reading files.
 - 2 Baruch includes all 87 source chapters, including the letter.
 - Source headings, bracketed readings and editorial marks are retained where available. These editions differ from modern critical editions. Structural validation is not a scholarly verification of every reading.
 
@@ -85,8 +88,12 @@ The publisher dedicates the text to the public domain and permits redistribution
 The World English Bible name remains a trademark identifying faithful copies.
 
 The official verse-per-line archive was downloaded on 2026-10-25. Its source
-notice identifies the 2020 stable text edition. The archive, publisher notice,
-SHA-256 checksums, and import details are saved in [sources/web/](sources/web/README.md).
+notice identifies the 2020 stable text edition. Source metadata and SHA-256
+checksums remain in each reading file under `static/data/web/`; the downloaded
+archive and publisher-page snapshot have been removed. For archive verification
+or reimport, supply an official [WEBPB VPL archive](https://ebible.org/Scriptures/engwebpb_vpl.zip)
+to `scripts/import_web.py --archive /path/to/engwebpb_vpl.zip` (add `--check`
+to verify without writing). The importer checks the retained hashes.
 All 66 books and 1,189 chapters are included. The 31,103 verse entries preserve
 five blank source entries (Luke 17:36; Acts 8:37, 15:34, 24:7; Romans 16:25),
 which the app marks as unavailable rather than filling or silently renumbering.

@@ -12,10 +12,11 @@ CODES = 'GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH EZR NEH EST JOB
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--archive', type=Path, required=True, help='Path to the official engwebpb_vpl.zip archive.')
     parser.add_argument('--check', action='store_true', help='Verify saved JSON against the original archive without writing.')
     args = parser.parse_args()
-    archive = ROOT / 'sources/web/engwebpb_vpl.zip'
-    source = json.loads((ROOT / 'sources/web/source.json').read_text())
+    archive = args.archive
+    source = json.loads((ROOT / 'static/data/web/bible-0.en.json').read_text())['source']
     assert hashlib.sha256(archive.read_bytes()).hexdigest() == source['archiveSha256'], 'Archive checksum mismatch'
     with ZipFile(archive) as z:
         raw = z.read('engwebpb_vpl.txt')
