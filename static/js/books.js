@@ -540,7 +540,6 @@ const books = [
   },
   {
     "id": "judith",
-    "available": false,
     "name": "猶滴傳",
     "english": "Judith",
     "category": "天主教及東正教增收書卷"
