@@ -1,0 +1,363 @@
+{
+  "id": "prayer-of-azariah",
+  "title": {
+    "en": "Prayer of Azariah and Song of the Three Holy Children",
+    "zh-Hant": "三童歌"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://ebible.org/eng-web/DNG03.htm",
+    "credit": "World English Bible Classic, Prayer of Azariah and Song of the Three Holy Children. Unchanged public-domain English text.",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "rightsNotice": "WEB Classic 英文全文為公版；World English Bible 名稱為商標。",
+    "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
+    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
+    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "retrieved": "2026-10-27",
+    "editionNote": "但以理希臘文補編 3:24–90；App 以 1:1–67 閱讀，逐節記錄原始出處。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "三童歌",
+      "verses": [
+        {
+          "number": "1",
+          "text": "They walked in the midst of the fire, praising God, and blessing the Lord.",
+          "sourceReference": "DNG 3:24"
+        },
+        {
+          "number": "2",
+          "text": "Then Azarias stood, and prayed like this. Opening his mouth in the midst of the fire he said,",
+          "sourceReference": "DNG 3:25"
+        },
+        {
+          "number": "3",
+          "text": "“Blessed are you, O Lord, you God of our fathers! Your name is worthy to be praised and glorified for evermore;",
+          "sourceReference": "DNG 3:26"
+        },
+        {
+          "number": "4",
+          "text": "for you are righteous in all the things that you have done. Yes, all your works are true. Your ways are right, and all your judgments are truth.",
+          "sourceReference": "DNG 3:27"
+        },
+        {
+          "number": "5",
+          "text": "In all the things that you have brought upon us, and upon the holy city of our fathers, Jerusalem, you have executed true judgments. For according to truth and justice you have brought all these things upon us because of our sins.",
+          "sourceReference": "DNG 3:28"
+        },
+        {
+          "number": "6",
+          "text": "For we have sinned and committed iniquity in departing from you.",
+          "sourceReference": "DNG 3:29"
+        },
+        {
+          "number": "7",
+          "text": "In all things we have trespassed, and not obeyed your commandments or kept them. We haven’t done as you have commanded us, that it might go well with us.",
+          "sourceReference": "DNG 3:30"
+        },
+        {
+          "number": "8",
+          "text": "Therefore all that you have brought upon us, and everything that you have done to us, you have done in true judgment.",
+          "sourceReference": "DNG 3:31"
+        },
+        {
+          "number": "9",
+          "text": "You delivered us into the hands of lawless enemies, most hateful rebels, and to an unjust king who is the most wicked in all the world.",
+          "sourceReference": "DNG 3:32"
+        },
+        {
+          "number": "10",
+          "text": "And now we can’t open our mouth. Shame and reproach have come on your servants and those who worship you.",
+          "sourceReference": "DNG 3:33"
+        },
+        {
+          "number": "11",
+          "text": "Don’t utterly deliver us up, for your name’s sake. Don’t annul your covenant.",
+          "sourceReference": "DNG 3:34"
+        },
+        {
+          "number": "12",
+          "text": "Don’t cause your mercy to depart from us, for the sake of Abraham who is loved by you, and for the sake of Isaac your servant, and Israel your holy one,",
+          "sourceReference": "DNG 3:35"
+        },
+        {
+          "number": "13",
+          "text": "to whom you promised that you would multiply their offspring as the stars of the sky, and as the sand that is on the sea shore.",
+          "sourceReference": "DNG 3:36"
+        },
+        {
+          "number": "14",
+          "text": "For we, O Lord, have become less than any nation, and are brought low this day in all the world because of our sins.",
+          "sourceReference": "DNG 3:37"
+        },
+        {
+          "number": "15",
+          "text": "There isn’t at this time prince, or prophet, or leader, or burnt offering, or sacrifice, or oblation, or incense, or place to offer before you, and to find mercy.",
+          "sourceReference": "DNG 3:38"
+        },
+        {
+          "number": "16",
+          "text": "Nevertheless in a contrite heart and a humble spirit let us be accepted,",
+          "sourceReference": "DNG 3:39"
+        },
+        {
+          "number": "17",
+          "text": "like the burnt offerings of rams and bullocks, and like ten thousands of fat lambs. So let our sacrifice be in your sight this day, that we may wholly go after you, for they shall not be ashamed who put their trust in you.",
+          "sourceReference": "DNG 3:40"
+        },
+        {
+          "number": "18",
+          "text": "And now we follow you with all our heart. We fear you, and seek your face.",
+          "sourceReference": "DNG 3:41"
+        },
+        {
+          "number": "19",
+          "text": "Put us not to shame; but deal with us after your kindness, and according to the multitude of your mercy.",
+          "sourceReference": "DNG 3:42"
+        },
+        {
+          "number": "20",
+          "text": "Deliver us also according to your marvelous works, and give glory to your name, O Lord. Let all those who harm your servants be confounded.",
+          "sourceReference": "DNG 3:43"
+        },
+        {
+          "number": "21",
+          "text": "Let them be ashamed of all their power and might, and let their strength be broken.",
+          "sourceReference": "DNG 3:44"
+        },
+        {
+          "number": "22",
+          "text": "Let them know that you are the Lord, the only God, and glorious over the whole world.”",
+          "sourceReference": "DNG 3:45"
+        },
+        {
+          "number": "23",
+          "text": "The king’s servants who put them in didn’t stop making the furnace hot with naphtha, pitch, tinder, and small wood,",
+          "sourceReference": "DNG 3:46"
+        },
+        {
+          "number": "24",
+          "text": "so that the flame streamed out forty nine cubits above the furnace.",
+          "sourceReference": "DNG 3:47"
+        },
+        {
+          "number": "25",
+          "text": "It spread and burned those Chaldeans whom it found around the furnace.",
+          "sourceReference": "DNG 3:48"
+        },
+        {
+          "number": "26",
+          "text": "But the angel of the Lord came down into the furnace together with Azarias and his fellows, and he struck the flame of the fire out of the furnace,",
+          "sourceReference": "DNG 3:49"
+        },
+        {
+          "number": "27",
+          "text": "and made the midst of the furnace as it had been a moist whistling wind, so that the fire didn’t touch them at all. It neither hurt nor troubled them.",
+          "sourceReference": "DNG 3:50"
+        },
+        {
+          "number": "28",
+          "text": "Then the three, as out of one mouth, praised, glorified, and blessed God in the furnace, saying,",
+          "sourceReference": "DNG 3:51"
+        },
+        {
+          "number": "29",
+          "text": "“Blessed are you, O Lord, you God of our fathers, to be praised and exalted above all forever!",
+          "sourceReference": "DNG 3:52"
+        },
+        {
+          "number": "30",
+          "text": "Blessed is your glorious and holy name, to be praised and exalted above all forever!",
+          "sourceReference": "DNG 3:53"
+        },
+        {
+          "number": "31",
+          "text": "Blessed are you in the temple of your holy glory, to be praised and glorified above all forever!",
+          "sourceReference": "DNG 3:54"
+        },
+        {
+          "number": "32",
+          "text": "Blessed are you who see the depths and sit upon the cherubim, to be praised and exalted above all forever.",
+          "sourceReference": "DNG 3:55"
+        },
+        {
+          "number": "33",
+          "text": "Blessed are you on the throne of your kingdom, to be praised and extolled above all forever!",
+          "sourceReference": "DNG 3:56"
+        },
+        {
+          "number": "34",
+          "text": "Blessed are you in the firmament of heaven, to be praised and glorified forever!",
+          "sourceReference": "DNG 3:57"
+        },
+        {
+          "number": "35",
+          "text": "O all you works of the Lord, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:58"
+        },
+        {
+          "number": "36",
+          "text": "O you heavens, bless the Lord! Praise and exalt him above all for ever!",
+          "sourceReference": "DNG 3:59"
+        },
+        {
+          "number": "37",
+          "text": "O you angels of the Lord, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:60"
+        },
+        {
+          "number": "38",
+          "text": "O all you waters that are above the sky, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:61"
+        },
+        {
+          "number": "39",
+          "text": "O all you powers of the Lord, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:62"
+        },
+        {
+          "number": "40",
+          "text": "O you sun and moon, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:63"
+        },
+        {
+          "number": "41",
+          "text": "O you stars of heaven, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:64"
+        },
+        {
+          "number": "42",
+          "text": "O every shower and dew, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:65"
+        },
+        {
+          "number": "43",
+          "text": "O all you winds, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:66"
+        },
+        {
+          "number": "44",
+          "text": "O you fire and heat, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:67"
+        },
+        {
+          "number": "45",
+          "text": "O you dews and storms of snow, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:68"
+        },
+        {
+          "number": "46",
+          "text": "O you nights and days, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:69"
+        },
+        {
+          "number": "47",
+          "text": "O you light and darkness, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:70"
+        },
+        {
+          "number": "48",
+          "text": "O you cold and heat, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:71"
+        },
+        {
+          "number": "49",
+          "text": "O you frost and snow, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:72"
+        },
+        {
+          "number": "50",
+          "text": "O you lightnings and clouds, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:73"
+        },
+        {
+          "number": "51",
+          "text": "O let the earth bless the Lord! Let it praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:74"
+        },
+        {
+          "number": "52",
+          "text": "O you mountains and hills, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:75"
+        },
+        {
+          "number": "53",
+          "text": "O all you things that grow on the earth, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:76"
+        },
+        {
+          "number": "54",
+          "text": "O sea and rivers, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:77"
+        },
+        {
+          "number": "55",
+          "text": "O you springs, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:78"
+        },
+        {
+          "number": "56",
+          "text": "O you whales and all that move in the waters, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:79"
+        },
+        {
+          "number": "57",
+          "text": "O all you birds of the air, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:80"
+        },
+        {
+          "number": "58",
+          "text": "O all you beasts and cattle, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:81"
+        },
+        {
+          "number": "59",
+          "text": "O you children of men, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:82"
+        },
+        {
+          "number": "60",
+          "text": "O let Israel bless the Lord! Praise and exalt him above all forever.",
+          "sourceReference": "DNG 3:83"
+        },
+        {
+          "number": "61",
+          "text": "O you priests of the Lord, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:84"
+        },
+        {
+          "number": "62",
+          "text": "O you servants of the Lord, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:85"
+        },
+        {
+          "number": "63",
+          "text": "O you spirits and souls of the righteous, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:86"
+        },
+        {
+          "number": "64",
+          "text": "O you who are holy and humble of heart, bless the Lord! Praise and exalt him above all forever!",
+          "sourceReference": "DNG 3:87"
+        },
+        {
+          "number": "65",
+          "text": "O Hananiah, Mishael, and Azariah, bless the Lord! Praise and exalt him above all forever; for he has rescued us from Hades, and saved us from the hand of death! He has delivered us out of the midst of the furnace and burning flame. He has delivered us out of the midst of the fire.",
+          "sourceReference": "DNG 3:88"
+        },
+        {
+          "number": "66",
+          "text": "O give thanks to the Lord, for he is good; for his mercy is forever.",
+          "sourceReference": "DNG 3:89"
+        },
+        {
+          "number": "67",
+          "text": "O all you who worship the Lord, bless the God of gods, praise him, and give him thanks; for his mercy is forever!”",
+          "sourceReference": "DNG 3:90"
+        }
+      ]
+    }
+  ]
+}

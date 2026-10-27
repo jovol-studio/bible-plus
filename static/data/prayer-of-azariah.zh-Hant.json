@@ -1,0 +1,498 @@
+{
+  "id": "prayer-of-azariah",
+  "title": {
+    "en": "Prayer of Azariah and Song of the Three Holy Children",
+    "zh-Hant": "三童歌"
+  },
+  "language": "zh-Hant",
+  "source": {
+    "url": "https://bible.fhl.net/new/readsub.php?chineses=%E7%AB%A5&chap=1&VERSION1=c1933&TABFLAG=0",
+    "credit": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。",
+    "rightsUrl": "https://fhl.net/main/fhl/fhl8.html",
+    "rightsNotice": "1933 年中華聖公會書籍委員會譯本；信望愛來源聲明列為已逾保護期之中文次經。保留來源署名。",
+    "editionNote": "直接收錄信望愛所載 1933 年聖公會中文舊譯，保留來源字句及標點；不是本 App 新譯。閱讀節號配合所收錄的 WEB 英文，原中文節號記錄於 sourceReferences。 中文底本共 68 節，WEB 共 67 節；讚歌順序不同，按內容對齊。中文 47–48 節合列於閱讀第 49 節，所有 68 節均保留。",
+    "retrieved": "2026-10-27",
+    "chapterSourceSha256": {
+      "1": "b677b5cbcfe42be1f274119b4156765b66f6d7f7100108b1a7a3252c7e7f4aa5"
+    }
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "第 1 章",
+      "section": "三童歌",
+      "verses": [
+        {
+          "number": "1",
+          "text": "他們在火燄中行走、歌頌上帝、又稱謝主。",
+          "sourceReferences": [
+            "1:1"
+          ]
+        },
+        {
+          "number": "2",
+          "text": "亞薩利亞立起來、這樣的禱告、在火燄中開口說：",
+          "sourceReferences": [
+            "1:2"
+          ]
+        },
+        {
+          "number": "3",
+          "text": "唯願主我們祖宗的上帝受稱頌、你是配受讚美、你的名當受尊榮、直到永遠、",
+          "sourceReferences": [
+            "1:3"
+          ]
+        },
+        {
+          "number": "4",
+          "text": "因爲你所行的各件事都是公義的、你的作爲都是信實的、你的道路是正直的、你的審判也是誠實的、",
+          "sourceReferences": [
+            "1:4"
+          ]
+        },
+        {
+          "number": "5",
+          "text": "你所加給我們的這些事、和加給我們祖宗的聖城耶路撒冷的這些事、都是你爲執行誠實的判斷、你照着誠實與公義使這些事臨到我們身上、是因爲我們的罪孽。",
+          "sourceReferences": [
+            "1:5"
+          ]
+        },
+        {
+          "number": "6",
+          "text": "我們犯罪作惡、遠離了你、",
+          "sourceReferences": [
+            "1:6"
+          ]
+        },
+        {
+          "number": "7",
+          "text": "在各樣的事上冒犯了你、沒有遵從你的誡命、或是持守你的誡命、沒有按着你的命令行、好使我們諸事順利、",
+          "sourceReferences": [
+            "1:7"
+          ]
+        },
+        {
+          "number": "8",
+          "text": "故此你所降給我們的苦難、和向我們所行的事、都是按着誠實的判斷而行的。",
+          "sourceReferences": [
+            "1:8"
+          ]
+        },
+        {
+          "number": "9",
+          "text": "你將我們交與不法的仇敵的手裏、就是那最可憎惡、叛逆上帝的人的手裏、又將我們交與不公平的王、就是那普世界最暴虐的王的手裏。",
+          "sourceReferences": [
+            "1:9"
+          ]
+        },
+        {
+          "number": "10",
+          "text": "現在我們不能開口、因爲你的僕人和那些敬拜你的衆人、都自覺羞愧、當受唾罵。",
+          "sourceReferences": [
+            "1:10"
+          ]
+        },
+        {
+          "number": "11",
+          "text": "但是求你因爲你的名、不將我們完全的交與他們、也不要廢棄你向我們所立的約。",
+          "sourceReferences": [
+            "1:11"
+          ]
+        },
+        {
+          "number": "12",
+          "text": "求主爲你所愛的亞伯拉罕、爲你的僕人以撒、爲你的聖人以色列、不要使你的憐憫離開我們。",
+          "sourceReferences": [
+            "1:12"
+          ]
+        },
+        {
+          "number": "13",
+          "text": "你已經應許了他們、使他們的後裔繁多、如天上的星、海邊的沙。",
+          "sourceReferences": [
+            "1:13"
+          ]
+        },
+        {
+          "number": "14",
+          "text": "主阿！我們的人數比那一國都少、我們的地位如今在全世界中是最低的、都是因爲我們的罪孽。",
+          "sourceReferences": [
+            "1:14"
+          ]
+        },
+        {
+          "number": "15",
+          "text": "當這個時候我們沒有君王、沒有先知、沒有領袖、又沒有燔祭、沒有祭品、沒有禮物、沒有香料、更無地可以在你面前獻祭、蒙你的憐憫。",
+          "sourceReferences": [
+            "1:15"
+          ]
+        },
+        {
+          "number": "16",
+          "text": "雖然如此、但我們有痛悔的心、謙卑的靈、所以我們求主悅納、",
+          "sourceReferences": [
+            "1:16"
+          ]
+        },
+        {
+          "number": "17",
+          "text": "就如我們獻上了牡羊牡犢、爲火焚祭、獻上了一萬隻肥羊。求主使我們今日的祭物在你眼中都是如此。更求你使我們完全跟從你、因爲凡倚靠你的、决不致受羞辱。",
+          "sourceReferences": [
+            "1:17"
+          ]
+        },
+        {
+          "number": "18",
+          "text": "現在我們盡心的跟從你、敬畏你、要求見你的面。",
+          "sourceReferences": [
+            "1:18"
+          ]
+        },
+        {
+          "number": "19",
+          "text": "不要呌我們遭羞辱、只求照着你的寬容、和你無窮的慈悲、看待我們；",
+          "sourceReferences": [
+            "1:19"
+          ]
+        },
+        {
+          "number": "20",
+          "text": "照着你從前的異能、現今仍然拯救我們、歸榮耀與你的聖名。主阿！願那些殘害你僕人的都受辱蒙羞。",
+          "sourceReferences": [
+            "1:20"
+          ]
+        },
+        {
+          "number": "21",
+          "text": "求主奪回他們的王權與威能、破壞他們的勢力、",
+          "sourceReferences": [
+            "1:21"
+          ]
+        },
+        {
+          "number": "22",
+          "text": "使他們知道你是獨一無二的主、是治理全世界而有榮耀的上帝。",
+          "sourceReferences": [
+            "1:22"
+          ]
+        },
+        {
+          "number": "23",
+          "text": "王的僕人扔他們在火窰中、仍然繼續不斷的用汽油、栢油、粗蔴、和小劈柴、使窰火更炎烈、",
+          "sourceReferences": [
+            "1:23"
+          ]
+        },
+        {
+          "number": "24",
+          "text": "以致火燄自窰門上騰、高至四十九尺（原文作肘）、",
+          "sourceReferences": [
+            "1:24"
+          ]
+        },
+        {
+          "number": "25",
+          "text": "火燄蔓延、以致燒死了火窰四圍的迦勒底人。",
+          "sourceReferences": [
+            "1:25"
+          ]
+        },
+        {
+          "number": "26",
+          "text": "但是主的天使下到窰中、與亞薩利亞、並他的同伴同居、又驅逐火燄出離窰門、",
+          "sourceReferences": [
+            "1:26"
+          ]
+        },
+        {
+          "number": "27",
+          "text": "使窰中有如降霜露時的風、所以火一點不能挨近他們、更不能傷害他們、或是煩擾他們。",
+          "sourceReferences": [
+            "1:27"
+          ]
+        },
+        {
+          "number": "28",
+          "text": "於是這三個人在火燄中同聲的讚美上帝、歌頌上帝、稱謝上帝說：",
+          "sourceReferences": [
+            "1:28"
+          ]
+        },
+        {
+          "number": "29",
+          "text": "主我們祖宗的上帝、當受稱謝；讚美主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:29"
+          ]
+        },
+        {
+          "number": "30",
+          "text": "主榮耀的聖名當受稱謝；讚美主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:30"
+          ]
+        },
+        {
+          "number": "31",
+          "text": "主在榮耀的聖殿中、當受稱謝、大受歌頌；讚美主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:31"
+          ]
+        },
+        {
+          "number": "32",
+          "text": "鑒察深淵的主、坐在基路伯上的主、當受稱謝；讚美主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:32"
+          ]
+        },
+        {
+          "number": "33",
+          "text": "在國中坐寶座的主、當受稱謝；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:33"
+          ]
+        },
+        {
+          "number": "34",
+          "text": "願在穹蒼之上的主受稱謝；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:34"
+          ]
+        },
+        {
+          "number": "35",
+          "text": "主所造的萬物當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:35"
+          ]
+        },
+        {
+          "number": "36",
+          "text": "諸天當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:37"
+          ]
+        },
+        {
+          "number": "37",
+          "text": "主的使者當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:36"
+          ]
+        },
+        {
+          "number": "38",
+          "text": "穹蒼上諸水當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:38"
+          ]
+        },
+        {
+          "number": "39",
+          "text": "主的萬軍當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:39"
+          ]
+        },
+        {
+          "number": "40",
+          "text": "日月當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:40"
+          ]
+        },
+        {
+          "number": "41",
+          "text": "天上諸星當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:41"
+          ]
+        },
+        {
+          "number": "42",
+          "text": "雨露當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:42"
+          ]
+        },
+        {
+          "number": "43",
+          "text": "諸風當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:43"
+          ]
+        },
+        {
+          "number": "44",
+          "text": "火和熱當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:44"
+          ]
+        },
+        {
+          "number": "45",
+          "text": "霜露當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:46"
+          ]
+        },
+        {
+          "number": "46",
+          "text": "晝夜當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:49"
+          ]
+        },
+        {
+          "number": "47",
+          "text": "光暗當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:50"
+          ]
+        },
+        {
+          "number": "48",
+          "text": "冬夏當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:45"
+          ]
+        },
+        {
+          "number": "49",
+          "text": "凍和冷當稱謝主；歌頌主爲至高、永世無盡。\n冰雪當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:47",
+            "1:48"
+          ]
+        },
+        {
+          "number": "50",
+          "text": "電雲當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:51"
+          ]
+        },
+        {
+          "number": "51",
+          "text": "大地當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:52"
+          ]
+        },
+        {
+          "number": "52",
+          "text": "山岡都當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:53"
+          ]
+        },
+        {
+          "number": "53",
+          "text": "地上的草木當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:54"
+          ]
+        },
+        {
+          "number": "54",
+          "text": "河海當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:56"
+          ]
+        },
+        {
+          "number": "55",
+          "text": "諸井泉當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:55"
+          ]
+        },
+        {
+          "number": "56",
+          "text": "鯨魚、和一切水中游泳的生物當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:57"
+          ]
+        },
+        {
+          "number": "57",
+          "text": "空中一切雀鳥當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:58"
+          ]
+        },
+        {
+          "number": "58",
+          "text": "六畜野獸都當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:59"
+          ]
+        },
+        {
+          "number": "59",
+          "text": "世人當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:60"
+          ]
+        },
+        {
+          "number": "60",
+          "text": "以色列民當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:61"
+          ]
+        },
+        {
+          "number": "61",
+          "text": "主的衆祭司當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:62"
+          ]
+        },
+        {
+          "number": "62",
+          "text": "主的衆僕人當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:63"
+          ]
+        },
+        {
+          "number": "63",
+          "text": "義人的靈魂當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:64"
+          ]
+        },
+        {
+          "number": "64",
+          "text": "聖潔心謙的人當稱謝主；歌頌主爲至高、永世無盡。",
+          "sourceReferences": [
+            "1:65"
+          ]
+        },
+        {
+          "number": "65",
+          "text": "哈拏尼亞、雅撒哩亞、米煞利、當稱謝主；歌頌主爲至高、永世無盡。因爲主輔助我們脫離了陰府、救護我們避免了死亡的權勢、拯救我們出了炎烈的火窰、由火燄中將我們救出來了。",
+          "sourceReferences": [
+            "1:66"
+          ]
+        },
+        {
+          "number": "66",
+          "text": "你們當稱謝主、因主至善；主的恩典永遠常存。",
+          "sourceReferences": [
+            "1:67"
+          ]
+        },
+        {
+          "number": "67",
+          "text": "凡敬拜主的都當稱謝萬神之神、歌頌主、感謝主；因爲主的恩典永遠常存。",
+          "sourceReferences": [
+            "1:68"
+          ]
+        }
+      ]
+    }
+  ]
+}

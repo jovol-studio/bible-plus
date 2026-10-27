@@ -1,0 +1,63 @@
+{
+  "id": "psalm-151",
+  "title": {
+    "en": "Psalm 151",
+    "zh-Hant": "詩篇第151篇"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://ebible.org/eng-web/PSX01.htm",
+    "credit": "World English Bible Classic, Psalm 151. Unchanged public-domain English text.",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "rightsNotice": "WEB Classic 英文全文為公版；World English Bible 名稱為商標。",
+    "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
+    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
+    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "retrieved": "2026-10-27",
+    "editionNote": "詩篇第 151 篇；App 以單章閱讀。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "詩篇第151篇",
+      "verses": [
+        {
+          "number": "1",
+          "text": "This Psalm is a genuine one of David, though extra, composed when he fought in single combat with Goliath. I was small among my brothers, and youngest in my father’s house. I tended my father’s sheep.",
+          "sourceReference": "PSX 1:1"
+        },
+        {
+          "number": "2",
+          "text": "My hands formed a musical instrument, and my fingers tuned a lyre.",
+          "sourceReference": "PSX 1:2"
+        },
+        {
+          "number": "3",
+          "text": "Who shall tell my Lord? The Lord himself, he himself hears.",
+          "sourceReference": "PSX 1:3"
+        },
+        {
+          "number": "4",
+          "text": "He sent forth his angel and took me from my father’s sheep, and he anointed me with his anointing oil.",
+          "sourceReference": "PSX 1:4"
+        },
+        {
+          "number": "5",
+          "text": "My brothers were handsome and tall; but the Lord didn’t take pleasure in them.",
+          "sourceReference": "PSX 1:5"
+        },
+        {
+          "number": "6",
+          "text": "I went out to meet the Philistine, and he cursed me by his idols.",
+          "sourceReference": "PSX 1:6"
+        },
+        {
+          "number": "7",
+          "text": "But I drew his own sword and beheaded him, and removed reproach from the children of Israel.",
+          "sourceReference": "PSX 1:7"
+        }
+      ]
+    }
+  ]
+}

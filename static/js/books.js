@@ -576,7 +576,6 @@ const books = [
   },
   {
     "id": "baruch",
-    "available": false,
     "name": "巴錄書",
     "english": "Baruch",
     "category": "天主教及東正教增收書卷"
@@ -589,21 +588,18 @@ const books = [
   },
   {
     "id": "prayer-of-azariah",
-    "available": false,
     "name": "三童歌",
     "english": "Prayer of Azariah and Song of the Three Holy Children",
     "category": "天主教及東正教增收書卷"
   },
   {
     "id": "susanna",
-    "available": false,
     "name": "蘇撒拿傳",
     "english": "Susanna",
     "category": "天主教及東正教增收書卷"
   },
   {
     "id": "bel-and-the-dragon",
-    "available": false,
     "name": "比勒與大龍",
     "english": "Bel and the Dragon",
     "category": "天主教及東正教增收書卷"
@@ -616,28 +612,24 @@ const books = [
   },
   {
     "id": "3-maccabees",
-    "available": false,
     "name": "馬加比三書",
     "english": "3 Maccabees",
     "category": "東正教增收書卷"
   },
   {
     "id": "psalm-151",
-    "available": false,
     "name": "詩篇第151篇",
     "english": "Psalm 151",
     "category": "東正教增收書卷"
   },
   {
     "id": "prayer-of-manasseh",
-    "available": false,
     "name": "瑪拿西禱言",
     "english": "Prayer of Manasseh",
     "category": "東正教增收書卷"
   },
   {
     "id": "4-maccabees",
-    "available": false,
     "name": "馬加比四書（附錄）",
     "english": "4 Maccabees",
     "category": "東正教增收書卷",
@@ -651,63 +643,54 @@ const books = [
   },
   {
     "id": "1-clement",
-    "available": false,
     "name": "革利免前書",
     "english": "1 Clement",
     "category": "新約次經"
   },
   {
     "id": "2-clement",
-    "available": false,
     "name": "革利免後書",
     "english": "2 Clement",
     "category": "新約次經"
   },
   {
     "id": "letters-of-ignatius",
-    "available": false,
     "name": "依格那丟七書",
     "english": "Seven Letters of Ignatius",
     "category": "新約次經"
   },
   {
     "id": "epistle-of-polycarp",
-    "available": false,
     "name": "波利甲書",
     "english": "Epistle of Polycarp",
     "category": "新約次經"
   },
   {
     "id": "martyrdom-of-polycarp",
-    "available": false,
     "name": "波利甲殉道記",
     "english": "Martyrdom of Polycarp",
     "category": "新約次經"
   },
   {
     "id": "didache",
-    "available": false,
     "name": "十二使徒遺訓",
     "english": "Didache",
     "category": "新約次經"
   },
   {
     "id": "epistle-of-barnabas",
-    "available": false,
     "name": "巴拿巴書",
     "english": "Epistle of Barnabas",
     "category": "新約次經"
   },
   {
     "id": "shepherd-of-hermas",
-    "available": false,
     "name": "黑馬牧人書",
     "english": "Shepherd of Hermas",
     "category": "新約次經"
   },
   {
     "id": "fragments-of-papias",
-    "available": false,
     "name": "帕皮亞殘篇",
     "english": "Fragments of Papias",
     "category": "新約次經"
@@ -744,7 +727,6 @@ const books = [
   },
   {
     "id": "testament-of-abraham",
-    "available": false,
     "name": "亞伯拉罕遺訓",
     "english": "Testament of Abraham",
     "category": "典外書卷 / 偽經"
@@ -763,14 +745,12 @@ const books = [
   },
   {
     "id": "testament-of-moses",
-    "available": false,
     "name": "摩西遺訓",
     "english": "Testament of Moses",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "martyrdom-of-isaiah",
-    "available": false,
     "name": "以賽亞殉道記",
     "english": "Martyrdom of Isaiah",
     "category": "典外書卷 / 偽經"
@@ -783,81 +763,72 @@ const books = [
   },
   {
     "id": "psalms-of-solomon",
-    "available": false,
     "name": "所羅門詩篇",
     "english": "Psalms of Solomon",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "sibylline-oracles-3",
-    "available": false,
     "name": "西卜神諭篇卷三",
     "english": "Sibylline Oracles, Book 3",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "war-scroll",
-    "available": false,
+    "referenceUrl": "https://www.qumran.org/js/qumran/hss/1qm",
+    "catalogNote": "已收錄使用者提供的英文 HTML，按 1QM 第 1–19 欄及行號閱讀；保留缺文與來源拼寫，未另作中文翻譯。",
     "name": "戰卷",
     "english": "War Scroll",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "gospel-of-thomas",
-    "available": false,
     "name": "多馬福音",
     "english": "Gospel of Thomas",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "gospel-of-philip",
-    "available": false,
     "name": "腓力福音",
     "english": "Gospel of Philip",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "gospel-of-judas",
-    "available": false,
     "name": "猶大福音",
     "english": "Gospel of Judas",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "gospel-of-peter",
-    "available": false,
     "name": "彼得福音",
     "english": "Gospel of Peter",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "gospel-of-the-egyptians",
-    "available": false,
     "name": "埃及人福音",
     "english": "Gospel of the Egyptians",
     "category": "典外書卷 / 偽經",
-    "catalogNote": "同名作品及具體文本版本尚待核實。"
+    "catalogNote": "收錄希臘文作品現存引文殘篇；不是同名科普特《大不可見靈聖書》。"
   },
   {
     "id": "gospel-of-mary",
-    "available": false,
     "name": "抹大拉的馬利亞福音",
     "english": "Gospel of Mary",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "gospel-of-barnabas",
-    "available": false,
     "name": "巴拿巴福音",
     "english": "Gospel of Barnabas",
     "category": "典外書卷 / 偽經"
   },
   {
     "id": "shuitu-xingji",
-    "available": false,
     "name": "水徒行紀",
     "english": "The Aquarian Gospel of Jesus the Christ",
     "category": "典外書卷 / 偽經",
-    "catalogNote": "Levi H. Dowling 於 1908 年出版的近代宗教著作，並非古代《彼得福音》。具體收錄版本尚待選定。"
+    "catalogNote": "Levi H. Dowling 於 1908 年出版的近代宗教著作，採 Project Gutenberg 英文版，並非古代《彼得福音》。"
   }
 ];

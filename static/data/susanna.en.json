@@ -1,0 +1,348 @@
+{
+  "id": "susanna",
+  "title": {
+    "en": "Susanna",
+    "zh-Hant": "蘇撒拿傳"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://ebible.org/eng-web/DNG13.htm",
+    "credit": "World English Bible Classic, Susanna. Unchanged public-domain English text.",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "rightsNotice": "WEB Classic 英文全文為公版；World English Bible 名稱為商標。",
+    "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
+    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
+    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "retrieved": "2026-10-27",
+    "editionNote": "但以理希臘文補編第 13 章；App 獨立列作第 1 章。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "蘇撒拿傳",
+      "verses": [
+        {
+          "number": "1",
+          "text": "A man lived in Babylon, and his name was Joakim.",
+          "sourceReference": "DNG 13:1"
+        },
+        {
+          "number": "2",
+          "text": "He took a wife, whose name was Susanna, the daughter of Helkias, a very fair woman, and one who feared the Lord.",
+          "sourceReference": "DNG 13:2"
+        },
+        {
+          "number": "3",
+          "text": "Her parents were also righteous, and taught their daughter according to the law of Moses.",
+          "sourceReference": "DNG 13:3"
+        },
+        {
+          "number": "4",
+          "text": "Now Joakim was a great rich man, and had a beautiful garden next to his house. The Jews used to come to him, because he was more honorable than all others.",
+          "sourceReference": "DNG 13:4"
+        },
+        {
+          "number": "5",
+          "text": "The same year, two of the elders of the people were appointed to be judges, such as the Lord spoke of, that wickedness came from Babylon from elders who were judges, who were supposed to govern the people.",
+          "sourceReference": "DNG 13:5"
+        },
+        {
+          "number": "6",
+          "text": "These were often at Joakim’s house. All that had any lawsuits came to them.",
+          "sourceReference": "DNG 13:6"
+        },
+        {
+          "number": "7",
+          "text": "When the people departed away at noon, Susanna went into her husband’s garden to walk.",
+          "sourceReference": "DNG 13:7"
+        },
+        {
+          "number": "8",
+          "text": "The two elders saw her going in every day and walking; and they were inflamed with lust for her.",
+          "sourceReference": "DNG 13:8"
+        },
+        {
+          "number": "9",
+          "text": "They perverted their own mind and turned away their eyes, that they might not look to heaven, nor remember just judgments.",
+          "sourceReference": "DNG 13:9"
+        },
+        {
+          "number": "10",
+          "text": "And although they both were wounded with lust for her, yet dared not show the other his grief.",
+          "sourceReference": "DNG 13:10"
+        },
+        {
+          "number": "11",
+          "text": "For they were ashamed to declare their lust, what they desired to do with her.",
+          "sourceReference": "DNG 13:11"
+        },
+        {
+          "number": "12",
+          "text": "Yet they watched eagerly from day to day to see her.",
+          "sourceReference": "DNG 13:12"
+        },
+        {
+          "number": "13",
+          "text": "The one said to the other, “Let’s go home, now; for it is dinner time.”",
+          "sourceReference": "DNG 13:13"
+        },
+        {
+          "number": "14",
+          "text": "So when they had gone out, they parted company, and turning back again, they came to the same place. After they had asked one another the cause, they acknowledged their lust. Then they appointed a time both together, when they might find her alone.",
+          "sourceReference": "DNG 13:14"
+        },
+        {
+          "number": "15",
+          "text": "It happened, as they watched on an opportune day, she went in as before with only two maids, and she desired to wash herself in the garden; for it was hot.",
+          "sourceReference": "DNG 13:15"
+        },
+        {
+          "number": "16",
+          "text": "There was nobody there except the two elders who had hid themselves and watched her.",
+          "sourceReference": "DNG 13:16"
+        },
+        {
+          "number": "17",
+          "text": "Then she said to her maids, “Bring me olive oil and ointment, and shut the garden doors, that I may wash myself.”",
+          "sourceReference": "DNG 13:17"
+        },
+        {
+          "number": "18",
+          "text": "They did as she asked them and shut the garden doors, and went out themselves at the side doors to fetch the things that she had commanded them. They didn’t see the elders, because they were hidden.",
+          "sourceReference": "DNG 13:18"
+        },
+        {
+          "number": "19",
+          "text": "Now when the maids had gone out, the two elders rose up and ran to her, saying,",
+          "sourceReference": "DNG 13:19"
+        },
+        {
+          "number": "20",
+          "text": "“Behold, the garden doors are shut, that no man can see us, and we are in love with you. Therefore consent to us, and lie with us.",
+          "sourceReference": "DNG 13:20"
+        },
+        {
+          "number": "21",
+          "text": "If you will not, we will testify against you, that a young man was with you; therefore you sent your maids away from you.”",
+          "sourceReference": "DNG 13:21"
+        },
+        {
+          "number": "22",
+          "text": "Then Susanna sighed, and said, “I am trapped; for if I do this thing, it is death to me. If I don’t do it, I can’t escape your hands.",
+          "sourceReference": "DNG 13:22"
+        },
+        {
+          "number": "23",
+          "text": "It is better for me to fall into your hands, and not do it, than to sin in the sight of the Lord.”",
+          "sourceReference": "DNG 13:23"
+        },
+        {
+          "number": "24",
+          "text": "With that Susanna cried with a loud voice; and the two elders cried out against her.",
+          "sourceReference": "DNG 13:24"
+        },
+        {
+          "number": "25",
+          "text": "Then one of them ran and opened the garden doors.",
+          "sourceReference": "DNG 13:25"
+        },
+        {
+          "number": "26",
+          "text": "So when the servants of the house heard the cry in the garden, they rushed in at the side door to see what had happened to her.",
+          "sourceReference": "DNG 13:26"
+        },
+        {
+          "number": "27",
+          "text": "But when the elders had told their tale, the servants were greatly ashamed; for there was never such a report made of Susanna.",
+          "sourceReference": "DNG 13:27"
+        },
+        {
+          "number": "28",
+          "text": "It came to pass on the next day, when the people assembled to her husband Joakim, the two elders came full of their wicked intent against Susanna to put her to death,",
+          "sourceReference": "DNG 13:28"
+        },
+        {
+          "number": "29",
+          "text": "and said before the people, “Send for Susanna, the daughter of Helkias, Joakim’s wife.” So they sent;",
+          "sourceReference": "DNG 13:29"
+        },
+        {
+          "number": "30",
+          "text": "and she came with her father and mother, her children, and all her kindred.",
+          "sourceReference": "DNG 13:30"
+        },
+        {
+          "number": "31",
+          "text": "Now Susanna was a very delicate woman, and beautiful to behold.",
+          "sourceReference": "DNG 13:31"
+        },
+        {
+          "number": "32",
+          "text": "These wicked men commanded her to be unveiled, for she was veiled, that they might be filled with her beauty.",
+          "sourceReference": "DNG 13:32"
+        },
+        {
+          "number": "33",
+          "text": "Therefore her friends and all who saw her wept.",
+          "sourceReference": "DNG 13:33"
+        },
+        {
+          "number": "34",
+          "text": "Then the two elders stood up in the midst of the people and laid their hands upon her head.",
+          "sourceReference": "DNG 13:34"
+        },
+        {
+          "number": "35",
+          "text": "She, weeping, looked up toward heaven; for her heart trusted in the Lord.",
+          "sourceReference": "DNG 13:35"
+        },
+        {
+          "number": "36",
+          "text": "The elders said, “As we walked in the garden alone, this woman came in with two maids, shut the garden doors, and sent the maids away.",
+          "sourceReference": "DNG 13:36"
+        },
+        {
+          "number": "37",
+          "text": "Then a young man who was hidden there came to her and lay with her.",
+          "sourceReference": "DNG 13:37"
+        },
+        {
+          "number": "38",
+          "text": "And we, being in a corner of the garden, saw this wickedness and ran to them.",
+          "sourceReference": "DNG 13:38"
+        },
+        {
+          "number": "39",
+          "text": "And when we saw them together, we couldn’t hold the man; for he was stronger than we, and opened the doors, and leaped out.",
+          "sourceReference": "DNG 13:39"
+        },
+        {
+          "number": "40",
+          "text": "But having taken this woman, we asked who the young man was, but she would not tell us. We testify these things.",
+          "sourceReference": "DNG 13:40"
+        },
+        {
+          "number": "41",
+          "text": "Then the assembly believed them, as those who were elders of the people and judges; so they condemned her to death.",
+          "sourceReference": "DNG 13:41"
+        },
+        {
+          "number": "42",
+          "text": "Then Susanna cried out with a loud voice, and said, “O everlasting God, you know the secrets, and know all things before they happen.",
+          "sourceReference": "DNG 13:42"
+        },
+        {
+          "number": "43",
+          "text": "You know that they have testified falsely against me. Behold, I must die, even though I never did such things as these men have maliciously invented against me.”",
+          "sourceReference": "DNG 13:43"
+        },
+        {
+          "number": "44",
+          "text": "The Lord heard her voice.",
+          "sourceReference": "DNG 13:44"
+        },
+        {
+          "number": "45",
+          "text": "Therefore when she was led away to be put to death, God raised up the holy spirit of a young youth, whose name was Daniel.",
+          "sourceReference": "DNG 13:45"
+        },
+        {
+          "number": "46",
+          "text": "He cried with a loud voice, “I am clear from the blood of this woman!”",
+          "sourceReference": "DNG 13:46"
+        },
+        {
+          "number": "47",
+          "text": "Then all the people turned them toward him, and said, “What do these words that you have spoken mean?”",
+          "sourceReference": "DNG 13:47"
+        },
+        {
+          "number": "48",
+          "text": "So he, standing in the midst of them, said, “Are you all such fools, you sons of Israel, that without examination or knowledge of the truth you have condemned a daughter of Israel?",
+          "sourceReference": "DNG 13:48"
+        },
+        {
+          "number": "49",
+          "text": "Return again to the place of judgment; for these have testified falsely against her.”",
+          "sourceReference": "DNG 13:49"
+        },
+        {
+          "number": "50",
+          "text": "Therefore all the people turned again in haste, and the elders said to him, “Come, sit down among us, and show it to us, seeing God has given you the honor of an elder.”",
+          "sourceReference": "DNG 13:50"
+        },
+        {
+          "number": "51",
+          "text": "Then Daniel said to them, “Put them far apart from each another, and I will examine them.”",
+          "sourceReference": "DNG 13:51"
+        },
+        {
+          "number": "52",
+          "text": "So when they were put apart one from another, he called one of them, and said to him, “O you who have become old in wickedness, now your sins have returned which you have committed before,",
+          "sourceReference": "DNG 13:52"
+        },
+        {
+          "number": "53",
+          "text": "in pronouncing unjust judgment, condemning the innocent, and letting the guilty go free; although the Lord says, ‘You shall not kill the innocent and righteous.’",
+          "sourceReference": "DNG 13:53"
+        },
+        {
+          "number": "54",
+          "text": "Now then, if you saw her, tell me, under which tree did you see them companying together?” He answered, “Under a mastick tree.”",
+          "sourceReference": "DNG 13:54"
+        },
+        {
+          "number": "55",
+          "text": "And Daniel said, “You have certainly lied against your own head; for even now the angel of God has received the sentence of God and will cut you in two.”",
+          "sourceReference": "DNG 13:55"
+        },
+        {
+          "number": "56",
+          "text": "So he put him aside, and commanded to bring the other, and said to him, “O you seed of Canaan, and not of Judah, beauty has deceived you, and lust has perverted your heart.",
+          "sourceReference": "DNG 13:56"
+        },
+        {
+          "number": "57",
+          "text": "Thus you have dealt with the daughters of Israel, and they for fear were intimate with you; but the daughter of Judah would not tolerate your wickedness.",
+          "sourceReference": "DNG 13:57"
+        },
+        {
+          "number": "58",
+          "text": "Now therefore tell me, under which tree did you take them being intimate together?” He answered, “Under an evergreen oak tree.”",
+          "sourceReference": "DNG 13:58"
+        },
+        {
+          "number": "59",
+          "text": "Then Daniel said to him, “You have also certainly lied against your own head; for the angel of God waits with the sword to cut you in two, that he may destroy you.”",
+          "sourceReference": "DNG 13:59"
+        },
+        {
+          "number": "60",
+          "text": "With that, all the assembly cried out with a loud voice, and blessed God, who saves those who hope in him.",
+          "sourceReference": "DNG 13:60"
+        },
+        {
+          "number": "61",
+          "text": "Then they arose against the two elders, for Daniel had convicted them of false testimony out of their own mouth.",
+          "sourceReference": "DNG 13:61"
+        },
+        {
+          "number": "62",
+          "text": "According to the law of Moses they did to them what they maliciously intended to do to their neighbor. They put them to death, and the innocent blood was saved the same day.",
+          "sourceReference": "DNG 13:62"
+        },
+        {
+          "number": "63",
+          "text": "Therefore Helkias and his wife praised God for their daughter Susanna, with Joakim her husband, and all the kindred, because there was no dishonesty found in her.",
+          "sourceReference": "DNG 13:63"
+        },
+        {
+          "number": "64",
+          "text": "And from that day forth, Daniel had a great reputation in the sight of the people.",
+          "sourceReference": "DNG 13:64"
+        }
+      ]
+    }
+  ]
+}

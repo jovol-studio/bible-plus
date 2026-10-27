@@ -1,0 +1,2582 @@
+{
+  "id": "psalms-of-solomon",
+  "title": {
+    "en": "Psalms of Solomon",
+    "zh-Hant": "所羅門詩篇"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/",
+    "credit": "G. Buchanan Gray (1913), Wesley Center transcription edited by George Lyons (2000).",
+    "rightsNotice": "English historical translation by G. Buchanan Gray (1913); edited and slightly adapted by George Lyons for the Wesley Center for Applied Theology at Northwest Nazarene University. Copyright 2000 by the Wesley Center for Applied Theology. Text may be freely used for personal or scholarly purposes or mirrored on other web sites, provided the notice below the horizontal line is left intact. Any use of this material for commercial purposes of any kind is strictly forbidden without the express permission of the Wesley Center at Northwest Nazarene University, Nampa, ID 83686. Contact the webmaster for permission or to report errors.",
+    "retrieved": "2026-10-27",
+    "sha256": "423937faccae7a5433c572a47df2ea3ba2a983e688bf7d9f342797c11fb54150",
+    "editionNote": "以來源段落提供閱讀定位，並非聖經節號；原文中的節號、括號及來源誤植均保留，未自行校訂。使用條件及署名照錄。 本次只匯入現有英文，不另作翻譯。"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "1 1 I cried unto the Lord when I was in distress [ ],"
+        },
+        {
+          "number": "2",
+          "text": "Unto God when sinners assailed."
+        },
+        {
+          "number": "3",
+          "text": "2 Suddenly the alarm of war was heard before me;"
+        },
+        {
+          "number": "4",
+          "text": "(I said), He will hearken to me, for I am full of righteousness."
+        },
+        {
+          "number": "5",
+          "text": "3 I thought in my heart that I was full of righteousness,"
+        },
+        {
+          "number": "6",
+          "text": "Because I was well off and had become rich in children."
+        },
+        {
+          "number": "7",
+          "text": "4 Their wealth spread to the whole earth,"
+        },
+        {
+          "number": "8",
+          "text": "And their glory unto the end of the earth."
+        },
+        {
+          "number": "9",
+          "text": "5 They were exalted unto the stars;"
+        },
+        {
+          "number": "10",
+          "text": "They said they would never fall."
+        },
+        {
+          "number": "11",
+          "text": "6 But they became insolent in their prosperity,"
+        },
+        {
+          "number": "12",
+          "text": "And they were without understanding,"
+        },
+        {
+          "number": "13",
+          "text": "7 Their sins were in secret,"
+        },
+        {
+          "number": "14",
+          "text": "And even I had no knowledge (of them)."
+        },
+        {
+          "number": "15",
+          "text": "8 Their transgressions (went) beyond those of the heathen before them;"
+        },
+        {
+          "number": "16",
+          "text": "They utterly polluted the holy things of the Lord."
+        }
+      ],
+      "sourceHeading": "1"
+    },
+    {
+      "id": "2",
+      "label": "Chapter 2",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "2 1 When the sinner waxed proud, with a battering-ram he cast down fortified walls,"
+        },
+        {
+          "number": "2",
+          "text": "And Thou didst not restrain (him)."
+        },
+        {
+          "number": "3",
+          "text": "2 Alien nations ascended Thine altar,"
+        },
+        {
+          "number": "4",
+          "text": "They trampled (it) proudly with their sandals;"
+        },
+        {
+          "number": "5",
+          "text": "3 Because the sons of Jerusalem had defiled the holy things of the Lord,"
+        },
+        {
+          "number": "6",
+          "text": "Had profaned with iniquities the offerings of God."
+        },
+        {
+          "number": "7",
+          "text": "4 Therefore He said: Cast them far from Me;"
+        },
+        {
+          "number": "8",
+          "text": "5 It was set at naught before God,"
+        },
+        {
+          "number": "9",
+          "text": "It was utterly dishonoured;"
+        },
+        {
+          "number": "10",
+          "text": "6 The sons and the daughters were in grievous captivity,"
+        },
+        {
+          "number": "11",
+          "text": "Sealed () (was) their neck, branded () (was it) among the nations."
+        },
+        {
+          "number": "12",
+          "text": "7 According to their sins hath He done unto them,"
+        },
+        {
+          "number": "13",
+          "text": "For He hath left them in the hands of them that prevailed."
+        },
+        {
+          "number": "14",
+          "text": "8 He hath turned away His face from pitying them,"
+        },
+        {
+          "number": "15",
+          "text": "Young and old and their children together;"
+        },
+        {
+          "number": "16",
+          "text": "9 For they had done evil one and all, in not hearkening."
+        },
+        {
+          "number": "17",
+          "text": "10 (9) And the heavens were angry,"
+        },
+        {
+          "number": "18",
+          "text": "And the earth abhorred them;"
+        },
+        {
+          "number": "19",
+          "text": "11 For no man upon it had done what they did,"
+        },
+        {
+          "number": "20",
+          "text": "12 (10) And the earth recognized all Thy righteous judgments, O God."
+        },
+        {
+          "number": "21",
+          "text": "13 (11) They set the sons of Jerusalem to be mocked at in return for (the) harlots in her;"
+        },
+        {
+          "number": "22",
+          "text": "Every wayfarer entered in in the full light of day."
+        },
+        {
+          "number": "23",
+          "text": "14 (12) They made mock with their transgressions, as they themselves were wont to do;"
+        },
+        {
+          "number": "24",
+          "text": "In the full light of day they revealed their iniquities."
+        },
+        {
+          "number": "25",
+          "text": "(13) And the daughters of Jerusalem were defiled in accordance with Thy judgment,"
+        },
+        {
+          "number": "26",
+          "text": "15 Because they had defiled themselves with unnatural intercourse."
+        },
+        {
+          "number": "27",
+          "text": "(14) I am pained in my bowels and my inward parts for these things."
+        },
+        {
+          "number": "28",
+          "text": "16 (15) (And yet) I will justify Thee, O God, in uprightness of heart,"
+        },
+        {
+          "number": "29",
+          "text": "For in Thy judgments is Thy righteousness (displayed), O God."
+        },
+        {
+          "number": "30",
+          "text": "17 (16) For Thou hast rendered to the sinners according to their deeds,"
+        },
+        {
+          "number": "31",
+          "text": "Yea according to their sins, which were very wicked."
+        },
+        {
+          "number": "32",
+          "text": "18 (17) Thou hast uncovered their sins, that Thy judgment might be manifest;"
+        },
+        {
+          "number": "33",
+          "text": "19 Thou hast wiped out their memorial from the earth."
+        },
+        {
+          "number": "34",
+          "text": "(18) God is a righteous judge,"
+        },
+        {
+          "number": "35",
+          "text": "And He is no respecter of persons."
+        },
+        {
+          "number": "36",
+          "text": "20 (19) For the nations reproached Jerusalem, trampling it down;"
+        },
+        {
+          "number": "37",
+          "text": "Her beauty was dragged down from the throne of glory."
+        },
+        {
+          "number": "38",
+          "text": "21 (20) She girded on sackcloth instead of comely raiment,"
+        },
+        {
+          "number": "39",
+          "text": "A rope (was) about her head instead of a crown."
+        },
+        {
+          "number": "40",
+          "text": "22 (21) She put off the glorious diadem which God had set upon her,"
+        },
+        {
+          "number": "41",
+          "text": "23 In dishonor was her beauty cast upon the ground."
+        },
+        {
+          "number": "42",
+          "text": "24 (22) And I saw and entreated the Lord and said,"
+        },
+        {
+          "number": "43",
+          "text": "Long enough, O Lord, has Thine hand been heavy on Israel, in bringing the nations upon (them)."
+        },
+        {
+          "number": "44",
+          "text": "25 (23) For they have made sport unsparingly in wrath and fierce anger;"
+        },
+        {
+          "number": "45",
+          "text": "26 And they will make an utter end, unless Thou, O Lord, rebuke them in Thy wrath."
+        },
+        {
+          "number": "46",
+          "text": "27 (24) For they have done it not in zeal, but in lust of soul,"
+        },
+        {
+          "number": "47",
+          "text": "28 Pouring out their wrath upon us with a view to rapine."
+        },
+        {
+          "number": "48",
+          "text": "29 (25) Delay not, O God, to recompense them on (their) heads,"
+        },
+        {
+          "number": "49",
+          "text": "To turn the pride of the dragon into dishonour."
+        },
+        {
+          "number": "50",
+          "text": "30(26) And I had not long to wait before God showed me the insolent one"
+        },
+        {
+          "number": "51",
+          "text": "Slain on the mountains of Egypt,"
+        },
+        {
+          "number": "52",
+          "text": "Esteemed of less account than the least on land and sea;"
+        },
+        {
+          "number": "53",
+          "text": "31 (27) His body, ( too,) borne hither and thither on the billows with much insolence,"
+        },
+        {
+          "number": "54",
+          "text": "With none to bury (him), because He had rejected him with dishonour."
+        },
+        {
+          "number": "55",
+          "text": "(28) He reflected not that he was man."
+        },
+        {
+          "number": "56",
+          "text": "32 And reflected not on the latter end;"
+        },
+        {
+          "number": "57",
+          "text": "33 (29) He said: I will be lord of land and sea;"
+        },
+        {
+          "number": "58",
+          "text": "And he recognized not that it is God who is great,"
+        },
+        {
+          "number": "59",
+          "text": "Mighty in His great strength."
+        },
+        {
+          "number": "60",
+          "text": "34 (30) He is king over the heavens,"
+        },
+        {
+          "number": "61",
+          "text": "And judgeth kings and kingdoms."
+        },
+        {
+          "number": "62",
+          "text": "35 (31) (It is He) who setteth me up in glory,"
+        },
+        {
+          "number": "63",
+          "text": "And bringeth down the proud to eternal destruction in dishonour,"
+        },
+        {
+          "number": "64",
+          "text": "Because they knew Him not."
+        },
+        {
+          "number": "65",
+          "text": "36 (32) And now behold, ye princes of the earth,"
+        },
+        {
+          "number": "66",
+          "text": "the judgment of the Lord,"
+        },
+        {
+          "number": "67",
+          "text": "For a great king and righteous (is He),"
+        },
+        {
+          "number": "68",
+          "text": "judging (all) that is under heaven."
+        },
+        {
+          "number": "69",
+          "text": "37 (33) Bless God, ye that fear the Lord with wisdom,"
+        },
+        {
+          "number": "70",
+          "text": "For the mercy of the Lord will be upon them that fear Him, in the Judgment;"
+        },
+        {
+          "number": "71",
+          "text": "38 (34) So that He will distinguish between the righteous and the sinner,"
+        },
+        {
+          "number": "72",
+          "text": "(And) recompense the sinners for ever according to their deeds;"
+        },
+        {
+          "number": "73",
+          "text": "39 (35) And have mercy on the righteous, (delivering him) from the affliction of the sinner,"
+        },
+        {
+          "number": "74",
+          "text": "And recompensing the sinner for what he hath done to the righteous."
+        },
+        {
+          "number": "75",
+          "text": "40 (36) For the Lord is good to them that call upon Him in patience,"
+        },
+        {
+          "number": "76",
+          "text": "Doing according to His mercy to His pious ones,"
+        },
+        {
+          "number": "77",
+          "text": "Establishing (them) at all times before Him in strength."
+        },
+        {
+          "number": "78",
+          "text": "41 (37) Blessed be the Lord for ever before His servants."
+        }
+      ],
+      "sourceHeading": "2. A Psalm Of Solomon. Concerning Jerusalem."
+    },
+    {
+      "id": "3",
+      "label": "Chapter 3",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "A Psalm. Of Solomon. Concerning the righteous."
+        },
+        {
+          "number": "2",
+          "text": "3 1 Why sleepest thou, O my soul,"
+        },
+        {
+          "number": "3",
+          "text": "And blessest not the Lord"
+        },
+        {
+          "number": "4",
+          "text": "2 Sing a new song,"
+        },
+        {
+          "number": "5",
+          "text": "Unto God who is worthy to be praised."
+        },
+        {
+          "number": "6",
+          "text": "Sing and be wakeful against His awaking,"
+        },
+        {
+          "number": "7",
+          "text": "For good is a psalm (sung) to God from a glad heart."
+        },
+        {
+          "number": "8",
+          "text": "3 The righteous remember the Lord at all times,"
+        },
+        {
+          "number": "9",
+          "text": "With thanksgiving and declaration of the righteousness of the Lord's judgments."
+        },
+        {
+          "number": "10",
+          "text": "4 The righteous despiseth not the chastening of the Lord;"
+        },
+        {
+          "number": "11",
+          "text": "His will is always before the Lord."
+        },
+        {
+          "number": "12",
+          "text": "5 The righteous stumbleth and holdeth the Lord righteous:"
+        },
+        {
+          "number": "13",
+          "text": "He falleth and looketh out for what God will do to him;"
+        },
+        {
+          "number": "14",
+          "text": "6 He seeketh out whence his deliverance will come."
+        },
+        {
+          "number": "15",
+          "text": "7 (6) The steadfastness of the righteous is from God their deliverer;"
+        },
+        {
+          "number": "16",
+          "text": "There lodgeth not in the house of the righteous sin upon sin."
+        },
+        {
+          "number": "17",
+          "text": "8 (7) The righteous continually searcheth his house,"
+        },
+        {
+          "number": "18",
+          "text": "To remove utterly (all) iniquity (done) by him in error."
+        },
+        {
+          "number": "19",
+          "text": "9 (8) He maketh atonement for (sins of) ignorance by fasting and afflicting his soul,"
+        },
+        {
+          "number": "20",
+          "text": "10 And the Lord counteth guiltless every pious man and his house."
+        },
+        {
+          "number": "21",
+          "text": "11 (9) The sinner stumbleth and curseth his life,"
+        },
+        {
+          "number": "22",
+          "text": "The day when he was begotten, and his mother's travail."
+        },
+        {
+          "number": "23",
+          "text": "12 (10) He addeth sins to sins, while he liveth ();"
+        },
+        {
+          "number": "24",
+          "text": "13 He fallethverily grievous is his falland riseth no more."
+        },
+        {
+          "number": "25",
+          "text": "(11) The destruction of the sinner is for ever,"
+        },
+        {
+          "number": "26",
+          "text": "14 And he shall not be remembered, when the righteous is visited."
+        },
+        {
+          "number": "27",
+          "text": "(12) 15 This is the portion of sinners for ever."
+        },
+        {
+          "number": "28",
+          "text": "16 But they that fear the Lord shall rise to life eternal,"
+        },
+        {
+          "number": "29",
+          "text": "And their life (shall be) in the light of the Lord, and shall come to an end no more."
+        }
+      ],
+      "sourceHeading": "3."
+    },
+    {
+      "id": "4",
+      "label": "Chapter 4",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "4 1 Wherefore sittest thou, O profane (man), in the council of the pious,"
+        },
+        {
+          "number": "2",
+          "text": "Seeing that thy heart is far removed from the Lord,"
+        },
+        {
+          "number": "3",
+          "text": "Provoking with transgressions the God of Israel"
+        },
+        {
+          "number": "4",
+          "text": "2 Extravagant in speech, extravagant in outward seeming beyond all (men),"
+        },
+        {
+          "number": "5",
+          "text": "Is he that is severe of speech in condemning sinners in judgment."
+        },
+        {
+          "number": "6",
+          "text": "3 And his hand is first upon him as (though he acted) in zeal,"
+        },
+        {
+          "number": "7",
+          "text": "And (yet) he is himself guilty in respect of manifold sins and of wantonness."
+        },
+        {
+          "number": "8",
+          "text": "4 His eyes are upon every woman without distinction;"
+        },
+        {
+          "number": "9",
+          "text": "His tongue lieth when he maketh contract with an oath."
+        },
+        {
+          "number": "10",
+          "text": "5 By night and in secret he sinneth as though unseen,"
+        },
+        {
+          "number": "11",
+          "text": "With his eyes he talketh to every woman of evil compacts."
+        },
+        {
+          "number": "12",
+          "text": "6 He is swift to enter every house with cheerfulness as though guileless."
+        },
+        {
+          "number": "13",
+          "text": "7 (6) Let God remove those that live in hypocrisy in the company of the pious,"
+        },
+        {
+          "number": "14",
+          "text": "(Even) the life of such an one with corruption of his flesh and penury."
+        },
+        {
+          "number": "15",
+          "text": "8 (7) Let God reveal the deeds of the men-pleasers,"
+        },
+        {
+          "number": "16",
+          "text": "The deeds of such an one with laughter and derision;"
+        },
+        {
+          "number": "17",
+          "text": "9 (8) That the pious may count righteous the judgment of their God,"
+        },
+        {
+          "number": "18",
+          "text": "When sinners are removed from before the righteous,"
+        },
+        {
+          "number": "19",
+          "text": "10 (Even the) man-pleaser who uttereth law guilefully."
+        },
+        {
+          "number": "20",
+          "text": "11 (9) And their eyes (are fixed) upon any man's house that is (still) secure,"
+        },
+        {
+          "number": "21",
+          "text": "That they may, like (the) Serpent, destroy the wisdom of . . . with words of transgressors,"
+        },
+        {
+          "number": "22",
+          "text": "12 (10) His words are deceitful that (he) may accomplish (his) wicked desire."
+        },
+        {
+          "number": "23",
+          "text": "13 He never ceaseth from scattering (families) as though (they were) orphans,"
+        },
+        {
+          "number": "24",
+          "text": "(11) Yea, he layeth waste a house on account of (his) lawless desire."
+        },
+        {
+          "number": "25",
+          "text": "14 He deceiveth with words, (saying,) There is none that seeth, or judgeth."
+        },
+        {
+          "number": "26",
+          "text": "15 (12) He fills one (house) with lawlessness,"
+        },
+        {
+          "number": "27",
+          "text": "And (then) his eyes (are fixed) upon the next house,"
+        },
+        {
+          "number": "28",
+          "text": "To destroy it with words that give wing to (desire)."
+        },
+        {
+          "number": "29",
+          "text": "(13) (Yet) with all these his soul, like Sheol, is not sated."
+        },
+        {
+          "number": "30",
+          "text": "16 Let his portion, O Lord, be dishonoured before thee;"
+        },
+        {
+          "number": "31",
+          "text": "Let him go forth groaning and come home cursed."
+        },
+        {
+          "number": "32",
+          "text": "17 (15) Let his life be (spent) in anguish, and penury, and want, O Lord;"
+        },
+        {
+          "number": "33",
+          "text": "Let his sleep be (beset) with pains and his awaking with perplexities."
+        },
+        {
+          "number": "34",
+          "text": "18 (16) Let sleep be withdrawn from his eyelids at night;"
+        },
+        {
+          "number": "35",
+          "text": "Let him fail dishonorably in every work of his hands."
+        },
+        {
+          "number": "36",
+          "text": "19 (17) Let him come home empty-handed to his house,"
+        },
+        {
+          "number": "37",
+          "text": "And his house be void of everything wherewith he could sate his appetite."
+        },
+        {
+          "number": "38",
+          "text": "20 (18) (Let) his old age (be spent) in childless loneliness until his removal (by death)."
+        },
+        {
+          "number": "39",
+          "text": "21 (19) Let the flesh of the men-pleasers be rent by wild beasts,"
+        },
+        {
+          "number": "40",
+          "text": "And (let) the bones of the lawless (lie) dishonored in the sight of the sun."
+        },
+        {
+          "number": "41",
+          "text": "22 (20) Let ravens peck out the eyes of the hypocrites."
+        },
+        {
+          "number": "42",
+          "text": "23 For they have laid waste many houses of men, in dishonor,"
+        },
+        {
+          "number": "43",
+          "text": "And scattered (them) in (their) lust;"
+        },
+        {
+          "number": "44",
+          "text": "24 (21) And they have not remembered God,"
+        },
+        {
+          "number": "45",
+          "text": "Nor feared God in all these things;"
+        },
+        {
+          "number": "46",
+          "text": "25 But they have provoked God's anger and vexed Him."
+        },
+        {
+          "number": "47",
+          "text": "(22) May He remove them from off the earth,"
+        },
+        {
+          "number": "48",
+          "text": "Because with deceit they beguiled the souls of the flawless."
+        },
+        {
+          "number": "49",
+          "text": "26 (23) Blessed are they that fear the Lord in their flawlessness;"
+        },
+        {
+          "number": "50",
+          "text": "27 The Lord shall deliver them from guileful men and sinners,"
+        },
+        {
+          "number": "51",
+          "text": "And deliver us from every stumbling-block of the lawless (men)."
+        },
+        {
+          "number": "52",
+          "text": "28 (24) Let God destroy them that insolently work all unrighteousness,"
+        },
+        {
+          "number": "53",
+          "text": "For a great and mighty judge is the Lord our God in righteousness."
+        },
+        {
+          "number": "54",
+          "text": "29 (28) Let Thy mercy, O Lord, be upon all them that love Thee."
+        }
+      ],
+      "sourceHeading": "4. A Conversation of Solomon with the Men-pleasers."
+    },
+    {
+      "id": "5",
+      "label": "Chapter 5",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "5 1 O Lord God, I will praise Thy name with joy,"
+        },
+        {
+          "number": "2",
+          "text": "In the midst of them that know Thy righteous judgments."
+        },
+        {
+          "number": "3",
+          "text": "2 For Thou art good and merciful, the refuge of the poor;"
+        },
+        {
+          "number": "4",
+          "text": "3 When I cry to Thee, do not silently disregard me."
+        },
+        {
+          "number": "5",
+          "text": "4 (3) For no man taketh spoil from a mighty man;"
+        },
+        {
+          "number": "6",
+          "text": "5 Who, then, can take aught of all that Thou hast made, except Thou Thyself givest"
+        },
+        {
+          "number": "7",
+          "text": "6 (4) For man and his portion (lie) before Thee in the balance;"
+        },
+        {
+          "number": "8",
+          "text": "He cannot add to, so as to enlarge, what has been prescribed by Thee."
+        },
+        {
+          "number": "9",
+          "text": "O God, 7 (5) when we are in distress we call upon Thee for help,"
+        },
+        {
+          "number": "10",
+          "text": "And Thou dost not turn back our petition, for Thou art our God."
+        },
+        {
+          "number": "11",
+          "text": "8 (6) Cause not Thy hand to be heavy upon us,"
+        },
+        {
+          "number": "12",
+          "text": "Lest through necessity we sin."
+        },
+        {
+          "number": "13",
+          "text": "9 (7) Even though Thou restore us not, we will not keep away;"
+        },
+        {
+          "number": "14",
+          "text": "But unto Thee will we come."
+        },
+        {
+          "number": "15",
+          "text": "10 (8) For if I hunger, unto Thee will I cry, O God;"
+        },
+        {
+          "number": "16",
+          "text": "And Thou wilt give to me."
+        },
+        {
+          "number": "17",
+          "text": "11 (9) Birds and fish dost Thou nourish,"
+        },
+        {
+          "number": "18",
+          "text": "In that Thou givest rain to the steppes that green grass may spring up,"
+        },
+        {
+          "number": "19",
+          "text": "(10) (So) to prepare fodder in the steppe for every living thing;"
+        },
+        {
+          "number": "20",
+          "text": "12 And if they hunger, unto Thee do they lift up their face."
+        },
+        {
+          "number": "21",
+          "text": "13 (11) Kings and rulers and peoples Thou dost nourish, O God;"
+        },
+        {
+          "number": "22",
+          "text": "And who is the help of the poor and needy, if not Thou, O Lord"
+        },
+        {
+          "number": "23",
+          "text": "14 (12) And Thou wilt hearken -for who is good and gentle but Thou"
+        },
+        {
+          "number": "24",
+          "text": "Making glad the soul of the humble by opening Thine hand in mercy."
+        },
+        {
+          "number": "25",
+          "text": "15 (13) Man's goodness is (bestowed) grudgingly and . . .;"
+        },
+        {
+          "number": "26",
+          "text": "And if he repeat (it) without murmuring, even that is marvelous."
+        },
+        {
+          "number": "27",
+          "text": "16 (14) But Thy gift is great in goodness and wealth,"
+        },
+        {
+          "number": "28",
+          "text": "And he whose hope is (set) on Thee shall have no lack of gifts."
+        },
+        {
+          "number": "29",
+          "text": "17 (15) Upon the whole earth is Thy mercy, O Lord, in goodness."
+        },
+        {
+          "number": "30",
+          "text": "18 (16) Happy is he whom God remembereth in (granting to him) a due sufficiency;"
+        },
+        {
+          "number": "31",
+          "text": "19 If a man abound over much, he sinneth."
+        },
+        {
+          "number": "32",
+          "text": "20 (17) Sufficient are moderate means with righteousness,"
+        },
+        {
+          "number": "33",
+          "text": "And hereby the blessing of the Lord (becomes) abundance with righteousness."
+        },
+        {
+          "number": "34",
+          "text": "21 (18) They that fear the Lord rejoice in good (gifts),"
+        },
+        {
+          "number": "35",
+          "text": "And Thy goodness is upon Israel in Thy kingdom."
+        },
+        {
+          "number": "36",
+          "text": "Blessed is the glory of the Lord for He is our king."
+        }
+      ],
+      "sourceHeading": "5. A Psalm. Of Solomon"
+    },
+    {
+      "id": "6",
+      "label": "Chapter 6",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "6 1 Happy is the man whose heart is fixed to call upon the name of the Lord;"
+        },
+        {
+          "number": "2",
+          "text": "2 When he remembereth the name of the Lord, he will be saved."
+        },
+        {
+          "number": "3",
+          "text": "3 (2) His ways are made even by the Lord,"
+        },
+        {
+          "number": "4",
+          "text": "And the works of his hands are preserved by the Lord his God."
+        },
+        {
+          "number": "5",
+          "text": "4 (3) At what he sees in his bad dreams, his soul shall not be troubled;"
+        },
+        {
+          "number": "6",
+          "text": "5 When he passes through rivers and the tossing of the seas, he shall not be dismayed."
+        },
+        {
+          "number": "7",
+          "text": "6 (4) He ariseth from his sleep, and blesseth the name of the Lord:"
+        },
+        {
+          "number": "8",
+          "text": "7 When his heart is at peace, he singeth to the name of his God,"
+        },
+        {
+          "number": "9",
+          "text": "(5) And he entreateth the Lord for all his house."
+        },
+        {
+          "number": "10",
+          "text": "8 And the Lord heareth the prayer of every one that feareth God,"
+        },
+        {
+          "number": "11",
+          "text": "(6) And every request of the soul that hopes for Him doth the Lord accomplish."
+        },
+        {
+          "number": "12",
+          "text": "9 Blessed is the Lord, who showeth mercy to those who love Him in sincerity."
+        }
+      ],
+      "sourceHeading": "6. In Hope. Of Solomon."
+    },
+    {
+      "id": "7",
+      "label": "Chapter 7",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "7 1 Make not Thy dwelling afar from us, O God;"
+        },
+        {
+          "number": "2",
+          "text": "Lest they assail us that hate us without cause."
+        },
+        {
+          "number": "3",
+          "text": "2 For Thou hast rejected them, O God;"
+        },
+        {
+          "number": "4",
+          "text": "Let not their foot trample upon Thy holy inheritance."
+        },
+        {
+          "number": "5",
+          "text": "3 Chasten us Thyself in Thy good pleasure;"
+        },
+        {
+          "number": "6",
+          "text": "But give (us) not up to the nations;"
+        },
+        {
+          "number": "7",
+          "text": "4 For, if Thou sendest pestilence,"
+        },
+        {
+          "number": "8",
+          "text": "Thou Thyself givest it charge concerning us;"
+        },
+        {
+          "number": "9",
+          "text": "(5) For Thou art merciful,"
+        },
+        {
+          "number": "10",
+          "text": "And wilt not be angry to the point of consuming us."
+        },
+        {
+          "number": "11",
+          "text": "5 (6) While Thy name dwelleth in our midst, we shall find mercy;"
+        },
+        {
+          "number": "12",
+          "text": "6 And the nations shall not prevail against us."
+        },
+        {
+          "number": "13",
+          "text": "(7) For Thou art our shield,"
+        },
+        {
+          "number": "14",
+          "text": "7 And when we call upon Thee, Thou hearkenest to us;"
+        },
+        {
+          "number": "15",
+          "text": "8 For Thou wilt pity the seed of Israel for ever"
+        },
+        {
+          "number": "16",
+          "text": "And Thou wilt not reject (them):"
+        },
+        {
+          "number": "17",
+          "text": "(9) But we (shall be) under Thy yoke for ever,"
+        },
+        {
+          "number": "18",
+          "text": "And (under) the rod of Thy chastening."
+        },
+        {
+          "number": "19",
+          "text": "9 (10) Thou wilt establish us in the time that Thou helpest us,"
+        },
+        {
+          "number": "20",
+          "text": "Showing mercy to the house of Jacob on the day wherein Thou didst promise (to help them)."
+        }
+      ],
+      "sourceHeading": "7. Of Solomon. Of turning."
+    },
+    {
+      "id": "8",
+      "label": "Chapter 8",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "8 1 Distress and the sound of war hath my ear heard;"
+        },
+        {
+          "number": "2",
+          "text": "The sound of a trumpet announcing slaughter and calamity,"
+        },
+        {
+          "number": "3",
+          "text": "2 The sound of much people as of an exceeding high wind,"
+        },
+        {
+          "number": "4",
+          "text": "As a tempest with mighty fire sweeping through the Negeb."
+        },
+        {
+          "number": "5",
+          "text": "3 And I said in my heart; Surely () God judgeth us;"
+        },
+        {
+          "number": "6",
+          "text": "4 A sound I hear (moving) towards Jerusalem, the holy city."
+        },
+        {
+          "number": "7",
+          "text": "5 My loins were broken at what I heard, (5) my knees tottered:"
+        },
+        {
+          "number": "8",
+          "text": "6 My heart was afraid, my bones were dismayed like flax."
+        },
+        {
+          "number": "9",
+          "text": "7 (6) I said: They establish their ways in righteousness."
+        },
+        {
+          "number": "10",
+          "text": "(7) I thought upon the judgments of God since the creation of heaven and earth;"
+        },
+        {
+          "number": "11",
+          "text": "I held God righteous in His judgments which have been from of old."
+        },
+        {
+          "number": "12",
+          "text": "8 God laid bare their sins in the full light of day;"
+        },
+        {
+          "number": "13",
+          "text": "All the earth came to know the righteous judgments of God."
+        },
+        {
+          "number": "14",
+          "text": "9 In secret places underground their iniquities (were committed) to provoke (Him) to anger;"
+        },
+        {
+          "number": "15",
+          "text": "10 They wrought confusion, son with mother and father with daughter;"
+        },
+        {
+          "number": "16",
+          "text": "11 (10) They committed adultery, every man with his neighbor's wife."
+        },
+        {
+          "number": "17",
+          "text": "They concluded covenants with one another with an oath touching these things;"
+        },
+        {
+          "number": "18",
+          "text": "12 (11) They plundered the sanctuary of God, as though there was no avenger."
+        },
+        {
+          "number": "19",
+          "text": "13 (12) They trode the altar of the Lord, (coming straight) from all manner of uncleanness;"
+        },
+        {
+          "number": "20",
+          "text": "And with menstrual blood they defiled the sacrifices, as (though these were) common flesh."
+        },
+        {
+          "number": "21",
+          "text": "14 (13) They left no sin undone, wherein they surpassed not the heathen."
+        },
+        {
+          "number": "22",
+          "text": "15 (14) Therefore God mingled for them a spirit of wandering;"
+        },
+        {
+          "number": "23",
+          "text": "And gave them to drink a cup of undiluted wine, that they might become drunken."
+        },
+        {
+          "number": "24",
+          "text": "16 (15) He brought him that is from the end of the earth, that smiteth mightily;"
+        },
+        {
+          "number": "25",
+          "text": "17 He decreed () war against Jerusalem, and against her land."
+        },
+        {
+          "number": "26",
+          "text": "18 (16) The princes of the land went to meet him with joy: they said unto him:"
+        },
+        {
+          "number": "27",
+          "text": "Blessed be thy way! Come ye, enter ye in with peace."
+        },
+        {
+          "number": "28",
+          "text": "19 (17) They made the rough ways even, before his entering in;"
+        },
+        {
+          "number": "29",
+          "text": "They opened the gates to Jerusalem, they crowned its walls."
+        },
+        {
+          "number": "30",
+          "text": "20 (18) As a father (entereth) the house of his sons, (so) he entered (Jerusalem) in peace;"
+        },
+        {
+          "number": "31",
+          "text": "He established his feet (there) in great safety."
+        },
+        {
+          "number": "32",
+          "text": "21 (19) He captured her fortresses and the wall of Jerusalem;"
+        },
+        {
+          "number": "33",
+          "text": "22 For God Himself led him in safety, while they wandered."
+        },
+        {
+          "number": "34",
+          "text": "23 (20) He destroyed their princes and every one wise in counsel;"
+        },
+        {
+          "number": "35",
+          "text": "He poured out the blood of the inhabitants of Jerusalem, like the water of uncleanness."
+        },
+        {
+          "number": "36",
+          "text": "24 (21) He led away their sons and daughters, whom they had begotten in defilement."
+        },
+        {
+          "number": "37",
+          "text": "25 (22) They did according to their uncleanness, even as their fathers (had done):"
+        },
+        {
+          "number": "38",
+          "text": "26 They defiled Jerusalem and the things that had been hallowed to the name of God."
+        },
+        {
+          "number": "39",
+          "text": "27 (23) (But) God hath shown Himself righteous in His judgments upon the nations of the earth;"
+        },
+        {
+          "number": "40",
+          "text": "28 And the pious (servants) of God are like innocent lambs in their midst."
+        },
+        {
+          "number": "41",
+          "text": "29 (24) Worthy to be praised is the Lord that judgeth the whole earth in His righteousness."
+        },
+        {
+          "number": "42",
+          "text": "30 (25) Behold, now, O God, Thou hast shown us Thy judgment in Thy righteousness;"
+        },
+        {
+          "number": "43",
+          "text": "31 Our eyes have seen Thy judgments, O God."
+        },
+        {
+          "number": "44",
+          "text": "(26) We have justified Thy name that is honoured for ever;"
+        },
+        {
+          "number": "45",
+          "text": "32 For Thou art the God of righteousness, judging Israel with chastening."
+        },
+        {
+          "number": "46",
+          "text": "33 (27) Turn, O God, Thy mercy upon us, and have pity upon us;"
+        },
+        {
+          "number": "47",
+          "text": "34 (28) Gather together the dispersed of Israel, with mercy and goodness;"
+        },
+        {
+          "number": "48",
+          "text": "35 For Thy faithfulness is with us."
+        },
+        {
+          "number": "49",
+          "text": "(29) And (though) we have stiffened our neck, yet Thou art our chastener;"
+        },
+        {
+          "number": "50",
+          "text": "36 (30) Overlook us not, O our God, lest the nations swallow us up, as though there were none to deliver."
+        },
+        {
+          "number": "51",
+          "text": "37 (31) But Thou art our God from the beginning,"
+        },
+        {
+          "number": "52",
+          "text": "And upon Thee is our hope (set), O Lord;"
+        },
+        {
+          "number": "53",
+          "text": "38 (32) And we will not depart from Thee,"
+        },
+        {
+          "number": "54",
+          "text": "For good are Thy judgments upon us."
+        },
+        {
+          "number": "55",
+          "text": "39 (33) Ours and our children's be Thy good pleasure for ever;"
+        },
+        {
+          "number": "56",
+          "text": "O Lord our Saviour, we shall never more be moved."
+        },
+        {
+          "number": "57",
+          "text": "40 (34) The Lord is worthy to be praised for His judgments with the mouth of His pious ones;"
+        },
+        {
+          "number": "58",
+          "text": "And blessed be Israel of the Lord for ever."
+        }
+      ],
+      "sourceHeading": "8. Of Solomon. Of the chief Musician."
+    },
+    {
+      "id": "9",
+      "label": "Chapter 9",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "9 1 When Israel was led away captive into a strange land,"
+        },
+        {
+          "number": "2",
+          "text": "When they fell away from the Lord who redeemed them,"
+        },
+        {
+          "number": "3",
+          "text": "2 They were cast away from the inheritance, which Lord had given them."
+        },
+        {
+          "number": "4",
+          "text": "(2) Among every nation (were) the dispersed of Israel according to the word of God,"
+        },
+        {
+          "number": "5",
+          "text": "3 That Thou mightest be justified, O God, in Thy righteousness by reason of our transgressions:"
+        },
+        {
+          "number": "6",
+          "text": "4 For Thou art a just judge over all the peoples of the earth."
+        },
+        {
+          "number": "7",
+          "text": "5 (3) For from Thy knowledge none that doeth unjustly is hidden,"
+        },
+        {
+          "number": "8",
+          "text": "6 And the righteous deeds of Thy pious ones (are) before Thee, O Lord,"
+        },
+        {
+          "number": "9",
+          "text": "Where, then, can a man hide himself from Thy knowledge, O God"
+        },
+        {
+          "number": "10",
+          "text": "7 (4) Our works are subject to our own choice and power"
+        },
+        {
+          "number": "11",
+          "text": "To do right or wrong in the works of our hands"
+        },
+        {
+          "number": "12",
+          "text": "8 And in Thy righteousness Thou visitest the sons of men."
+        },
+        {
+          "number": "13",
+          "text": "9 (5) He that doeth righteousness layeth up life for himself with the Lord;"
+        },
+        {
+          "number": "14",
+          "text": "And he that doeth wrongly forfeits his life to destruction;"
+        },
+        {
+          "number": "15",
+          "text": "10 For the judgments of the Lord are (given) in righteousness to (every) man and (his) house."
+        },
+        {
+          "number": "16",
+          "text": "(6) Unto whom art Thou good, O God, except to them that call upon the Lord"
+        },
+        {
+          "number": "17",
+          "text": "12 He cleanseth from sins a soul when it maketh confession, when it maketh acknowledgement;"
+        },
+        {
+          "number": "18",
+          "text": "13 For shame is upon us and upon our faces on account of all these things."
+        },
+        {
+          "number": "19",
+          "text": "14 (7) And to whom doth He forgive sins, except to them that have sinned"
+        },
+        {
+          "number": "20",
+          "text": "15 Thou blessest the righteous, and dost not reprove them for the sins that they have committed;"
+        },
+        {
+          "number": "21",
+          "text": "And Thy goodness is upon them that sin, when they repent."
+        },
+        {
+          "number": "22",
+          "text": "16 (8) And, now, Thou art our God, and we the people whom Thou hast loved:"
+        },
+        {
+          "number": "23",
+          "text": "Behold and show pity, O God of Israel, for we are Thine;"
+        },
+        {
+          "number": "24",
+          "text": "And remove not Thy mercy from us, lest they assail us."
+        },
+        {
+          "number": "25",
+          "text": "17 (9) For Thou didst choose the seed of Abraham before all the nations,"
+        },
+        {
+          "number": "26",
+          "text": "And didst set Thy name upon us, O Lord,"
+        },
+        {
+          "number": "27",
+          "text": "18 And Thou wilt not reject (us) for ever."
+        },
+        {
+          "number": "28",
+          "text": "Thou madest a covenant with our fathers concerning us;"
+        },
+        {
+          "number": "29",
+          "text": "19 (10) And we hope in Thee, when our soul turneth (unto Thee)."
+        },
+        {
+          "number": "30",
+          "text": "The mercy of the Lord be upon the house of Israel for ever and ever."
+        }
+      ],
+      "sourceHeading": "9. Of Solomon. For rebuke."
+    },
+    {
+      "id": "10",
+      "label": "Chapter 10",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "10 1 Happy is the man whom the Lord remembereth with reproving,"
+        },
+        {
+          "number": "2",
+          "text": "And whom He restraineth from the way of evil with strokes,"
+        },
+        {
+          "number": "3",
+          "text": "That he may be cleansed from sin, that it may not be multiplied."
+        },
+        {
+          "number": "4",
+          "text": "2 He that maketh ready his back for strokes shall be cleansed,"
+        },
+        {
+          "number": "5",
+          "text": "For the Lord is good to them that endure chastening."
+        },
+        {
+          "number": "6",
+          "text": "3 For He maketh straight the ways of the righteous,"
+        },
+        {
+          "number": "7",
+          "text": "And doth not pervert (them) by His chastening."
+        },
+        {
+          "number": "8",
+          "text": "4 And the mercy of the Lord (is) upon them that love Him in truth,"
+        },
+        {
+          "number": "9",
+          "text": "(4) And the Lord remembereth His servants in mercy."
+        },
+        {
+          "number": "10",
+          "text": "5 For the testimony (is) in the law of the eternal covenant,"
+        },
+        {
+          "number": "11",
+          "text": "The testimony of the Lord (is) on the ways of men in (His) visitation."
+        },
+        {
+          "number": "12",
+          "text": "6 (5) Just and kind is our Lord in His judgments for ever,"
+        },
+        {
+          "number": "13",
+          "text": "And Israel shall praise the name of the Lord in gladness."
+        },
+        {
+          "number": "14",
+          "text": "7 (6) And the pious shall give thanks in the assembly of the people;"
+        },
+        {
+          "number": "15",
+          "text": "And on the poor shall God have mercy in the gladness () of Israel;"
+        },
+        {
+          "number": "16",
+          "text": "8 (7) For good and merciful is God for ever,"
+        },
+        {
+          "number": "17",
+          "text": "And the assemblies of Israel shall glorify the name of the Lord."
+        },
+        {
+          "number": "18",
+          "text": "The salvation of the Lord be upon the house of Israel unto everlasting gladness!"
+        }
+      ],
+      "sourceHeading": "10. A Hymn Of Solomon."
+    },
+    {
+      "id": "11",
+      "label": "Chapter 11",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "11 1 Blow ye in Zion on the trumpet to summon (the) saints,"
+        },
+        {
+          "number": "2",
+          "text": "2 Cause ye to be heard in Jerusalem the voice of him that bringeth good tidings;"
+        },
+        {
+          "number": "3",
+          "text": "For God hath had pity on Israel in visiting them."
+        },
+        {
+          "number": "4",
+          "text": "3 (2) Stand on the height, O Jerusalem, and behold thy children,"
+        },
+        {
+          "number": "5",
+          "text": "From the East and the West, gathered together by the Lord;"
+        },
+        {
+          "number": "6",
+          "text": "4 (3) From the North they come in the gladness of their God,"
+        },
+        {
+          "number": "7",
+          "text": "From the isles afar off God hath gathered them."
+        },
+        {
+          "number": "8",
+          "text": "5 (4) High mountains hath He abased into a plain for them;"
+        },
+        {
+          "number": "9",
+          "text": "6 The hills fled at their entrance."
+        },
+        {
+          "number": "10",
+          "text": "(5) The woods gave them shelter as they passed by;"
+        },
+        {
+          "number": "11",
+          "text": "7 Every sweet-smelling tree God caused to spring up for them,"
+        },
+        {
+          "number": "12",
+          "text": "(6) That Israel might pass by in the visitation of the glory of their God."
+        },
+        {
+          "number": "13",
+          "text": "8 (7) Put on, O Jerusalem, thy glorious garments;"
+        },
+        {
+          "number": "14",
+          "text": "Make ready thy holy robe;"
+        },
+        {
+          "number": "15",
+          "text": "For God hath spoken good concerning Israel, for ever and ever."
+        },
+        {
+          "number": "16",
+          "text": "9 (8) Let the Lord do what He hath spoken concerning Israel and Jerusalem;"
+        },
+        {
+          "number": "17",
+          "text": "Let the Lord raise up Israel by His glorious name."
+        },
+        {
+          "number": "18",
+          "text": "(9) The mercy of the Lord be upon Israel for ever and ever."
+        }
+      ],
+      "sourceHeading": "11. Of Solomon. Unto expectation."
+    },
+    {
+      "id": "12",
+      "label": "Chapter 12",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "12 1 O Lord, deliver my soul from (the) lawless and wicked man,"
+        },
+        {
+          "number": "2",
+          "text": "From the tongue that is lawless and slanderous, and speaketh lies and deceit."
+        },
+        {
+          "number": "3",
+          "text": "2 Manifoldly twisted () are the words of the tongue of the wicked man,"
+        },
+        {
+          "number": "4",
+          "text": "Even as among a people a fire that burneth up their beauty."
+        },
+        {
+          "number": "5",
+          "text": "3 So he delights to fill houses with a lying tongue,"
+        },
+        {
+          "number": "6",
+          "text": "To cut down the trees of gladness which setteth on fire transgressors,"
+        },
+        {
+          "number": "7",
+          "text": "4 To involve households in warfare by means of slanderous lips."
+        },
+        {
+          "number": "8",
+          "text": "(4) May God remove far from the innocent the lips of transgressors by (bringing them to) want"
+        },
+        {
+          "number": "9",
+          "text": "And may the bones of slanderers be scattered (far) away from them that fear the Lord!"
+        },
+        {
+          "number": "10",
+          "text": "5 In flaming fire perish the slanderous tongue (far) away from the pious!"
+        },
+        {
+          "number": "11",
+          "text": "6 (5) May the Lord preserve the quiet soul that hateth the unrighteous;"
+        },
+        {
+          "number": "12",
+          "text": "And may the Lord establish the man that followeth peace at home."
+        },
+        {
+          "number": "13",
+          "text": "7 (6) The salvation of the Lord be upon Israel His servant for ever;"
+        },
+        {
+          "number": "14",
+          "text": "And let the sinners perish together at the presence of the Lord;"
+        },
+        {
+          "number": "15",
+          "text": "But let the Lord's pious ones inherit the promises of the Lord."
+        }
+      ],
+      "sourceHeading": "12. Of Solomon. Against the tongue of transgressors."
+    },
+    {
+      "id": "13",
+      "label": "Chapter 13",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "13 1 The right hand of the Lord hath covered me;"
+        },
+        {
+          "number": "2",
+          "text": "The right hand of the Lord hath spared us."
+        },
+        {
+          "number": "3",
+          "text": "2 The arm of the Lord hath saved us from the sword that passed through,"
+        },
+        {
+          "number": "4",
+          "text": "From famine and the death of sinners."
+        },
+        {
+          "number": "5",
+          "text": "3 Noisome beasts ran upon them:"
+        },
+        {
+          "number": "6",
+          "text": "With their teeth they tore their flesh,"
+        },
+        {
+          "number": "7",
+          "text": "And with their molars crushed their bones."
+        },
+        {
+          "number": "8",
+          "text": "(4) But from all these things the Lord delivered us,"
+        },
+        {
+          "number": "9",
+          "text": "4 (5) The righteous was troubled on account of his errors,"
+        },
+        {
+          "number": "10",
+          "text": "Lest he should be taken away along with the sinners;"
+        },
+        {
+          "number": "11",
+          "text": "5 (6) For terrible is the overthrow of the sinner;"
+        },
+        {
+          "number": "12",
+          "text": "But not one of all these things toucheth the righteous."
+        },
+        {
+          "number": "13",
+          "text": "(7) For not alike are the chastening of the righteous (for sins done) in ignorance,"
+        },
+        {
+          "number": "14",
+          "text": "And the overthrow of the sinners"
+        },
+        {
+          "number": "15",
+          "text": "7 (8) Secretly () is the righteous chastened,"
+        },
+        {
+          "number": "16",
+          "text": "Lest the sinner rejoice over the righteous."
+        },
+        {
+          "number": "17",
+          "text": "8 (9) For He correcteth the righteous as a beloved son,"
+        },
+        {
+          "number": "18",
+          "text": "And his chastisement is as that of a firstborn."
+        },
+        {
+          "number": "19",
+          "text": "9 10) For the Lord spareth His pious ones,"
+        },
+        {
+          "number": "20",
+          "text": "And blotteth out their errors by His chastening."
+        },
+        {
+          "number": "21",
+          "text": "(11) For the life of the righteous shall be for ever;"
+        },
+        {
+          "number": "22",
+          "text": "10 But sinners shall be taken away into destruction,"
+        },
+        {
+          "number": "23",
+          "text": "And their memorial shall be found no more."
+        },
+        {
+          "number": "24",
+          "text": "11 (12) But upon the pious is the mercy of the Lord,"
+        },
+        {
+          "number": "25",
+          "text": "And upon them that fear Him His mercy."
+        }
+      ],
+      "sourceHeading": "13. Of Solomon. A Psalm. Comfort for the righteous."
+    },
+    {
+      "id": "14",
+      "label": "Chapter 14",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "14 1 Faithful is the Lord to them that love Him in truth,"
+        },
+        {
+          "number": "2",
+          "text": "To them that endure His chastening,"
+        },
+        {
+          "number": "3",
+          "text": "(2) To them that walk in the righteousness of His commandments,"
+        },
+        {
+          "number": "4",
+          "text": "In the law which He commanded us that we might live."
+        },
+        {
+          "number": "5",
+          "text": "2 (5) The pious of the Lord shall live by it for ever;"
+        },
+        {
+          "number": "6",
+          "text": "The Paradise of the Lord, the trees of life, are His pious ones."
+        },
+        {
+          "number": "7",
+          "text": "3 (4) Their planting is rooted for ever;"
+        },
+        {
+          "number": "8",
+          "text": "They shall not be plucked up all the days of heaven:"
+        },
+        {
+          "number": "9",
+          "text": "(5) For the portion and the inheritance of God is Israel."
+        },
+        {
+          "number": "10",
+          "text": "4 (6) But not so are the sinners and transgressors,"
+        },
+        {
+          "number": "11",
+          "text": "Who love (the brief) day (spent) in companionship with their sin;"
+        },
+        {
+          "number": "12",
+          "text": "(7) Their delight is in fleeting corruption,"
+        },
+        {
+          "number": "13",
+          "text": "5 And they remember not God."
+        },
+        {
+          "number": "14",
+          "text": "(8) For the ways of men are known before Him at all times,"
+        },
+        {
+          "number": "15",
+          "text": "And He knoweth the secrets of the heart before they come to pass."
+        },
+        {
+          "number": "16",
+          "text": "6 (9) Therefore their inheritance is Sheol and darkness and destruction,"
+        },
+        {
+          "number": "17",
+          "text": "And they shall not be found in the day when the righteous obtain mercy;"
+        },
+        {
+          "number": "18",
+          "text": "7 (10) But the pious of the Lord shall inherit life in gladness."
+        }
+      ],
+      "sourceHeading": "14. A Hymn. Of Solomon."
+    },
+    {
+      "id": "15",
+      "label": "Chapter 15",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "15 1 When I was in distress I called upon the name of the Lord,"
+        },
+        {
+          "number": "2",
+          "text": "I hoped for the help of the God of Jacob and was saved;"
+        },
+        {
+          "number": "3",
+          "text": "2 For the hope and refuge of the poor art Thou, O God."
+        },
+        {
+          "number": "4",
+          "text": "3 (a) For who, O God, is strong except to give thanks unto Thee in truth"
+        },
+        {
+          "number": "5",
+          "text": "4 And wherein is a man powerful except in giving thanks to Thy name"
+        },
+        {
+          "number": "6",
+          "text": "5 (3) A new psalm with song in gladness of heart,"
+        },
+        {
+          "number": "7",
+          "text": "The fruit of the lips with the well-tuned instrument of the tongue,"
+        },
+        {
+          "number": "8",
+          "text": "The firstfruits of the lips from a pious and righteous heart"
+        },
+        {
+          "number": "9",
+          "text": "6 (4) He that offereth these things shall never be shaken by evil;"
+        },
+        {
+          "number": "10",
+          "text": "The flame of fire and the wrath against the unrighteous shall not touch him,"
+        },
+        {
+          "number": "11",
+          "text": "7 (5) When it goeth forth from the face of the Lord against sinners,"
+        },
+        {
+          "number": "12",
+          "text": "To destroy all the substance of sinners,"
+        },
+        {
+          "number": "13",
+          "text": "8 (6) For the mark of God is upon the righteous that they may be saved."
+        },
+        {
+          "number": "14",
+          "text": "(7) Famine and sword and pestilence (shall be) far from the righteous,"
+        },
+        {
+          "number": "15",
+          "text": "9 For they shall flee away from the pious as men pursued in war;"
+        },
+        {
+          "number": "16",
+          "text": "(8) But they shall pursue sinners and overtake (them),"
+        },
+        {
+          "number": "17",
+          "text": "And they that do lawlessness shall not escape the judgment of God;"
+        },
+        {
+          "number": "18",
+          "text": "(9) As by enemies experienced (in war) shall they be overtaken,"
+        },
+        {
+          "number": "19",
+          "text": "10 For the mark of destruction is upon their forehead."
+        },
+        {
+          "number": "20",
+          "text": "11 (10) And the inheritance of sinners is destruction and darkness,"
+        },
+        {
+          "number": "21",
+          "text": "And their iniquities shall pursue them unto Sheol beneath."
+        },
+        {
+          "number": "22",
+          "text": "12 (11) Their inheritance shall not be found of their children,"
+        },
+        {
+          "number": "23",
+          "text": "13 For sins shall lay waste the houses of sinners."
+        },
+        {
+          "number": "24",
+          "text": "(12) And sinners shall perish for ever in the day of the Lord's judgment,"
+        },
+        {
+          "number": "25",
+          "text": "14 When God visiteth the earth with His judgment."
+        },
+        {
+          "number": "26",
+          "text": "15 (13) But they that fear the Lord shall find mercy therein,"
+        },
+        {
+          "number": "27",
+          "text": "And shall live by the compassion of their God;"
+        },
+        {
+          "number": "28",
+          "text": "But sinners shall perish for ever."
+        }
+      ],
+      "sourceHeading": "15. A Psalm. Of Solomon. With a Song."
+    },
+    {
+      "id": "16",
+      "label": "Chapter 16",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "16 1 When my soul slumbered (being afar) from the Lord, I had all but slipped down to the pit,"
+        },
+        {
+          "number": "2",
+          "text": "When (I was) far from God, 2 my soul had been well nigh poured out unto death,"
+        },
+        {
+          "number": "3",
+          "text": "(I had been) nigh unto the gates of Sheol with the sinner, 3 when my soul departed from the Lord God of Israel"
+        },
+        {
+          "number": "4",
+          "text": "Had not the Lord helped me with His ever lasting mercy."
+        },
+        {
+          "number": "5",
+          "text": "4 He pricked me, as a horse is pricked, that I might serve Him,"
+        },
+        {
+          "number": "6",
+          "text": "My savior and helper at all times saved me."
+        },
+        {
+          "number": "7",
+          "text": "5 I will give thanks unto Thee, O God, for Thou hast helped me to (my) salvation;"
+        },
+        {
+          "number": "8",
+          "text": "And hast not counted me with sinners to (my) destruction."
+        },
+        {
+          "number": "9",
+          "text": "6 Remove not Thy mercy from me, O God,"
+        },
+        {
+          "number": "10",
+          "text": "Nor Thy memorial from my heart until I die."
+        },
+        {
+          "number": "11",
+          "text": "7 Rule me, O God, (keeping me back) from wicked sin,"
+        },
+        {
+          "number": "12",
+          "text": "And from every wicked woman that causeth the simple to stumble."
+        },
+        {
+          "number": "13",
+          "text": "8 And let not the beauty of a lawless woman beguile me,"
+        },
+        {
+          "number": "14",
+          "text": "Nor any one that is subject to () unprofitable sin."
+        },
+        {
+          "number": "15",
+          "text": "9 Establish the works of my hands before Thee,"
+        },
+        {
+          "number": "16",
+          "text": "And preserve my goings in the remembrance of Thee."
+        },
+        {
+          "number": "17",
+          "text": "10 Protect my tongue and my lips with words of truth;"
+        },
+        {
+          "number": "18",
+          "text": "Anger and unreasoning wrath put far from me."
+        },
+        {
+          "number": "19",
+          "text": "11 Murmuring, and impatience in affliction, remove far from me,"
+        },
+        {
+          "number": "20",
+          "text": "When, if I sin, Thou chastenest me that I may return (unto Thee)."
+        },
+        {
+          "number": "21",
+          "text": "12 But with goodwill and cheerfulness support my soul;"
+        },
+        {
+          "number": "22",
+          "text": "When Thou strengthenest my soul, what is given (to me) will be sufficient for me."
+        },
+        {
+          "number": "23",
+          "text": "13 For if Thou givest not strength,"
+        },
+        {
+          "number": "24",
+          "text": "Who can endure chastisement with poverty"
+        },
+        {
+          "number": "25",
+          "text": "14 When a man is rebuked by means of his corruption,"
+        },
+        {
+          "number": "26",
+          "text": "Thy testing (of him) is in his flesh and in the affliction of poverty."
+        },
+        {
+          "number": "27",
+          "text": "15 If the righteous endureth in all these (trials), he shall receive mercy from the Lord."
+        }
+      ],
+      "sourceHeading": "16. A Hymn. Of Solomon. For Help to the Pious."
+    },
+    {
+      "id": "17",
+      "label": "Chapter 17",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "17 1 O Lord, Thou art our King for ever and ever,"
+        },
+        {
+          "number": "2",
+          "text": "For in Thee, O God, doth our soul glory."
+        },
+        {
+          "number": "3",
+          "text": "2 How long are the days of man's life upon the earth"
+        },
+        {
+          "number": "4",
+          "text": "As are his days, so is the hope (set) upon him."
+        },
+        {
+          "number": "5",
+          "text": "3 But we hope in God, our deliverer;"
+        },
+        {
+          "number": "6",
+          "text": "For the might of our God is for ever with mercy,"
+        },
+        {
+          "number": "7",
+          "text": "4 And the kingdom of our God is for ever over the nations in judgment."
+        },
+        {
+          "number": "8",
+          "text": "5 (4) Thou, O Lord, didst choose David (to be) king over Israel,"
+        },
+        {
+          "number": "9",
+          "text": "And swaredst to him touching his seed that never should his kingdom fail before Thee."
+        },
+        {
+          "number": "10",
+          "text": "6 (5) But, for our sins, sinners rose up against us;"
+        },
+        {
+          "number": "11",
+          "text": "They assailed us and thrust us out;"
+        },
+        {
+          "number": "12",
+          "text": "What Thou hadst not promised to them, they took away (from us) with violence."
+        },
+        {
+          "number": "13",
+          "text": "7 They in no wise glorified Thy honorable name;"
+        },
+        {
+          "number": "14",
+          "text": "(6) They set a (worldly) monarchy in place of (that which was) their excellency;"
+        },
+        {
+          "number": "15",
+          "text": "8 They laid waste the throne of David in tumultuous arrogance."
+        },
+        {
+          "number": "16",
+          "text": "(7) But Thou, O God, didst cast them down and remove their seed from the earth,"
+        },
+        {
+          "number": "17",
+          "text": "9 In that there rose up against them a man that was alien to our race."
+        },
+        {
+          "number": "18",
+          "text": "10 (8) According to their sins didst Thou recompense them, O God;"
+        },
+        {
+          "number": "19",
+          "text": "So that it befell them according to their deeds."
+        },
+        {
+          "number": "20",
+          "text": "11 (9) God showed them no pity;"
+        },
+        {
+          "number": "21",
+          "text": "He sought out their seed and let not one of them go free."
+        },
+        {
+          "number": "22",
+          "text": "12 (10) Faithful is the Lord in all His judgments Which He doeth upon the earth."
+        },
+        {
+          "number": "23",
+          "text": "13 (11) The lawless one laid waste our land so that none inhabited it,"
+        },
+        {
+          "number": "24",
+          "text": "They destroyed young and old and their children together."
+        },
+        {
+          "number": "25",
+          "text": "14 (12) In the heat of His anger He sent them away even unto the west,"
+        },
+        {
+          "number": "26",
+          "text": "And (He exposed) the rulers of the land unsparingly to derision."
+        },
+        {
+          "number": "27",
+          "text": "15 (13) Being an alien the enemy acted proudly,"
+        },
+        {
+          "number": "28",
+          "text": "And his heart was alien from our God."
+        },
+        {
+          "number": "29",
+          "text": "16 (14) And all things [whatsoever he did in] Jerusalem,"
+        },
+        {
+          "number": "30",
+          "text": "As also the nations [in the cities to their gods.]"
+        },
+        {
+          "number": "31",
+          "text": "17 (15) And the children of the covenant in the midst of the mingled peoples [surpassed them in evil.]"
+        },
+        {
+          "number": "32",
+          "text": "There was not among them one that wrought in the midst of Jerusalem mercy and truth."
+        },
+        {
+          "number": "33",
+          "text": "18 (16) They that loved the synagogues of the pious fled from them,"
+        },
+        {
+          "number": "34",
+          "text": "As sparrows that fly from their nest."
+        },
+        {
+          "number": "35",
+          "text": "19 (17) They wandered in deserts that their lives might be saved from harm,"
+        },
+        {
+          "number": "36",
+          "text": "And precious in the eyes of them that lived abroad was any that escaped alive from them."
+        },
+        {
+          "number": "37",
+          "text": "20 (18) Over the whole earth were they scattered by lawless (men)."
+        },
+        {
+          "number": "38",
+          "text": "21 (19) For the heavens withheld the rain from dropping upon the earth,"
+        },
+        {
+          "number": "39",
+          "text": "Springs were stopped (that sprang) perennial(ly) out of the deeps, (that ran down) from lofty mountains."
+        },
+        {
+          "number": "40",
+          "text": "For there was none among them that wrought righteousness and justice;"
+        },
+        {
+          "number": "41",
+          "text": "(20) From the chief of them to the least (of them) all were sinful;"
+        },
+        {
+          "number": "42",
+          "text": "22 The king was a transgressor, and the judge disobedient, and the people sinful."
+        },
+        {
+          "number": "43",
+          "text": "23 (21) Behold, O Lord, and raise up unto them their king, the son of David,"
+        },
+        {
+          "number": "44",
+          "text": "At the time in the which Thou seest, O God, that he may reign over Israel Thy servant"
+        },
+        {
+          "number": "45",
+          "text": "24 (22) And gird him with strength, that he may shatter unrighteous rulers,"
+        },
+        {
+          "number": "46",
+          "text": "25 And that he may purge Jerusalem from nations that trample (her) down to destruction."
+        },
+        {
+          "number": "47",
+          "text": "(23) Wisely, righteously 26 he shall thrust out sinners from (the) inheritance,"
+        },
+        {
+          "number": "48",
+          "text": "He shall destroy the pride of the sinner as a potter's vessel."
+        },
+        {
+          "number": "49",
+          "text": "(24) With a rod of iron he shall break in pieces all their substance,"
+        },
+        {
+          "number": "50",
+          "text": "21 He shall destroy the godless nations with the word of his mouth;"
+        },
+        {
+          "number": "51",
+          "text": "(25) At his rebuke nations shall flee before him,"
+        },
+        {
+          "number": "52",
+          "text": "And he shall reprove sinners for the thoughts of their heart."
+        },
+        {
+          "number": "53",
+          "text": "28 (26) And he shall gather together a holy people, whom he shall lead in righteousness,"
+        },
+        {
+          "number": "54",
+          "text": "And he shall judge the tribes of the people that has been sanctified by the Lord his God."
+        },
+        {
+          "number": "55",
+          "text": "29 (21) And he shall not suffer unrighteousness to lodge any more in their midst,"
+        },
+        {
+          "number": "56",
+          "text": "Nor shall there dwell with them any man that knoweth wickedness,"
+        },
+        {
+          "number": "57",
+          "text": "30 For he shall know them, that they are all sons of their God."
+        },
+        {
+          "number": "58",
+          "text": "(28) And he shaIl divide them according to their tribes upon the land,"
+        },
+        {
+          "number": "59",
+          "text": "31 And neither sojourner nor alien shall sojourn with them any more."
+        },
+        {
+          "number": "60",
+          "text": "(29) He shall judge peoples and nations in the wisdom of his righteousness. Selah."
+        },
+        {
+          "number": "61",
+          "text": "32 (30) And he shall have the heathen nations to serve him under his yoke;"
+        },
+        {
+          "number": "62",
+          "text": "And he shall glorify the Lord in a place to be seen of () all the earth;"
+        },
+        {
+          "number": "63",
+          "text": "33 And he shall purge Jerusalem, making it holy as of old:"
+        },
+        {
+          "number": "64",
+          "text": "34 (31) So that nations shall come from the ends of the earth to see his glory,"
+        },
+        {
+          "number": "65",
+          "text": "Bringing as gifts her sons who had fainted,"
+        },
+        {
+          "number": "66",
+          "text": "35 And to see the glory of the Lord, wherewith God hath glorified her."
+        },
+        {
+          "number": "67",
+          "text": "(32) And he (shall be) a righteous king, taught of God, over them,"
+        },
+        {
+          "number": "68",
+          "text": "36 And there shall be no unrighteousness in his days in their midst,"
+        },
+        {
+          "number": "69",
+          "text": "For all shall be holy and their king the anointed of the Lord."
+        },
+        {
+          "number": "70",
+          "text": "37 (33) For he shall not put his trust in horse and rider and bow,"
+        },
+        {
+          "number": "71",
+          "text": "Nor shall he multiply for himself gold and silver for war,"
+        },
+        {
+          "number": "72",
+          "text": "Nor shall he gather confidence from () a multitude () for the day of battle."
+        },
+        {
+          "number": "73",
+          "text": "38 (34) The Lord Himself is his king, the hope of him that is mighty through (his) hope in God."
+        },
+        {
+          "number": "74",
+          "text": "< > All nations (shall be) in fear before him,"
+        },
+        {
+          "number": "75",
+          "text": "39 (35) For he will smite the earth with the word of his mouth for ever."
+        },
+        {
+          "number": "76",
+          "text": "40 He will bless the people of the Lord with wisdom and gladness,"
+        },
+        {
+          "number": "77",
+          "text": "41 (36) And he himself (will be) pure from sin, so that he may rule a great people."
+        },
+        {
+          "number": "78",
+          "text": "He will rebuke rulers, and remove sinners by the might of his word;"
+        },
+        {
+          "number": "79",
+          "text": "42 (37) And (relying) upon his God, throughout his days he will not stumble;"
+        },
+        {
+          "number": "80",
+          "text": "For God will make him mighty by means of (His) holy spirit,"
+        },
+        {
+          "number": "81",
+          "text": "And wise by means of the spirit of understanding, with strength and righteousness."
+        },
+        {
+          "number": "82",
+          "text": "43 (38) And the blessing of the Lord (will be) with him: he will be strong and stumble not;"
+        },
+        {
+          "number": "83",
+          "text": "44 (39) His hope (will be) in the Lord: who then can prevail against him"
+        },
+        {
+          "number": "84",
+          "text": "(40) (He will be) mighty in his works, and strong in the fear of God,"
+        },
+        {
+          "number": "85",
+          "text": "45 (He will be) shepherding the flock of the Lord faithfully and righteously,"
+        },
+        {
+          "number": "86",
+          "text": "And will suffer none among them to stumble in their pasture."
+        },
+        {
+          "number": "87",
+          "text": "46 (41) He will lead them all aright,"
+        },
+        {
+          "number": "88",
+          "text": "And there will be no pride among them that any among them should be oppressed."
+        },
+        {
+          "number": "89",
+          "text": "47 (42) This (will be) the majesty of the king of Israel whom God knoweth;"
+        },
+        {
+          "number": "90",
+          "text": "He will raise him up over the house of Israel to correct him."
+        },
+        {
+          "number": "91",
+          "text": "48 (43) His words (shall be) more refined than costly gold, the choicest;"
+        },
+        {
+          "number": "92",
+          "text": "In the assemblies he will judge the peoples, the tribes of the sanctified."
+        },
+        {
+          "number": "93",
+          "text": "49 His words (shall be) like the words of the holy ones in the midst of sanctified peoples."
+        },
+        {
+          "number": "94",
+          "text": "50 Blessed be they that shall be in those days,"
+        },
+        {
+          "number": "95",
+          "text": "In that they shall see the good fortune of Israel which God shall bring to pass in the gathering together of the tribes."
+        },
+        {
+          "number": "96",
+          "text": "51 May the Lord hasten His mercy upon Israel!"
+        },
+        {
+          "number": "97",
+          "text": "May He deliver us from the uncleanness of unholy enemies!"
+        },
+        {
+          "number": "98",
+          "text": "The Lord Himself is our king for ever and ever."
+        }
+      ],
+      "sourceHeading": "17. A Psalm. Of Solomon. With Song. Of the King."
+    },
+    {
+      "id": "18",
+      "label": "Chapter 18",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "18 1 Lord, Thy mercy is over the works of Thy hands for ever;"
+        },
+        {
+          "number": "2",
+          "text": "Thy goodness is over Israel with a rich gift."
+        },
+        {
+          "number": "3",
+          "text": "2 Thine eyes look upon them, so that none of them suffers want;"
+        },
+        {
+          "number": "4",
+          "text": "3 Thine ears listen to the hopeful prayer of the poor."
+        },
+        {
+          "number": "5",
+          "text": "(3) Thy judgments (are executed) upon the whole earth in mercy;"
+        },
+        {
+          "number": "6",
+          "text": "4 And Thy love (is) toward the seed of Abraham, the children of Israel."
+        },
+        {
+          "number": "7",
+          "text": "(4) Thy chastisement is upon us as (upon) a first-born, only-begotten son,"
+        },
+        {
+          "number": "8",
+          "text": "5 To turn back the obedient soul from folly (that is wrought) in ignorance."
+        },
+        {
+          "number": "9",
+          "text": "6 (5) May God cleanse Israel against the day of mercy and blessing,"
+        },
+        {
+          "number": "10",
+          "text": "Against the day of choice when He bringeth back His anointed."
+        },
+        {
+          "number": "11",
+          "text": "7 (6) Blessed shall they be that shall be in those days,"
+        },
+        {
+          "number": "12",
+          "text": "In that they shall see the goodness of the Lord which He shall perform for the generation that is to come,"
+        },
+        {
+          "number": "13",
+          "text": "8 (7) Under the rod of chastening of the Lord's anointed in the fear of his God,"
+        },
+        {
+          "number": "14",
+          "text": "In the spirit of wisdom and righteousness and strength;"
+        },
+        {
+          "number": "15",
+          "text": "9 (8) That he may direct (every} man in the works of righteousness by the fear of God,"
+        },
+        {
+          "number": "16",
+          "text": "That he may establish them all before the Lord,"
+        },
+        {
+          "number": "17",
+          "text": "10 (9) A good generation (living) in the fear of God in the days of mercy. Selah."
+        },
+        {
+          "number": "18",
+          "text": "11 (10) Great is our God and glorious, dwelling in the highest."
+        },
+        {
+          "number": "19",
+          "text": "12 (It is He) who hath established in (their) courses the lights (of heaven) for determining seasons from year to year,"
+        },
+        {
+          "number": "20",
+          "text": "And they have not turned aside from the way which He appointed them"
+        },
+        {
+          "number": "21",
+          "text": "13 (11) In the fear of God (they pursue) their path every day,"
+        },
+        {
+          "number": "22",
+          "text": "From the day God created them and for evermore."
+        },
+        {
+          "number": "23",
+          "text": "14 (12) And they have erred not since the day He created them."
+        },
+        {
+          "number": "24",
+          "text": "Since the generations of old they have not withdrawn from their path,"
+        },
+        {
+          "number": "25",
+          "text": "Unless God commanded them (so to do) by the command of His servants."
+        }
+      ],
+      "sourceHeading": "18. A Psalm. Of Solomon. Again of the Anointed of the Lord."
+    }
+  ]
+}

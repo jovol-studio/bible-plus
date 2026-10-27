@@ -239,6 +239,7 @@ function renderSources() {
     paragraph('此書目前僅列入書目，內容尚未備妥。');
     paragraph('尚未選定或收錄文本版本，因此未指定經文授權；書名列入目錄不代表已取得內容使用權。');
     if (activeBook().catalogNote) paragraph(activeBook().catalogNote);
+    sourceLink('英文文本參考（外部網站）', activeBook().referenceUrl);
     return;
   }
   if (activeBook().index !== undefined) {
@@ -257,7 +258,7 @@ function renderSources() {
     container.append(link);
     return;
   }
-  paragraph('網路本：典外書卷的閱讀分類名稱，包含不同歷史英譯版本及 AI 中文翻譯初稿，並非單一出版譯本。');
+  paragraph('網路本：典外書卷的閱讀分類名稱，包含不同英文版本、中文舊譯本及既有 AI 中文翻譯初稿，並非單一出版譯本。');
   for (const [data, label] of [[english, '英文'], [chinese, '中文']]) {
     if (!data) continue;
     paragraph(`${label}：${data.source.credit}`);

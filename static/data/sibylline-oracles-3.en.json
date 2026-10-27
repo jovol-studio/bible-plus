@@ -1,0 +1,3969 @@
+{
+  "id": "sibylline-oracles-3",
+  "title": {
+    "en": "Sibylline Oracles, Book 3",
+    "zh-Hant": "西卜神諭篇卷三"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://elfinspell.com/SibyllineOraclesBk3.html",
+    "credit": "Milton S. Terry, Sibylline Oracles (1890), Book III, pp. 69–110.",
+    "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
+    "retrieved": "2026-10-27",
+    "sha256": "631663a8e23009f91e140a9392ec8ff5035debf1c62f40c84d93a5f18cce226a",
+    "editionNote": "完整卷三 986 行英語詩譯，App 以單章逐行閱讀；行號為 Terry 英譯行號，不是希臘原文行號。未含註釋。 本次只匯入現有英文，不另作翻譯。"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "卷三神諭",
+      "verses": [
+        {
+          "number": "1",
+          "text": "THOU blessed One, loud Thunderer of the heavens,"
+        },
+        {
+          "number": "2",
+          "text": "Who holdest in their place the cherubim,"
+        },
+        {
+          "number": "3",
+          "text": "I pray thee give me now a little rest,"
+        },
+        {
+          "number": "4",
+          "text": "Since I have uttered what is all so true."
+        },
+        {
+          "number": "5",
+          "text": "For weary has my heart within me grown."
+        },
+        {
+          "number": "6",
+          "text": "Why should my heart be quivering now again,"
+        },
+        {
+          "number": "7",
+          "text": "And my soul, lashed as with a whip, be forced"
+        },
+        {
+          "number": "8",
+          "text": "To utter forth its oracle to all?"
+        },
+        {
+          "number": "9",
+          "text": "Yet once more I will speak aloud of all things"
+        },
+        {
+          "number": "10",
+          "text": "Which God impels me to proclaim to men."
+        },
+        {
+          "number": "11",
+          "text": "O men, in godlike form and image made,"
+        },
+        {
+          "number": "12",
+          "text": "Why do ye vainly wander, and not walk"
+        },
+        {
+          "number": "13",
+          "text": "The straight path, keeping ever in your mind"
+        },
+        {
+          "number": "14",
+          "text": "The immortal Maker? One God rules alone,"
+        },
+        {
+          "number": "15",
+          "text": "Unutterable, dwelling in the sky,"
+        },
+        {
+          "number": "16",
+          "text": "Self-constituted, and invisible,"
+        },
+        {
+          "number": "17",
+          "text": "Though he himself alone beholds all things."
+        },
+        {
+          "number": "18",
+          "text": "No sculptor’s hand formed him, nor by man’s art"
+        },
+        {
+          "number": "19",
+          "text": "Appears his image in gold or ivory;"
+        },
+        {
+          "number": "20",
+          "text": "But he proclaims his own eternity"
+        },
+        {
+          "number": "21",
+          "text": "As one who is, and was, and yet shall be."
+        },
+        {
+          "number": "22",
+          "text": "For who is he, frail mortal, that with eyes"
+        },
+        {
+          "number": "23",
+          "text": "Can look on God? Or who could bear to hear"
+        },
+        {
+          "number": "24",
+          "text": "The name alone of the great God of heaven"
+        },
+        {
+          "number": "25",
+          "text": "Who rules the world? He by a word all things"
+        },
+        {
+          "number": "26",
+          "text": "Created, heaven, and sea, and tireless sun,"
+        },
+        {
+          "number": "27",
+          "text": "And the full moon, and stars that shed forth light,"
+        },
+        {
+          "number": "28",
+          "text": "The mighty mother Tethys, fountains, streams,"
+        },
+        {
+          "number": "29",
+          "text": "Imperishable fire, and days and nights."
+        },
+        {
+          "number": "30",
+          "text": "This is the God who made four-lettered Adam,"
+        },
+        {
+          "number": "31",
+          "text": "The first one formed, whose name fills east and west"
+        },
+        {
+          "number": "32",
+          "text": "And south and north. The same is he who fixed"
+        },
+        {
+          "number": "33",
+          "text": "The type and form of man, and made the beasts,"
+        },
+        {
+          "number": "34",
+          "text": "And creeping things, and such as spread the wing."
+        },
+        {
+          "number": "35",
+          "text": "Ye do not reverence or worship God,"
+        },
+        {
+          "number": "36",
+          "text": "But vainly go astray and bow the knee"
+        },
+        {
+          "number": "37",
+          "text": "To serpents, and to cats make sacrifice,"
+        },
+        {
+          "number": "38",
+          "text": "And other idols, statues made of stone,"
+        },
+        {
+          "number": "39",
+          "text": "And sit before the doors of godless shrines."
+        },
+        {
+          "number": "40",
+          "text": "Ye guard against the God who keeps all things,"
+        },
+        {
+          "number": "41",
+          "text": "And in the wickedness of stones delight,"
+        },
+        {
+          "number": "42",
+          "text": "Forgetful of the immortal Saviour’s judgment,"
+        },
+        {
+          "number": "43",
+          "text": "Who made the heaven and earth. Woe to a race"
+        },
+        {
+          "number": "44",
+          "text": "That has delight in blood, deceitful, vile,"
+        },
+        {
+          "number": "45",
+          "text": "Ungodly, double-tongued, malicious men,"
+        },
+        {
+          "number": "46",
+          "text": "Unchaste, idolatrous, designing fraud,"
+        },
+        {
+          "number": "47",
+          "text": "An evil madness raving in their breasts."
+        },
+        {
+          "number": "48",
+          "text": "They plunder, and maintain a shameless soul;"
+        },
+        {
+          "number": "49",
+          "text": "For no rich man will with another share."
+        },
+        {
+          "number": "50",
+          "text": "But a dire evil shall to all men come,"
+        },
+        {
+          "number": "51",
+          "text": "Faith they will nowhere hold, and many wives"
+        },
+        {
+          "number": "52",
+          "text": "And widows will in secret others love"
+        },
+        {
+          "number": "53",
+          "text": "Because of gain, and they will not observe"
+        },
+        {
+          "number": "54",
+          "text": "Life’s sacred bond if only they get men."
+        },
+        {
+          "number": "55",
+          "text": "But when Rome also over Egypt rules,"
+        },
+        {
+          "number": "56",
+          "text": "Having one end in view, then shall appear"
+        },
+        {
+          "number": "57",
+          "text": "The mighty kingdom of the immortal king"
+        },
+        {
+          "number": "58",
+          "text": "Set over men. A holy king shall come"
+        },
+        {
+          "number": "59",
+          "text": "Wielding the scepter over every land"
+        },
+        {
+          "number": "60",
+          "text": "Unto all ages of advancing time."
+        },
+        {
+          "number": "61",
+          "text": "And then will the stern wrath of Latian men"
+        },
+        {
+          "number": "62",
+          "text": "Rome thrice expose to pitiable fate."
+        },
+        {
+          "number": "63",
+          "text": "And all mankind shall perish in their homes,"
+        },
+        {
+          "number": "64",
+          "text": "When from the heavens a fiery cataract flows."
+        },
+        {
+          "number": "65",
+          "text": "Ah me, unhappy! When shall that day come,"
+        },
+        {
+          "number": "66",
+          "text": "And judgment of the immortal God’s great king?"
+        },
+        {
+          "number": "67",
+          "text": "Now surely, O ye cities, ye are built"
+        },
+        {
+          "number": "68",
+          "text": "And all adorned with temples and race-grounds,"
+        },
+        {
+          "number": "69",
+          "text": "Markets, and images of precious stone,"
+        },
+        {
+          "number": "70",
+          "text": "All that ye may come to a bitter day."
+        },
+        {
+          "number": "71",
+          "text": "For it will come whenever there shall pass"
+        },
+        {
+          "number": "72",
+          "text": "The smell of sulphur among all mankind."
+        },
+        {
+          "number": "73",
+          "text": "But these things severally I will tell"
+        },
+        {
+          "number": "74",
+          "text": "In as many cities as men carry vice."
+        },
+        {
+          "number": "75",
+          "text": "From the great Cæsars Beliar shall come"
+        },
+        {
+          "number": "76",
+          "text": "Hereafter, and shall stand on mountain height,"
+        },
+        {
+          "number": "77",
+          "text": "And stay the sea, and the great fiery sun,"
+        },
+        {
+          "number": "78",
+          "text": "And shining moon, and make the dead stand up,"
+        },
+        {
+          "number": "79",
+          "text": "And perform many miracles with men."
+        },
+        {
+          "number": "80",
+          "text": "But nothing to perfection will he bring,"
+        },
+        {
+          "number": "81",
+          "text": "But many mortals he will lead astray,"
+        },
+        {
+          "number": "82",
+          "text": "Elect and faithful Hebrews; also men"
+        },
+        {
+          "number": "83",
+          "text": "Without law, such as never heard God’s word."
+        },
+        {
+          "number": "84",
+          "text": "But when the threatenings of the mighty God"
+        },
+        {
+          "number": "85",
+          "text": "Shall draw near, and upon the earth shall come"
+        },
+        {
+          "number": "86",
+          "text": "The flaming power as in a billowy wave,"
+        },
+        {
+          "number": "87",
+          "text": "It shall burn Beliar too, and faithless men,"
+        },
+        {
+          "number": "88",
+          "text": "All, even as many as put their trust in him."
+        },
+        {
+          "number": "89",
+          "text": "And then the world shall by a woman’s hands"
+        },
+        {
+          "number": "90",
+          "text": "Be governed and persuaded in all things,"
+        },
+        {
+          "number": "91",
+          "text": "And when o’er all the world a widow reigns,"
+        },
+        {
+          "number": "92",
+          "text": "And flings the gold and silver in the sea,"
+        },
+        {
+          "number": "93",
+          "text": "And brass and iron of perishable man"
+        },
+        {
+          "number": "94",
+          "text": "Flings in the flood, then all earth’s elements"
+        },
+        {
+          "number": "95",
+          "text": "Shall widow-like be waste and desolate."
+        },
+        {
+          "number": "96",
+          "text": "And God who dwells on high will roll the heaven"
+        },
+        {
+          "number": "97",
+          "text": "Together, even as a scroll is rolled."
+        },
+        {
+          "number": "98",
+          "text": "And on the noble land and on the sea"
+        },
+        {
+          "number": "99",
+          "text": "The entire multiform arch of heaven shall fall."
+        },
+        {
+          "number": "100",
+          "text": "A cataract of glowing fire shall flow"
+        },
+        {
+          "number": "101",
+          "text": "Unceasing, and burn land and sea and sky;"
+        },
+        {
+          "number": "102",
+          "text": "Creation itself will he melt into one,"
+        },
+        {
+          "number": "103",
+          "text": "And take out that which tends to purity."
+        },
+        {
+          "number": "104",
+          "text": "The luminous laughing spheres shall be no more,"
+        },
+        {
+          "number": "105",
+          "text": "Nor night, nor dawn, nor many days of care,"
+        },
+        {
+          "number": "106",
+          "text": "Nor spring-time, summer, winter, autumn more."
+        },
+        {
+          "number": "107",
+          "text": "And then shall come God’s judgment, in the midst"
+        },
+        {
+          "number": "108",
+          "text": "Of a great age when all these things shall be."
+        },
+        {
+          "number": "109",
+          "text": "O navigable waters, and all lands"
+        },
+        {
+          "number": "110",
+          "text": "Wherever the sun rises and goes down,"
+        },
+        {
+          "number": "111",
+          "text": "All things shall be subjected unto him"
+        },
+        {
+          "number": "112",
+          "text": "Who comes a second time into the world;"
+        },
+        {
+          "number": "113",
+          "text": "For from the first he recognized his power."
+        },
+        {
+          "number": "114",
+          "text": "But when the threatenings of the mighty God"
+        },
+        {
+          "number": "115",
+          "text": "Had been fulfilled, which once he threatened those"
+        },
+        {
+          "number": "116",
+          "text": "Who made a tower in the Assyrian land"
+        },
+        {
+          "number": "117",
+          "text": "(And they were all one language, and resolved"
+        },
+        {
+          "number": "118",
+          "text": "To mount aloft into the starry heaven),"
+        },
+        {
+          "number": "119",
+          "text": "Straightway the Immortal added to the winds"
+        },
+        {
+          "number": "120",
+          "text": "A mighty force, and tempests from above"
+        },
+        {
+          "number": "121",
+          "text": "Hurled down the huge tower, and among mankind"
+        },
+        {
+          "number": "122",
+          "text": "Raised up confusion, wherefore mortals gave"
+        },
+        {
+          "number": "123",
+          "text": "Unto that city the name of Babylon."
+        },
+        {
+          "number": "124",
+          "text": "But when the tower fell, and the tongues of men"
+        },
+        {
+          "number": "125",
+          "text": "Became discordant, all the earth was filled"
+        },
+        {
+          "number": "126",
+          "text": "With mortals, and divided among kings."
+        },
+        {
+          "number": "127",
+          "text": "And then appeared the generation tenth"
+        },
+        {
+          "number": "128",
+          "text": "Of mortal men, from the time when the flood"
+        },
+        {
+          "number": "129",
+          "text": "Came on the earlier race. And Kronos reigned,"
+        },
+        {
+          "number": "130",
+          "text": "And Titan and Japetus, whom men esteemed"
+        },
+        {
+          "number": "131",
+          "text": "Fairest of Gaia and Uranus born,"
+        },
+        {
+          "number": "132",
+          "text": "And gave them also names of earth and heaven,"
+        },
+        {
+          "number": "133",
+          "text": "Because they were most excellent of men."
+        },
+        {
+          "number": "134",
+          "text": "Into three parts divided they the earth,"
+        },
+        {
+          "number": "135",
+          "text": "According to the inheritance of each,"
+        },
+        {
+          "number": "136",
+          "text": "And each ruled his own portion, without strife;"
+        },
+        {
+          "number": "137",
+          "text": "For they were bound by the paternal oath,"
+        },
+        {
+          "number": "138",
+          "text": "And equal were their portions. But old age"
+        },
+        {
+          "number": "139",
+          "text": "Came on the father, and his time was full,"
+        },
+        {
+          "number": "140",
+          "text": "And he died; but the sons, infringing oaths,"
+        },
+        {
+          "number": "141",
+          "text": "Contended with each other in fierce strife,"
+        },
+        {
+          "number": "142",
+          "text": "Who should hold regal honor, and bear rule"
+        },
+        {
+          "number": "143",
+          "text": "Over all mortals. Then did Kronos fight"
+        },
+        {
+          "number": "144",
+          "text": "And Titan with the rest. But Rhea, and Gaia,"
+        },
+        {
+          "number": "145",
+          "text": "And garland-loving Venus, Demeter,"
+        },
+        {
+          "number": "146",
+          "text": "And Vesta, and Dione golden-haired"
+        },
+        {
+          "number": "147",
+          "text": "Brought them to friendship, and a council called"
+        },
+        {
+          "number": "148",
+          "text": "Of all the kings and brothers, and near kin,"
+        },
+        {
+          "number": "149",
+          "text": "And also others of ancestral blood,"
+        },
+        {
+          "number": "150",
+          "text": "And they decided Kronos should be king,"
+        },
+        {
+          "number": "151",
+          "text": "For he was oldest and of noblest form."
+        },
+        {
+          "number": "152",
+          "text": "But Titan place on Kronos mighty oaths"
+        },
+        {
+          "number": "153",
+          "text": "To rear no male posterity, that he"
+        },
+        {
+          "number": "154",
+          "text": "Himself might reign when age and fate should fall"
+        },
+        {
+          "number": "155",
+          "text": "On Kronos. So whenever Rhea bore,"
+        },
+        {
+          "number": "156",
+          "text": "Beside her sat the Titans, and destroyed"
+        },
+        {
+          "number": "157",
+          "text": "All the male issue; but the female lived,"
+        },
+        {
+          "number": "158",
+          "text": "And were left to the mother’s nursing care."
+        },
+        {
+          "number": "159",
+          "text": "But when at the third birth the honored Rhea"
+        },
+        {
+          "number": "160",
+          "text": "Brought forth illustrious Juno, and they saw"
+        },
+        {
+          "number": "161",
+          "text": "With wondering eyes a race of females born,"
+        },
+        {
+          "number": "162",
+          "text": "The savage Titans took themselves away."
+        },
+        {
+          "number": "163",
+          "text": "Then when a male child Rhea brought to birth"
+        },
+        {
+          "number": "164",
+          "text": "She sent him quickly into Phrygia,"
+        },
+        {
+          "number": "165",
+          "text": "There to be reared in secret, having bound"
+        },
+        {
+          "number": "166",
+          "text": "Three Cretans by an oath to do her will."
+        },
+        {
+          "number": "167",
+          "text": "They called him Dia, for he was sent away."
+        },
+        {
+          "number": "168",
+          "text": "Poseidon also secretly she sent;"
+        },
+        {
+          "number": "169",
+          "text": "And Pluto, third, by women’s helping hand"
+        },
+        {
+          "number": "170",
+          "text": "Did Rhea, coming to Dodona, bear"
+        },
+        {
+          "number": "171",
+          "text": "Whence flows Eurotas’ moistened path away,"
+        },
+        {
+          "number": "172",
+          "text": "And, with Peneius mixed, pours in the sea"
+        },
+        {
+          "number": "173",
+          "text": "Its water, and men call it Stygian."
+        },
+        {
+          "number": "174",
+          "text": "But when the Titans heard of hidden sons"
+        },
+        {
+          "number": "175",
+          "text": "Begotten by King Kronos and his wife,"
+        },
+        {
+          "number": "176",
+          "text": "Straightway assembled Titan sixty youths,"
+        },
+        {
+          "number": "177",
+          "text": "Bound Kronos and his wife Rhea in chains,"
+        },
+        {
+          "number": "178",
+          "text": "Hid them in earth, and kept them under guard."
+        },
+        {
+          "number": "179",
+          "text": "And then the sons of mighty Kronos heard,"
+        },
+        {
+          "number": "180",
+          "text": "And they stirred up a tumultuous war,"
+        },
+        {
+          "number": "181",
+          "text": "And this was the beginning of dire war"
+        },
+        {
+          "number": "182",
+          "text": "Among all mortals, for it was indeed"
+        },
+        {
+          "number": "183",
+          "text": "With men the primal origin of war."
+        },
+        {
+          "number": "184",
+          "text": "Then God sent evil on the Titan race,"
+        },
+        {
+          "number": "185",
+          "text": "And all from Titan and from Kronos sprung"
+        },
+        {
+          "number": "186",
+          "text": "Died. But as time rolled on these kingdoms rose;"
+        },
+        {
+          "number": "187",
+          "text": "Egyptian, Persian, Median, Ethiopian,"
+        },
+        {
+          "number": "188",
+          "text": "Assyrian-Babylon, and Macedon,"
+        },
+        {
+          "number": "189",
+          "text": "Egyptian yet again, then that of Rome."
+        },
+        {
+          "number": "190",
+          "text": "And then a message of the mighty God"
+        },
+        {
+          "number": "191",
+          "text": "Pressed on my heart, and bade me prophecy"
+        },
+        {
+          "number": "192",
+          "text": "On all the earth, and in the minds of kings"
+        },
+        {
+          "number": "193",
+          "text": "Those things deposit which are yet to be."
+        },
+        {
+          "number": "194",
+          "text": "And first the only God delivered me"
+        },
+        {
+          "number": "195",
+          "text": "What kingdoms of mankind shall be raised up."
+        },
+        {
+          "number": "196",
+          "text": "And first the house of Solomon shall rule"
+        },
+        {
+          "number": "197",
+          "text": "The horsemen of Phenicia and of Asia,"
+        },
+        {
+          "number": "198",
+          "text": "And those of other islands, and the race"
+        },
+        {
+          "number": "199",
+          "text": "Of the Pamphylians, Persian, Phrygians,"
+        },
+        {
+          "number": "200",
+          "text": "Carians, Mysians, and Lydians famed for gold."
+        },
+        {
+          "number": "201",
+          "text": "And then the overweening Hellenes,"
+        },
+        {
+          "number": "202",
+          "text": "Impure, another Macedonian race,"
+        },
+        {
+          "number": "203",
+          "text": "Much mixed, shall rule, and they shall bring on men"
+        },
+        {
+          "number": "204",
+          "text": "A fearful cloud of war, but the God of heaven"
+        },
+        {
+          "number": "205",
+          "text": "Will utterly destroy them from below."
+        },
+        {
+          "number": "206",
+          "text": "And then another kingdom will arise,"
+        },
+        {
+          "number": "207",
+          "text": "White, many-headed from the western sea,"
+        },
+        {
+          "number": "208",
+          "text": "Which will rule many a land, and many shake,"
+        },
+        {
+          "number": "209",
+          "text": "And afterward bring terror to all kings."
+        },
+        {
+          "number": "210",
+          "text": "Much gold and silver will she take by force"
+        },
+        {
+          "number": "211",
+          "text": "From many cities, yet in the vast earth"
+        },
+        {
+          "number": "212",
+          "text": "There will be gold and silver and elegance."
+        },
+        {
+          "number": "213",
+          "text": "And they will sore afflict mankind, and then"
+        },
+        {
+          "number": "214",
+          "text": "To those same men will come a ruinous fall,"
+        },
+        {
+          "number": "215",
+          "text": "When they attempt unrighteous insolence."
+        },
+        {
+          "number": "216",
+          "text": "On them will be the bond of wickedness,"
+        },
+        {
+          "number": "217",
+          "text": "Male will consort with male, and they will set"
+        },
+        {
+          "number": "218",
+          "text": "Children in dens of shame. And in those days"
+        },
+        {
+          "number": "219",
+          "text": "A great affliction among men will come,"
+        },
+        {
+          "number": "220",
+          "text": "And vex and wound and all things with evil"
+        },
+        {
+          "number": "221",
+          "text": "Through shameful covetousness, and gain ill-gotten"
+        },
+        {
+          "number": "222",
+          "text": "In many lands, but most in Macedon."
+        },
+        {
+          "number": "223",
+          "text": "And hatred shall spring up, and all deceit,"
+        },
+        {
+          "number": "224",
+          "text": "Until the seventh kingdom, which a king"
+        },
+        {
+          "number": "225",
+          "text": "Of Egypt, but of Grecian birth, shall rule."
+        },
+        {
+          "number": "226",
+          "text": "And then the nation of the mighty God"
+        },
+        {
+          "number": "227",
+          "text": "Shall be again strong, and be guides of life"
+        },
+        {
+          "number": "228",
+          "text": "To all mankind. But wherefore now should God"
+        },
+        {
+          "number": "229",
+          "text": "Lay it upon my spirit to declare"
+        },
+        {
+          "number": "230",
+          "text": "What evil first, what next, what last shall be"
+        },
+        {
+          "number": "231",
+          "text": "Upon all men, an dhow they shall begin?"
+        },
+        {
+          "number": "232",
+          "text": "First on the Titans God will evil send,"
+        },
+        {
+          "number": "233",
+          "text": "For mighty Kronos’s sons will vengeance take,"
+        },
+        {
+          "number": "234",
+          "text": "Because they bound the king and mother dear."
+        },
+        {
+          "number": "235",
+          "text": "Again will tyrants rule the Hellenes,"
+        },
+        {
+          "number": "236",
+          "text": "And they will be proud, haughty, vicious kings,"
+        },
+        {
+          "number": "237",
+          "text": "Adulterous, and altogether bad;"
+        },
+        {
+          "number": "238",
+          "text": "And no more will there be a rest from war."
+        },
+        {
+          "number": "239",
+          "text": "The dreadful Phrygians shall perish all,"
+        },
+        {
+          "number": "240",
+          "text": "And Troy will meet misfortune in that day."
+        },
+        {
+          "number": "241",
+          "text": "Evil will also to the Persians come,"
+        },
+        {
+          "number": "242",
+          "text": "And to the Assyrians, and all Egypt too,"
+        },
+        {
+          "number": "243",
+          "text": "And Libya and the Ethiopians,"
+        },
+        {
+          "number": "244",
+          "text": "Carians, Pamphylians, and on mortals all"
+        },
+        {
+          "number": "245",
+          "text": "Shall evil be imposed. Why then of each"
+        },
+        {
+          "number": "246",
+          "text": "Do I speak? When the first comes to an end"
+        },
+        {
+          "number": "247",
+          "text": "Straightway the second falls upon mankind;"
+        },
+        {
+          "number": "248",
+          "text": "And yet I will the very first sound forth."
+        },
+        {
+          "number": "249",
+          "text": "There will an evil come to pious men"
+        },
+        {
+          "number": "250",
+          "text": "Who dwell by the great temple of Solomon,"
+        },
+        {
+          "number": "251",
+          "text": "And are the progeny of righteous men."
+        },
+        {
+          "number": "252",
+          "text": "Of these I also will declare the tribe"
+        },
+        {
+          "number": "253",
+          "text": "And line of fathers, and the home of all —"
+        },
+        {
+          "number": "254",
+          "text": "Do all with skill, O mortal full of guile."
+        },
+        {
+          "number": "255",
+          "text": "There is a city on the [Asian] soil,"
+        },
+        {
+          "number": "256",
+          "text": "Ur of the Chaldees, whence has come a race"
+        },
+        {
+          "number": "257",
+          "text": "Most upright, ever of good counsel fond"
+        },
+        {
+          "number": "258",
+          "text": "And noble deeds. For they seek not with care"
+        },
+        {
+          "number": "259",
+          "text": "The circling pathway of the sun and moon,"
+        },
+        {
+          "number": "260",
+          "text": "Nor monstrous deeds on earth, nor the blue depth"
+        },
+        {
+          "number": "261",
+          "text": "Of sea or ocean, nor the signs of sneezing,"
+        },
+        {
+          "number": "262",
+          "text": "Nor birds of augurers, nor soothsayers,"
+        },
+        {
+          "number": "263",
+          "text": "Nor wizards, nor enchanters, nor the frauds"
+        },
+        {
+          "number": "264",
+          "text": "And silly speeches of ventriloquists,"
+        },
+        {
+          "number": "265",
+          "text": "Nor studies of Chaldean astrologers,"
+        },
+        {
+          "number": "266",
+          "text": "Nor oracles they gather from the stars."
+        },
+        {
+          "number": "267",
+          "text": "For all these things are errors, which vain men"
+        },
+        {
+          "number": "268",
+          "text": "Search day by day, and exercise their souls"
+        },
+        {
+          "number": "269",
+          "text": "In labors void of profit, and then teach"
+        },
+        {
+          "number": "270",
+          "text": "Their error unto other thoughtless men."
+        },
+        {
+          "number": "271",
+          "text": "Hence many evils have befallen men,"
+        },
+        {
+          "number": "272",
+          "text": "And turned them from good ways and righteous deeds."
+        },
+        {
+          "number": "273",
+          "text": "But they do seek with care for righteousness"
+        },
+        {
+          "number": "274",
+          "text": "And virtue, and have not the avarice"
+        },
+        {
+          "number": "275",
+          "text": "Which breeds unnumbered ills to mortal men,"
+        },
+        {
+          "number": "276",
+          "text": "Continuous war, and famine without end."
+        },
+        {
+          "number": "277",
+          "text": "Just measure they observe in field and town;"
+        },
+        {
+          "number": "278",
+          "text": "They steal not from each other in the night,"
+        },
+        {
+          "number": "279",
+          "text": "Nor drive off herds of oxen, sheep, and goats;"
+        },
+        {
+          "number": "280",
+          "text": "Nor do they neighbors’ landmarks take away;"
+        },
+        {
+          "number": "281",
+          "text": "Nor does the man of great wealth grieve the poor,"
+        },
+        {
+          "number": "282",
+          "text": "Nor oppress widows, but he rather aids,"
+        },
+        {
+          "number": "283",
+          "text": "Every imparting wheat and wine and oil,"
+        },
+        {
+          "number": "284",
+          "text": "And always happy with those that have nought;"
+        },
+        {
+          "number": "285",
+          "text": "And to the destitute at harvest-time"
+        },
+        {
+          "number": "286",
+          "text": "He sends a share. Thus they fulfill the word"
+        },
+        {
+          "number": "287",
+          "text": "Of the great God — a hymn enshrined in law."
+        },
+        {
+          "number": "288",
+          "text": "For he who dwells in heaven completed earth"
+        },
+        {
+          "number": "289",
+          "text": "To be a common property for all."
+        },
+        {
+          "number": "290",
+          "text": "But when the people of twelve tribes depart"
+        },
+        {
+          "number": "291",
+          "text": "From Egypt and with joy pursue their way,"
+        },
+        {
+          "number": "292",
+          "text": "With leaders sent of God, they will proceed"
+        },
+        {
+          "number": "293",
+          "text": "In a pillar of fire by night, and one of cloud"
+        },
+        {
+          "number": "294",
+          "text": "At morning of each day as they go on;"
+        },
+        {
+          "number": "295",
+          "text": "And for them God a leader will appoint,"
+        },
+        {
+          "number": "296",
+          "text": "A great man, Moses, whom a princess found"
+        },
+        {
+          "number": "297",
+          "text": "Beside a marsh, and carried off and reared"
+        },
+        {
+          "number": "298",
+          "text": "And called her son. But when anon he came"
+        },
+        {
+          "number": "299",
+          "text": "As leader of the people whom God brought"
+        },
+        {
+          "number": "300",
+          "text": "Away from Egypt to the Sinai mount,"
+        },
+        {
+          "number": "301",
+          "text": "Then God delivered them the law from heaven,"
+        },
+        {
+          "number": "302",
+          "text": "And wrote upon two tables all things just,"
+        },
+        {
+          "number": "303",
+          "text": "Which he enjoined to do; and if, perchance,"
+        },
+        {
+          "number": "304",
+          "text": "One give no heed, he must unto the law"
+        },
+        {
+          "number": "305",
+          "text": "Make satisfaction, either at men’s hands,"
+        },
+        {
+          "number": "306",
+          "text": "Or, if man’s notice he escape, he shall"
+        },
+        {
+          "number": "307",
+          "text": "By ample satisfaction be destroyed."
+        },
+        {
+          "number": "308",
+          "text": "For he who rules in heaven completed earth"
+        },
+        {
+          "number": "309",
+          "text": "To be a common property for all."
+        },
+        {
+          "number": "310",
+          "text": "And in all bosoms placed he noblest thought."
+        },
+        {
+          "number": "311",
+          "text": "To them alone the bounteous field yields fruit,"
+        },
+        {
+          "number": "312",
+          "text": "A hundred-fold from one, and thus completes"
+        },
+        {
+          "number": "313",
+          "text": "God’s measure. But to them shall also come"
+        },
+        {
+          "number": "314",
+          "text": "Misfortune, nor will they escape all plague."
+        },
+        {
+          "number": "315",
+          "text": "And even thou, forsaking thy fair shrine,"
+        },
+        {
+          "number": "316",
+          "text": "Shalt flee away when it becomes thy lot"
+        },
+        {
+          "number": "317",
+          "text": "To leave the holy ground, and thou shalt be"
+        },
+        {
+          "number": "318",
+          "text": "Carried to the Assyrians, and shalt see"
+        },
+        {
+          "number": "319",
+          "text": "Wives and young children serving hostile men."
+        },
+        {
+          "number": "320",
+          "text": "All means of life and wealth shall be destroyed,"
+        },
+        {
+          "number": "321",
+          "text": "And every land and sea be filled with thee,"
+        },
+        {
+          "number": "322",
+          "text": "And at thy customs all will take offense."
+        },
+        {
+          "number": "323",
+          "text": "Thy land shall be all waste, and the fenced altar"
+        },
+        {
+          "number": "324",
+          "text": "And scared temple and extended walls,"
+        },
+        {
+          "number": "325",
+          "text": "All to the ground shall fall, because in heart"
+        },
+        {
+          "number": "326",
+          "text": "Thou hast not kept the holy law of God;"
+        },
+        {
+          "number": "327",
+          "text": "But thou hast erred and served vain images,"
+        },
+        {
+          "number": "328",
+          "text": "And hast not feared the immortal Sire of gods"
+        },
+        {
+          "number": "329",
+          "text": "And of all men, nor willed to honor him,"
+        },
+        {
+          "number": "330",
+          "text": "But thou hast honored images of men."
+        },
+        {
+          "number": "331",
+          "text": "Therefore seven decades shall thy fruitful land"
+        },
+        {
+          "number": "332",
+          "text": "And the wonders of the temple be a waste."
+        },
+        {
+          "number": "333",
+          "text": "And yet for thee a goodly end remains,"
+        },
+        {
+          "number": "334",
+          "text": "And highest glory from the immortal God."
+        },
+        {
+          "number": "335",
+          "text": "But wait thou, and confide in God’s pure laws,"
+        },
+        {
+          "number": "336",
+          "text": "When to the light he lifts thy wearied knee."
+        },
+        {
+          "number": "337",
+          "text": "And then will God send out of heaven a king"
+        },
+        {
+          "number": "338",
+          "text": "To judge each man in blood and light of fire."
+        },
+        {
+          "number": "339",
+          "text": "There is a royal tribe, whose progeny"
+        },
+        {
+          "number": "340",
+          "text": "Shall be unfailing, and in course of time"
+        },
+        {
+          "number": "341",
+          "text": "Will it rule, and God’s temple build anew."
+        },
+        {
+          "number": "342",
+          "text": "And all the kings of Persia will assist"
+        },
+        {
+          "number": "343",
+          "text": "With gold and brass and well-wrought iron, and God"
+        },
+        {
+          "number": "344",
+          "text": "Himself will give by night the holy dream,"
+        },
+        {
+          "number": "345",
+          "text": "And then the temple shall be as of old,"
+        },
+        {
+          "number": "346",
+          "text": "Now when my soul had ceased from hallowed song,"
+        },
+        {
+          "number": "347",
+          "text": "And I prayed the great Sire to be released,"
+        },
+        {
+          "number": "348",
+          "text": "Again a message of Almighty God"
+        },
+        {
+          "number": "349",
+          "text": "Rose in my heart, and he commanded me"
+        },
+        {
+          "number": "350",
+          "text": "To prophecy o’er all the earth, and place"
+        },
+        {
+          "number": "351",
+          "text": "In royal minds the things which are to be."
+        },
+        {
+          "number": "352",
+          "text": "And to my mind God gave me first to tell"
+        },
+        {
+          "number": "353",
+          "text": "What bitter woes for Babylon he planned,"
+        },
+        {
+          "number": "354",
+          "text": "Because they God’s great temple had destroyed."
+        },
+        {
+          "number": "355",
+          "text": "Alas! alas! for thee, O Babylon,"
+        },
+        {
+          "number": "356",
+          "text": "And also for the Assyrians, when the clash"
+        },
+        {
+          "number": "357",
+          "text": "Of arms shall pass through all the sinful earth,"
+        },
+        {
+          "number": "358",
+          "text": "And shout of war shall ruin every land,"
+        },
+        {
+          "number": "359",
+          "text": "Even as the stroke of God, leader of hymns."
+        },
+        {
+          "number": "360",
+          "text": "For it will come as from the air above,"
+        },
+        {
+          "number": "361",
+          "text": "O Babylon, and from the holy ones"
+        },
+        {
+          "number": "362",
+          "text": "If the high heaven it will descend on thee,"
+        },
+        {
+          "number": "363",
+          "text": "And wrath eternal shall destroy thy children."
+        },
+        {
+          "number": "364",
+          "text": "And then wilt thou be as thou wast at first,"
+        },
+        {
+          "number": "365",
+          "text": "Even as things which are not, and with blood"
+        },
+        {
+          "number": "366",
+          "text": "Shalt thou be filled, as thou before didst shed"
+        },
+        {
+          "number": "367",
+          "text": "The blood of many good and righteous men,"
+        },
+        {
+          "number": "368",
+          "text": "Whose blood yet cries out to the lofty heaven."
+        },
+        {
+          "number": "369",
+          "text": "To thee, O Egypt, a great plague shall come,"
+        },
+        {
+          "number": "370",
+          "text": "Dreadful to homes, and such as thou didst hope"
+        },
+        {
+          "number": "371",
+          "text": "Might never fall on thee; for through thy midst"
+        },
+        {
+          "number": "372",
+          "text": "A sword shall pass, and separation, death,"
+        },
+        {
+          "number": "373",
+          "text": "And famine shall prevail until of kings"
+        },
+        {
+          "number": "374",
+          "text": "The seventh generation, and then cease."
+        },
+        {
+          "number": "375",
+          "text": "Woe, woe to thee, O land of Gog and Magog,"
+        },
+        {
+          "number": "376",
+          "text": "In the midst of the rivers of Ethiopia!"
+        },
+        {
+          "number": "377",
+          "text": "What pouring out of blood shalt thou receive,"
+        },
+        {
+          "number": "378",
+          "text": "And be called house of judgment among men!"
+        },
+        {
+          "number": "379",
+          "text": "And thy land of much dew shall drink black blood."
+        },
+        {
+          "number": "380",
+          "text": "Woe, woe, to thee, O Libya, and woe, woe,"
+        },
+        {
+          "number": "381",
+          "text": "O sea and land! Ye daughters of the West"
+        },
+        {
+          "number": "382",
+          "text": "How shall ye come upon a bitter day!"
+        },
+        {
+          "number": "383",
+          "text": "And ye shall come pursued by cruel strife"
+        },
+        {
+          "number": "384",
+          "text": "Dreadful and harsh; dire judgment will set in,"
+        },
+        {
+          "number": "385",
+          "text": "And by force ye will all to ruin come,"
+        },
+        {
+          "number": "386",
+          "text": "Because ye marred the Immortal’s mighty house,"
+        },
+        {
+          "number": "387",
+          "text": "And with iron teeth ye chewed it terribly."
+        },
+        {
+          "number": "388",
+          "text": "So shalt thou see thy land full of the dead,"
+        },
+        {
+          "number": "389",
+          "text": "By war, and every spirit of violence,"
+        },
+        {
+          "number": "390",
+          "text": "Famine, and pestilence, and barbarous foes,"
+        },
+        {
+          "number": "391",
+          "text": "Thy land all desert and the city waste."
+        },
+        {
+          "number": "392",
+          "text": "And there shall shine at evening-time a star"
+        },
+        {
+          "number": "393",
+          "text": "Which they will call a comet, baleful sign"
+        },
+        {
+          "number": "394",
+          "text": "To mortals of dire famine, sword, and death,"
+        },
+        {
+          "number": "395",
+          "text": "And ruin of great leaders and chief men."
+        },
+        {
+          "number": "396",
+          "text": "And among men great signs again shall be,"
+        },
+        {
+          "number": "397",
+          "text": "For the deep-flowing Tanais will forsake"
+        },
+        {
+          "number": "398",
+          "text": "Mæotis’ marshy lake, and the deep stream"
+        },
+        {
+          "number": "399",
+          "text": "Shall flow along a fruitful furrow’s mark,"
+        },
+        {
+          "number": "400",
+          "text": "And the vast flood a neck of land shall check."
+        },
+        {
+          "number": "401",
+          "text": "And there will be wide chasms and yawning pits,"
+        },
+        {
+          "number": "402",
+          "text": "And many cities with their men shall fall."
+        },
+        {
+          "number": "403",
+          "text": "In Asia — Iassus, Cebren, Pandonia,"
+        },
+        {
+          "number": "404",
+          "text": "Colophon, Ephesus, Nice, Antioch,"
+        },
+        {
+          "number": "405",
+          "text": "Tanagra, Sinope, Smyrna, Myrina."
+        },
+        {
+          "number": "406",
+          "text": "In Europe — Cyagra, Clitos, Basilis,"
+        },
+        {
+          "number": "407",
+          "text": "Meropeia, Antigone, Magnesia,"
+        },
+        {
+          "number": "408",
+          "text": "Mykene, Pantheia, and most happy Gaza,"
+        },
+        {
+          "number": "409",
+          "text": "Hierapolis and Astypalia."
+        },
+        {
+          "number": "410",
+          "text": "Know, then, Egypt’s dread race is near its end,"
+        },
+        {
+          "number": "411",
+          "text": "And then unto the Alexandrians"
+        },
+        {
+          "number": "412",
+          "text": "Better the year gone by. Though Rome received"
+        },
+        {
+          "number": "413",
+          "text": "Tribute of Asia, thrice as many goods"
+        },
+        {
+          "number": "414",
+          "text": "Shall Asia back again receive from Rome,"
+        },
+        {
+          "number": "415",
+          "text": "And savage insolence return to her."
+        },
+        {
+          "number": "416",
+          "text": "Many from Asia served Italian homes,"
+        },
+        {
+          "number": "417",
+          "text": "But the Italians, twenty times as many,"
+        },
+        {
+          "number": "418",
+          "text": "Shall serve in Asia in great poverty."
+        },
+        {
+          "number": "419",
+          "text": "O virgin, soft, rich child of Latin Rome,"
+        },
+        {
+          "number": "420",
+          "text": "How oft at thy much-courted wedding-feasts,"
+        },
+        {
+          "number": "421",
+          "text": "Drunken with wine, a servant, in the world"
+        },
+        {
+          "number": "422",
+          "text": "Thou shalt not become wedded, but how oft"
+        },
+        {
+          "number": "423",
+          "text": "Will haughty mistress cut thy pretty hair,"
+        },
+        {
+          "number": "424",
+          "text": "And taking vengeance cast upon the earth"
+        },
+        {
+          "number": "425",
+          "text": "The things of heaven, and from the earth again"
+        },
+        {
+          "number": "426",
+          "text": "Raise heavenward, for mortals are held fast"
+        },
+        {
+          "number": "427",
+          "text": "In miserable and unrighteous life."
+        },
+        {
+          "number": "428",
+          "text": "And Samos shall be sand, and Delos dull,"
+        },
+        {
+          "number": "429",
+          "text": "And Rome a room, but all decrees fulfilled;"
+        },
+        {
+          "number": "430",
+          "text": "And Smyrna falls by no avenging word,"
+        },
+        {
+          "number": "431",
+          "text": "But by base plots and cowardice of leaders."
+        },
+        {
+          "number": "432",
+          "text": "But calm peace into Asia’s land shall go,"
+        },
+        {
+          "number": "433",
+          "text": "And Europe shall be happy — healthful air,"
+        },
+        {
+          "number": "434",
+          "text": "Full of years, strong, no winter and no hail;"
+        },
+        {
+          "number": "435",
+          "text": "Bearing all things, and birds and beasts of earth."
+        },
+        {
+          "number": "436",
+          "text": "O happiest man who at that time shall be!"
+        },
+        {
+          "number": "437",
+          "text": "Or woman, free from care, in rural bliss!"
+        },
+        {
+          "number": "438",
+          "text": "For all good order from the starry heaven"
+        },
+        {
+          "number": "439",
+          "text": "Shall come on men, and justice, and with her"
+        },
+        {
+          "number": "440",
+          "text": "The sober concord which with mortal men"
+        },
+        {
+          "number": "441",
+          "text": "Surpasses all things, and affection, faith,"
+        },
+        {
+          "number": "442",
+          "text": "And friendship for the stranger. Far from them"
+        },
+        {
+          "number": "443",
+          "text": "Are lawlessness, blame, envy, folly, wrath."
+        },
+        {
+          "number": "444",
+          "text": "And want shall flee from men, and violence,"
+        },
+        {
+          "number": "445",
+          "text": "And murder, baneful strifes and bitter feuds,"
+        },
+        {
+          "number": "446",
+          "text": "And theft, and every evil, in those days."
+        },
+        {
+          "number": "447",
+          "text": "But Macedonia shall to Asia bear"
+        },
+        {
+          "number": "448",
+          "text": "A heavy woe, and greatest suffering"
+        },
+        {
+          "number": "449",
+          "text": "Shall spring up over Europe from a birth"
+        },
+        {
+          "number": "450",
+          "text": "Of spurious Kronids and a race of slaves;"
+        },
+        {
+          "number": "451",
+          "text": "And she shall subjugate fenced Babylon,"
+        },
+        {
+          "number": "452",
+          "text": "And in all lands the sun looks down upon"
+        },
+        {
+          "number": "453",
+          "text": "Call herself mistress, and then come to nought"
+        },
+        {
+          "number": "454",
+          "text": "In bitter ruin, having not a law"
+        },
+        {
+          "number": "455",
+          "text": "For those late born, and wandering far away."
+        },
+        {
+          "number": "456",
+          "text": "And then shall come to Asia’s happy land,"
+        },
+        {
+          "number": "457",
+          "text": "Unknown, a man with purple garment clad,"
+        },
+        {
+          "number": "458",
+          "text": "Ferocious, strange, unrighteous, fiery;"
+        },
+        {
+          "number": "459",
+          "text": "For him a thunderbolt raised into light."
+        },
+        {
+          "number": "460",
+          "text": "And Asia all shall bear an evil yoke,"
+        },
+        {
+          "number": "461",
+          "text": "And many a murder will the damp soil drink."
+        },
+        {
+          "number": "462",
+          "text": "And he will court all the invisibles"
+        },
+        {
+          "number": "463",
+          "text": "Of Hades, whose race he wills to destroy,"
+        },
+        {
+          "number": "464",
+          "text": "And from whom his own race shall be destroyed."
+        },
+        {
+          "number": "465",
+          "text": "But there will be one root, perversely cut"
+        },
+        {
+          "number": "466",
+          "text": "From ten horns, and set by another plant;"
+        },
+        {
+          "number": "467",
+          "text": "The warlike father of the purple race"
+        },
+        {
+          "number": "468",
+          "text": "He will cut off, and he himself then taken"
+        },
+        {
+          "number": "469",
+          "text": "By sons of like mind in the chance of war;"
+        },
+        {
+          "number": "470",
+          "text": "And then the horn grown by his side shall rule."
+        },
+        {
+          "number": "471",
+          "text": "And straightway unto fruitful Phrygia"
+        },
+        {
+          "number": "472",
+          "text": "Shall be a sign, when Rhea’s blood-stained race,"
+        },
+        {
+          "number": "473",
+          "text": "Growing and blooming in the god-like earth"
+        },
+        {
+          "number": "474",
+          "text": "Continually from roots that know no thirst,"
+        },
+        {
+          "number": "475",
+          "text": "Shall in one night be root and branch destroyed,"
+        },
+        {
+          "number": "476",
+          "text": "In a city of Neptune, shaker of the earth,"
+        },
+        {
+          "number": "477",
+          "text": "Antandrus, which thenceforward bears the name"
+        },
+        {
+          "number": "478",
+          "text": "Dorylæum, old Phrygia’s much-wept town,"
+        },
+        {
+          "number": "479",
+          "text": "And therefore at that time Earth-shaker called."
+        },
+        {
+          "number": "480",
+          "text": "It will scatter the secret places of the earth"
+        },
+        {
+          "number": "481",
+          "text": "And loosen walls. And then no signs of good"
+        },
+        {
+          "number": "482",
+          "text": "But a beginning of evil will appear."
+        },
+        {
+          "number": "483",
+          "text": "There will come on the well-known woes of war,"
+        },
+        {
+          "number": "484",
+          "text": "Among all tribes, and furnish Æneads"
+        },
+        {
+          "number": "485",
+          "text": "Sprung from the native soil and kindred blood;"
+        },
+        {
+          "number": "486",
+          "text": "But he again is prey to men beloved."
+        },
+        {
+          "number": "487",
+          "text": "O Ilion, I pity thee! For Erinnys"
+        },
+        {
+          "number": "488",
+          "text": "In Sparta shall spring forth most beautiful;"
+        },
+        {
+          "number": "489",
+          "text": "A noble shoot and famous, she bequeaths"
+        },
+        {
+          "number": "490",
+          "text": "Asia and Europe a far-spreading wave."
+        },
+        {
+          "number": "491",
+          "text": "But to thee chiefly wailings, toils, and groans"
+        },
+        {
+          "number": "492",
+          "text": "She will bear and award; but thou shalt have"
+        },
+        {
+          "number": "493",
+          "text": "Undying fame among those yet to be."
+        },
+        {
+          "number": "494",
+          "text": "And then a certain old man will appear."
+        },
+        {
+          "number": "495",
+          "text": "False writer and of doubtful native land,"
+        },
+        {
+          "number": "496",
+          "text": "And in his eyes the light will sink away."
+        },
+        {
+          "number": "497",
+          "text": "But he will have large mind, and song immense"
+        },
+        {
+          "number": "498",
+          "text": "Of understanding, blended with two names."
+        },
+        {
+          "number": "499",
+          "text": "Chios, he will be called, and he will write"
+        },
+        {
+          "number": "500",
+          "text": "Of Ilion, not truthfully indeed,"
+        },
+        {
+          "number": "501",
+          "text": "But plainly, for my verses he will seize;"
+        },
+        {
+          "number": "502",
+          "text": "For he will be first to unfold my books."
+        },
+        {
+          "number": "503",
+          "text": "And he war’s helmed heroes will adorn,"
+        },
+        {
+          "number": "504",
+          "text": "Hector of Priam, and Achilles, son"
+        },
+        {
+          "number": "505",
+          "text": "Of Peleus, and the rest of warlike fame."
+        },
+        {
+          "number": "506",
+          "text": "And with them he will make the gods to stand,"
+        },
+        {
+          "number": "507",
+          "text": "And by all arts deceive defenseless men."
+        },
+        {
+          "number": "508",
+          "text": "And to those dying about Ilion"
+        },
+        {
+          "number": "509",
+          "text": "Shall be a glory widely spread abroad;"
+        },
+        {
+          "number": "510",
+          "text": "And he will celebrate their vengeful deeds."
+        },
+        {
+          "number": "511",
+          "text": "Also to Lycia will a Locrian race"
+        },
+        {
+          "number": "512",
+          "text": "Bring many evils. And thee, Chalcedon,"
+        },
+        {
+          "number": "513",
+          "text": "When thou the passage of the narrow sea"
+        },
+        {
+          "number": "514",
+          "text": "Hast taken, an Ætolian youth will slay."
+        },
+        {
+          "number": "515",
+          "text": "And, Cyzicus, from thee the sea shall tear"
+        },
+        {
+          "number": "516",
+          "text": "Vast wealth away. And thou, Byzantium,"
+        },
+        {
+          "number": "517",
+          "text": "Shalt be in love with Asia, and receive"
+        },
+        {
+          "number": "518",
+          "text": "Sad wailings and immeasurable blood."
+        },
+        {
+          "number": "519",
+          "text": "And Lycia’s lofty mountain, riven at top"
+        },
+        {
+          "number": "520",
+          "text": "With rocky chasms, shall pour a murmuring stream,"
+        },
+        {
+          "number": "521",
+          "text": "Till Patara’s prophetic signs shall cease."
+        },
+        {
+          "number": "522",
+          "text": "O Cyzicus, that dwellest by Propontis,"
+        },
+        {
+          "number": "523",
+          "text": "City of wine, around thee Rhyndacus"
+        },
+        {
+          "number": "524",
+          "text": "Shall crash his crested wave. And thou, O Rhodes,"
+        },
+        {
+          "number": "525",
+          "text": "Daughter of day, shalt long be unenslaved,"
+        },
+        {
+          "number": "526",
+          "text": "And of much prosperity shall yet be thine,"
+        },
+        {
+          "number": "527",
+          "text": "And on the sea thy power shall be supreme."
+        },
+        {
+          "number": "528",
+          "text": "But later thou shalt be to greedy men"
+        },
+        {
+          "number": "529",
+          "text": "A spoil, because of beauty and of wealth,"
+        },
+        {
+          "number": "530",
+          "text": "And on thy neck a dreadful yoke shall come."
+        },
+        {
+          "number": "531",
+          "text": "A Lydian earthquake shall again destroy"
+        },
+        {
+          "number": "532",
+          "text": "The things of Persia, and most horribly"
+        },
+        {
+          "number": "533",
+          "text": "Shall Europe’s tribes and Asia’s suffer woes."
+        },
+        {
+          "number": "534",
+          "text": "And Sidon’s cruel king and shout of war"
+        },
+        {
+          "number": "535",
+          "text": "From others will show forth destruction dire"
+        },
+        {
+          "number": "536",
+          "text": "Beyond the sea to Samos. With the blood"
+        },
+        {
+          "number": "537",
+          "text": "Of fallen lights earth murmurs to the sea,"
+        },
+        {
+          "number": "538",
+          "text": "And wives together with the stately maids"
+        },
+        {
+          "number": "539",
+          "text": "Their ignominious insults will bewail,"
+        },
+        {
+          "number": "540",
+          "text": "Some for the dead, some for the fallen sons."
+        },
+        {
+          "number": "541",
+          "text": "O sign of Cyprus, phalanxes shalt thou"
+        },
+        {
+          "number": "542",
+          "text": "By earthquake overthrow, and many souls"
+        },
+        {
+          "number": "543",
+          "text": "Shall gloomy Hades all at once receive."
+        },
+        {
+          "number": "544",
+          "text": "And Trallis, hard by Ephesus, shall fall"
+        },
+        {
+          "number": "545",
+          "text": "By earthquake, and walls built by cruel men;"
+        },
+        {
+          "number": "546",
+          "text": "Boiling hot water shall rain in the earth,"
+        },
+        {
+          "number": "547",
+          "text": "Which earth weighed down shall drink — a sulphurous smell."
+        },
+        {
+          "number": "548",
+          "text": "And Samos, in time will royal houses build."
+        },
+        {
+          "number": "549",
+          "text": "O Italy, to thee no foreign war"
+        },
+        {
+          "number": "550",
+          "text": "Shall come, but lamentable tribal blood,"
+        },
+        {
+          "number": "551",
+          "text": "Not easily subdued, and much renowned,"
+        },
+        {
+          "number": "552",
+          "text": "Wilt thou in reckless insolence destroy."
+        },
+        {
+          "number": "553",
+          "text": "But thou thyself, beside hot ashes stretched,"
+        },
+        {
+          "number": "554",
+          "text": "As thou in thine own spirit didst foresee,"
+        },
+        {
+          "number": "555",
+          "text": "Shall slay thyself. Not of the good shalt thou"
+        },
+        {
+          "number": "556",
+          "text": "The mother be, but of wild beasts the nurse."
+        },
+        {
+          "number": "557",
+          "text": "Another man shall come from Italy,"
+        },
+        {
+          "number": "558",
+          "text": "A spoiler; then, Laodicea, thou,"
+        },
+        {
+          "number": "559",
+          "text": "Beautiful city of the Carians,"
+        },
+        {
+          "number": "560",
+          "text": "By Lycus’ wondrous water, creeping prone,"
+        },
+        {
+          "number": "561",
+          "text": "Shalt weep in silence for thy boastful sire."
+        },
+        {
+          "number": "562",
+          "text": "Byzantine Thracians shall rise up on Hæmus."
+        },
+        {
+          "number": "563",
+          "text": "To the Campanians quaking fear shall come"
+        },
+        {
+          "number": "564",
+          "text": "Because of wasting famine; Corsica"
+        },
+        {
+          "number": "565",
+          "text": "Weeps her old father, and Sardinia"
+        },
+        {
+          "number": "566",
+          "text": "Shall by great storms of winter, and the strokes"
+        },
+        {
+          "number": "567",
+          "text": "Of a holy God, sink in the ocean depths —"
+        },
+        {
+          "number": "568",
+          "text": "Down in the waves with children of the sea."
+        },
+        {
+          "number": "569",
+          "text": "Alas! alas! how many virgin maids"
+        },
+        {
+          "number": "570",
+          "text": "Will Hades marry, and the deep take charge"
+        },
+        {
+          "number": "571",
+          "text": "Of the unburied youths! Alas! alas!"
+        },
+        {
+          "number": "572",
+          "text": "Infants and vast wealth floating on the sea!"
+        },
+        {
+          "number": "573",
+          "text": "O happy land of Mysians, suddenly"
+        },
+        {
+          "number": "574",
+          "text": "Shall cease thy royal race. Not long, indeed,"
+        },
+        {
+          "number": "575",
+          "text": "Will Carthage stand. But bitter grief shall be"
+        },
+        {
+          "number": "576",
+          "text": "To the Galatians. And to Tenedos"
+        },
+        {
+          "number": "577",
+          "text": "The last but greatest misery shall come."
+        },
+        {
+          "number": "578",
+          "text": "And Sicyon with strong yells, and Corinth, thee"
+        },
+        {
+          "number": "579",
+          "text": "Boasting o’er all, an equal flute shall sound."
+        },
+        {
+          "number": "580",
+          "text": "Now when my soul had ceased from hallowed song,"
+        },
+        {
+          "number": "581",
+          "text": "Again a message of Almighty God"
+        },
+        {
+          "number": "582",
+          "text": "Rose in my heart, and he commanded me"
+        },
+        {
+          "number": "583",
+          "text": "To utter prophecies upon the earth."
+        },
+        {
+          "number": "584",
+          "text": "Woe, woe, Phenician race of men and women,"
+        },
+        {
+          "number": "585",
+          "text": "Also to all the cities by the sea;"
+        },
+        {
+          "number": "586",
+          "text": "No one of you shall come to the sun’s light"
+        },
+        {
+          "number": "587",
+          "text": "In common light, no longer shall there be"
+        },
+        {
+          "number": "588",
+          "text": "Number and tribe, because of unjust speech"
+        },
+        {
+          "number": "589",
+          "text": "And lawless life and base which all indulged,"
+        },
+        {
+          "number": "590",
+          "text": "Opening a foul mouth, uttering fearful words,"
+        },
+        {
+          "number": "591",
+          "text": "False and unrighteous; and they set themselves"
+        },
+        {
+          "number": "592",
+          "text": "In opposition to the mighty God,"
+        },
+        {
+          "number": "593",
+          "text": "And opened falsely a polluted mouth."
+        },
+        {
+          "number": "594",
+          "text": "Therefore shall they by dreadful strokes be slain"
+        },
+        {
+          "number": "595",
+          "text": "In all the earth, and bitter destiny"
+        },
+        {
+          "number": "596",
+          "text": "Will God send on them, burning from the ground"
+        },
+        {
+          "number": "597",
+          "text": "Their cities and foundations manifold."
+        },
+        {
+          "number": "598",
+          "text": "Woe, woe to thee, O Crete, burdened with pain,"
+        },
+        {
+          "number": "599",
+          "text": "On thee shall come a stroke, and terribly"
+        },
+        {
+          "number": "600",
+          "text": "Shalt thou be made a ruin evermore."
+        },
+        {
+          "number": "601",
+          "text": "And every land shall see thee black with smoke,"
+        },
+        {
+          "number": "602",
+          "text": "And fire shall never leave thee, but shall burn."
+        },
+        {
+          "number": "603",
+          "text": "Woe, woe to thee, O Thrace, for thou shalt bend"
+        },
+        {
+          "number": "604",
+          "text": "Beneath a servile yoke; when the Galatians,"
+        },
+        {
+          "number": "605",
+          "text": "Mixed with the Dardans, hurriedly destroy"
+        },
+        {
+          "number": "606",
+          "text": "Hellas, then will sore evil come on thee;"
+        },
+        {
+          "number": "607",
+          "text": "In a strange land thou’lt give and yet receive."
+        },
+        {
+          "number": "608",
+          "text": "Woe, woe to thee, O Gog, and so with all,"
+        },
+        {
+          "number": "609",
+          "text": "One by one, Magog, Marson, and Aggon;"
+        },
+        {
+          "number": "610",
+          "text": "How many an evil lot shall fall to thee!"
+        },
+        {
+          "number": "611",
+          "text": "Many shall also fall on Lycia’s sons,"
+        },
+        {
+          "number": "612",
+          "text": "And those of Mysia and Phrygia."
+        },
+        {
+          "number": "613",
+          "text": "And many nations of Pamphylia"
+        },
+        {
+          "number": "614",
+          "text": "And Lydia shall fall, and Maurians,"
+        },
+        {
+          "number": "615",
+          "text": "And Ethiopians and barbarous tribes,"
+        },
+        {
+          "number": "616",
+          "text": "And Cappadocians and Arabians."
+        },
+        {
+          "number": "617",
+          "text": "How now may I, according to his lot,"
+        },
+        {
+          "number": "618",
+          "text": "Speak of each one? For unto all the nations,"
+        },
+        {
+          "number": "619",
+          "text": "As many as are dwelling on the earth,"
+        },
+        {
+          "number": "620",
+          "text": "Will the Most High send forth an evil plague."
+        },
+        {
+          "number": "621",
+          "text": "When now a very barbarous nation comes"
+        },
+        {
+          "number": "622",
+          "text": "Against the Greeks, it will slay many chiefs"
+        },
+        {
+          "number": "623",
+          "text": "Of chosen men; and many fatted sheep"
+        },
+        {
+          "number": "624",
+          "text": "And horses shall be torn, and mules and herds"
+        },
+        {
+          "number": "625",
+          "text": "Of bellowing oxen, and in lawlessness"
+        },
+        {
+          "number": "626",
+          "text": "Shall they with fire the well-made houses burn."
+        },
+        {
+          "number": "627",
+          "text": "And many shall as slaves be led by force"
+        },
+        {
+          "number": "628",
+          "text": "Into a foreign land, and children too,"
+        },
+        {
+          "number": "629",
+          "text": "And women from bed-chambers, girdled low,"
+        },
+        {
+          "number": "630",
+          "text": "Delicate, falling down with tender feet,"
+        },
+        {
+          "number": "631",
+          "text": "Will be seen chained and suffering all abuse"
+        },
+        {
+          "number": "632",
+          "text": "By hostile, barbarous men; nor shall they have"
+        },
+        {
+          "number": "633",
+          "text": "Helper in life, nor any help in war."
+        },
+        {
+          "number": "634",
+          "text": "But they shall see their goods and all their wealth"
+        },
+        {
+          "number": "635",
+          "text": "Enriching foes; and trembling takes their knees."
+        },
+        {
+          "number": "636",
+          "text": "A hundred fly, but one shall slay them all,"
+        },
+        {
+          "number": "637",
+          "text": "And five shall rouse an ambush heavy-armed."
+        },
+        {
+          "number": "638",
+          "text": "But they among themselves mixed shamefully"
+        },
+        {
+          "number": "639",
+          "text": "In fearful war and tumult will bring joy"
+        },
+        {
+          "number": "640",
+          "text": "Unto the foes, but sorrow to the Greeks."
+        },
+        {
+          "number": "641",
+          "text": "Then shall a servile yoke be on all Greece,"
+        },
+        {
+          "number": "642",
+          "text": "And all at once shall war and pestilence"
+        },
+        {
+          "number": "643",
+          "text": "With mortals yet remain. And God will make"
+        },
+        {
+          "number": "644",
+          "text": "The mighty heaven on high like brass, and drought"
+        },
+        {
+          "number": "645",
+          "text": "On all the earth, which itself will be iron."
+        },
+        {
+          "number": "646",
+          "text": "And then will men bitterly lament"
+        },
+        {
+          "number": "647",
+          "text": "The land uncultivated and unplowed."
+        },
+        {
+          "number": "648",
+          "text": "And he who made the heaven and earth will place"
+        },
+        {
+          "number": "649",
+          "text": "High heaped on earth a fire, and of all men"
+        },
+        {
+          "number": "650",
+          "text": "The third part only shall remain alive."
+        },
+        {
+          "number": "651",
+          "text": "O Greece, why hast thou trusted mortal men"
+        },
+        {
+          "number": "652",
+          "text": "As leaders, who cannot escape from death?"
+        },
+        {
+          "number": "653",
+          "text": "And wherefore bringest thou thy foolish gifts"
+        },
+        {
+          "number": "654",
+          "text": "Unto the dead, and sacrifice to idols?"
+        },
+        {
+          "number": "655",
+          "text": "Who put the wretched error in thy heart"
+        },
+        {
+          "number": "656",
+          "text": "To do these things and leave the mighty God?"
+        },
+        {
+          "number": "657",
+          "text": "Honor the All-Father’s name and let it not"
+        },
+        {
+          "number": "658",
+          "text": "Escape thee. There have been a thousand years,"
+        },
+        {
+          "number": "659",
+          "text": "Yea, and five hundred more, since haughty kings"
+        },
+        {
+          "number": "660",
+          "text": "Ruled o’er the Greeks, who first to mortal men"
+        },
+        {
+          "number": "661",
+          "text": "Brought evils, making many images"
+        },
+        {
+          "number": "662",
+          "text": "Of god that perish for such as are dead,"
+        },
+        {
+          "number": "663",
+          "text": "Whence ye were taught to think on vanities."
+        },
+        {
+          "number": "664",
+          "text": "But when the anger of the mighty God"
+        },
+        {
+          "number": "665",
+          "text": "Shall come upon you, then will ye find out"
+        },
+        {
+          "number": "666",
+          "text": "The face of God the mighty; and all souls"
+        },
+        {
+          "number": "667",
+          "text": "Of men, in great distress, will lift their hands"
+        },
+        {
+          "number": "668",
+          "text": "Up to the broad heaven and begin to call"
+        },
+        {
+          "number": "669",
+          "text": "On the great King, the Helper, and to seek"
+        },
+        {
+          "number": "670",
+          "text": "A rescuer from the mighty wrath to come."
+        },
+        {
+          "number": "671",
+          "text": "But come, learn this and lodge it in your hearts,"
+        },
+        {
+          "number": "672",
+          "text": "What troubles in the rolling years shall come."
+        },
+        {
+          "number": "673",
+          "text": "When Hellas brings her sacrifice of oxen"
+        },
+        {
+          "number": "674",
+          "text": "And bellowing bulls, a whole burnt-offering"
+        },
+        {
+          "number": "675",
+          "text": "Unto the temple of mighty God,"
+        },
+        {
+          "number": "676",
+          "text": "She shall escape the hateful sound of war,"
+        },
+        {
+          "number": "677",
+          "text": "And fear and famine, and go forth again"
+        },
+        {
+          "number": "678",
+          "text": "Away from underneath a slavish yoke."
+        },
+        {
+          "number": "679",
+          "text": "But such a race of godless men shall be"
+        },
+        {
+          "number": "680",
+          "text": "Until that fatal day receives its end."
+        },
+        {
+          "number": "681",
+          "text": "For ye shall not bring sacrifice to God"
+        },
+        {
+          "number": "682",
+          "text": "Till all things come to pass, whatever things"
+        },
+        {
+          "number": "683",
+          "text": "The one God wills to be not without end —"
+        },
+        {
+          "number": "684",
+          "text": "All shall be brought to pass; strong fate impels."
+        },
+        {
+          "number": "685",
+          "text": "Of godly men there yet shall be again"
+        },
+        {
+          "number": "686",
+          "text": "A holy race, devoted to the mind"
+        },
+        {
+          "number": "687",
+          "text": "And counsels of the Highest; they shall honor"
+        },
+        {
+          "number": "688",
+          "text": "The great God’s temple with drink-offerings,"
+        },
+        {
+          "number": "689",
+          "text": "Burnt-offerings, and holy hecatombs,"
+        },
+        {
+          "number": "690",
+          "text": "With sacrifice of well-fed bulls, choice rams,"
+        },
+        {
+          "number": "691",
+          "text": "Firstlings of sheep, and the fat parts of lambs,"
+        },
+        {
+          "number": "692",
+          "text": "Sacredly offering whole burnt sacrifice"
+        },
+        {
+          "number": "693",
+          "text": "On the great altar. But in righteousness,"
+        },
+        {
+          "number": "694",
+          "text": "Having obtained the law of the Most High,"
+        },
+        {
+          "number": "695",
+          "text": "Blest shall they dwell in cities and rich fields."
+        },
+        {
+          "number": "696",
+          "text": "And prophets shall by the immortal One"
+        },
+        {
+          "number": "697",
+          "text": "Exalted be, and bring great joy to men."
+        },
+        {
+          "number": "698",
+          "text": "For to them only has the great God given"
+        },
+        {
+          "number": "699",
+          "text": "His kindly counsel, and put in their hearts"
+        },
+        {
+          "number": "700",
+          "text": "Faith and most noble thought. Through vain deceit"
+        },
+        {
+          "number": "701",
+          "text": "They do not hold in awe the works of men,"
+        },
+        {
+          "number": "702",
+          "text": "Of gold, and brass, and silver, and ivory,"
+        },
+        {
+          "number": "703",
+          "text": "And wood, and stone, clay forms of feeble gods,"
+        },
+        {
+          "number": "704",
+          "text": "Besmeared with chalk, with figures painted o’er —"
+        },
+        {
+          "number": "705",
+          "text": "Whatever motals with vain mind desire."
+        },
+        {
+          "number": "706",
+          "text": "But they lift up their holy arms to heaven;"
+        },
+        {
+          "number": "707",
+          "text": "At daybreak from the couch they always cleanse"
+        },
+        {
+          "number": "708",
+          "text": "Their hands with water, and pay honors due"
+        },
+        {
+          "number": "709",
+          "text": "To God the immortal, who is ever great,"
+        },
+        {
+          "number": "710",
+          "text": "And then to parents. But above all men"
+        },
+        {
+          "number": "711",
+          "text": "They keep the bed of marriage undefiled,"
+        },
+        {
+          "number": "712",
+          "text": "And mix not boys with males in acts impure,"
+        },
+        {
+          "number": "713",
+          "text": "Like the Phenicians, Latins, and Egyptians,"
+        },
+        {
+          "number": "714",
+          "text": "And spacious Greece, and nations many more,"
+        },
+        {
+          "number": "715",
+          "text": "Persians, Galatians, and of Asia all,"
+        },
+        {
+          "number": "716",
+          "text": "Transgressing the immortal God’s pure law."
+        },
+        {
+          "number": "717",
+          "text": "Wherefore the Immortal will inflict on men"
+        },
+        {
+          "number": "718",
+          "text": "Delusion, famine, sufferings and groans,"
+        },
+        {
+          "number": "719",
+          "text": "And war, and pestilence, and mournful woes;"
+        },
+        {
+          "number": "720",
+          "text": "Because the immortal Father of all men"
+        },
+        {
+          "number": "721",
+          "text": "They did not wish to honor righteously,"
+        },
+        {
+          "number": "722",
+          "text": "But honored idols made with human hands,"
+        },
+        {
+          "number": "723",
+          "text": "Which things even men themselves will cast away"
+        },
+        {
+          "number": "724",
+          "text": "In clefts of rocks, concealing them from shame,"
+        },
+        {
+          "number": "725",
+          "text": "When a young king of Egypt seventh shall rule"
+        },
+        {
+          "number": "726",
+          "text": "His own land, reckoned from the Grecian power"
+        },
+        {
+          "number": "727",
+          "text": "Which Macedonia’s mighty men shall rule,"
+        },
+        {
+          "number": "728",
+          "text": "Then shall there come from Asia a great king"
+        },
+        {
+          "number": "729",
+          "text": "With eagle’s fire, who with his foot and horse"
+        },
+        {
+          "number": "730",
+          "text": "Shall cover all the land, break down all things,"
+        },
+        {
+          "number": "731",
+          "text": "And fill all things with evil; he will cast"
+        },
+        {
+          "number": "732",
+          "text": "The Egyptian kingdom down, seize on all goods,"
+        },
+        {
+          "number": "733",
+          "text": "And ride upon the broad back of the sea."
+        },
+        {
+          "number": "734",
+          "text": "And then before the mighty God, the King"
+        },
+        {
+          "number": "735",
+          "text": "Immortal, they will bend the fair white knee"
+        },
+        {
+          "number": "736",
+          "text": "On the all-fostering earth, and all the works"
+        },
+        {
+          "number": "737",
+          "text": "Made with hands in a flame of fire shall fall;"
+        },
+        {
+          "number": "738",
+          "text": "And then great joy will God bestow on men."
+        },
+        {
+          "number": "739",
+          "text": "For land, and trees, and countless flocks of sheep"
+        },
+        {
+          "number": "740",
+          "text": "Will yield mankind the genuine fruit of wine,"
+        },
+        {
+          "number": "741",
+          "text": "And of sweet honey, and white milk, and wheat,"
+        },
+        {
+          "number": "742",
+          "text": "Which is for men the very best of all."
+        },
+        {
+          "number": "743",
+          "text": "But thou, O mortal versed in various arts"
+        },
+        {
+          "number": "744",
+          "text": "And evil-minded, shalt not be like this;"
+        },
+        {
+          "number": "745",
+          "text": "But turn back, and be reconciled to God."
+        },
+        {
+          "number": "746",
+          "text": "Offer to God whole hecatombs of bulls"
+        },
+        {
+          "number": "747",
+          "text": "And lambs and goats, amid the circling hours."
+        },
+        {
+          "number": "748",
+          "text": "Propitiate him, the immortal God;"
+        },
+        {
+          "number": "749",
+          "text": "Perchance he will show mercy. For himself"
+        },
+        {
+          "number": "750",
+          "text": "Alone is God, and other there is none."
+        },
+        {
+          "number": "751",
+          "text": "Hold righteousness in honor, wrong no man"
+        },
+        {
+          "number": "752",
+          "text": "As by oppression, for the immortal One"
+        },
+        {
+          "number": "753",
+          "text": "Enjoins these things on miserable men."
+        },
+        {
+          "number": "754",
+          "text": "But thou, be on thy guard against the wrath"
+        },
+        {
+          "number": "755",
+          "text": "Of the great God, when to all men shall come"
+        },
+        {
+          "number": "756",
+          "text": "The height of famine, and, being overpowered"
+        },
+        {
+          "number": "757",
+          "text": "They meet dire judgment. King shall seize on king"
+        },
+        {
+          "number": "758",
+          "text": "And wrest his land away, and nations waste"
+        },
+        {
+          "number": "759",
+          "text": "And plunder nations, and lords plunder tribes,"
+        },
+        {
+          "number": "760",
+          "text": "And leaders all flee to another land,"
+        },
+        {
+          "number": "761",
+          "text": "And earth itself be changed, and barbarous rule"
+        },
+        {
+          "number": "762",
+          "text": "Ravage all Greece, and the rich land of wealth"
+        },
+        {
+          "number": "763",
+          "text": "Become exhausted, and straight into strife"
+        },
+        {
+          "number": "764",
+          "text": "Shall they because of gold and silver come"
+        },
+        {
+          "number": "765",
+          "text": "In a strange land. (The love of gain will be"
+        },
+        {
+          "number": "766",
+          "text": "An evil guide for cities.) And they all"
+        },
+        {
+          "number": "767",
+          "text": "Shall be unburied, and their flesh shall be"
+        },
+        {
+          "number": "768",
+          "text": "By vultures and wild beasts of earth destroyed."
+        },
+        {
+          "number": "769",
+          "text": "And when these things are finished, the huge earth"
+        },
+        {
+          "number": "770",
+          "text": "Shall all the remnants of the dead consume;"
+        },
+        {
+          "number": "771",
+          "text": "And all unsown shall it be, and unplowed,"
+        },
+        {
+          "number": "772",
+          "text": "Proclaiming woefully the abomination"
+        },
+        {
+          "number": "773",
+          "text": "Of countless men through many circling years,"
+        },
+        {
+          "number": "774",
+          "text": "And shields and javelins and all sorts of arms;"
+        },
+        {
+          "number": "775",
+          "text": "Nor will the forest wood be cut for fire."
+        },
+        {
+          "number": "776",
+          "text": "Then from the sunrise God will send a king,"
+        },
+        {
+          "number": "777",
+          "text": "Who will make all earth cease from evil war,"
+        },
+        {
+          "number": "778",
+          "text": "Killing some, others binding with strong oaths."
+        },
+        {
+          "number": "779",
+          "text": "Nor yet will he by his own counsels do"
+        },
+        {
+          "number": "780",
+          "text": "All these things, but by excellent decrees"
+        },
+        {
+          "number": "781",
+          "text": "Of God persuaded. But again the people"
+        },
+        {
+          "number": "782",
+          "text": "Of the great God with wealth will be weighed down,"
+        },
+        {
+          "number": "783",
+          "text": "With gold and silver and purple ornament,"
+        },
+        {
+          "number": "784",
+          "text": "And of good things will earth and sea be full."
+        },
+        {
+          "number": "785",
+          "text": "And then will kings begin again"
+        },
+        {
+          "number": "786",
+          "text": "To envy one another, and in heart"
+        },
+        {
+          "number": "787",
+          "text": "To cherish wicked projects. Envy brings"
+        },
+        {
+          "number": "788",
+          "text": "No good to wretched mortals. But again"
+        },
+        {
+          "number": "789",
+          "text": "Shall kings of nations rush upon the land"
+        },
+        {
+          "number": "790",
+          "text": "In masses, bringing doom upon themselves,"
+        },
+        {
+          "number": "791",
+          "text": "For they will purpose to destroy the shrine"
+        },
+        {
+          "number": "792",
+          "text": "Of the great God, and men most excellent."
+        },
+        {
+          "number": "793",
+          "text": "What time they reach the land, polluted kings"
+        },
+        {
+          "number": "794",
+          "text": "Will sacrifice within the city’s walls,"
+        },
+        {
+          "number": "795",
+          "text": "Each having his own throne and subject tribe."
+        },
+        {
+          "number": "796",
+          "text": "And then will God speak with a mighty voice"
+        },
+        {
+          "number": "797",
+          "text": "To all rude people of an empty mind;"
+        },
+        {
+          "number": "798",
+          "text": "And judgments from the mighty God shall come"
+        },
+        {
+          "number": "799",
+          "text": "Upon them, and they all shall be destroyed"
+        },
+        {
+          "number": "800",
+          "text": "By an immortal hand. And fiery swords"
+        },
+        {
+          "number": "801",
+          "text": "Shall fall down from heaven on earth, and mighty lights"
+        },
+        {
+          "number": "802",
+          "text": "Shall come down flaming in the midst of men."
+        },
+        {
+          "number": "803",
+          "text": "And mother earth shall be tossed in those days"
+        },
+        {
+          "number": "804",
+          "text": "By an immortal hand, and fish of the sea,"
+        },
+        {
+          "number": "805",
+          "text": "And all earth’s beasts, and countless flocks of birds,"
+        },
+        {
+          "number": "806",
+          "text": "And all the souls of men, and all the sea"
+        },
+        {
+          "number": "807",
+          "text": "Shall shudder at the face of the Immortal,"
+        },
+        {
+          "number": "808",
+          "text": "And there shall be dismay. High mountain peaks"
+        },
+        {
+          "number": "809",
+          "text": "And huge hills he will rend, and Erebus"
+        },
+        {
+          "number": "810",
+          "text": "The dark and dismal will appear to all;"
+        },
+        {
+          "number": "811",
+          "text": "And misty gorges in the lofty hill"
+        },
+        {
+          "number": "812",
+          "text": "Shall be full of the dead; the rocks shall stream"
+        },
+        {
+          "number": "813",
+          "text": "With blood, and every torrent fill the plain."
+        },
+        {
+          "number": "814",
+          "text": "And well-built walls shall all fall to the earth"
+        },
+        {
+          "number": "815",
+          "text": "By hostile men, for they knew not the law,"
+        },
+        {
+          "number": "816",
+          "text": "Neither God’s judgment, but with senseless soul,"
+        },
+        {
+          "number": "817",
+          "text": "All rushing to the temple, lifted spears."
+        },
+        {
+          "number": "818",
+          "text": "God judges all by war, and sword, and fire,"
+        },
+        {
+          "number": "819",
+          "text": "And overwhelming flood; and there shall be"
+        },
+        {
+          "number": "820",
+          "text": "Brimstone from heaven, and stones and grievous hail;"
+        },
+        {
+          "number": "821",
+          "text": "And death shall come upon the quadrupeds."
+        },
+        {
+          "number": "822",
+          "text": "Then shall men come to know the immortal God"
+        },
+        {
+          "number": "823",
+          "text": "Who judges these things. Lamentation too,"
+        },
+        {
+          "number": "824",
+          "text": "And uproar shall come on the boundless earth,"
+        },
+        {
+          "number": "825",
+          "text": "Because men perish, and in speechless woe"
+        },
+        {
+          "number": "826",
+          "text": "Shall all be bathed in blood, and earth herself"
+        },
+        {
+          "number": "827",
+          "text": "Shall drink the blood of them that are destroyed,"
+        },
+        {
+          "number": "828",
+          "text": "And the wild beasts will glut themselves with flesh."
+        },
+        {
+          "number": "829",
+          "text": "All these things the eternal God himself"
+        },
+        {
+          "number": "830",
+          "text": "Gave me to prophesy; nor shall they be"
+        },
+        {
+          "number": "831",
+          "text": "Without complete fulfillment, for he put"
+        },
+        {
+          "number": "832",
+          "text": "Them only in the heart; for without guile"
+        },
+        {
+          "number": "833",
+          "text": "The Spirit of God continues in the world."
+        },
+        {
+          "number": "834",
+          "text": "Again the children of the mighty God"
+        },
+        {
+          "number": "835",
+          "text": "Shall all about the temple live in peace,"
+        },
+        {
+          "number": "836",
+          "text": "Delighting in those things which he shall give"
+        },
+        {
+          "number": "837",
+          "text": "Who is Creator, righteous Judge, and King."
+        },
+        {
+          "number": "838",
+          "text": "For he alone, and standing wondrous near,"
+        },
+        {
+          "number": "839",
+          "text": "Can shelter as a wall of flaming fire"
+        },
+        {
+          "number": "840",
+          "text": "From all around. And there shall be no wars"
+        },
+        {
+          "number": "841",
+          "text": "In cities or in country; not the hand"
+        },
+        {
+          "number": "842",
+          "text": "Of cruel war, but rather there shall be"
+        },
+        {
+          "number": "843",
+          "text": "With them the immortal Champion himself,"
+        },
+        {
+          "number": "844",
+          "text": "And the hand of the Holy One. And then the isles"
+        },
+        {
+          "number": "845",
+          "text": "And cities all shall speak, and tell how much"
+        },
+        {
+          "number": "846",
+          "text": "The Immortal loves those men, for he with them"
+        },
+        {
+          "number": "847",
+          "text": "Shares in all conflict and delivers them."
+        },
+        {
+          "number": "848",
+          "text": "And heaven, and sun divinely formed, and moon,"
+        },
+        {
+          "number": "849",
+          "text": "And mother earth shall tremble in those days."
+        },
+        {
+          "number": "850",
+          "text": "And a sweet word shall they lead forth in hymns:"
+        },
+        {
+          "number": "851",
+          "text": "“Come, falling on the earth let us all pray"
+        },
+        {
+          "number": "852",
+          "text": "To the immortal King, great God, most high."
+        },
+        {
+          "number": "853",
+          "text": "Let us send to the temple, since sole Lord"
+        },
+        {
+          "number": "854",
+          "text": "He is, and let us all observe the law"
+        },
+        {
+          "number": "855",
+          "text": "Of God most high, who above all on earth"
+        },
+        {
+          "number": "856",
+          "text": "Is the most righteous One. For we have strayed"
+        },
+        {
+          "number": "857",
+          "text": "Far from the path of the immortal One,"
+        },
+        {
+          "number": "858",
+          "text": "And have done reverence with a senseless soul"
+        },
+        {
+          "number": "859",
+          "text": "To works of human hands, to images"
+        },
+        {
+          "number": "860",
+          "text": "Carved out of wood, and of departed men.”"
+        },
+        {
+          "number": "861",
+          "text": "These things souls of the faithful cry aloud:"
+        },
+        {
+          "number": "862",
+          "text": "\"Come, let us with God’s people, falling down"
+        },
+        {
+          "number": "863",
+          "text": "Upon our faces, gladden in our homes"
+        },
+        {
+          "number": "864",
+          "text": "With hymns God the Creator, and procure"
+        },
+        {
+          "number": "865",
+          "text": "The weapons of our foes in every land"
+        },
+        {
+          "number": "866",
+          "text": "For seven lengths of the revolving years —"
+        },
+        {
+          "number": "867",
+          "text": "Even shields and helmets and all sorts of arms,"
+        },
+        {
+          "number": "868",
+          "text": "And a great store of bows and harmful arrows,"
+        },
+        {
+          "number": "869",
+          "text": "For forest wood shall not be cut for fire.”"
+        },
+        {
+          "number": "870",
+          "text": "But, wretched Hellas, cease thy arrogance,"
+        },
+        {
+          "number": "871",
+          "text": "So willful, and entreat the immortal One,"
+        },
+        {
+          "number": "872",
+          "text": "Magnanimous, and be upon thy watch."
+        },
+        {
+          "number": "873",
+          "text": "Send to this city the people ill-advised"
+        },
+        {
+          "number": "874",
+          "text": "Who from the Mighty’s holy land have come."
+        },
+        {
+          "number": "875",
+          "text": "Do not move Camarina, for ’tis best"
+        },
+        {
+          "number": "876",
+          "text": "She be unmoved — a leopard from the lair,"
+        },
+        {
+          "number": "877",
+          "text": "An evil which thou shouldst by no means meet."
+        },
+        {
+          "number": "878",
+          "text": "But keep away, and do not in thy heart"
+        },
+        {
+          "number": "879",
+          "text": "Hold arrogance, an overbearing soul,"
+        },
+        {
+          "number": "880",
+          "text": "Ready for mighty contest. And serve God,"
+        },
+        {
+          "number": "881",
+          "text": "The mighty One, that thou mayst share with them,"
+        },
+        {
+          "number": "882",
+          "text": "Whenever this indeed shall have an end,"
+        },
+        {
+          "number": "883",
+          "text": "And on good men shall come the fatal day,"
+        },
+        {
+          "number": "884",
+          "text": "According as the mighty One ordains."
+        },
+        {
+          "number": "885",
+          "text": "For earth, all-mother, shall to mortals yield"
+        },
+        {
+          "number": "886",
+          "text": "The best fruit, boundless store of wheat,"
+        },
+        {
+          "number": "887",
+          "text": "And wine and oil. And from the heavens a drink,"
+        },
+        {
+          "number": "888",
+          "text": "Delightful of sweet honey there shall be,"
+        },
+        {
+          "number": "889",
+          "text": "And trees, and fruits of trees, and fatted sheep,"
+        },
+        {
+          "number": "890",
+          "text": "And oxen, and young lambs, and kids of goats."
+        },
+        {
+          "number": "891",
+          "text": "And forth shall burst sweet fountains of white milk,"
+        },
+        {
+          "number": "892",
+          "text": "And of good things the cities shall be full,"
+        },
+        {
+          "number": "893",
+          "text": "And fat the fields, and there shall not be sword"
+        },
+        {
+          "number": "894",
+          "text": "Nor uproar on the earth, nor shall the earth"
+        },
+        {
+          "number": "895",
+          "text": "Groan heavily and tremble any more."
+        },
+        {
+          "number": "896",
+          "text": "Nor war nor drought shall longer be on earth,"
+        },
+        {
+          "number": "897",
+          "text": "Nor famine, nor the fruit-destroying hail,"
+        },
+        {
+          "number": "898",
+          "text": "But great peace shall be upon all the earth."
+        },
+        {
+          "number": "899",
+          "text": "King will be friend to king until the end"
+        },
+        {
+          "number": "900",
+          "text": "Of time, and a new law on all the earth"
+        },
+        {
+          "number": "901",
+          "text": "Will the Immortal in the starry heaven"
+        },
+        {
+          "number": "902",
+          "text": "Perfect for men, touching whatever things"
+        },
+        {
+          "number": "903",
+          "text": "Have been by miserable mortals done."
+        },
+        {
+          "number": "904",
+          "text": "For he alone is God, no other is,"
+        },
+        {
+          "number": "905",
+          "text": "And he will burn with fire man’s grievous power."
+        },
+        {
+          "number": "906",
+          "text": "But now being quick to keep my thoughts in heart,"
+        },
+        {
+          "number": "907",
+          "text": "Shun godless worship, serve the living God,"
+        },
+        {
+          "number": "908",
+          "text": "Against adultery be on thy guard,"
+        },
+        {
+          "number": "909",
+          "text": "And all uncleanness; thine own children rear,"
+        },
+        {
+          "number": "910",
+          "text": "And do no murder; for the immortal One"
+        },
+        {
+          "number": "911",
+          "text": "Is angry with such as commit these sins."
+        },
+        {
+          "number": "912",
+          "text": "And then will he a kingdom for all time"
+        },
+        {
+          "number": "913",
+          "text": "Raise up for all men, and a holy law"
+        },
+        {
+          "number": "914",
+          "text": "Give to the pious to whom he has pledged"
+        },
+        {
+          "number": "915",
+          "text": "To open up the land, and the wide world,"
+        },
+        {
+          "number": "916",
+          "text": "And portals of the blessed, and all joys,"
+        },
+        {
+          "number": "917",
+          "text": "And mind immortal, and eternal bliss."
+        },
+        {
+          "number": "918",
+          "text": "And out of every land unto the house"
+        },
+        {
+          "number": "919",
+          "text": "Of the great God will they bring frankincense,"
+        },
+        {
+          "number": "920",
+          "text": "And gifts, and there shall be no other house"
+        },
+        {
+          "number": "921",
+          "text": "To be inquired of by men yet to be;"
+        },
+        {
+          "number": "922",
+          "text": "But whom God gave to honor faithful men,"
+        },
+        {
+          "number": "923",
+          "text": "Him mortals shall call Son of the great God."
+        },
+        {
+          "number": "924",
+          "text": "And all paths of the field and the rough hills,"
+        },
+        {
+          "number": "925",
+          "text": "And lofty mountains, and the sea’s wild waves,"
+        },
+        {
+          "number": "926",
+          "text": "Shall in those days be easy to pass over,"
+        },
+        {
+          "number": "927",
+          "text": "For all peace of the good shall come on earth."
+        },
+        {
+          "number": "928",
+          "text": "And the sword shall God’s prophets take away."
+        },
+        {
+          "number": "929",
+          "text": "For they shall be the judges of mankind,"
+        },
+        {
+          "number": "930",
+          "text": "And righteous kings; for of the mighty God"
+        },
+        {
+          "number": "931",
+          "text": "This is the judgment and the sovereignty."
+        },
+        {
+          "number": "932",
+          "text": "Be of good cheer, O maiden, and exult;"
+        },
+        {
+          "number": "933",
+          "text": "For the Eternal, who made heaven and earth,"
+        },
+        {
+          "number": "934",
+          "text": "Has given thee joy, and he will dwell in thee,"
+        },
+        {
+          "number": "935",
+          "text": "And for thee shall be an immortal light."
+        },
+        {
+          "number": "936",
+          "text": "And wolves and lambs promiscuously shall eat"
+        },
+        {
+          "number": "937",
+          "text": "Grass in the mountains, and among the kids"
+        },
+        {
+          "number": "938",
+          "text": "Shall leopards graze, and wandering bears shall lodge"
+        },
+        {
+          "number": "939",
+          "text": "Among the calves, and the carnivorous lion"
+        },
+        {
+          "number": "940",
+          "text": "Shall eat straw in the manger like the ox,"
+        },
+        {
+          "number": "941",
+          "text": "And little children lead them with a band."
+        },
+        {
+          "number": "942",
+          "text": "For tame will be on earth the beasts he made,"
+        },
+        {
+          "number": "943",
+          "text": "And with young babes will dragons fall asleep,"
+        },
+        {
+          "number": "944",
+          "text": "And no harm, for God’s hand will be on them."
+        },
+        {
+          "number": "945",
+          "text": "Now tell I thee a sign exceeding clear,"
+        },
+        {
+          "number": "946",
+          "text": "That thou mayst know when of all things on earth"
+        },
+        {
+          "number": "947",
+          "text": "The end shall be. When in the starry heaven"
+        },
+        {
+          "number": "948",
+          "text": "Swords shall be seen by night toward west or east,"
+        },
+        {
+          "number": "949",
+          "text": "Straightway shall there be a dark cloud of dust,"
+        },
+        {
+          "number": "950",
+          "text": "Borne downward from the heaven o’er all the earth,"
+        },
+        {
+          "number": "951",
+          "text": "And the sun’s brightness in the midst of heaven"
+        },
+        {
+          "number": "952",
+          "text": "Shall be eclipsed, and the moon’s beams appear"
+        },
+        {
+          "number": "953",
+          "text": "And come again on earth, and there shall be"
+        },
+        {
+          "number": "954",
+          "text": "The sign of blood-drops issuing from the stones,"
+        },
+        {
+          "number": "955",
+          "text": "And ye shall see a war of foot and horse"
+        },
+        {
+          "number": "956",
+          "text": "In a cloud, like a hunting of wild beasts,"
+        },
+        {
+          "number": "957",
+          "text": "Like a dark mist. This is the end of war"
+        },
+        {
+          "number": "958",
+          "text": "Which God who dwells in heaven shall bring to pass."
+        },
+        {
+          "number": "959",
+          "text": "But all must sacrifice to the great King."
+        },
+        {
+          "number": "960",
+          "text": "These things to thee say I, who madly left"
+        },
+        {
+          "number": "961",
+          "text": "Assyria’s long Babylonian walls,"
+        },
+        {
+          "number": "962",
+          "text": "And prophesied to all men of the fire,"
+        },
+        {
+          "number": "963",
+          "text": "God’s fury which on Hellas should be sent,"
+        },
+        {
+          "number": "964",
+          "text": "That I might unto mortals prophesy"
+        },
+        {
+          "number": "965",
+          "text": "Of mysteries divine. They say in Greece"
+        },
+        {
+          "number": "966",
+          "text": "That I am of a foreign fatherland,"
+        },
+        {
+          "number": "967",
+          "text": "Born of Erythres, shameless. Others say"
+        },
+        {
+          "number": "968",
+          "text": "I am a Sibyl and of Circe born"
+        },
+        {
+          "number": "969",
+          "text": "And father Gnostos, raving mad, and false."
+        },
+        {
+          "number": "970",
+          "text": "But at the time when all things come to pass"
+        },
+        {
+          "number": "971",
+          "text": "Ye will make mention of me; no one more"
+        },
+        {
+          "number": "972",
+          "text": "Will call me mad, but God’s great prophetess."
+        },
+        {
+          "number": "973",
+          "text": "For God will show me whatsoever things"
+        },
+        {
+          "number": "974",
+          "text": "Belonged at first to my progenitors,"
+        },
+        {
+          "number": "975",
+          "text": "Those things God laid down in his plans for me."
+        },
+        {
+          "number": "976",
+          "text": "All future things God stored up in my mind,"
+        },
+        {
+          "number": "977",
+          "text": "That I might prophecy of things to come,"
+        },
+        {
+          "number": "978",
+          "text": "And things that were, and tell them unto men."
+        },
+        {
+          "number": "979",
+          "text": "For when the world was deluged with a flood"
+        },
+        {
+          "number": "980",
+          "text": "Of waters, and one man alone was left,"
+        },
+        {
+          "number": "981",
+          "text": "A man of honor, sailing on the waves"
+        },
+        {
+          "number": "982",
+          "text": "In wooden house, along with beasts and birds,"
+        },
+        {
+          "number": "983",
+          "text": "His bride was I, and from his blood I came."
+        },
+        {
+          "number": "984",
+          "text": "To him the first things were, and the last things"
+        },
+        {
+          "number": "985",
+          "text": "Were all made known; and so from mine own mouth"
+        },
+        {
+          "number": "986",
+          "text": "All these things have I truthfully declared."
+        }
+      ]
+    }
+  ]
+}

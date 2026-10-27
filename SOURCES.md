@@ -28,9 +28,7 @@ lists in Wikipedia’s [聖經](https://zh.wikipedia.org/zh-tw/聖經), [次經]
 - 典外書卷 / 偽經: 22 entries, retaining existing readable works and adding the named works in the main pseudepigrapha lists. The War Scroll represents the explicitly named Dead Sea Scrolls example; the whole manuscript collection is not duplicated as a book.
 
 The source’s 黑馬福音 link redirects to 黑馬牧人書, so it appears only once under
-新約次經. 水徒行紀 is retained as an unprepared entry with its English title and
-text identity explicitly unverified; “Shuitu Xingji” is a transliteration. The
-Egyptian Gospel’s specific edition is also not selected yet. Baruch and 2 Baruch,
+新約次經. 水徒行紀採 Dowling 1908 年英文版；埃及人福音採希臘文作品的歷史引文殘篇。Baruch and 2 Baruch,
 and the Epistle of Barnabas and Gospel of Barnabas, remain distinct works.
 These are navigation categories, not a universal judgment of canonical status.
 The two denominational groups precede the remaining apocrypha groups and are
@@ -42,16 +40,13 @@ Shared books appear once. No texts were downloaded for this regrouping.
 - Shared additional books follow the relative order in the [Catholic canon list](https://www.usccb.org/sites/default/files/flipbooks/catechism/36/index.html): Tobit, Judith, Esther additions, 1–2 Maccabees, Wisdom, Sirach, Baruch (followed here by the separately selectable Letter of Jeremiah), then Daniel additions. Daniel additions follow the Catholic sequence: Prayer/Song in chapter 3, Susanna in 13, Bel and the Dragon in 14; Greek arrangements can differ.
 - The Orthodox group is an editorial history → psalm/prayer → appendix sequence, not a universal Orthodox table of contents. [OCA’s canon discussion](https://www.oca.org/questions/scripture/canon-of-scripture) and [Essential Orthodox Christian Beliefs, pp. 100–102](https://www.oca.org/cdn/PDFs/2023-0609-EOCB.pdf) document the broader collection and variations. 4 Maccabees is marked as an appendix and placed last. Keeping 2 Esdras under 舊約次經 does not imply it is absent from every Orthodox Bible; Esdras numbering also varies by tradition.
 - The nine 新約次經 entries are principally [Apostolic Fathers writings](https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/second-century/the-apostolic-fathers), not additional Catholic/Orthodox New Testament canonical books. The list groups Clement together, Ignatius and Polycarp next (with Polycarp’s martyrdom), then Didache, Barnabas, Hermas and Papias. This is editorial navigation, not a prescribed reading sequence or chronological order.
-- Pseudepigrapha keep Enoch 1–3 together, then related patriarchal narratives/testaments, prophetic material, psalms/oracles/War Scroll, and gospels. The unverified 水徒行紀 title remains last as a placeholder. This broad category includes writings from different periods and traditions, not a single canon or literary series.
+- Pseudepigrapha keep Enoch 1–3 together, then related patriarchal narratives/testaments, prophetic material, psalms/oracles/War Scroll, and gospels. 水徒行紀 remains last as a modern work. This broad category includes writings from different periods and traditions, not a single canon or literary series.
 
-There are 31 catalog-only entries marked `available: false` in `books.js`. No
-scripture text was downloaded for these entries. Selecting them displays a
-not-ready message and does not request a data file. Coverage validation below
-applies to the eighteen readable works, not these placeholders.
+There are 49 readable extension entries. The 2026-10-27 import added 30 English works and six existing Chinese editions, without generating translations. See [the per-book source audit](CONTENT_STATUS.md) for all 49 entries.
 
 ## Current translation coverage
 
-**Seventeen bundled extension books have Traditional Chinese AI/machine-translation drafts matching the available text of the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
+**Seventeen bundled extension books have Traditional Chinese AI/machine-translation drafts matching the available text of the bundled English sections.** Structural validation passes, but the full bilingual completeness check does not: 26 readable books still lack Chinese. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
@@ -73,7 +68,7 @@ applies to the eighteen readable works, not these placeholders.
 | 2 Esdras / 以斯拉續篇下卷 | 16 | 16 |
 | 2 Baruch / 巴錄二書 | 87 | 87 |
 
-The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. Chinese is a newly produced AI translation of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.
+The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. The seventeen existing Chinese drafts are AI translations of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.
 
 ## Sources and editions
 
@@ -224,4 +219,12 @@ Sirach also omits 12 verse entries entirely: 11:16, 16:16, 19:19, 22:10, and 26:
 
 English: all 73 verses of [WEB Classic Baruch 6](https://ebible.org/eng-web/BAR06.htm), extracted unchanged from the official VPL archive already used above. The app presents the independently selectable letter as chapter 1; each verse retains a `sourceReference` to BAR 6 and its source verse. Archive and text hashes are recorded. The short chapter title is editorial.
 
-Chinese: the [Sigao text, Baruch chapter 6](https://sbbible.dsbiblecentre.org/part_1/36/6.html), was located but its copyrighted full text is not reproduced. Its unnumbered introduction plus 72 verses do not share WEB's 73-verse segmentation. The Chinese JSON is metadata only, with zero chapters, providing the external source link in Info. No replacement translation was made, following the user's preference to use an existing Chinese edition. Coverage correctly reports this book as Chinese-incomplete; `--require-complete` must fail until Chinese content is supplied.
+Chinese: all 73 verses of the 1933 Chinese Anglican edition hosted by [FHL](https://bible.fhl.net/new/readsub.php?chineses=%E8%80%B6%E4%BF%A1&chap=1&VERSION1=c1933&TABFLAG=0), imported unchanged. The source text and verse references were checked against the downloaded page. This replaces the earlier metadata-only Chinese file, without generating a translation.
+
+## 2026-10-27 imported editions
+
+The [source audit](CONTENT_STATUS.md) lists every current source. Six missing Chinese works use the 1933 Chinese Anglican edition hosted by FHL, whose [source notice](https://fhl.net/main/fhl/fhl8.html) identifies that edition as out of copyright. Chinese is copied unchanged, not generated. The Prayer of Azariah has 68 Chinese source verses against 67 WEB verses: reordered praise lines are aligned by subject, Chinese 47–48 share reading entry 49, and every original reference is retained in `sourceReferences`. The editions differ in wording; this alignment is not a claim of textual identity.
+
+New English editions include WEB Classic, Lightfoot’s Apostolic Fathers, historical Charles/ANF/James/Terry/Ragg translations, Dowling’s 1908 work, and Mattison’s explicitly public-domain gospel translations. Psalms of Solomon uses the Wesley Center transcription and retains its noncommercial reuse notice; it is not represented as unrestricted modern text. Source hashes and edition limits are stored per book. `import-manifest.json` records the imported editions’ chapter IDs and entry counts; counts alone do not establish fidelity.
+
+The War Scroll is now imported from a user-supplied HTML file, with 19 columns and 362 line entries. Text and gaps are preserved; two apparent source numbering errors are normalized for navigation with the original numbers recorded. No new translation was produced and no public-domain or redistribution grant is asserted. Modern Chinese source links are recorded where found, without bundling protected full translations. Existing AI drafts remain identified as such; none were newly generated in this import.

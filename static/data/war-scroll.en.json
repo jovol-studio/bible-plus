@@ -1,0 +1,2002 @@
+{
+  "id": "war-scroll",
+  "title": {
+    "en": "War Scroll",
+    "zh-Hant": "戰卷"
+  },
+  "language": "en",
+  "source": {
+    "url": "https://www.qumran.org/js/qumran/hss/1qm",
+    "credit": "使用者提供的 War Scroll (1QM).html；檔案標示儲存自 Qumran.org，網頁作者 Andreas Itzchak Rehberg。",
+    "rightsNotice": "由使用者提供檔案進行格式整理；不宣稱譯文為公版或取得再散布授權。英文譯文權利仍歸原權利人，並不因 App 的 AGPL 授權而改變。",
+    "editionNote": "收錄所提供 HTML 中的 1QM 第 1–19 欄及原行號。App 的章／節控制對應欄／行，並非原作章節。保留缺文 […]、補入文字 [文字]、不確定讀法及來源拼寫；跳號不補造。兩處來源行號誤植僅修正閱讀定位：第 5 欄第 11 行後所印 17 改定位為 12；第 14 欄第 7 行後所印 9 改定位為 8，原印號保留於 sourceNumber／sourceReference。只正規化 HTML 排版空白，不補譯或新增中文。先前線上頁尾稱譯文可能出自 Wise、Abegg、Cook，所提供檔案未附完整譯者來源，故未確證版本。",
+    "providedFile": "War Scroll (1QM).html",
+    "sha256": "ef7b248ca44d72324d1ef5fe3fcc78606c484e94d831bf0796a541575f780946",
+    "imported": "2026-10-27"
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "",
+      "sourceReference": "1QM column 1",
+      "verses": [
+        {
+          "number": "1",
+          "text": "For the In[structor, the Rule of] the War. The first attack of the Sons of Light shall be undertaken against the forces of the Sons of Darkness, the army of Belial: the troops of Edom, Moab, the sons of Ammon, the [Amalekites],",
+          "sourceReference": "1QM 1:1"
+        },
+        {
+          "number": "2",
+          "text": "Philistia, and the troops of the Kittim of Asshur. Supporting them are those who have violated the covenant. The sons of Levi, the sons of Judah, and the sons of Benjamin, those exiled to the wilderness, shall fight against them",
+          "sourceReference": "1QM 1:2"
+        },
+        {
+          "number": "3",
+          "text": "with [...] against all their troops, when the exiles of the Sons of Light return from the Wilderness of the Peoples to camp in the Wilderness of Jerusalem. Then after the battle they shall go up from that place",
+          "sourceReference": "1QM 1:3"
+        },
+        {
+          "number": "4",
+          "text": "a[nd tile king of; the Kittim [shall enter] into Egypt. In his time he shall go forth with great wrath to do battle against the kings of the north, and in his anger he shall set out to destroy and eliminate the strength of",
+          "sourceReference": "1QM 1:4"
+        },
+        {
+          "number": "5",
+          "text": "I[srael. Then the]re shall be a time of salvation for the People of God, and a time of dominion for all the men of His forces, and eternal annihilation for all the forces of Belial. There shall be g[reat] panic [among]",
+          "sourceReference": "1QM 1:5"
+        },
+        {
+          "number": "6",
+          "text": "the sons of Japheth, Assyria shall fall with no one to come to his aid, and the supremacy of the Kittim shall cease that wickedness be overcome without a remnant. There shall be no survivors of",
+          "sourceReference": "1QM 1:6"
+        },
+        {
+          "number": "7",
+          "text": "[all the Sons of] Darkness.",
+          "sourceReference": "1QM 1:7"
+        },
+        {
+          "number": "8",
+          "text": "Then [the Sons of Rig]hteousness shall shine to all ends of the world continuing to shine forth until end of the appointed seasons of darkness. Then at the time appointed by God, His great excellence shall shine for all the times of",
+          "sourceReference": "1QM 1:8"
+        },
+        {
+          "number": "9",
+          "text": "e[ternity;] for peace and blessing, glory and joy, and long life for all Sons of Light. On the day when the Kittim fall there shall be a battle and horrible carnage before the God of",
+          "sourceReference": "1QM 1:9"
+        },
+        {
+          "number": "10",
+          "text": "Israel, for it is a day appointed by Him from ancient times as a battle of annihilation for the Sons of Darkness. On that day the congregation of the gods and the congregation of men shall engage one another, resulting in great carnage.",
+          "sourceReference": "1QM 1:10"
+        },
+        {
+          "number": "11",
+          "text": "The Sons of Light and the forces of Darkness shall fight together to show the strength of God with the roar of a great multitude and the shout of gods and men; a day of disaster. It is a time",
+          "sourceReference": "1QM 1:11"
+        },
+        {
+          "number": "12",
+          "text": "of distress fo[r al]l the people who are redeemed by God. In all their afflictions none exists that is like it, hastening to its completion as an eternal redemption. On the day of their battle against the Kittim,",
+          "sourceReference": "1QM 1:12"
+        },
+        {
+          "number": "13",
+          "text": "they shall g[o forth for] carnage in battle. In three lots the Sons of Light shall stand firm so as to strike a blow at wickedness, and in three the army of Belial shall strengthen themselves so as to force the retreat of the forces",
+          "sourceReference": "1QM 1:13"
+        },
+        {
+          "number": "14",
+          "text": "[of Light. And when the] banners of the infantry cause their hearts to melt, then the strength of God will strengthen the he[arts of the Sons of Light.] In the seventh lot : the great hand of God shall overcome",
+          "sourceReference": "1QM 1:14"
+        },
+        {
+          "number": "15",
+          "text": "[Belial and al]l the angels of his dominion, and all the men of [his forces shall be destroyed forever].",
+          "sourceReference": "1QM 1:15"
+        },
+        {
+          "number": "16",
+          "text": "[,...] the holy ones shall shine forth in support of [...] the truth for the annihilation of the Sons of Darkness. Then [...]",
+          "sourceReference": "1QM 1:16",
+          "sourceHeading": "The annihilation of the Sons of Darkness and service to God during the war years."
+        },
+        {
+          "number": "17",
+          "text": "[...] a great [r]oar [...] they took hold of the implement[s of war.]",
+          "sourceReference": "1QM 1:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 1:18"
+        },
+        {
+          "number": "19",
+          "text": "[... chiefs of the tribes ... and the priests,",
+          "sourceReference": "1QM 1:19"
+        },
+        {
+          "number": "20",
+          "text": "[the Levites, the chiefs of the tribes, the fathers of the congregation ... the priests and thus for the Levites and the courses of the heads of]",
+          "sourceReference": "1QM 1:20"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Chapter 2",
+      "section": "",
+      "sourceReference": "1QM column 2",
+      "verses": [
+        {
+          "number": "1",
+          "text": "the congregation's clans, fifty-two. They shall rank the chiefs of the priests after the Chief Priest and his deputy; twelve chief priests to serve",
+          "sourceReference": "1QM 2:1"
+        },
+        {
+          "number": "2",
+          "text": "in the regular offering before God. The chiefs of the courses, twenty-six, shall serve in their courses. After them the chiefs of the Levites serve continually, twelve in all, one",
+          "sourceReference": "1QM 2:2"
+        },
+        {
+          "number": "3",
+          "text": "to a tribe. The chiefs of their courses shall serve each man in his office. The chiefs of the tribes and fathers of the congregation shall support them, taking their stand continually at the gates of the sanctuary.",
+          "sourceReference": "1QM 2:3"
+        },
+        {
+          "number": "4",
+          "text": "The chiefs of their courses, from the age of fifty upwards, shall take their stand with their commissioners on their festivals, new moons and Sabbaths, and on every day of the year.",
+          "sourceReference": "1QM 2:4"
+        },
+        {
+          "number": "5",
+          "text": "These shall take their stand at the burnt offerings and sacrifices, to arrange the sweet smelling incense according to the will of God, to atone for all His congregation, and to satisfY themselves before Him continually",
+          "sourceReference": "1QM 2:5"
+        },
+        {
+          "number": "6",
+          "text": "at the table of glory. All of these they shall arrange at the time of the year of remission. During the remaining thirty-three years of the war the men of renown,",
+          "sourceReference": "1QM 2:6"
+        },
+        {
+          "number": "7",
+          "text": "those called of the Congregation, and all the heads of the congregation's clans shall choose for themselves men of war for all the lands of the nations. From ail tribes of Israel they shall prepare",
+          "sourceReference": "1QM 2:7"
+        },
+        {
+          "number": "8",
+          "text": "capable men for themselves to go out for battle according to the summons of the war, year by year. But during the years of remission they shall not ready men to go out for battle, for it is a Sabbath",
+          "sourceReference": "1QM 2:8"
+        },
+        {
+          "number": "9",
+          "text": "of rest for Israel. During the thirty-five years of service the war shal1 be waged. For six years the whole congregation shall wage it together,",
+          "sourceReference": "1QM 2:9"
+        },
+        {
+          "number": "10",
+          "text": "and a war of divisions shall be waged during the twenty-nine remaining years. In the first year they shall fight against Mesopotamia, in the second against the sons of Lud, in the third",
+          "sourceReference": "1QM 2:10"
+        },
+        {
+          "number": "11",
+          "text": "they shall fight against the rest of the sons of Aram: Uz, Hul, Togar, and Mesha, who are beyond the Euphrates. In the fourth and fifth they shall fight against the sons of Arpachshad,",
+          "sourceReference": "1QM 2:11"
+        },
+        {
+          "number": "12",
+          "text": "in the sixth and seventh they shall fight against all the sons of Assyria and Persia and the easterners up to the Great Desert. In the eighth year they shall fight against the sons",
+          "sourceReference": "1QM 2:12"
+        },
+        {
+          "number": "13",
+          "text": "of Elam, in the ninth year they shall fight against the sons of Ishmael and Keturah, and during the following ten years the war shall be divided against all the sons of Ham",
+          "sourceReference": "1QM 2:13"
+        },
+        {
+          "number": "14",
+          "text": "according to [their] c[lans and] their [terri]tories. During the remaining ten years the war shall be divided against all [sons of Japhe]th according to their territories.",
+          "sourceReference": "1QM 2:14"
+        },
+        {
+          "number": "15",
+          "text": "[The Rule of the Trumpets: the trumpets] of alarm for all their service for the [...] for their commissioned men,",
+          "sourceReference": "1QM 2:15",
+          "sourceHeading": "The description of the trumpets."
+        },
+        {
+          "number": "16",
+          "text": "[by tens of thousands and thousands and hundreds and fifties] and tens. Upon the t[rumpets ...]",
+          "sourceReference": "1QM 2:16"
+        },
+        {
+          "number": "17",
+          "text": "[...]",
+          "sourceReference": "1QM 2:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 2:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 2:19"
+        },
+        {
+          "number": "20",
+          "text": "[... they shall write ... the trumpets of]",
+          "sourceReference": "1QM 2:20"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "Chapter 3",
+      "section": "",
+      "sourceReference": "1QM column 3",
+      "verses": [
+        {
+          "number": "1",
+          "text": "the battle formations, and the trumpets for assembling them when the gates of the war are opened so that the infantry might advance, the trumpets for the signal of the slain, the trumpets of",
+          "sourceReference": "1QM 3:1"
+        },
+        {
+          "number": "2",
+          "text": "the ambush, the trumpets of pursuit when the enemy is defeated, and the trumpets of reassembly wben the battle returns. On the trumpets for the assembly of the congregation they shall write, \"The called of God.\"",
+          "sourceReference": "1QM 3:2"
+        },
+        {
+          "number": "3",
+          "text": "On the trumpets for the assembly of the chiefs they shall write, \"The princes of God.\" On the trumpets of the formaons they shall write, \"The rule of God.\" On the trumpets of the men of renown [they shall write],",
+          "sourceReference": "1QM 3:3"
+        },
+        {
+          "number": "4",
+          "text": "\"The heads of the congregation's clans.\" Then when they are assembled at the house of meeting, they shal1 write, \"The testimonies of God for a holy congregation.\" On the trumpets of the camps",
+          "sourceReference": "1QM 3:4"
+        },
+        {
+          "number": "5",
+          "text": "they shall write, \"The peace of God in the camps of His saints.\" On the trumpets for their campaigns they shall write, \"The mighty deeds of God to scatter the enemy and to put all those who hate",
+          "sourceReference": "1QM 3:5"
+        },
+        {
+          "number": "6",
+          "text": "justice to flight and a withdrawal of mercy from all who hate God.\" On the trumpets of the battle formations they shall write, \"Formations of the divisions of God to avenge His anger on all Sons of Darkness.\"",
+          "sourceReference": "1QM 3:6"
+        },
+        {
+          "number": "7",
+          "text": "On the trumpets for assembling the infantry when the gates of war open that they might go out against the battle line of the enemy, they shall write, \"A remembrance of requital at the appointed time",
+          "sourceReference": "1QM 3:7"
+        },
+        {
+          "number": "8",
+          "text": "of God.\" On the trumpets of the slain they shall write, \"The hand of the might of God in battle so as to bring down all the slain because of unfaithfulness.\" On the trumpets of ambush they shall write,",
+          "sourceReference": "1QM 3:8"
+        },
+        {
+          "number": "9",
+          "text": "\"Mysteries of God to wipe out wickedness.\" On the trumpets of pursuit they shall write, \"God has struck all Sons of Darkness, He shall not abate His anger until they are annihilated.\"",
+          "sourceReference": "1QM 3:9"
+        },
+        {
+          "number": "10",
+          "text": "When they return from battle to enter the formation, they shall write on the trumpets of retreat, \"God has gathered.\" On the trumpets for the way of return",
+          "sourceReference": "1QM 3:10"
+        },
+        {
+          "number": "11",
+          "text": "from battle with the enemy to enter the congregation in Jerusalem, they shall write, \"Rejoicings of God in a peaceful return.\"",
+          "sourceReference": "1QM 3:11"
+        },
+        {
+          "number": "13",
+          "text": "Rule of the banners of the whole congregation according to their formations. On the grand banner which is at the head of all the people they shall write, \"People of God,\" the names \"Israel\"",
+          "sourceReference": "1QM 3:13",
+          "sourceHeading": "The description of the banners."
+        },
+        {
+          "number": "14",
+          "text": "and \"Aaron,\" and the names of the twelve tribes of Israel according to their order of birth. On the banners of the heads of the \"camps\" of three tribes",
+          "sourceReference": "1QM 3:14"
+        },
+        {
+          "number": "15",
+          "text": "they shall write, \"the Spirit [of God,\" and the names of three tribes. O]n the banner of each tribe they shall write, \"Standard of God,\" and the name of the leader of the t[ribe]",
+          "sourceReference": "1QM 3:15"
+        },
+        {
+          "number": "16",
+          "text": "of its clans. [... and] the name of the leader of the ten thousand and the names of the chief[s of ...]",
+          "sourceReference": "1QM 3:16"
+        },
+        {
+          "number": "17",
+          "text": "[...] his hundreds. On the banner [...]",
+          "sourceReference": "1QM 3:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 3:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 3:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 3:20"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Chapter 4",
+      "section": "",
+      "sourceReference": "1QM column 4",
+      "verses": [
+        {
+          "number": "1",
+          "text": "On the banner of Merari they shall write, \"The Offering of God,\" and the name of the leader of Merari and the names of the chiefs of his thousands. On the banner of the tho[us]and they shall write, \"The Anger of God is loosed against",
+          "sourceReference": "1QM 4:1"
+        },
+        {
+          "number": "2",
+          "text": "Belial and all the men of his forces without remnant,\" and the name of the chief of the thousand and the names of the chiefs of his hundreds. And on the banner of the hundred they shall write, \"Hundred",
+          "sourceReference": "1QM 4:2"
+        },
+        {
+          "number": "3",
+          "text": "of God, the power of war against a sinful flesh,\" arid the name of the chief of the hundred and the names of the chiefs of his tens. And on the banner of the fifty they shall write, \"Ended",
+          "sourceReference": "1QM 4:3"
+        },
+        {
+          "number": "4",
+          "text": "is the stand of the wicked [by] the might of God,\" and the name of the chief of the fifty and the names of the chiefs of his tens. And on the banner of the ten they shall write, \"Songs of joy",
+          "sourceReference": "1QM 4:4"
+        },
+        {
+          "number": "5",
+          "text": "for God on the ten-stringed harp,\" and the name of the chief of the ten and the names of the nine men in his command.",
+          "sourceReference": "1QM 4:5"
+        },
+        {
+          "number": "6",
+          "text": "When they go to battle they shall write on their banners, \"The truth of God,\" \"The righteousness of God,\" \"The glory of God,\" \"The justice of God,\" and after these the list of their names in full.",
+          "sourceReference": "1QM 4:6"
+        },
+        {
+          "number": "7",
+          "text": "When they draw near for battle they shall write on their banners, \"The right hand of God,\" \"The appointed time of God,\" \"The tumult of God,\" \"The slain of God\"; after these their names in full.",
+          "sourceReference": "1QM 4:7"
+        },
+        {
+          "number": "8",
+          "text": "When they return from battle they shall write on their banners, \"The exaltation of God,\" \"The greatness of God,\" \"The praise of God,\" \"The glory of God,\" with their names in full.",
+          "sourceReference": "1QM 4:8"
+        },
+        {
+          "number": "9",
+          "text": "The Rule of the banners of the congregation: When they set out to battle they shall write on the first banner, \"The congregation of God,\" on the second banner, \"The camps of God,\" on the third,",
+          "sourceReference": "1QM 4:9"
+        },
+        {
+          "number": "10",
+          "text": "\"The tribes of God,\" on the fourth, \"The clans of God,\" on the fifth, \"The divisions of God,\" on the sixth, \"The congregation of God,\" on the seventh, \"Those called by",
+          "sourceReference": "1QM 4:10"
+        },
+        {
+          "number": "11",
+          "text": "God,\" and on the eighth, \"The army of God.\" They shall write their names in full with all their order. When they draw near for battle they shall write on their banners,",
+          "sourceReference": "1QM 4:11"
+        },
+        {
+          "number": "12",
+          "text": "\"The battle of God,\" \"The recompense of God,\" \"The cause of God,\" \"The reprisal of God,\" \"The power of God,\" \"The retribution of God,\" \"The might of God,\" \"The annihilation by God of all the vainglorious nations.\" And",
+          "sourceReference": "1QM 4:12"
+        },
+        {
+          "number": "13",
+          "text": "their names in full they shall write upon them. When they return from battle they shall write on their banners, \"The deliverance of God,\" \"The victory of God,\" \"The help of God,\" \"The support of God,\"",
+          "sourceReference": "1QM 4:13"
+        },
+        {
+          "number": "14",
+          "text": "\"The joy of God,\" \"The thanksgivings of God,\" \"The praise of God,\" and \"The peace of God.\"",
+          "sourceReference": "1QM 4:14"
+        },
+        {
+          "number": "15",
+          "text": "[The Length of the Bann]ers. The banner of the whole congregation shall be fourteen cubits long; the banner of th[ree tribes' thir]teen cubits [long;]",
+          "sourceReference": "1QM 4:15"
+        },
+        {
+          "number": "16",
+          "text": "[the banner of a tribe,] twelve cubits; the banner of ten thousand, eleve[n cubits; the banner of a thousand, ten cubits; the banner of a hu]ndred, [n]ine cubits;",
+          "sourceReference": "1QM 4:16"
+        },
+        {
+          "number": "17",
+          "text": "[the banner of a fifty, ei]ght cubits; the banner of a ten, sev[en cubits . . . ].",
+          "sourceReference": "1QM 4:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 4:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 4:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 4:20"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "label": "Chapter 5",
+      "section": "",
+      "sourceReference": "1QM column 5",
+      "verses": [
+        {
+          "number": "1",
+          "text": "and on the sh[ie]ld of the Leader of the whole nation they shall write his name, the names \"Israel,\" \"Levi,\" and \"Aaron,\" and the names of the twelve tribes of Israel according to their order of birth,",
+          "sourceReference": "1QM 5:1",
+          "sourceHeading": "The description of the shields."
+        },
+        {
+          "number": "2",
+          "text": "and the names of the twelve chiefs of their tribes.",
+          "sourceReference": "1QM 5:2"
+        },
+        {
+          "number": "3",
+          "text": "The rule for arranging the clivisions for war when their army is complete to make a forward battle line: the battle line shall be formed of one thousand men. There shall be seven forward rows",
+          "sourceReference": "1QM 5:3",
+          "sourceHeading": "The description of the arming and deployment of the divisions."
+        },
+        {
+          "number": "4",
+          "text": "to each battle line, arranged in order; the stahon of each man behind his fellow. All of them shall bear shields of bronze, polished like",
+          "sourceReference": "1QM 5:4"
+        },
+        {
+          "number": "5",
+          "text": "a face mirror. The shield shall be bound with a border of plaited work and a design of loops, the work of a skillful workman; gold, silver, and bronze bound together",
+          "sourceReference": "1QM 5:5"
+        },
+        {
+          "number": "6",
+          "text": "and jewels; a multicolored brocade. It is the work of a skillful workman, artistically done. The length of the shield shall be two and a half cubits, and its breadth a cubit and a half. In their hands they hold a lance",
+          "sourceReference": "1QM 5:6"
+        },
+        {
+          "number": "7",
+          "text": "and a sword. The length of the lance shall be seven cubits, of which the socket and the blade constitute half a cubit. On the socket there she be three bands engraved as a border of plaited",
+          "sourceReference": "1QM 5:7"
+        },
+        {
+          "number": "8",
+          "text": "work; of gold, silver, and Copper bound together like an artistically designed work. And in the loops of the de sign, on both sides of the band",
+          "sourceReference": "1QM 5:8"
+        },
+        {
+          "number": "9",
+          "text": "all around, shall be precious stones, a multicolored brocade, the work of a skillful workman, artistically done, and an ear of grain. The socket shall be grooved between the bands like",
+          "sourceReference": "1QM 5:9"
+        },
+        {
+          "number": "10",
+          "text": "a column, artistically done. The blade shall be of shining white iron, the work of a skillful workman, artistically done, and an ear of grain of pure gold inlaid in the blade; tapered towards",
+          "sourceReference": "1QM 5:10"
+        },
+        {
+          "number": "11",
+          "text": "the point. The swords shall be of refined iron, purified in the furnace and polished like a face mirror, the work of a skillful workman, artistically done, with figures of ears of grain",
+          "sourceReference": "1QM 5:11"
+        },
+        {
+          "number": "12",
+          "text": "of pure gold embossed on both sides. The borders shall go straight to the point, two on each side. The length of the sword shall be a cubit",
+          "sourceReference": "1QM 5:17",
+          "sourceNumber": "17"
+        },
+        {
+          "number": "13",
+          "text": "and a half and its width four fingers. The scabbard shall be four thumbs wide and four handbreadths up to the scabbard. The scabbard shall be tied on either",
+          "sourceReference": "1QM 5:13"
+        },
+        {
+          "number": "14",
+          "text": "side with thongs of five handbreadths. The handle of the sword shall be of choice horn, the work of a skillful workman, a varicolored design with gold and silver and precious stones.",
+          "sourceReference": "1QM 5:14"
+        },
+        {
+          "number": "16",
+          "text": "And when the [... take their] stand, they shall arrange seven battle lines, one behind the other",
+          "sourceReference": "1QM 5:16"
+        },
+        {
+          "number": "17",
+          "text": "[...] and there shall be a space [between ... t]hirty cubits, where the infan[try] shall stand",
+          "sourceReference": "1QM 5:17"
+        },
+        {
+          "number": "18",
+          "text": "[...] forward [...]",
+          "sourceReference": "1QM 5:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 5:19"
+        },
+        {
+          "number": "20",
+          "text": "[ . . . they shall sling]",
+          "sourceReference": "1QM 5:20"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "label": "Chapter 6",
+      "section": "",
+      "sourceReference": "1QM column 6",
+      "verses": [
+        {
+          "number": "1",
+          "text": "seven times, and return to their position. After them, three divisions of infantry shall advance and stand between the battle lines. The first division shall heave into",
+          "sourceReference": "1QM 6:1"
+        },
+        {
+          "number": "2",
+          "text": "the enemy battle line seven battle darts. On the blade of the first dart they shal1 write, \"Flash of a spear for the strength of God.\" On the second weapon they shall write,",
+          "sourceReference": "1QM 6:2"
+        },
+        {
+          "number": "3",
+          "text": "\"Missiles of blood to fell the slain by the wrath of God.\" On the third dart they shall write, \"The blade of a sword devours the slain of wickedness by the judgment of God.\"",
+          "sourceReference": "1QM 6:3"
+        },
+        {
+          "number": "4",
+          "text": "Each of these they shall throw seven times and then return to their position. After these, two divisions of infantry shall march forth and stand between the two battle lines,",
+          "sourceReference": "1QM 6:4"
+        },
+        {
+          "number": "5",
+          "text": "the first division equipped with a spear and a shield and the second division with a shield and a sword; to bring down the slain by the judgment of God, to subdue the battle line",
+          "sourceReference": "1QM 6:5"
+        },
+        {
+          "number": "6",
+          "text": "of the enemy by the power of God, and to render recompense for their evil for all the vainglorious nations. So the Kingship shall belong to the God of Israel, and by the holy ones of His people He shall act powerfully.",
+          "sourceReference": "1QM 6:6"
+        },
+        {
+          "number": "8",
+          "text": "Seven rows of horsemen shall also take position at the right and at the 1eft of the battle line. Their ranks shall be positioned on both sides, seven hundred",
+          "sourceReference": "1QM 6:8",
+          "sourceHeading": "The description of the deployment of the cavalry."
+        },
+        {
+          "number": "9",
+          "text": "horsemen on one side and seven hundred on the other. Two hundred horsemen shall go out with one thousand men of the battle line of the infantry, and thus",
+          "sourceReference": "1QM 6:9"
+        },
+        {
+          "number": "10",
+          "text": "they shall take position on all sides of the camp. The total being four thousand six hundred men, and one thousand four hundred cavalry for the entire army arranged for the battle line;",
+          "sourceReference": "1QM 6:10"
+        },
+        {
+          "number": "11",
+          "text": "fifty for each battle line. The horsemen with the cavalry of the men of the entire army, will be six thousand; five hundred to a tribe. All the cavalry that go out",
+          "sourceReference": "1QM 6:11"
+        },
+        {
+          "number": "12",
+          "text": "to battle with the infantry shall ride stallions; swift, responsive, unrelenting, mature, trained for battle,",
+          "sourceReference": "1QM 6:12"
+        },
+        {
+          "number": "13",
+          "text": "and accustomed to hearing noises and seeing all kinds of scenes. Those who ride them shall be men capable in battle, trained in horsemanship, the range",
+          "sourceReference": "1QM 6:13"
+        },
+        {
+          "number": "14",
+          "text": "of their age from thirty to forty-five years. The horsemen of the army shall be from forty to fifty years old, and they",
+          "sourceReference": "1QM 6:14"
+        },
+        {
+          "number": "15",
+          "text": "[...], helmets and greaves, carrying in their hands round shields and a lance eig[ht cubits long, ...]",
+          "sourceReference": "1QM 6:15"
+        },
+        {
+          "number": "16",
+          "text": "[...] and a bow and arrows and battle darts, all of them prepared in [...]",
+          "sourceReference": "1QM 6:16"
+        },
+        {
+          "number": "17",
+          "text": "[...] and to shed the blood of their guilty slain. These are the [...]",
+          "sourceReference": "1QM 6:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 6:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 6:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 6:20"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "label": "Chapter 7",
+      "section": "",
+      "sourceReference": "1QM column 7",
+      "verses": [
+        {
+          "number": "1",
+          "text": "and the men of the army shall be from forty to fifty years old. The commissioners of the camps shall be from fifty to sixty years old. The officers",
+          "sourceReference": "1QM 7:1",
+          "sourceHeading": "The recruitment and age of the soldiers."
+        },
+        {
+          "number": "2",
+          "text": "shall-also be from forty to fifty years old. All those who strip the slain, plunder the spoil, cleanse the land, guard the arms,",
+          "sourceReference": "1QM 7:2"
+        },
+        {
+          "number": "3",
+          "text": "and he who prepares the provisions, all these shall be from twenty-five to thirty years old. No youth nor woman shall enter their encampments from the time they leave",
+          "sourceReference": "1QM 7:3"
+        },
+        {
+          "number": "4",
+          "text": "Jerusalem to go to battle until their return. No one crippled, blind, or lame, nor a man who has a permanent blemish on his skin, or a man affected with ritual uncleanness of",
+          "sourceReference": "1QM 7:4"
+        },
+        {
+          "number": "5",
+          "text": "shis flesh; none of these shall go with them to battle. All of them shall be volunteers for battle, pure of spirit and flesh, and prepared for the day of vengeance. Any",
+          "sourceReference": "1QM 7:5"
+        },
+        {
+          "number": "6",
+          "text": "man who is not ritually clean in respect to his genitals on the day of battle shall not go down with them into battle, for holy angels are present with their army. There shall be a distance",
+          "sourceReference": "1QM 7:6"
+        },
+        {
+          "number": "7",
+          "text": "between all their camps and the latrine of about two thousand cubits, and no shameful nakedness shall be seen in the environs of all their camps.",
+          "sourceReference": "1QM 7:7"
+        },
+        {
+          "number": "9",
+          "text": "When the battle iines are arrayed against the enemy, battle line against battle line, there shall go forth from the middle opening into the gap between the battle lines seven",
+          "sourceReference": "1QM 7:9",
+          "sourceHeading": "The ministry of the priests and Levites."
+        },
+        {
+          "number": "10",
+          "text": "priests of the sons of Aaron, dressed in fine wlute linen garments: a linen tunic and linen breeches, and girded with a linen sash of twined fine linen, violet,",
+          "sourceReference": "1QM 7:10"
+        },
+        {
+          "number": "11",
+          "text": "purple, and crimson, and a varicolored design, the work of a skillful workman, and decorated caps on their heads; the garments for battle, and they shall not take them into the sanctuary.",
+          "sourceReference": "1QM 7:11"
+        },
+        {
+          "number": "12",
+          "text": "The one priest shall walk before all the men of the battle line to encourage them for battle. In the hands of the remaining six shall be",
+          "sourceReference": "1QM 7:12"
+        },
+        {
+          "number": "13",
+          "text": "the trumpets of assembly, the trumpets of memorial, the trumpets of the alarm, the trumpets of pursuit, and the trumpets of reassembly. When the priests go out",
+          "sourceReference": "1QM 7:13"
+        },
+        {
+          "number": "14",
+          "text": "into the gap between the battle lines, seven Levites shall go out with them. In their hands shall be seven trumpets of rams' horns. Three officers from among the Levites shall walk before",
+          "sourceReference": "1QM 7:14"
+        },
+        {
+          "number": "15",
+          "text": "the priests and the Levites. The priests shall blow the two trumpets of assem[bly ... of ba]ttle upon fifty shields,",
+          "sourceReference": "1QM 7:15"
+        },
+        {
+          "number": "16",
+          "text": "and fifty infantrymen shall go out from the one gate and [...] Levites, officers. With",
+          "sourceReference": "1QM 7:16"
+        },
+        {
+          "number": "17",
+          "text": "each battle line they shall go out according to all [this] o[rder.... men of the] infantry from the gates",
+          "sourceReference": "1QM 7:17"
+        },
+        {
+          "number": "18",
+          "text": "[and they shall take positi]on between the two battle lines, and [...] the bat[tle ]",
+          "sourceReference": "1QM 7:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 7:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 7:20"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "label": "Chapter 8",
+      "section": "",
+      "sourceReference": "1QM column 8",
+      "verses": [
+        {
+          "number": "1",
+          "text": "the trumpets shall blow continually to direct the slingmen until they have completed hurling seven",
+          "sourceReference": "1QM 8:1"
+        },
+        {
+          "number": "2",
+          "text": "times. Afterwards the priests shall blow on the trumpets of return, and they shall go along the side of the first battle line",
+          "sourceReference": "1QM 8:2"
+        },
+        {
+          "number": "3",
+          "text": "to take their position. The priests shall blow on the trumpets of assembly, and",
+          "sourceReference": "1QM 8:3"
+        },
+        {
+          "number": "4",
+          "text": "the three divisions of infantry shall go out from the gates and stand between the battle lines, and beside them the cavalrymen,",
+          "sourceReference": "1QM 8:4"
+        },
+        {
+          "number": "5",
+          "text": "at the right and at the left. The priests shall blow on their trumpets a level note, signals for the order of battle.",
+          "sourceReference": "1QM 8:5"
+        },
+        {
+          "number": "6",
+          "text": "And the columns shall be deployed into their formations, each to his position. When they have positioned themselves in three formations,",
+          "sourceReference": "1QM 8:6"
+        },
+        {
+          "number": "7",
+          "text": "the priests shall blow for them a second signal, a low legato note, signals for advance, until they draw near to",
+          "sourceReference": "1QM 8:7"
+        },
+        {
+          "number": "8",
+          "text": "the battle line of the enemy and take hold of their weapons. Then the priests shall blow on the six trumpets",
+          "sourceReference": "1QM 8:8"
+        },
+        {
+          "number": "9",
+          "text": "of the slain a sharp staccato note to direct the battle, and the Levites and all the people with rams' horns shall blow",
+          "sourceReference": "1QM 8:9"
+        },
+        {
+          "number": "10",
+          "text": "a great battle alarm together in order to melt the heart of the enemy. With the sound of the alarm,",
+          "sourceReference": "1QM 8:10"
+        },
+        {
+          "number": "11",
+          "text": "the battle darts shall fly out to bring down the slain. Then the sound of the rams' horns shall quiet, but on the tru[m]pets",
+          "sourceReference": "1QM 8:11"
+        },
+        {
+          "number": "12",
+          "text": "the priests shall continue to blow a sharp staccato note to direct the signals of battle until they have hurled into the battle line",
+          "sourceReference": "1QM 8:12"
+        },
+        {
+          "number": "13",
+          "text": "of the enemy seven times. Afterwards, the priests shall blow for them the trumpets of retreat,",
+          "sourceReference": "1QM 8:13"
+        },
+        {
+          "number": "14",
+          "text": "a low note, level and legato. According to this rule the [pr]iests shall blow for the three divisions. When",
+          "sourceReference": "1QM 8:14"
+        },
+        {
+          "number": "15",
+          "text": "the first division throws, the [priests and the Levites and all the people with rams'] horns shall blow a great alarm",
+          "sourceReference": "1QM 8:15"
+        },
+        {
+          "number": "16",
+          "text": "to direct the bat[tle until they have hurled seven times. Afterwards,] the priests [shall blow] for them",
+          "sourceReference": "1QM 8:16"
+        },
+        {
+          "number": "17",
+          "text": "on the trumpe[ts of retreat ... and they shall take their stan]d in their positions in the battle line,",
+          "sourceReference": "1QM 8:17"
+        },
+        {
+          "number": "18",
+          "text": "[...] and shall take up position",
+          "sourceReference": "1QM 8:18"
+        },
+        {
+          "number": "19",
+          "text": "[... the sl]ain,",
+          "sourceReference": "1QM 8:19"
+        },
+        {
+          "number": "20",
+          "text": "[and all the people with rams' horns shall blow a very loud battle alarm, and as the sound goes out]",
+          "sourceReference": "1QM 8:20"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "label": "Chapter 9",
+      "section": "",
+      "sourceReference": "1QM column 9",
+      "verses": [
+        {
+          "number": "1",
+          "text": "their hands shall begin to bring down the slain, and all the people shall quiet the sound of alarm, but the priests shall continue sounding on the trumpets",
+          "sourceReference": "1QM 9:1"
+        },
+        {
+          "number": "2",
+          "text": "of the slain to direct the fighting, until the enemy is defeated and turns in retreat. The priests shall blow the alarm to direct the battle,",
+          "sourceReference": "1QM 9:2"
+        },
+        {
+          "number": "3",
+          "text": "and when they have been defeated before them, the priests shall blow the trumpets of assembly, and all the infantry shall go out to them from the inidst of",
+          "sourceReference": "1QM 9:3"
+        },
+        {
+          "number": "4",
+          "text": "the front battle lines and stand, six divisions in addition to the division which is engaged in battle: altogether, seven battle lines, twenty-eight thousand",
+          "sourceReference": "1QM 9:4"
+        },
+        {
+          "number": "5",
+          "text": "soldiers, and six thousand horsemen. All these shall pursue in order to destroy the enemy in God's battle; a total annihilation",
+          "sourceReference": "1QM 9:5"
+        },
+        {
+          "number": "6",
+          "text": "The priests shall blow for them the trumpets of pursuit, and they shall divide themselves for a pursuit of annihilation against all the enemy. The cavalry",
+          "sourceReference": "1QM 9:6"
+        },
+        {
+          "number": "7",
+          "text": "shall push the enemy back at the flanks of the battle until they are destroyed. When the slain have fallen, the priests shall continue blowing from afar and shall not enter",
+          "sourceReference": "1QM 9:7"
+        },
+        {
+          "number": "8",
+          "text": "into the midst of the slain so as to be defiled by their unclean blood, for they are holy. They shall not allow the oil of their priestly anointment to be profaned with the blood",
+          "sourceReference": "1QM 9:8"
+        },
+        {
+          "number": "9",
+          "text": "of the vainglorious nations.",
+          "sourceReference": "1QM 9:9"
+        },
+        {
+          "number": "10",
+          "text": "Rule for changing the order of the battle divisions, in order to arrange their position against [...] a pincer movement and towers,",
+          "sourceReference": "1QM 9:10",
+          "sourceHeading": "The description of the maneuvers of the battle divisions."
+        },
+        {
+          "number": "11",
+          "text": "lien arc and towers, and as it draws slowly forward, then the columns and the flanks go out from the [t]wo sides of the battle line [that]",
+          "sourceReference": "1QM 9:11"
+        },
+        {
+          "number": "12",
+          "text": "the enemy might become discouraged. The shields of the soldiers of the towers shall be three cubits long, and their lances eight cubits l[on]g. The towers",
+          "sourceReference": "1QM 9:12"
+        },
+        {
+          "number": "13",
+          "text": "shall go out from the battle line with one hundred shields on a side. F[or] they shall surround the tower on the three frontal sides,",
+          "sourceReference": "1QM 9:13"
+        },
+        {
+          "number": "14",
+          "text": "three hundred shields in all. There shall be three gates to a tower, one on [the right and] one on the left. Upon all the shields of the tower soldiers",
+          "sourceReference": "1QM 9:14"
+        },
+        {
+          "number": "15",
+          "text": "they shall write: on the first, \"Mi[chae]l,\" [on the second, \"Gabriel,\" on the third,] \"Sariel,\" and on the fourth \"Raphael.\"",
+          "sourceReference": "1QM 9:15"
+        },
+        {
+          "number": "16",
+          "text": "\"Michael\" and \"Gabriel\" on [the right, and \"Raphael\" and \"Raphael\" on the left.",
+          "sourceReference": "1QM 9:16"
+        },
+        {
+          "number": "17",
+          "text": "And [...] for to the four [... They] shall establish an ambush for the [battle line] of [...]",
+          "sourceReference": "1QM 9:17"
+        },
+        {
+          "number": "18",
+          "text": "and [... they shall fal]l on the s[lain ...]",
+          "sourceReference": "1QM 9:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 9:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 9:20"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "label": "Chapter 10",
+      "section": "",
+      "sourceReference": "1QM column 10",
+      "verses": [
+        {
+          "number": "1",
+          "text": "of our camps, and to keep ourselves from any shameful nakedness, and he (Moses) told us that You are in our midst, a great and awesome God, plundering all of",
+          "sourceReference": "1QM 10:1",
+          "sourceHeading": "The address of the chiefpriest."
+        },
+        {
+          "number": "2",
+          "text": "our enemies befo[re u]s. He taught us from of old through our generations, saying, when you approach the battle, the priest shall stand and speak unto the people,",
+          "sourceReference": "1QM 10:2"
+        },
+        {
+          "number": "3",
+          "text": "saying, \"Hear O Israel, you are approaching the battle against your enemies today. Do not be afraid nor fainthearted.",
+          "sourceReference": "1QM 10:3"
+        },
+        {
+          "number": "4",
+          "text": "Do not trem[ble, no]r be terrified because of them, for your God goes with you, to fight for you against your enemies, and to save",
+          "sourceReference": "1QM 10:4"
+        },
+        {
+          "number": "5",
+          "text": "you\" (Deut. 20:2-4) Our [officers shall speak to all those prepared for battle, those Willing of heart, to strengthen them by the might of God, to turn back all",
+          "sourceReference": "1QM 10:5"
+        },
+        {
+          "number": "6",
+          "text": "who have who have lost heart, and to strengthen all the valiant warriors together. They shall recount that which You slpoke] by the hand of Moses, saying: \"And when there is a war",
+          "sourceReference": "1QM 10:6"
+        },
+        {
+          "number": "7",
+          "text": "in your land against the adversary who attacks you, then yo[u] shall sound an alarm with the trumpets that you might be remembered before your God",
+          "sourceReference": "1QM 10:7"
+        },
+        {
+          "number": "8",
+          "text": "and be saved from your enemies (Num. 10:9)",
+          "sourceReference": "1QM 10:8"
+        },
+        {
+          "number": "9",
+          "text": "and Your great strength. Who is like Your people Israel, whom You have chosen for Yourself from all the peoples of the lands;",
+          "sourceReference": "1QM 10:9",
+          "sourceHeading": "The prayer of the chiefpriest."
+        },
+        {
+          "number": "10",
+          "text": "the people of the saints of the covenant, learned in the statutes, enlightened in understan[ding ...] those who hear the glorious voice and see",
+          "sourceReference": "1QM 10:10"
+        },
+        {
+          "number": "11",
+          "text": "the holy angels, whose ears are open; hearing deep things. [O God, You have created] the expanse of the skies, the host of luminaries,",
+          "sourceReference": "1QM 10:11"
+        },
+        {
+          "number": "12",
+          "text": "the task of spirits and the dominion of holy ones, the treasures of [Your] gl[ory . . . ] clouds. He who created the earth and the limits of her divisions",
+          "sourceReference": "1QM 10:12"
+        },
+        {
+          "number": "13",
+          "text": "into wilderness and plain, and all her offspring, with fhe fru[its ...], the circle of the seas, the sources of the rivets, and the rift of the deeps,",
+          "sourceReference": "1QM 10:13"
+        },
+        {
+          "number": "14",
+          "text": "wild beasts and winged creatures, the form of man and the gener[ations of] his [see]d, the confusion of language and the separation of peoples, the abode of clans",
+          "sourceReference": "1QM 10:14"
+        },
+        {
+          "number": "15",
+          "text": "and the inheritance of the lands, [... and] holy festivals, courses of years and times of",
+          "sourceReference": "1QM 10:15"
+        },
+        {
+          "number": "16",
+          "text": "eternity. [...] these we know from Your understanding which [...]",
+          "sourceReference": "1QM 10:16"
+        },
+        {
+          "number": "17",
+          "text": "[...] Your [ears] to our cry, for [...]",
+          "sourceReference": "1QM 10:17"
+        },
+        {
+          "number": "18",
+          "text": "[...] his house [...]",
+          "sourceReference": "1QM 10:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 10:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 10:20"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "label": "Chapter 11",
+      "section": "",
+      "sourceReference": "1QM column 11",
+      "verses": [
+        {
+          "number": "1",
+          "text": "Truly the battle is Yours, and by the strength of Your hand their corpses have been broken to pieces, without anyone to bury them. Indeed, Goliath the Gittite, a mighty man of valor,",
+          "sourceReference": "1QM 11:1"
+        },
+        {
+          "number": "2",
+          "text": "You delivered into the hand of David, Your servant, because he trusted in Your great name and not in sword and spear. For the battle is Yours.",
+          "sourceReference": "1QM 11:2"
+        },
+        {
+          "number": "3",
+          "text": "He subdued the Philistines many times by Your holy name. Also by the hand of our kings You rescued us many times",
+          "sourceReference": "1QM 11:3"
+        },
+        {
+          "number": "4",
+          "text": "because of Your mercy; not according to our works, for we have acted wickedly, nor for the acts of our rebelliousness. The battle is Yours, the strength is from You,",
+          "sourceReference": "1QM 11:4"
+        },
+        {
+          "number": "5",
+          "text": "it is not our own. Neither our power nor the strength of our hand have done valiantly, but rather by Your power and the strength of Your great valor. Jus[t as You told",
+          "sourceReference": "1QM 11:5"
+        },
+        {
+          "number": "6",
+          "text": "us in time past, saying: \"There shall come forth a star out of Jacob, a scepter shal1 rite out of Israel, and shall crush the forehead of Moab and tear down all sons of Sheth,",
+          "sourceReference": "1QM 11:6"
+        },
+        {
+          "number": "7",
+          "text": "and he shall descend of Jacob and shall destroy the remnant from the city, and the enemy shall be a possession, and Israel shall do valiantly (Num. 24:17-19). By the hand of Your anointed ones,",
+          "sourceReference": "1QM 11:7"
+        },
+        {
+          "number": "8",
+          "text": "seers of things appointed, You have told us about the ti[mes] of the wars of Your hands in order that You may glorify Yourself {fight} among our enemies, to bring down the hordes of Belial, the seven",
+          "sourceReference": "1QM 11:8"
+        },
+        {
+          "number": "9",
+          "text": "vainglorious nations, at the hand of the oppressed whom You have redeemed [with powe]r and retribution; a wondrous strength. A heart that melts shall be as a door of hope. You will do to them as You did to Pharaoh",
+          "sourceReference": "1QM 11:9"
+        },
+        {
+          "number": "10",
+          "text": "and the officers of his chariots in the Red Sea. You will ignite the humble of spirit like a fiery torch of fire in a sheaf, consuming the wicked. You shall not turn back until",
+          "sourceReference": "1QM 11:10"
+        },
+        {
+          "number": "11",
+          "text": "the annihilation of the guilty. In time past You foretold [the app]ointed time for Your handis powerful work against the Kittim, saying: And Assyria shall fall by a sword not of man, and a sword,",
+          "sourceReference": "1QM 11:11"
+        },
+        {
+          "number": "12",
+          "text": "not of men, shall consume him (Isa. 31: 8).",
+          "sourceReference": "1QM 11:12"
+        },
+        {
+          "number": "13",
+          "text": "For into the hand of the oppressed You will deliver the [ene]mies of all the lands; into the hands of those who are prostrate in the dust, in order to bring down all mighty men of the peoples, to return the recompense",
+          "sourceReference": "1QM 11:13"
+        },
+        {
+          "number": "14",
+          "text": "of the wicked on the head of [...], to pronounce the just judgment of Your truth on all sons of man, and to make for Yourself an everlasting name among the people.",
+          "sourceReference": "1QM 11:14"
+        },
+        {
+          "number": "15",
+          "text": "[...] the wars, and to show Yourself great and holy before the remnant of the nations, so that [they] may know [that]",
+          "sourceReference": "1QM 11:15"
+        },
+        {
+          "number": "16",
+          "text": "[You are God ... when You] carry out judgments on Gog and on all his company that are as[semb]led [abou]t [us ...]",
+          "sourceReference": "1QM 11:16"
+        },
+        {
+          "number": "17",
+          "text": "[...], for You will do battle against them from the heave[ns ...]",
+          "sourceReference": "1QM 11:17"
+        },
+        {
+          "number": "18",
+          "text": "[...] upon them for confusion [...]",
+          "sourceReference": "1QM 11:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 11:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 11:20"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "label": "Chapter 12",
+      "section": "",
+      "sourceReference": "1QM column 12",
+      "verses": [
+        {
+          "number": "1",
+          "text": "For You have a multitude of holy ones in the heavens and hosts of angels in Your exalted dwelling to pr[aise] Your [name]. The chosen ones of the holy people",
+          "sourceReference": "1QM 12:1"
+        },
+        {
+          "number": "2",
+          "text": "You have established for Yourself in a [community. The nu]mber (or The b]ook) of the names of all their host is with You in Your holy dwelling, and the n[umber of the holy one]s is in the abode of Your glory.",
+          "sourceReference": "1QM 12:2"
+        },
+        {
+          "number": "3",
+          "text": "Mercies of blessing [...] and Your covenant of peace You engraved for them with a stylus of life in order to reign o[ver them]: for all time,",
+          "sourceReference": "1QM 12:3"
+        },
+        {
+          "number": "4",
+          "text": "commissioning the hos[ts of I Your [e]lect by their thousands and tens of thousands together with Your holy ones [and] Your angels, and directing them",
+          "sourceReference": "1QM 12:4"
+        },
+        {
+          "number": "5",
+          "text": "in battle [so as to condemn] the earthly adversaries by trial with Your judgments. With the elect of heaven [they] shall prev[ail].",
+          "sourceReference": "1QM 12:5"
+        },
+        {
+          "number": "7",
+          "text": "And You, O God, are awe[some] in the glory of Your dominion, and the company of Your holy ones is in our midst for etern[al] support. We [shall direct our contempt at kings, derision",
+          "sourceReference": "1QM 12:7"
+        },
+        {
+          "number": "8",
+          "text": "and disdain at mighty men. For the Lord is holy, and the King of Glory is with us together with the holy ones. Migh[ty men and] a host of angels are with our commissioned forces.",
+          "sourceReference": "1QM 12:8"
+        },
+        {
+          "number": "9",
+          "text": "The Hero of Wa[r] is with our company, and the host of His spirits is with our steps Our horsemen are [as] the clouds and as the mist covering the earth,",
+          "sourceReference": "1QM 12:9"
+        },
+        {
+          "number": "10",
+          "text": "and as a steady downpour shedding judgment on all her offspring. Rise up, O Hero, take Your captives, O Glorious One, take",
+          "sourceReference": "1QM 12:10"
+        },
+        {
+          "number": "11",
+          "text": "Your plunder, O You who do valiantly. Lay Your hand upon the neck of Your enemies, and Your foot upon the backs of the slain. Crush the nations, Your adversaries, and may Your sword",
+          "sourceReference": "1QM 12:11"
+        },
+        {
+          "number": "12",
+          "text": "devour guilty flesh. Fill Your land with glory, and Your heritance with blessing. An abundance of cattle in Your fields; silver and gold and precious",
+          "sourceReference": "1QM 12:12"
+        },
+        {
+          "number": "13",
+          "text": "stones in Your palaces. O Zion, rejoice greatly, and shine with joyful songs, O Jerusalem. Rejoice, all you cities of Judah, open",
+          "sourceReference": "1QM 12:13"
+        },
+        {
+          "number": "14",
+          "text": "your gate[s] forever that the wealth of the nations might be brought to you, and their kings shall serve you. All they that oppressed you shall bow down to you, and the dust",
+          "sourceReference": "1QM 12:14"
+        },
+        {
+          "number": "15",
+          "text": "[of your feet they shall lick. O daughter]s of my people shout out with a voice of joy, adorn yourselves with ornaments of glory Rule over the ki[ngdom of the ],",
+          "sourceReference": "1QM 12:15"
+        },
+        {
+          "number": "16",
+          "text": "[... and I]srael to reign eternally.",
+          "sourceReference": "1QM 12:16"
+        },
+        {
+          "number": "17",
+          "text": "[...] them the mighty men of war, O Jerusalem [...]",
+          "sourceReference": "1QM 12:17"
+        },
+        {
+          "number": "18",
+          "text": "the exalt]ed above the heavens, O Lord, [and let Your glory be above all the earth ...]",
+          "sourceReference": "1QM 12:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 12:19"
+        },
+        {
+          "number": "20",
+          "text": "[... And then the Chief Priest shall stand]",
+          "sourceReference": "1QM 12:20",
+          "sourceHeading": "The blessings of the war recited by all the leaders after the victory."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "label": "Chapter 13",
+      "section": "",
+      "sourceReference": "1QM column 13",
+      "verses": [
+        {
+          "number": "1",
+          "text": "land his brothers the [pr]iests, the Levites, and all the elders of the Army with him. They shall bless from their position, the God of Israel and all His works of truth, and they shall curse",
+          "sourceReference": "1QM 13:1"
+        },
+        {
+          "number": "2",
+          "text": "[Beli]al there and all the spirits of his forces. And they shall say response: \"Blessed is the God of Israel for all His holy purpose and His works of truth. And blessed are",
+          "sourceReference": "1QM 13:2"
+        },
+        {
+          "number": "3",
+          "text": "those who serve Him richteously, who know Him by faith.",
+          "sourceReference": "1QM 13:3"
+        },
+        {
+          "number": "4",
+          "text": "And cursed is Belial for his contentious purpose, and accursed for his reprehensible rule. And cursed are all the spirits of his lot for their wicked purpose.",
+          "sourceReference": "1QM 13:4"
+        },
+        {
+          "number": "5",
+          "text": "Accursed are they for all their filthy dirty service. For they are the lot of darkness, but the lot of God is light",
+          "sourceReference": "1QM 13:5"
+        },
+        {
+          "number": "6",
+          "text": "[eterna]l.",
+          "sourceReference": "1QM 13:6"
+        },
+        {
+          "number": "7",
+          "text": "Y[o]u are the God of our fathers. We bless Your name forever, for we are an [eter]na[l] people. You made a covenant with our fathers, and will establish it for their seed",
+          "sourceReference": "1QM 13:7"
+        },
+        {
+          "number": "8",
+          "text": "throughout the ages of eternity. In all the testimonies of Your glory there has been remembrance of Your [kindness] in our midst as an assistance to the remnant and the survivors for the sake of Your covenant",
+          "sourceReference": "1QM 13:8"
+        },
+        {
+          "number": "9",
+          "text": "and to re[count] Your works of truth and the judgments of Your wondrous strength. And You, [O God], created us for Yourself as an eternal people, and into the lot of light You cast us",
+          "sourceReference": "1QM 13:9"
+        },
+        {
+          "number": "10",
+          "text": "in accordance with Your truth. You appointed the Prince of Light from of old to assist us, for in [His] l[ot are all sons of righteous]ness and all spirits of truth are in his dominion. You yourself",
+          "sourceReference": "1QM 13:10"
+        },
+        {
+          "number": "11",
+          "text": "made Belial for the pit, an angel of malevolence, his [dominio]n is in darkne[ss] and his counsel is to condemn and convict. All the spirits",
+          "sourceReference": "1QM 13:11"
+        },
+        {
+          "number": "12",
+          "text": "of his lot -- the angels of destruction-- walk in accord with the rule of darkness, for it is their only [des]ire. But we, in the lot of Your truth, rejoice in",
+          "sourceReference": "1QM 13:12"
+        },
+        {
+          "number": "13",
+          "text": "Your mighty hand. We rejoice in Your salvation, and revel in [Your] hel[p and] Your [p]eace. Who is like You in strength, O God of Israel, and yet",
+          "sourceReference": "1QM 13:13"
+        },
+        {
+          "number": "14",
+          "text": "Your mighty hand is with the oppressed. What angel or prince is like You for [Your] effe[ctual] support, [fo]r of old You appointed for Yourself a day of gre[at battle ...]",
+          "sourceReference": "1QM 13:14"
+        },
+        {
+          "number": "15",
+          "text": "[...] to [sup]port truth and to destroy iniquity, to bring darkness low and to lend might to light, and to [...]",
+          "sourceReference": "1QM 13:15"
+        },
+        {
+          "number": "16",
+          "text": "[...] for an eternal stand, and to annihilate all the Sons of Darkness and bring joy to [al]l [the Sons of Light ...]",
+          "sourceReference": "1QM 13:16"
+        },
+        {
+          "number": "17",
+          "text": "[...]",
+          "sourceReference": "1QM 13:17"
+        },
+        {
+          "number": "18",
+          "text": "[... f]or You Yourself designated us for an app[ointed time ...]",
+          "sourceReference": "1QM 13:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 13:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 13:20"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "label": "Chapter 14",
+      "section": "",
+      "sourceReference": "1QM column 14",
+      "verses": [
+        {
+          "number": "1",
+          "text": "like the fire of His fury against the idols of Egypt.",
+          "sourceReference": "1QM 14:1"
+        },
+        {
+          "number": "2",
+          "text": "After they have withdrawn from the slain to enter the camp, all of them shall sing the hymn of return. In the morning they shall wash their clothes, cleanse themselves",
+          "sourceReference": "1QM 14:2",
+          "sourceHeading": "The blessings of the war recited by all the leaders in the morning before the battle."
+        },
+        {
+          "number": "3",
+          "text": "of the blood of the sinful bodies, and return to the place where they had stood, where they had formed the battle line before the slain of the enemy fell. There they shall all bless",
+          "sourceReference": "1QM 14:3"
+        },
+        {
+          "number": "4",
+          "text": "the God of Israel and joyously exalt His name together. They shall say in response: \"Blessed is the God of Israel, who guards loving-kindness for His covenant and the appointed times",
+          "sourceReference": "1QM 14:4"
+        },
+        {
+          "number": "5",
+          "text": "of salvation for the people He redeems. He has called those who stumble unto wondrous [accomplishment]s, and He has gathered a congregation of nations for annihilation without remnant in order to raise up in judgment",
+          "sourceReference": "1QM 14:5"
+        },
+        {
+          "number": "6",
+          "text": "he whose heart has melted, to open a mouth for the dumb to sing [God's] mighty deeds, and to teach feeble [hands] warfare. He gives those whose knees shake strength to stand,",
+          "sourceReference": "1QM 14:6"
+        },
+        {
+          "number": "7",
+          "text": "and strengthens those who have been smitten from the hips to the shoulder. Among the poor in spirit [...] a hard heart, and by those whose way is perfect shall all wicked nations come to an end;",
+          "sourceReference": "1QM 14:7"
+        },
+        {
+          "number": "8",
+          "text": "there will be no place for all their mighty men. But we are the remn[ant of Your people. Blessed is] Your name, O God of loving-kindness, the One who kept the covenant for our forefathers. Throughout",
+          "sourceReference": "1QM 14:9",
+          "sourceNumber": "9"
+        },
+        {
+          "number": "9",
+          "text": "all our generations You have made Your mercies wondrous for the rem[nant of the people] during the dominion of Belial. With all the mysteries of his hatred they have not led us astray",
+          "sourceReference": "1QM 14:9"
+        },
+        {
+          "number": "10",
+          "text": "from Your covenant. His spirits of destruction You have driven [away from us. And when the me]n of his dominion [condemned themselves], You have preserved the lives of Your redeemed. You raised up",
+          "sourceReference": "1QM 14:10"
+        },
+        {
+          "number": "11",
+          "text": "the fallen by Your strength, but those who are great in height You will cut dow[n to humble them. And] there is no rescuer for all their mighty men, and no place of refuge for their swift ones. To their honored men",
+          "sourceReference": "1QM 14:11"
+        },
+        {
+          "number": "12",
+          "text": "You will return shame, and all [their] vain existence [shall be as not]hing. But we, Your holy people, shall praise Your name for Your works of truth.",
+          "sourceReference": "1QM 14:12"
+        },
+        {
+          "number": "13",
+          "text": "Because of Your mighty deeds we shall exalt [your splendor in] epochs and appointed times of eternity, at the beginning of day, at night",
+          "sourceReference": "1QM 14:13"
+        },
+        {
+          "number": "14",
+          "text": "and at dawn and dusk. For Your [glorio]us p[urpose] is great and Your wondrous mysteries are in [Your] high heavens, to [raise u]p those for Yourself from the dust",
+          "sourceReference": "1QM 14:14"
+        },
+        {
+          "number": "15",
+          "text": "and to humble those of the gods.",
+          "sourceReference": "1QM 14:15"
+        },
+        {
+          "number": "16",
+          "text": "Rise up, rise up, O God of gods, and raise Yourself in power, [O King of Kings ...]",
+          "sourceReference": "1QM 14:16"
+        },
+        {
+          "number": "17",
+          "text": "let all the Sons of Darkness [scatter from before You.] Let the light of Your majesty shi[ne forever upon gods and men, as a fire burning in the dark places of the damned]",
+          "sourceReference": "1QM 14:17"
+        },
+        {
+          "number": "18",
+          "text": "Let it burn [the damned of Sh]eol, as an [eternal] burning [among the transgressors ... in all the appointed times of eternity.]",
+          "sourceReference": "1QM 14:18"
+        },
+        {
+          "number": "19",
+          "text": "[They shall repeat all the thanksgiving hymns of battle there and then return to their camps]",
+          "sourceReference": "1QM 14:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 14:20"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "label": "Chapter 15",
+      "section": "",
+      "sourceReference": "1QM column 15",
+      "verses": [
+        {
+          "number": "1",
+          "text": "For it is a time of distress for Isra[el, a fixed t]ime of battle against all the nations. The purpose of God is eternal redemption,",
+          "sourceReference": "1QM 15:1"
+        },
+        {
+          "number": "2",
+          "text": "but annihilation for al1 nations of wickedness. All those pr[epared] for battle shall set out and camp opposite the king of the Kittim and all the forces",
+          "sourceReference": "1QM 15:2"
+        },
+        {
+          "number": "3",
+          "text": "of Belial that are assembled with him for a day [of vengeance] by the sword of God.",
+          "sourceReference": "1QM 15:3"
+        },
+        {
+          "number": "4",
+          "text": "Then the Chief Priest shall stand, and with him his brothers the p[riests], the Levites, and all the men of the army. He shall read aloud",
+          "sourceReference": "1QM 15:4",
+          "sourceHeading": "The final battle the first engagement."
+        },
+        {
+          "number": "5",
+          "text": "the prayer for the appointed time of battle, as is written in the boo]k Serekh Itto (The Rule of His Time), including all the words of their thanksgivings. Then he shall form there",
+          "sourceReference": "1QM 15:5"
+        },
+        {
+          "number": "6",
+          "text": "all the battle lines, as writ[ten in the Book of the War. Then the priest appointed for the time of vengeance by",
+          "sourceReference": "1QM 15:6"
+        },
+        {
+          "number": "7",
+          "text": "all his brothers shall walk about and encourage [them for the battl]e, and he shall say in response: \"Be strong and courageous as warriors.",
+          "sourceReference": "1QM 15:7"
+        },
+        {
+          "number": "8",
+          "text": "Fear not, nor be discoura[ged and let not y]our [heart be faint.] Do not panic, neither be alarmed because of them. Do not",
+          "sourceReference": "1QM 15:8"
+        },
+        {
+          "number": "9",
+          "text": "turn back nor [flee from the]m. For they are a wicked congregation, all their deeds are in darkness;",
+          "sourceReference": "1QM 15:9"
+        },
+        {
+          "number": "10",
+          "text": "it is [their] desire. [They have established al]l their refuge [in a lie], their strength is as smoke that vanishes, and all",
+          "sourceReference": "1QM 15:10"
+        },
+        {
+          "number": "11",
+          "text": "their vast assembly [is as chaff which blows away ... de]solation, and shall not be found. Every creature of greed shall wither quickly away",
+          "sourceReference": "1QM 15:11"
+        },
+        {
+          "number": "12",
+          "text": "[like a flow]er at ha[rvest time ... Come,] strengthen yourselves for the battle of God, for this day is an appointed time of battle",
+          "sourceReference": "1QM 15:12"
+        },
+        {
+          "number": "13",
+          "text": "[for G]od against all the n[ations, ... judgm]ent upon all flesh. The God of Israel is raising His hand in His wondrous [streng]th",
+          "sourceReference": "1QM 15:13"
+        },
+        {
+          "number": "14",
+          "text": "[against all the spirits of wick[edness ... m]ighty ones of the gods are girding themselves for battl[e, and] the formation[s of the3 h[o]ly ones",
+          "sourceReference": "1QM 15:14"
+        },
+        {
+          "number": "15",
+          "text": "[are rea]dying themselves for a day of [vengeance ...]",
+          "sourceReference": "1QM 15:15"
+        },
+        {
+          "number": "16",
+          "text": "the God of I[srae]l [...]",
+          "sourceReference": "1QM 15:16"
+        },
+        {
+          "number": "17",
+          "text": "to remove Bel[ial ...]",
+          "sourceReference": "1QM 15:17"
+        },
+        {
+          "number": "18",
+          "text": "in his hell [...]",
+          "sourceReference": "1QM 15:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 15:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 15:20"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "label": "Chapter 16",
+      "section": "",
+      "sourceReference": "1QM column 16",
+      "verses": [
+        {
+          "number": "1",
+          "text": "until every source [of ...] is come to an end. For] the God of Israel has called out a sword against all the nations, and by the holy ones of His people He will do mightily.\"",
+          "sourceReference": "1QM 16:1"
+        },
+        {
+          "number": "3",
+          "text": "They shall carry out all this Rule [on] that [day] at the place where they stand opposite the camps of the Kittim. Then the priests shall blow for them the trumpets",
+          "sourceReference": "1QM 16:3"
+        },
+        {
+          "number": "4",
+          "text": "of remembrance. The gates of w[ar] shall open, [and] the infantry shall go out and stand in columns between the battle lines. The priests shall blow for them",
+          "sourceReference": "1QM 16:4"
+        },
+        {
+          "number": "5",
+          "text": "a signal for the formation and the columns [shall deplo]y at the sound of the trumpets until each man has taken his station. Then the priests shall blow for them",
+          "sourceReference": "1QM 16:5"
+        },
+        {
+          "number": "6",
+          "text": "a second signal: [signs for confron]tation. When they stand near the battle line of the Kittim, within throwing range, each man shall raise his hand with his weapon of",
+          "sourceReference": "1QM 16:6"
+        },
+        {
+          "number": "7",
+          "text": "war. Then the six [priests shall blow on the tr]umpets of the slain a sharp staccato note to direct the fighting. The Levites and the all the people with",
+          "sourceReference": "1QM 16:7"
+        },
+        {
+          "number": "8",
+          "text": "rams' horns shall blow [a battle signa]l, a loud noise. As the sound goes forth, the infantry shall begin to bring down the slain of the Kittim, and all",
+          "sourceReference": "1QM 16:8"
+        },
+        {
+          "number": "9",
+          "text": "the people shall cease the signal, [but the priest]s shall continue blowing on the trumpets of the slain and the battle shall prevail against the Kittim.",
+          "sourceReference": "1QM 16:9"
+        },
+        {
+          "number": "11",
+          "text": "When [Belial] prepares himself to assist the Sons of Darkness, and the slain among the infantry begin to fall by God's mysteries and to test by these mysteries all those appointed for battle,",
+          "sourceReference": "1QM 16:11",
+          "sourceHeading": "The final battle the second engagement."
+        },
+        {
+          "number": "12",
+          "text": "the priests shall blow the trumpets of assembly so that another battle line might go forth as a battle reserve, and they shall take up position between the battle lines.",
+          "sourceReference": "1QM 16:12"
+        },
+        {
+          "number": "13",
+          "text": "For those employed in battle they shall blow a signal to return. Then the Chief Priest shall approach and stand before the battle line, and shall encourage",
+          "sourceReference": "1QM 16:13"
+        },
+        {
+          "number": "14",
+          "text": "their heart by [the wondrous might of God and] fortify their hands for His battle.",
+          "sourceReference": "1QM 16:14"
+        },
+        {
+          "number": "15",
+          "text": "And he shall say in response: [\"Blessed is God, for] He tests the he[ar]t of His people in the crucible. And not [...] have your slain [...]. For you have obeyed from of old",
+          "sourceReference": "1QM 16:15"
+        },
+        {
+          "number": "16",
+          "text": "the mysteries of God. [Now as for you, take courage and stand in the gap, do not fear when God strengthens ...]",
+          "sourceReference": "1QM 16:16"
+        },
+        {
+          "number": "17",
+          "text": "[...]",
+          "sourceReference": "1QM 16:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 16:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 16:19"
+        },
+        {
+          "number": "20",
+          "text": "[...]",
+          "sourceReference": "1QM 16:20"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "label": "Chapter 17",
+      "section": "",
+      "sourceReference": "1QM column 17",
+      "verses": [
+        {
+          "number": "1",
+          "text": "land He shall appoint their retribution with burning [...] those tested by the crucible. He shall sharpen the implements of war, and they shall not become blunt until [all the nations of] wickedness [come to an end].",
+          "sourceReference": "1QM 17:1"
+        },
+        {
+          "number": "2",
+          "text": "But, as for you, remember the judgment [of Nadab and Abi]hu, the sons of Aaron, by whose judgment God showed Himself holy before [all the people. But Eleazar]",
+          "sourceReference": "1QM 17:2"
+        },
+        {
+          "number": "3",
+          "text": "and Ithamar He preserved for Himself for an eternal covenant [ofpriesthood].",
+          "sourceReference": "1QM 17:3"
+        },
+        {
+          "number": "4",
+          "text": "But, as for you, take courage and do not fear them [... for] their end is emptine and their desire is for the void. Their support is without st[rength] and they do not [know that from the God] of",
+          "sourceReference": "1QM 17:4"
+        },
+        {
+          "number": "5",
+          "text": "Israel is all that is and that will be. He [...] in all which exists for eternity. Today is His appointed time to subdue and to humiliate the prince of the realm",
+          "sourceReference": "1QM 17:5"
+        },
+        {
+          "number": "6",
+          "text": "of wickedness. He will send eternal support to the company of His redeemed by the power of the majestic angel of the authority of Michael. By eternal light",
+          "sourceReference": "1QM 17:6"
+        },
+        {
+          "number": "7",
+          "text": "He shall joyfully light up the covenant of Israel peace and blessing for the lot of God, to exalt the authority of Michael among the gods and the dominion",
+          "sourceReference": "1QM 17:7"
+        },
+        {
+          "number": "8",
+          "text": "of Israel among all flesh. Righteousness shall rejoice on high, and all sons of His truth shall rejoice in eternal knowledge. But as for you, O sons of His covenant,",
+          "sourceReference": "1QM 17:8"
+        },
+        {
+          "number": "9",
+          "text": "take courage in God's crucible, until He shall wave His hand and complete His fiery trials; His mysteries concerning your existence.\"",
+          "sourceReference": "1QM 17:9"
+        },
+        {
+          "number": "10",
+          "text": "And after these words the priests shall blow for them a signal to form the divisions of the battle line. The columns shall be deployed at the sound of the trumpets,",
+          "sourceReference": "1QM 17:10",
+          "sourceHeading": "The final battle the third engagement."
+        },
+        {
+          "number": "11",
+          "text": "until each man has taken his station. Then the priests shall blow another signal on the trumpets, signs for confrontation. When",
+          "sourceReference": "1QM 17:11"
+        },
+        {
+          "number": "12",
+          "text": "the infa[ntry] has approached [the battle] line of the Kitt[im], within throwing range, each man shall raise his hand with his weapon. Then the priests shall blow on the trumpets",
+          "sourceReference": "1QM 17:12"
+        },
+        {
+          "number": "13",
+          "text": "of the slain [and the Levites and the al]l the people with rams' horns shall sound a signal for battle. The infantry shall attack the army",
+          "sourceReference": "1QM 17:13"
+        },
+        {
+          "number": "14",
+          "text": "of the Kittim, [and as the soun]d [of the si]gnal [goes forth], they shall begin to bring down their slain. Then all the people shall still the sound of the signal, while the priests",
+          "sourceReference": "1QM 17:14"
+        },
+        {
+          "number": "15",
+          "text": "continuously blow on [the trumpets of the slain], and the bat[tl]e p[revail]s against the K[ittim, and the troops of Belia]l are defeated before them.",
+          "sourceReference": "1QM 17:15"
+        },
+        {
+          "number": "16",
+          "text": "Thus in the th[ird] lot [...] to fall slain [...]",
+          "sourceReference": "1QM 17:16"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "label": "Chapter 18",
+      "section": "",
+      "sourceReference": "1QM column 18",
+      "verses": [
+        {
+          "number": "1",
+          "text": "[and in the seven]th [log, when the great hand of God shall be lifted up against Belial and against all the fo[rc]es of his dominion for an eternal slaughter",
+          "sourceReference": "1QM 18:1",
+          "sourceHeading": "The final battle the fourth, fifth, and sixth engagements. Nothing of these engagements is preserved. The final battle the seventh engagement."
+        },
+        {
+          "number": "2",
+          "text": "[...] and the shout of the holy ones when they pursue Assyria. Then the sons of Japheth shall fall, never to rise again, and the Kitum shall be crushed without",
+          "sourceReference": "1QM 18:2"
+        },
+        {
+          "number": "3",
+          "text": "[remnant and survivor. So] the God of Israel shall raise His hand against the whole multitude of Belial. At that time the priests shall sound a signal",
+          "sourceReference": "1QM 18:3"
+        },
+        {
+          "number": "4",
+          "text": "[on the six trumpegs of remembrance, and all the battle formations shall be gathered to them and divide against all the ca[mps of the Ki]ttim",
+          "sourceReference": "1QM 18:4"
+        },
+        {
+          "number": "5",
+          "text": "to completely destroy them. [And] when the sun hastens to set on that day, the Chief Priest and the priests and the [Levites] who are",
+          "sourceReference": "1QM 18:5"
+        },
+        {
+          "number": "6",
+          "text": "with him, and the chiefs [of the battle lines and the men] of the army shall bless the God of Israel there. They shall say in response: Blessed is Your name, O God [of god]s, for",
+          "sourceReference": "1QM 18:6"
+        },
+        {
+          "number": "7",
+          "text": "You have done wondrous things for Your people, and have kept Your covenant for us from of old. Many times You have opened the gates of salvation for us",
+          "sourceReference": "1QM 18:7"
+        },
+        {
+          "number": "8",
+          "text": "for the sak[e of Your co]venant. [And You provided flor our affliction in accord with Your goodness toward us. You, O God of righteousness, have acted for the sake of Your name.",
+          "sourceReference": "1QM 18:8"
+        },
+        {
+          "number": "10",
+          "text": "[...] You have done w]onders upon wonders with us, but from of old there has been nothing like it, for You have known our appointed time. Today [Your] power has shined forth",
+          "sourceReference": "1QM 18:10",
+          "sourceHeading": "Thanksgiving for final victory."
+        },
+        {
+          "number": "11",
+          "text": "for us, [and] You [have shown] us the hand of Your mercies with us in eternal redemption, in order to remove the dominion of the enemy, that it might be no more; the hand of Your strength.",
+          "sourceReference": "1QM 18:11"
+        },
+        {
+          "number": "12",
+          "text": "In bat[tle You shall show Yourself strong aga]inst our enemies for an absolute slaughter. Now the day is pressing upon us [to] pursue their multitude, for You",
+          "sourceReference": "1QM 18:12"
+        },
+        {
+          "number": "13",
+          "text": "[...] and the heart of warriors You have broken so that no one is able to stand. Yours is the might, and the battle is in Your hand, and there is no",
+          "sourceReference": "1QM 18:13"
+        },
+        {
+          "number": "14",
+          "text": "[God like You ...] Your [...] and the appointed times of Your will, and reprisal [...] Your [enemie]s, and You will cut of from [...] is",
+          "sourceReference": "1QM 18:14"
+        },
+        {
+          "number": "15",
+          "text": "[...]",
+          "sourceReference": "1QM 18:15"
+        },
+        {
+          "number": "16",
+          "text": "[...]",
+          "sourceReference": "1QM 18:16"
+        },
+        {
+          "number": "17",
+          "text": "[...]",
+          "sourceReference": "1QM 18:17"
+        },
+        {
+          "number": "18",
+          "text": "[...]",
+          "sourceReference": "1QM 18:18"
+        },
+        {
+          "number": "19",
+          "text": "[...]",
+          "sourceReference": "1QM 18:19"
+        },
+        {
+          "number": "20",
+          "text": "[... And we shall direct our contempt at kings,]",
+          "sourceReference": "1QM 18:20"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "label": "Chapter 19",
+      "section": "",
+      "sourceReference": "1QM column 19",
+      "verses": [
+        {
+          "number": "1",
+          "text": "[derision and disdain at mi]ghty men. For our Majestic One is holy. The King of Glory is with us and the h[ost of His spirits is with our steps. Our horsemen are]",
+          "sourceReference": "1QM 19:1"
+        },
+        {
+          "number": "2",
+          "text": "[as the clouds and as the mis]t covering the earth; as a steady downpour shedding judgment on all her offspring. Rise up, O Hero,]",
+          "sourceReference": "1QM 19:2"
+        },
+        {
+          "number": "3",
+          "text": "[Take Your captives, O Glorious One, and ta]ke Your plunder, O You Who do valiantly. Lay Your hand upon the neck of Your enemies, and Your fo[o]t [upon the backs of",
+          "sourceReference": "1QM 19:3"
+        },
+        {
+          "number": "4",
+          "text": "[the slain. Crush the nations, Yo]ur [adversaries,] and let Your sword devour flesh. Fill Your land with glory, and Your inheritance with blessing. An ab[undance of cattle is] s[in Your fields,",
+          "sourceReference": "1QM 19:4"
+        },
+        {
+          "number": "5",
+          "text": "silver and gold] in Your palaces. O Zion, rejoice greatly, and rejoice, all you cities of Ju[dah. Open]",
+          "sourceReference": "1QM 19:5"
+        },
+        {
+          "number": "6",
+          "text": "[your gates forever, so that the wealth of the nations [might be brought to you, and their kings shall serve you. All they that oppressed] you shall bow down to you,",
+          "sourceReference": "1QM 19:6"
+        },
+        {
+          "number": "7",
+          "text": "[and they shall lick the dust of your feet. O dau]ghters of my [peo]ple, burst out with a voice of joy. Adorn yourselves with ornaments of glory, and r[ule] over the ki[ngdom of the ...]",
+          "sourceReference": "1QM 19:7"
+        },
+        {
+          "number": "8",
+          "text": "[...] Your [...] and Israel for an [egernal dominion.",
+          "sourceReference": "1QM 19:8"
+        },
+        {
+          "number": "9",
+          "text": "[Then they shall gather] in the camp that n[ig]ht for rest until the morning. In the morning they shall come to the p[la]ce of the battle line,",
+          "sourceReference": "1QM 19:9",
+          "sourceHeading": "Ceremony after the final battle."
+        },
+        {
+          "number": "10",
+          "text": "[where the mi]ghty men of the Kittim [fell], as well as the multitude of Assyria, and the forces of all the nations that were assembled unto them, to see whether [the mu]ltitude of slain [are dead]",
+          "sourceReference": "1QM 19:10"
+        },
+        {
+          "number": "11",
+          "text": "[with none to bury them; those who] fell there by the sword of God. And the Hi[gh] Priest shall approach there [with] his [depu]ty, his brothers [the priests,]",
+          "sourceReference": "1QM 19:11"
+        },
+        {
+          "number": "12",
+          "text": "[and the Levites with the Leader] of the battle, and all the chiefs of the battle lines and [their officers ...]",
+          "sourceReference": "1QM 19:12"
+        },
+        {
+          "number": "13",
+          "text": "[... together. When they stand before the s]lain of the Kitt[im, they shall pr]aise there the God [of Israel. And they shall say in response: ...]",
+          "sourceReference": "1QM 19:13"
+        },
+        {
+          "number": "14",
+          "text": "[... to God most high and ...]",
+          "sourceReference": "1QM 19:14"
+        }
+      ]
+    }
+  ]
+}

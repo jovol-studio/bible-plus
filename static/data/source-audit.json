@@ -1,0 +1,496 @@
+{
+  "checked": "2026-10-27",
+  "policy": "Import existing editions only; no new translation. Existing drafts retained.",
+  "books": [
+    {
+      "book": "tobit",
+      "name": "多比傳",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/TOB01.htm",
+      "englishNote": "採用 WEB Classic 的多比傳，共 14 章、244 節。不同文本傳統與譯本的分節及細節可能不同；本書依此英文底本對齊，保留原有名稱、數字及敘事差異。逐節文字來源不含註腳；章節簡題為 Bible+ 編輯導覽文字。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/TOB01.htm",
+      "chineseNote": "World English Bible Classic, Tobit, chapters 1–14. Public domain. Original chapter and verse numbering retained."
+    },
+    {
+      "book": "judith",
+      "name": "猶滴傳",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/JDT01.htm",
+      "englishNote": "採用 WEB Classic 的猶滴傳，共 16 章、339 節。中文依此英文底本逐節翻譯，保留原有名稱、數字及敘事，不以其他版本改寫。逐節文字來源不含註腳；章節簡題為 Bible+ 編輯導覽文字。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/JDT01.htm",
+      "chineseNote": "World English Bible Classic, Judith, chapters 1–16. Public domain. Original chapter and verse numbering retained."
+    },
+    {
+      "book": "additions-to-esther",
+      "name": "以斯帖記補編",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/ESG.htm",
+      "englishNote": "本書僅收錄希臘文以斯帖記的六段補錄，按甲至己（A–F）的故事次序排列，不重複收錄原有十章正文。章欄 1–6 為補錄閱讀順序；節欄為本應用的段落編號（各篇 21、6、30、18、15、11 段，共 101 段），並非 WEB、思高或拉丁通行本的原有章節號。英文措辭及標點保留，部分長節依句子分段；方括號沿用底本。底本位置：甲＝ESG 1:1 方括號內；乙＝3:13 方括號內及 4:8 後段末底改的囑咐；丙＝4:18–47；丁＝5:1–2 的擴充敘事；戊＝8:13 方括號內；己＝10:4–14（含末尾譯者題記）。逐節文字來源不含註腳，簡題為編輯導覽文字。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/ESG.htm",
+      "chineseNote": "World English Bible Classic, Esther (Greek): additions A–F extracted in narrative order. English wording and punctuation retained; reader chapter and paragraph numbers are editorial, not WEB verse numbers."
+    },
+    {
+      "book": "1-maccabees",
+      "name": "馬加比一書",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/1MA01.htm",
+      "englishNote": "採用 WEB Classic 的馬加比一書，共 16 章。中文依此英文底本逐節翻譯，保留原有名稱、數字與敘事，不混用其他譯本。逐節來源不含註腳；章節簡題為 Bible+ 編輯導覽文字。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/1MA01.htm",
+      "chineseNote": "Bible+ 正體中文翻譯初稿；根據 World English Bible Classic 公版英文，由 Google Translate 建立初稿，經 AI 修訂；部分段落由 AI 直接翻譯。"
+    },
+    {
+      "book": "2-maccabees",
+      "name": "馬加比二書",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/2MA01.htm",
+      "englishNote": "採用 WEB Classic 的馬加比二書，共 15 章。中文依此英文底本逐節翻譯，保留原有名稱、數字與敘事，不混用其他譯本。逐節來源不含註腳；章節簡題為 Bible+ 編輯導覽文字。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/2MA01.htm",
+      "chineseNote": "Bible+ 正體中文翻譯初稿；根據 World English Bible Classic 公版英文，由 Google Translate 建立初稿，經 AI 修訂；部分段落由 AI 直接翻譯。"
+    },
+    {
+      "book": "wisdom-of-solomon",
+      "name": "所羅門智訓",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/WIS01.htm",
+      "englishNote": "採用 WEB Classic 的所羅門智訓，共 19 章。中文依此英文底本逐節翻譯，保留原有名稱、數字與敘事，不混用其他譯本。逐節來源不含註腳；章節簡題為 Bible+ 編輯導覽文字。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/WIS01.htm",
+      "chineseNote": "Bible+ 正體中文翻譯初稿；根據 World English Bible Classic 公版英文，由 Google Translate 建立初稿，經 AI 修訂；部分段落由 AI 直接翻譯。"
+    },
+    {
+      "book": "sirach",
+      "name": "便西拉智訓",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/SIR01.htm",
+      "englishNote": "採用 WEB Classic 的便西拉智訓，共 51 章。中文依此英文底本逐節翻譯，保留原有名稱、數字與敘事，不混用其他譯本。逐節來源不含註腳；章節簡題為 Bible+ 編輯導覽文字。英文來源有 24 個空白節條目，按原節號保留，中文同樣留空並顯示缺文提示，不作補寫。古代譯者的序言取自官方章節網頁，放於第 1 章經文之前；不計作編號經節。底本另直接略去 12 個節號：11:16, 16:16, 19:19, 22:10, 26:20, 26:21, 26:22, 26:23, 26:24, 26:25, 26:26, 26:27；保留原有跳號，不自行重新編號或補寫。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/SIR01.htm",
+      "chineseNote": "Bible+ 正體中文翻譯初稿；根據 World English Bible Classic 公版英文，由 Google Translate 建立初稿，經 AI 修訂；部分段落由 AI 直接翻譯。"
+    },
+    {
+      "book": "baruch",
+      "name": "巴錄書",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/BAR01.htm",
+      "englishNote": "巴錄書第 1–5 章；第 6 章已獨立列為耶利米書信。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "imported 1933 edition",
+      "chineseUrl": "https://bible.fhl.net/new/readsub.php?chineses=%E5%B7%B4&chap=1&VERSION1=c1933&TABFLAG=0",
+      "chineseNote": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。"
+    },
+    {
+      "book": "letter-of-jeremiah",
+      "name": "耶利米書信",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/BAR06.htm",
+      "englishNote": "從 WEB Classic 巴錄書第 6 章完整抽出，共 73 節，在本 App 作獨立書卷第 1 章閱讀；保留英文原文及節號，逐節記錄原始出處。思高中文列於《巴路克》第 6 章，採序文加 72 節，分節亦有差異，不能直接按相同節號對齊。中文全文尚未收錄；資訊中提供原文連結，本次未另作翻譯。",
+      "chinese": "imported 1933 edition",
+      "chineseUrl": "https://bible.fhl.net/new/readsub.php?chineses=%E8%80%B6%E4%BF%A1&chap=1&VERSION1=c1933&TABFLAG=0",
+      "chineseNote": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。"
+    },
+    {
+      "book": "prayer-of-azariah",
+      "name": "三童歌",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/DNG03.htm",
+      "englishNote": "但以理希臘文補編 3:24–90；App 以 1:1–67 閱讀，逐節記錄原始出處。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "imported 1933 edition",
+      "chineseUrl": "https://bible.fhl.net/new/readsub.php?chineses=%E7%AB%A5&chap=1&VERSION1=c1933&TABFLAG=0",
+      "chineseNote": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。"
+    },
+    {
+      "book": "susanna",
+      "name": "蘇撒拿傳",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/DNG13.htm",
+      "englishNote": "但以理希臘文補編第 13 章；App 獨立列作第 1 章。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "imported 1933 edition",
+      "chineseUrl": "https://bible.fhl.net/new/readsub.php?chineses=%E8%98%87&chap=1&VERSION1=c1933&TABFLAG=0",
+      "chineseNote": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。"
+    },
+    {
+      "book": "bel-and-the-dragon",
+      "name": "比勒與大龍",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/DNG14.htm",
+      "englishNote": "但以理希臘文補編第 14 章；App 獨立列作第 1 章。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "imported 1933 edition",
+      "chineseUrl": "https://bible.fhl.net/new/readsub.php?chineses=%E5%8B%92&chap=1&VERSION1=c1933&TABFLAG=0",
+      "chineseNote": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。"
+    },
+    {
+      "book": "1-esdras",
+      "name": "以斯拉續篇上卷",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/1ES01.htm",
+      "englishNote": "以斯拉一書（1 Esdras）為獨立的典外書卷，並非原有聖經的以斯拉記。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/1ES01.htm",
+      "chineseNote": "World English Bible Classic, 1 Esdras, chapters 1–9. Public domain. Original chapter and verse numbering retained."
+    },
+    {
+      "book": "3-maccabees",
+      "name": "馬加比三書",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/3MA01.htm",
+      "englishNote": "保留原章節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "psalm-151",
+      "name": "詩篇第151篇",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/PSX01.htm",
+      "englishNote": "詩篇第 151 篇；App 以單章閱讀。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "prayer-of-manasseh",
+      "name": "瑪拿西禱言",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/PRM01.htm",
+      "englishNote": "瑪拿西禱言；保留原節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "imported 1933 edition",
+      "chineseUrl": "https://bible.fhl.net/new/readsub.php?chineses=%E7%A6%B1&chap=1&VERSION1=c1933&TABFLAG=0",
+      "chineseNote": "《次經》，中華聖公會書籍委員會，1933；信望愛數位文本。"
+    },
+    {
+      "book": "4-maccabees",
+      "name": "馬加比四書（附錄）",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/4MA01.htm",
+      "englishNote": "保留原章節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "2-esdras",
+      "name": "以斯拉續篇下卷",
+      "english": "bundled",
+      "englishUrl": "https://ebible.org/eng-web/2ES01.htm",
+      "englishNote": "以斯拉二書（2 Esdras）合併第1–2章（5 Ezra）、第3–14章（4 Ezra）和第15–16章（6 Ezra），依原章號順序排列，並非原有聖經的以斯拉記或尼希米記。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://ebible.org/eng-web/2ES01.htm",
+      "chineseNote": "World English Bible Classic, 2 Esdras, chapters 1–16. Public domain. Chapters 1–2, 3–14 and 15–16 are also known as 5 Ezra, 4 Ezra and 6 Ezra respectively. Chapter 7 includes the restored passage (140 verses)."
+    },
+    {
+      "book": "1-clement",
+      "name": "革利免前書",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "2-clement",
+      "name": "革利免後書",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "letters-of-ignatius",
+      "name": "依格那丟七書",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。七封書信按底本次序合併為連續閱讀章號，並記錄各信原章號。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "epistle-of-polycarp",
+      "name": "波利甲書",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "name": "波利甲殉道記",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "didache",
+      "name": "十二使徒遺訓",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "epistle-of-barnabas",
+      "name": "巴拿巴書",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "shepherd-of-hermas",
+      "name": "黑馬牧人書",
+      "english": "bundled",
+      "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。按五個異象、十二誡命、十個比喻分為 27 個閱讀單元；並非通行的 114 章編排。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "fragments-of-papias",
+      "name": "帕皮亞殘篇",
+      "english": "bundled",
+      "englishUrl": "https://www.newadvent.org/fathers/0125.htm",
+      "englishNote": "採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。本作品以殘篇流傳，收錄來源現存全文並不表示原書完整。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
+      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+    },
+    {
+      "book": "1-enoch",
+      "name": "以諾一書",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/1-enoch.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/1-enoch.html",
+      "chineseNote": "Translation by R. H. Charles, The Apocrypha and Pseudepigrapha of the Old Testament in English, vol. 2 (Oxford: Clarendon Press, 1913) ; public domain. Introduction by StudyLight.org. The wording follows the 1913 edition; Charles's text-critical signs (half-brackets, daggers) and the accents on names are not reproduced."
+    },
+    {
+      "book": "2-enoch",
+      "name": "以諾二書",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/2-enoch.html",
+      "englishNote": "This is the 68-chapter Morfill/Charles 1896 main text. Chapter 22 begins at verse 4 because the editors print 22:1–3 in manuscript A’s apparatus on printed page 27, not in the running text. Numbering is preserved. 這是1896年版正文；第22章從第4節開始，因第1–3節列於第27頁抄本A的校勘註中。",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/2-enoch.html",
+      "chineseNote": "Translation by W. R. Morfill, The Book of the Secrets of Enoch, translated by W. R. Morfill, edited by R. H. Charles (Oxford: Clarendon Press, 1896) ; public domain. Introduction by StudyLight.org."
+    },
+    {
+      "book": "3-enoch",
+      "name": "以諾三書",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/3-enoch.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/3-enoch.html",
+      "chineseNote": "Translation by Hugo Odeberg, 3 Enoch or The Hebrew Book of Enoch (Cambridge University Press, 1928); described as public domain by the source host; territorial rights require verification. Introduction by StudyLight.org. Where Odeberg prints two manuscript recensions in parallel columns, one column is given; his diacritics on transliterated Hebrew are not reproduced."
+    },
+    {
+      "book": "jubilees",
+      "name": "禧年書",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/jubilees.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/jubilees.html",
+      "chineseNote": "Translation by R. H. Charles, The Apocrypha and Pseudepigrapha of the Old Testament in English, vol. 2 (Oxford: Clarendon Press, 1913) ; public domain. Introduction by StudyLight.org. Transcribed from the 1913 edition with Charles's signs (†…† for corrupt text, ‹ › for supplied words) and accents; his Anno Mundi dates, printed in the margin, are given in brackets in the text."
+    },
+    {
+      "book": "life-of-adam-and-eve",
+      "name": "亞當和夏娃生平",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/life-of-adam-and-eve.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/life-of-adam-and-eve.html",
+      "chineseNote": "Translation by L. S. A. Wells, The Apocrypha and Pseudepigrapha of the Old Testament in English, vol. 2, ed. R. H. Charles (Oxford: Clarendon Press, 1913) ; public domain. Introduction by StudyLight.org."
+    },
+    {
+      "book": "testament-of-abraham",
+      "name": "亞伯拉罕遺訓",
+      "english": "bundled",
+      "englishUrl": "https://www.newadvent.org/fathers/1007.htm",
+      "englishNote": "採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。包括長本 20 章及短本；此底本短本有重複第 8 章及第 12 章移位，共 15 段，照原來源次序保留，App 共 35 個連續閱讀單元。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "apocalypse-of-abraham",
+      "name": "亞伯拉罕啟示錄",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/apocalypse-of-abraham.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/apocalypse-of-abraham.html",
+      "chineseNote": "Translation by G. H. Box with J. I. Landsman, The Apocalypse of Abraham (London: SPCK, 1918); public domain. Introduction by StudyLight.org."
+    },
+    {
+      "book": "testaments-of-the-twelve-patriarchs",
+      "name": "十二族長遺訓",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/testaments-of-the-twelve-patriarchs.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/testaments-of-the-twelve-patriarchs.html",
+      "chineseNote": "Translation by R. H. Charles, The Apocrypha and Pseudepigrapha of the Old Testament in English, vol. 2, ed. R. H. Charles (Oxford: Clarendon Press, 1913) ; public domain. Introduction by StudyLight.org. Where Charles prints two or three manuscript recensions in parallel columns, the main running-text column is given; so T. Zebulun 4 has no verse 4, T. Gad 2 no verse 4, and T. Joseph 19 no verses 3–7, which are preserved only in the other witnesses. Charles's half-brackets (“omitted by the Armenian”) are shown as ⌈ ⌉."
+    },
+    {
+      "book": "testament-of-moses",
+      "name": "摩西遺訓",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/assumption-of-moses.html",
+      "englishNote": "只收錄歷史譯文，未匯入網站現代導言。保留底本殘缺及原章節號；現存抄本結尾殘缺。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "martyrdom-of-isaiah",
+      "name": "以賽亞殉道記",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/martyrdom-of-isaiah.html",
+      "englishNote": "只收錄歷史譯文，未匯入網站現代導言。底本為抽出的殉道記，僅含第 1、2、3、5 章，保留缺章及跳號；不是完整以賽亞升天記。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "2-baruch",
+      "name": "巴錄二書",
+      "english": "bundled",
+      "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/2-baruch.html",
+      "englishNote": "",
+      "chinese": "existing AI draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/2-baruch.html",
+      "chineseNote": "Translation by R. H. Charles, The Apocrypha and Pseudepigrapha of the Old Testament in English, vol. 2, ed. R. H. Charles (Oxford: Clarendon Press, 1913) ; public domain. Introduction by StudyLight.org."
+    },
+    {
+      "book": "psalms-of-solomon",
+      "name": "所羅門詩篇",
+      "english": "bundled",
+      "englishUrl": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/",
+      "englishNote": "以來源段落提供閱讀定位，並非聖經節號；原文中的節號、括號及來源誤植均保留，未自行校訂。使用條件及署名照錄。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "sibylline-oracles-3",
+      "name": "西卜神諭篇卷三",
+      "english": "bundled",
+      "englishUrl": "https://elfinspell.com/SibyllineOraclesBk3.html",
+      "englishNote": "完整卷三 986 行英語詩譯，App 以單章逐行閱讀；行號為 Terry 英譯行號，不是希臘原文行號。未含註釋。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "war-scroll",
+      "name": "戰卷",
+      "english": "bundled",
+      "englishUrl": "https://www.qumran.org/js/qumran/hss/1qm",
+      "englishNote": "收錄所提供 HTML 中的 1QM 第 1–19 欄及原行號。App 的章／節控制對應欄／行，並非原作章節。保留缺文 […]、補入文字 [文字]、不確定讀法及來源拼寫；跳號不補造。兩處來源行號誤植僅修正閱讀定位：第 5 欄第 11 行後所印 17 改定位為 12；第 14 欄第 7 行後所印 9 改定位為 8，原印號保留於 sourceNumber／sourceReference。只正規化 HTML 排版空白，不補譯或新增中文。先前線上頁尾稱譯文可能出自 Wise、Abegg、Cook，所提供檔案未附完整譯者來源，故未確證版本。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "未提供中文文本；依使用者指示不另譯。"
+    },
+    {
+      "book": "gospel-of-thomas",
+      "name": "多馬福音",
+      "english": "bundled",
+      "englishUrl": "https://www.gospels.net/thomas",
+      "englishNote": "保留底本缺文記號及手稿頁碼。第 1 章收錄序言及 114 則語錄。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://bryan1974.pixnet.net/blog/posts/1823997",
+      "chineseNote": "已找到現代中文轉載；版本及完整收錄權利尚待確認。"
+    },
+    {
+      "book": "gospel-of-philip",
+      "name": "腓力福音",
+      "english": "bundled",
+      "englishUrl": "https://www.gospels.net/philip",
+      "englishNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://lib.exchristian.hk/philip.html",
+      "chineseNote": "已找到現代中文線上文本；僅提供來源連結。"
+    },
+    {
+      "book": "gospel-of-judas",
+      "name": "猶大福音",
+      "english": "bundled",
+      "englishUrl": "https://www.gospels.net/judas",
+      "englishNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://matters.town/a/zc3g0xro0ark/history",
+      "chineseNote": "已找到現代中文譯文合集線索；譯本及完整收錄權利尚待確認。"
+    },
+    {
+      "book": "gospel-of-peter",
+      "name": "彼得福音",
+      "english": "bundled",
+      "englishUrl": "https://www.newadvent.org/fathers/1001.htm",
+      "englishNote": "採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。本作品以殘篇流傳，收錄來源現存全文並不表示原書完整。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://lib.exchristian.hk/peter.html",
+      "chineseNote": "已找到現代中文線上文本；僅提供來源連結。"
+    },
+    {
+      "book": "gospel-of-the-egyptians",
+      "name": "埃及人福音",
+      "english": "bundled",
+      "englishUrl": "https://mail.earlychristianwritings.com/text/gospelegyptians.html",
+      "englishNote": "本項明確採希臘文《埃及人福音》的教父引文殘篇及 James 說明，不是拿戈瑪第同名科普特《大不可見靈聖書》。原完整作品已佚；段號為閱讀定位，並非原章節。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    },
+    {
+      "book": "gospel-of-mary",
+      "name": "抹大拉的馬利亞福音",
+      "english": "bundled",
+      "englishUrl": "https://www.gospels.net/mary",
+      "englishNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://matters.town/a/zc3g0xro0ark/history",
+      "chineseNote": "已找到現代中文譯文合集線索；譯本及完整收錄權利尚待確認。"
+    },
+    {
+      "book": "gospel-of-barnabas",
+      "name": "巴拿巴福音",
+      "english": "bundled",
+      "englishUrl": "https://media.zoraweb.com/gospel-barnabas",
+      "englishNote": "收錄序言及 222 章；段號為閱讀定位。這是《巴拿巴福音》，不是《巴拿巴書信》。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "https://meimentang.com/wp-content/uploads/2021/09/25%E6%96%B0%E7%BA%A6%E4%BC%AA%E7%BB%8F%EF%BC%9A%E5%B7%B4%E6%8B%BF%E5%B7%B4%E7%A6%8F%E9%9F%B3.pdf",
+      "chineseNote": "已找到中文 PDF；譯者及完整收錄權利尚待確認。"
+    },
+    {
+      "book": "shuitu-xingji",
+      "name": "水徒行紀",
+      "english": "bundled",
+      "englishUrl": "https://www.gutenberg.org/ebooks/44073",
+      "englishNote": "全書正文 182 章，保留原節號；不含現代網站摘要、出版序言及索引。這是近代宗教著作，不是古代彼得福音。 本次只匯入現有英文，不另作翻譯。",
+      "chinese": "not bundled",
+      "chineseUrl": "",
+      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+    }
+  ]
+}

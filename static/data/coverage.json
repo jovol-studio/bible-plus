@@ -3,8 +3,8 @@
     {
       "book": "letter-of-jeremiah",
       "englishSections": 1,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 1,
+      "complete": true
     },
     {
       "book": "1-maccabees",
@@ -107,6 +107,192 @@
       "englishSections": 87,
       "chineseSections": 87,
       "complete": true
+    },
+    {
+      "book": "baruch",
+      "englishSections": 5,
+      "chineseSections": 5,
+      "complete": true
+    },
+    {
+      "book": "prayer-of-azariah",
+      "englishSections": 1,
+      "chineseSections": 1,
+      "complete": true
+    },
+    {
+      "book": "susanna",
+      "englishSections": 1,
+      "chineseSections": 1,
+      "complete": true
+    },
+    {
+      "book": "bel-and-the-dragon",
+      "englishSections": 1,
+      "chineseSections": 1,
+      "complete": true
+    },
+    {
+      "book": "3-maccabees",
+      "englishSections": 7,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "psalm-151",
+      "englishSections": 1,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "prayer-of-manasseh",
+      "englishSections": 1,
+      "chineseSections": 1,
+      "complete": true
+    },
+    {
+      "book": "4-maccabees",
+      "englishSections": 18,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "1-clement",
+      "englishSections": 65,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "2-clement",
+      "englishSections": 20,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "letters-of-ignatius",
+      "englishSections": 91,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "epistle-of-polycarp",
+      "englishSections": 14,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "martyrdom-of-polycarp",
+      "englishSections": 22,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "didache",
+      "englishSections": 16,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "epistle-of-barnabas",
+      "englishSections": 21,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "shepherd-of-hermas",
+      "englishSections": 27,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "fragments-of-papias",
+      "englishSections": 10,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "testament-of-abraham",
+      "englishSections": 35,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "testament-of-moses",
+      "englishSections": 12,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "martyrdom-of-isaiah",
+      "englishSections": 4,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "psalms-of-solomon",
+      "englishSections": 18,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "sibylline-oracles-3",
+      "englishSections": 1,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-thomas",
+      "englishSections": 1,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-philip",
+      "englishSections": 18,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-judas",
+      "englishSections": 7,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-peter",
+      "englishSections": 14,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-the-egyptians",
+      "englishSections": 1,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-mary",
+      "englishSections": 5,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "gospel-of-barnabas",
+      "englishSections": 222,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "shuitu-xingji",
+      "englishSections": 182,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "war-scroll",
+      "englishSections": 19,
+      "chineseSections": 0,
+      "complete": false
     }
   ],
   "allChineseComplete": false

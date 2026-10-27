@@ -6,6 +6,8 @@ import json,re,sys
 from pathlib import Path
 R=Path(__file__).resolve().parents[1]
 expected={'letter-of-jeremiah':1,'1-maccabees':16,'2-maccabees':15,'wisdom-of-solomon':19,'sirach':51,'tobit':14,'judith':16,'additions-to-esther':6,'jubilees':50,'1-enoch':109,'2-enoch':68,'3-enoch':54,'apocalypse-of-abraham':33,'life-of-adam-and-eve':64,'testaments-of-the-twelve-patriarchs':142,'1-esdras':9,'2-esdras':16,'2-baruch':87}
+manifest=json.loads((R/'static/data/import-manifest.json').read_text())
+expected.update({slug:len(m['chapterIds']) for slug,m in manifest.items()})
 sirach_empty=set('1:5 1:7 1:21 3:19 10:21 11:15 13:14 16:15 17:5 17:9 17:16 17:18 17:21 18:3 19:18 19:21 20:3 20:32 22:9 23:28 24:18 24:24 25:12 26:19'.split())
 sirach_omitted=set('11:16 16:16 19:19 22:10 26:20 26:21 26:22 26:23 26:24 26:25 26:26 26:27'.split())
 rows=[]; incomplete=[]
@@ -14,12 +16,17 @@ for slug,n in expected.items():
  assert en.get('source',{}).get('rightsNotice'),(slug,'missing English rights notice')
  assert len(en['chapters'])==n,(slug,'sections')
  ids=[c['id'] for c in en['chapters']];assert len(set(ids))==n
+ if slug in manifest:
+  assert ids==manifest[slug]['chapterIds'],(slug,'source chapter sequence')
+  assert [len(c['verses']) for c in en['chapters']]==manifest[slug]['entryCounts'],(slug,'source entry counts')
  allowed_empty=sirach_empty if slug=='sirach' else set()
  actual_empty={c['id']+':'+v['number'] for c in en['chapters'] for v in c['verses'] if v['text']==''}
  assert actual_empty==allowed_empty,(slug,'unexpected source blanks')
  if slug=='sirach': assert set(en['source']['emptyVerses'])==allowed_empty
  for c in en['chapters']:
   assert c['verses']
+  if slug in manifest:
+   assert len({v['number'] for v in c['verses']})==len(c['verses']),(slug,c['id'],'duplicate entry number')
   for v in c['verses']: assert isinstance(v['text'],str) and (v['text'].strip() or c['id']+':'+v['number'] in allowed_empty),(slug,c['id'])
  zp=R/'static/data'/f'{slug}.zh-Hant.json';zh=json.loads(zp.read_text()) if zp.exists() else {'chapters':[]}
  zi=[c['id'] for c in zh['chapters']];assert len(zi)==len(set(zi))
@@ -34,7 +41,8 @@ for slug,n in expected.items():
    assert re.search('[\u3400-\u9fff]',v['text']),(slug,z['id'],v['number'],'missing Chinese')
    assert not re.search(r'\b(TODO|PLACEHOLDER|TBD)\b',v['text'])
  if zh['chapters']:
-  assert zh['language']=='zh-Hant' and 'AI-generated' in zh['source']['translationNote']
+  assert zh['language']=='zh-Hant'
+  assert zh['source'].get('translationNote') or zh['source'].get('editionNote'),(slug,'missing Chinese edition provenance')
   assert zh['source'].get('rightsNotice'),(slug,'missing Chinese rights notice')
  complete=len(zi)==n
  if not complete:incomplete.append(slug)
