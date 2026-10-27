@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "8f0743c5ce6d0b51c1c50d85ac4aa603d5adffd3a918eae4bf23b27878acda51",
-    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -44,7 +45,8 @@
           "text": "Yea, as touching this also it is said; Let thine alms sweat into thine hands, until thou have learnt to whom to give."
         }
       ],
-      "sourceReference": "Did. 1"
+      "sourceReference": "Did. 1",
+      "shortSection": "生命之路"
     },
     {
       "id": "2",
@@ -80,7 +82,8 @@
           "text": "Thou shalt not hate any man but some thou shalt reprove, and for others thou shalt pray, and others thou shalt love more than thy life."
         }
       ],
-      "sourceReference": "Did. 2"
+      "sourceReference": "Did. 2",
+      "shortSection": "愛人的誡命"
     },
     {
       "id": "3",
@@ -128,7 +131,8 @@
           "text": "The accidents that befall thee thou shalt receive as good, knowing that nothing is done without God."
         }
       ],
-      "sourceReference": "Did. 3"
+      "sourceReference": "Did. 3",
+      "shortSection": "遠離惡念"
     },
     {
       "id": "4",
@@ -192,7 +196,8 @@
           "text": "In church thou shalt confess thy transgressions, and shalt not betake thyself to prayer with an evil conscience. This is the way of life."
         }
       ],
-      "sourceReference": "Did. 4"
+      "sourceReference": "Did. 4",
+      "shortSection": "群體生活"
     },
     {
       "id": "5",
@@ -208,7 +213,8 @@
           "text": "persecutors of good men, hating truth, loving a lie, not perceiving the reward of righteousness, not cleaving to the good nor to righteous judgment, wakeful not for that which is good but for that which is evil-from whom gentleness and forbearance stand aloof; loving vain things, pursuing a recompense, not pitying the poor man, not toiling for him that is oppressed with toil, not recognizing Him that made them, murderers of children, corrupters of the creatures of God, turning away from him that is in want, oppressing him that is afflicted, advocates of the wealthy, unjust judges of the poor, altogether sinful. May ye be delivered, my children, from all these things."
         }
       ],
-      "sourceReference": "Did. 5"
+      "sourceReference": "Did. 5",
+      "shortSection": "死亡之路"
     },
     {
       "id": "6",
@@ -228,7 +234,8 @@
           "text": "But concerning eating, bear that which thou art able; yet abstain by all means from meat sacrificed to idols; for it is the worship of dead gods."
         }
       ],
-      "sourceReference": "Did. 6"
+      "sourceReference": "Did. 6",
+      "shortSection": "律法與飲食"
     },
     {
       "id": "7",
@@ -252,7 +259,8 @@
           "text": "But before the baptism let him that baptizeth and him that is baptized fast, and any others also who are able; and thou shalt order him that is baptized to fast a day or two before."
         }
       ],
-      "sourceReference": "Did. 7"
+      "sourceReference": "Did. 7",
+      "shortSection": "洗禮規範"
     },
     {
       "id": "8",
@@ -316,7 +324,8 @@
           "text": "Three times in the day pray ye so."
         }
       ],
-      "sourceReference": "Did. 8"
+      "sourceReference": "Did. 8",
+      "shortSection": "禁食與禱告"
     },
     {
       "id": "9",
@@ -404,7 +413,8 @@
           "text": "But let no one eat or drink of this eucharistic thanksgiving, but they that have been baptized into the name of the Lord; for concerning this also the Lord hath said: Give not that which is holy to the dogs."
         }
       ],
-      "sourceReference": "Did. 9"
+      "sourceReference": "Did. 9",
+      "shortSection": "聖餐感恩"
     },
     {
       "id": "10",
@@ -528,7 +538,8 @@
           "text": "But permit the prophets to offer thanksgiving as much as they desire."
         }
       ],
-      "sourceReference": "Did. 10"
+      "sourceReference": "Did. 10",
+      "shortSection": "飯後感恩"
     },
     {
       "id": "11",
@@ -584,7 +595,8 @@
           "text": "And whosoever shall say in the Spirit, Give me silver or anything else, ye shall not listen to him; but if he tell you to give on behalf of others that are in want, let no man judge him."
         }
       ],
-      "sourceReference": "Did. 11"
+      "sourceReference": "Did. 11",
+      "shortSection": "辨別使徒與先知"
     },
     {
       "id": "12",
@@ -612,7 +624,8 @@
           "text": "If he will not do this, he is trafficking upon Christ. Beware of such men."
         }
       ],
-      "sourceReference": "Did. 12"
+      "sourceReference": "Did. 12",
+      "shortSection": "接待旅人"
     },
     {
       "id": "13",
@@ -648,7 +661,8 @@
           "text": "yea and of money and raiment and every possession take the firstfruit, as shall seem good to thee, and give according to the commandment."
         }
       ],
-      "sourceReference": "Did. 13"
+      "sourceReference": "Did. 13",
+      "shortSection": "供應先知"
     },
     {
       "id": "14",
@@ -668,7 +682,8 @@
           "text": "for this sacrifice it is that was spoken of by the Lord; In every place and at every time offer me a pure sacrifice; for I ama a great king, saith the Lord, and My name is wonderful among the nations."
         }
       ],
-      "sourceReference": "Did. 14"
+      "sourceReference": "Did. 14",
+      "shortSection": "主日聚會"
     },
     {
       "id": "15",
@@ -692,7 +707,8 @@
           "text": "But your prayers and your almsgiving and all your deeds so do ye as ye find it in the Gospel of our Lord."
         }
       ],
-      "sourceReference": "Did. 15"
+      "sourceReference": "Did. 15",
+      "shortSection": "監督與執事"
     },
     {
       "id": "16",
@@ -732,7 +748,8 @@
           "text": "Then shall the world see the Lord coming upon the clouds of heaven."
         }
       ],
-      "sourceReference": "Did. 16"
+      "sourceReference": "Did. 16",
+      "shortSection": "警醒等候主"
     }
   ]
 }

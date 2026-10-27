@@ -11,7 +11,8 @@
     "rightsNotice": "譯者在來源頁明確將此英譯奉獻為公版，允許任何用途之複製及修改。",
     "retrieved": "2026-10-27",
     "sha256": "d97f072f281db8462c13f92e5cffebec00569cb6180c7fd771ce0a6d0c44699c",
-    "editionNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -28,7 +29,8 @@
           "text": "When he appeared on earth, he did signs and great wonders for the salvation of humanity. Some [walked] in the way of righteousness, but others walked in their transgression, so the twelve disciples were called. He started to tell them about the mysteries beyond the world and what would happen at the end. Often he didn't reveal himself to his disciples, but you'd find him in their midst as a child."
         }
       ],
-      "sourceHeading": "Introduction"
+      "sourceHeading": "Introduction",
+      "shortSection": "敘事開端"
     },
     {
       "id": "2",
@@ -84,7 +86,8 @@
           "text": "But when he said these things, Jesus left him."
         }
       ],
-      "sourceHeading": "Jesus Criticizes the Disciples"
+      "sourceHeading": "Jesus Criticizes the Disciples",
+      "shortSection": "耶穌責備門徒"
     },
     {
       "id": "3",
@@ -112,7 +115,8 @@
           "text": "When his disciples heard these things, they were each troubled in their spirit. They couldn't say a thing."
         }
       ],
-      "sourceHeading": "Another Generation"
+      "sourceHeading": "Another Generation",
+      "shortSection": "另一個世代"
     },
     {
       "id": "4",
@@ -164,7 +168,8 @@
           "text": "Jesus said to them, \"Stop struggling against me. Each one of you has his own star, [and …] of the stars will […] what belongs to it […] I wasn't sent to the corruptible generation, but to the strong and incorruptible generation, because no enemy has ruled [over] that generation, nor any of the stars. Truly I say to you, the pillar of fire will fall quickly and that generation won't be moved by the stars.\""
         }
       ],
-      "sourceHeading": "The Disciples' Vision"
+      "sourceHeading": "The Disciples' Vision",
+      "shortSection": "門徒的異象"
     },
     {
       "id": "5",
@@ -224,7 +229,8 @@
           "text": "Jesus answered and said, \"You'll become the thirteenth, and will be cursed by the other generations and will rule over them. In the last days they'll […] to you and you won't go up 47 to the holy generation.\""
         }
       ],
-      "sourceHeading": "Jesus and Judas"
+      "sourceHeading": "Jesus and Judas",
+      "shortSection": "耶穌與猶大"
     },
     {
       "id": "6",
@@ -300,7 +306,8 @@
           "text": "Then Judas said to Jesus, \"What will those do who've been baptized in your name?\""
         }
       ],
-      "sourceHeading": "Jesus Reveals Everything to Judas"
+      "sourceHeading": "Jesus Reveals Everything to Judas",
+      "shortSection": "向猶大揭示奧秘"
     },
     {
       "id": "7",
@@ -332,7 +339,8 @@
           "text": "The Gospel of Judas"
         }
       ],
-      "sourceHeading": "The Betrayal"
+      "sourceHeading": "The Betrayal",
+      "shortSection": "出賣耶穌"
     }
   ]
 }

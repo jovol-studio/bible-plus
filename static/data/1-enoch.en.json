@@ -12,7 +12,8 @@
     "sha256": "968fad82cc26492c2c222e06f5af431e56c4e60d56e0bf2d06c78fd3d4f7ba24",
     "rightsUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/1-enoch.html",
     "rightsNotice": "英文歷史譯本的譯者及版次見上述來源署名；來源網站將該版本標示為公版。這不是全球適用的授權保證，後來的導言、編輯或網站內容不因此一併成為公版；本應用未收錄網站的現代導言。",
-    "rightsReviewed": "2026-10-26"
+    "rightsReviewed": "2026-10-26",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文內容摘要，不是原文標題或新增經文翻譯。選單按本底本的 109 個閱讀單元編號；原章名、部別及第 91 章拆分為 91a／91b 等編排保留於資料中。"
   },
   "chapters": [
     {
@@ -56,7 +57,8 @@
           "number": "9",
           "text": "And behold! He cometh with ten thousands of His holy onesTo execute judgement upon all,And to destroy all the ungodly: And to convict all fleshOf all the works of their ungodliness which they have ungodly committed,And of all the hard things which ungodly sinners have spoken against Him."
         }
-      ]
+      ],
+      "shortSection": "聖者降臨與審判"
     },
     {
       "id": "2",
@@ -75,7 +77,8 @@
           "number": "3",
           "text": "Behold the summer and the winter, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
         }
-      ]
+      ],
+      "shortSection": "天地運行有序"
     },
     {
       "id": "3",
@@ -86,7 +89,8 @@
           "number": "paragraph",
           "text": "Observe and see how (in the winter) all the trees seem as though they had withered and shed all their leaves, except fourteen trees, which do not lose their foliage but retain the old foliage from two to three years till the new comes."
         }
-      ]
+      ],
+      "shortSection": "冬日樹木的啟示"
     },
     {
       "id": "4",
@@ -97,7 +101,8 @@
           "number": "paragraph",
           "text": "And again, observe ye the days of summer how the sun is above the earth over against it. And you seek shade and shelter by reason of the heat of the sun, and the earth also burns with glowing heat, and so you cannot tread on the earth, or on a rock by reason of its heat."
         }
-      ]
+      ],
+      "shortSection": "夏日烈陽"
     },
     {
       "id": "5",
@@ -180,7 +185,8 @@
           "number": "9",
           "text": "And they shall not again transgress,Nor shall they sin all the days of their life,Nor shall they die of (the divine) anger or wrath,But they shall complete the number of the days of their life. And their lives shall be increased in peace,And the years of their joy shall be multiplied,In eternal gladness and peace,All the days of their life."
         }
-      ]
+      ],
+      "shortSection": "萬物順服與人悖逆"
     },
     {
       "id": "6",
@@ -219,7 +225,8 @@
           "number": "8",
           "text": "These are their chiefs of tens."
         }
-      ]
+      ],
+      "shortSection": "守望者下凡立誓"
     },
     {
       "id": "7",
@@ -250,7 +257,8 @@
           "number": "6",
           "text": "Then the earth laid accusation against the lawless ones."
         }
-      ]
+      ],
+      "shortSection": "巨人肆虐大地"
     },
     {
       "id": "8",
@@ -273,7 +281,8 @@
           "number": "4",
           "text": "And as men perished, they cried, and their cry went up to heaven . . ."
         }
-      ]
+      ],
+      "shortSection": "禁忌知識的傳授"
     },
     {
       "id": "9",
@@ -324,7 +333,8 @@
           "number": "11",
           "text": "And Thou knowest all things before they come to pass, and Thou seest these things and Thou dost suffer them, and Thou dost not say to us what we are to do to them in regard to these.'"
         }
-      ]
+      ],
+      "shortSection": "天使為世人申訴"
     },
     {
       "id": "10",
@@ -419,7 +429,8 @@
           "number": "22",
           "text": "And the earth shall be cleansed from all defilement, and from all sin, and from all punishment, and from all torment, and I will never again send (them) upon it from generation to generation and for ever."
         }
-      ]
+      ],
+      "shortSection": "懲罰守望者與潔淨大地"
     },
     {
       "id": "11",
@@ -434,7 +445,8 @@
           "number": "2",
           "text": "And truth and peace shall be associated together throughout all the days of the world and throughout all the generations of men.'"
         }
-      ]
+      ],
+      "shortSection": "大地重得祝福"
     },
     {
       "id": "12",
@@ -465,7 +477,8 @@
           "number": "6",
           "text": "The murder of their beloved ones shall they see, and over the destruction of their children shall they lament, and shall make supplication unto eternity, but mercy and peace shall ye not attain.\"'"
         }
-      ]
+      ],
+      "shortSection": "以諾奉命責備守望者"
     },
     {
       "id": "13",
@@ -512,7 +525,8 @@
           "number": "10",
           "text": "And I recounted before them all the visions which I had seen in sleep, and I began to speak the words of righteousness, and to reprimand the heavenly Watchers."
         }
-      ]
+      ],
+      "shortSection": "守望者請求代禱"
     },
     {
       "id": "14",
@@ -619,7 +633,8 @@
           "number": "25",
           "text": "And one of the holy ones came to me and waked me, and He made me rise up and approach the door: and I bowed my face downwards."
         }
-      ]
+      ],
+      "shortSection": "天上宮殿與寶座"
     },
     {
       "id": "15",
@@ -674,7 +689,8 @@
           "number": "12",
           "text": "And these spirits shall rise up against the children of men and against the women, because they have proceeded from them."
         }
-      ]
+      ],
+      "shortSection": "巨人與惡靈的起源"
     },
     {
       "id": "16",
@@ -697,7 +713,8 @@
           "number": "4",
           "text": "Say to them therefore: \" You have no peace.\"'"
         }
-      ]
+      ],
+      "shortSection": "守望者不得平安"
     },
     {
       "id": "17",
@@ -736,7 +753,8 @@
           "number": "8",
           "text": "I saw the mouths of all the rivers of the earth and the mouth of the deep."
         }
-      ]
+      ],
+      "shortSection": "火河與天地邊界"
     },
     {
       "id": "18",
@@ -807,7 +825,8 @@
           "number": "16",
           "text": "And He was wroth with them, and bound them till the time when their guilt should be consummated (even) for ten thousand years.'"
         }
-      ]
+      ],
+      "shortSection": "風庫與被囚星辰"
     },
     {
       "id": "19",
@@ -826,7 +845,8 @@
           "number": "3",
           "text": "And I, Enoch, alone saw the vision, the ends of all things: and no man shall see as I have seen."
         }
-      ]
+      ],
+      "shortSection": "墮落天使受拘禁"
     },
     {
       "id": "20",
@@ -865,7 +885,8 @@
           "number": "8",
           "text": "Remiel, one of the holy angels, whom God set over those who rise."
         }
-      ]
+      ],
+      "shortSection": "七位聖天使的職責"
     },
     {
       "id": "21",
@@ -912,7 +933,8 @@
           "number": "10",
           "text": "And he said unto me: 'This place is the prison of the angels, and here they will be imprisoned for ever.'"
         }
-      ]
+      ],
+      "shortSection": "犯罪星辰的牢獄"
     },
     {
       "id": "22",
@@ -975,7 +997,8 @@
           "number": "14",
           "text": "Then I blessed the Lord of glory and said: 'Blessed be my Lord, the Lord of righteousness, who ruleth for ever.' Greek (v. 8): Then I asked regarding all the hollow places: 'Why is one separated from the other?' Greek (v. 9): Then he answered me saying: \"These three have been made that the spirits of the dead might be separated. And this division has been made for the spirits of the righteous, in which there is a bright spring of water. Greek (v. 10): And this has been made for sinners when they die and are buried in the earth and judgement has not been executed upon them in their lifetime. Greek (v. 11): Here their spirits shall be set apart in this great pain, till the great day of judgement, scourgings, and torments of the accursed for ever, so that (there may be) retribution for their spirits. There he shall bind them for ever. Greek (v. 12): And this division has been made for the spirits of those who make their suit, who make disclosures concerning their destruction, when they were slain in the days of the sinners. Greek (v. 13): And this has been made for the spirits of men who shall not be righteous but sinners, who are godless, and of the lawless they shall be companions: but their spirits shall not be punished in the day of judgement nor shall they be raised from thence.' Greek (v. 14): Then I blessed the Lord of Glory and said: 'Blessed art Thou, Lord of righteousness, who rulest over the world.'"
         }
-      ]
+      ],
+      "shortSection": "死者靈魂的居所"
     },
     {
       "id": "23",
@@ -998,7 +1021,8 @@
           "number": "4",
           "text": "Then Raguel, one of the holy angels who was with me, answered me and said unto me: 'This course of fire which thou hast seen is the fire in the west which persecutes all the luminaries of heaven.'"
         }
-      ]
+      ],
+      "shortSection": "西方奔流之火"
     },
     {
       "id": "24",
@@ -1029,7 +1053,8 @@
           "number": "6",
           "text": "Then answered Michael, one of the holy and honoured angels who was with me, and was their leader."
         }
-      ]
+      ],
+      "shortSection": "七山與芳香之樹"
     },
     {
       "id": "25",
@@ -1064,7 +1089,8 @@
           "number": "7",
           "text": "Then blessed I the God of Glory, the Eternal King, who hath prepared such things for the righteous, and hath created them and promised to give to them."
         }
-      ]
+      ],
+      "shortSection": "生命樹賜給義人"
     },
     {
       "id": "26",
@@ -1095,7 +1121,8 @@
           "number": "6",
           "text": "And I marvelled at the rocks, and I marvelled at the ravine, yea, I marvelled very much."
         }
-      ]
+      ],
+      "shortSection": "聖山與深谷"
     },
     {
       "id": "27",
@@ -1122,7 +1149,8 @@
           "number": "5",
           "text": "Then I blessed the Lord of Glory and set forth His glory and lauded Him gloriously."
         }
-      ]
+      ],
+      "shortSection": "受咒詛之谷"
     },
     {
       "id": "28",
@@ -1141,7 +1169,8 @@
           "number": "3",
           "text": "Rushing like a copious watercourse [which flowed] towards the north-west it caused clouds and dew to ascend on every side."
         }
-      ]
+      ],
+      "shortSection": "東方曠野與水流"
     },
     {
       "id": "29",
@@ -1156,7 +1185,8 @@
           "number": "2",
           "text": "And there I saw aromatic trees exhaling the fragrance of frankincense and myrrh, and the trees also were similar to the almond tree."
         }
-      ]
+      ],
+      "shortSection": "乳香與沒藥之樹"
     },
     {
       "id": "30",
@@ -1179,7 +1209,8 @@
           "number": "4",
           "text": "And beyond these I proceeded to the east."
         }
-      ]
+      ],
+      "shortSection": "水谷與肉桂"
     },
     {
       "id": "31",
@@ -1198,7 +1229,8 @@
           "number": "3",
           "text": "And when one burnt it, it smelt sweeter than any fragrant odour."
         }
-      ]
+      ],
+      "shortSection": "流香的樹林"
     },
     {
       "id": "32",
@@ -1229,7 +1261,8 @@
           "number": "6",
           "text": "Then Raphael the holy angel, who was with me, answered me and said: 'This is the tree of wisdom, of which thy father old (in years) and thy aged mother, who were before thee, have eaten, and they learnt wisdom and their eyes were opened, and they knew that they were naked and they were driven out of the garden.'"
         }
-      ]
+      ],
+      "shortSection": "樂園與智慧樹"
     },
     {
       "id": "33",
@@ -1252,7 +1285,8 @@
           "number": "4",
           "text": "He showed all things to me and wrote them down for me: also their names he wrote for me, and their laws and their companies."
         }
-      ]
+      ],
+      "shortSection": "地極與星辰之門"
     },
     {
       "id": "34",
@@ -1271,7 +1305,8 @@
           "number": "3",
           "text": "And out of one portal they blow for good: but when they blow through the other two portals, it is with violence and affliction on the earth, and they blow with violence."
         }
-      ]
+      ],
+      "shortSection": "北方風門"
     },
     {
       "id": "35",
@@ -1282,7 +1317,8 @@
           "number": "paragraph",
           "text": "And from thence I went towards the west to the ends of the earth, and saw there three portals of the heaven open such as I had seen in the east, the same number of portals, and the same number of outlets."
         }
-      ]
+      ],
+      "shortSection": "西方天門"
     },
     {
       "id": "36",
@@ -1305,7 +1341,8 @@
           "number": "4",
           "text": "And as often as I saw I blessed always the Lord of Glory, and I continued to bless the Lord of Glory who has wrought great and glorious wonders, to show the greatness of His work to the angels and to spirits and to men, that they might praise His work and all His creation: that they might see the work of His might and praise the great work of His hands and bless Him for ever."
         }
-      ]
+      ],
+      "shortSection": "南方與東方天門"
     },
     {
       "id": "37",
@@ -1332,7 +1369,8 @@
           "number": "5",
           "text": "Now three Parables were imparted to me, and I lifted up my voice and recounted them to those that dwell on the earth."
         }
-      ]
+      ],
+      "shortSection": "三個比喻的開端"
     },
     {
       "id": "38",
@@ -1363,7 +1401,8 @@
           "number": "6",
           "text": "And thenceforward none shall seek for themselves mercy from the Lord of SpiritsFor their life is at an end."
         }
-      ]
+      ],
+      "shortSection": "義人顯現與罪人受審"
     },
     {
       "id": "39",
@@ -1434,7 +1473,8 @@
           "number": "14",
           "text": "And my face was changed; for I could no longer behold."
         }
-      ]
+      ],
+      "shortSection": "聖者與義人的居所"
     },
     {
       "id": "40",
@@ -1481,7 +1521,8 @@
           "number": "10",
           "text": "And these are the four angels of the Lord of Spirits and the four voices I heard in those days."
         }
-      ]
+      ],
+      "shortSection": "寶座前的四位天使"
     },
     {
       "id": "41",
@@ -1524,7 +1565,8 @@
           "number": "9",
           "text": "For no angel hinders and no power is able to hinder; for He appoints a judge for them all and He judges them all before Him."
         }
-      ]
+      ],
+      "shortSection": "天上奧祕與日月秩序"
     },
     {
       "id": "42",
@@ -1543,7 +1585,8 @@
           "number": "3",
           "text": "And unrighteousness went forth from her chambers:Whom she sought not she found,And dwelt with them, As rain in a desertAnd dew on a thirsty land."
         }
-      ]
+      ],
+      "shortSection": "智慧無處安居"
     },
     {
       "id": "43",
@@ -1566,7 +1609,8 @@
           "number": "4",
           "text": "And he said to me: 'The Lord of Spirits hath showed thee their parabolic meaning (lit. 'their parable'): these are the names of the holy who dwell on the earth and believe in the name of the Lord of Spirits for ever and ever.'"
         }
-      ]
+      ],
+      "shortSection": "星辰與聖者之名"
     },
     {
       "id": "44",
@@ -1577,7 +1621,8 @@
           "number": "paragraph",
           "text": "Also another phenomenon I saw in regard to the lightnings: how some of the stars arise and become lightnings and cannot part with their new form."
         }
-      ]
+      ],
+      "shortSection": "星辰化為閃電"
     },
     {
       "id": "45",
@@ -1608,7 +1653,8 @@
           "number": "6",
           "text": "For I have provided and satisfied with peace My righteous onesAnd have caused them to dwell before Me: But for the sinners there is judgement impending with Me,So that I shall destroy them from the face of the earth."
         }
-      ]
+      ],
+      "shortSection": "蒙揀選者與天地更新"
     },
     {
       "id": "46",
@@ -1647,7 +1693,8 @@
           "number": "8",
           "text": "And they persecute the houses of His congregations,And the faithful who hang upon the name of the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "亙古者與人子"
     },
     {
       "id": "47",
@@ -1670,7 +1717,8 @@
           "number": "4",
           "text": "And the hearts of the holy were filled with joy;Because the number of the righteous had been offered,And the prayer of the righteous had been heard,And the blood of the righteous been required before the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "義人的禱告蒙垂聽"
     },
     {
       "id": "48",
@@ -1717,7 +1765,8 @@
           "number": "10",
           "text": "And on the day of their affliction there shall be rest on the earth,And before them they shall fall and not rise again:And there shall be no one to take them with his hands and raise them:For they have denied the Lord of Spirits and His Anointed.The name of the Lord of Spirits be blessed."
         }
-      ]
+      ],
+      "shortSection": "公義之泉與人子蒙選"
     },
     {
       "id": "49",
@@ -1740,7 +1789,8 @@
           "number": "4",
           "text": "And he shall judge the secret things,And none shall be able to utter a lying word before him;For he is the Elect One before the Lord of Spirits according to His good pleasure."
         }
-      ]
+      ],
+      "shortSection": "蒙揀選者的智慧"
     },
     {
       "id": "50",
@@ -1767,7 +1817,8 @@
           "number": "5",
           "text": "And from henceforth I will have no mercy on them, saith the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "悔改與憐憫的限期"
     },
     {
       "id": "51",
@@ -1806,7 +1857,8 @@
           "number": "5d",
           "text": "And the elect shall walk thereon."
         }
-      ]
+      ],
+      "shortSection": "死者復起與義人得選"
     },
     {
       "id": "52",
@@ -1849,7 +1901,8 @@
           "number": "9",
           "text": "And all these things shall be [denied and] destroyed from the surface of the earth,When the Elect One shall appear before the face of the Lord of Spirits.'"
         }
-      ]
+      ],
+      "shortSection": "金屬山嶺消融"
     },
     {
       "id": "53",
@@ -1884,7 +1937,8 @@
           "number": "7",
           "text": "And these mountains shall not stand as the earth before his righteousness,But the hills shall be as a fountain of water,And the righteous shall have rest from the oppression of sinners.'"
         }
-      ]
+      ],
+      "shortSection": "刑具與權勢者受審"
     },
     {
       "id": "54",
@@ -1931,7 +1985,8 @@
           "number": "10",
           "text": "And when they have recognized their unrighteousness which they have wrought on the earth, then by these shall they perish."
         }
-      ]
+      ],
+      "shortSection": "火谷鎖鏈與洪水"
     },
     {
       "id": "55",
@@ -1954,7 +2009,8 @@
           "number": "4",
           "text": "Ye mighty kings who dwell on the earth, ye shall have to behold Mine Elect One, how he sits on the throne of glory and judges Azazel, and all his associates, and all his hosts in the name of the Lord of Spirits.'"
         }
-      ]
+      ],
+      "shortSection": "洪水後的誓約"
     },
     {
       "id": "56",
@@ -1993,7 +2049,8 @@
           "number": "8",
           "text": "In those days Sheol shall open its jaws,And they shall be swallowed up therein And their destruction shall be at an end;Sheol shall devour the sinners in the presence of the elect.'"
         }
-      ]
+      ],
+      "shortSection": "列國交戰與毀滅"
     },
     {
       "id": "57",
@@ -2012,7 +2069,8 @@
           "number": "3",
           "text": "And they shall all fall down and worship the Lord of Spirits. And this is the end of the second Parable."
         }
-      ]
+      ],
+      "shortSection": "眾人歸來敬拜"
     },
     {
       "id": "58",
@@ -2043,7 +2101,8 @@
           "number": "6",
           "text": "And there shall be a light that never endeth,And to a limit (lit. ' number ') of days they shall not come,For the darkness shall first have been destroyed,[And the light established before the Lord of Spirits]And the light of uprightness established for ever before the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "義人永享光明"
     },
     {
       "id": "59",
@@ -2062,7 +2121,8 @@
           "number": "3",
           "text": "And after that all the secrets of the lights and lightnings were shown to me, and they lighten for blessing and for satisfying.]"
         }
-      ]
+      ],
+      "shortSection": "雷電的奧祕"
     },
     {
       "id": "60",
@@ -2173,7 +2233,8 @@
           "number": "24",
           "text": "And the angel of peace who was with me said to me: ' These two monsters, prepared conformably to the greatness of God, shall feed . . ."
         }
-      ]
+      ],
+      "shortSection": "兩大巨獸與自然奧祕"
     },
     {
       "id": "61",
@@ -2232,7 +2293,8 @@
           "number": "13",
           "text": "For great is the mercy of the Lord of Spirits, and He is long-suffering,And all His works and all that He has created He has revealed to the righteous and electIn the name of the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "天使丈量與眾聖頌讚"
     },
     {
       "id": "62",
@@ -2303,7 +2365,8 @@
           "number": "16",
           "text": "And these shall be the garments of life from the Lord of Spirits: And your garments shall not grow old,Nor your glory pass away before the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "君王在人子前受審"
     },
     {
       "id": "63",
@@ -2358,7 +2421,8 @@
           "number": "12",
           "text": "Thus spake the Lord of Spirits: ' This is the ordinance and judgement with respect to the mighty and the kings and the exalted and those who possess the earth before the Lord of Spirits.'"
         }
-      ]
+      ],
+      "shortSection": "掌權者悔恨太遲"
     },
     {
       "id": "64",
@@ -2373,7 +2437,8 @@
           "number": "2",
           "text": "I heard the voice of the angel saying: ' These are the angels who descended to the earth, and revealed what was hidden to the children of men and seduced the children of men into committing sin.'"
         }
-      ]
+      ],
+      "shortSection": "洩露奧祕的天使"
     },
     {
       "id": "65",
@@ -2428,7 +2493,8 @@
           "number": "12",
           "text": "And He has destined thy name to be among the holy,And will preserve thee amongst those who dwell on the earth,And has destined thy righteous seed both for kingship and for great honours,And from thy seed shall proceed a fountain of the righteous and holy without number for ever."
         }
-      ]
+      ],
+      "shortSection": "挪亞詢問將臨毀滅"
     },
     {
       "id": "66",
@@ -2447,7 +2513,8 @@
           "number": "3",
           "text": "And I went away from the presence of Enoch."
         }
-      ]
+      ],
+      "shortSection": "天使暫緩洪水"
     },
     {
       "id": "67",
@@ -2506,7 +2573,8 @@
           "number": "13",
           "text": "Because these waters of judgement minister to the healing of the body of the kings and the lust of their body; therefore they will not see and will not believe that those waters will change and become a fire which burns for ever."
         }
-      ]
+      ],
+      "shortSection": "挪亞蒙保守與火谷刑罰"
     },
     {
       "id": "68",
@@ -2533,7 +2601,8 @@
           "number": "5",
           "text": "Therefore all that is hidden shall come upon them for ever and ever; for neither angel nor man shall have his portion (in it), but alone they have received their judgement for ever and ever."
         }
-      ]
+      ],
+      "shortSection": "天使談論永恆審判"
     },
     {
       "id": "69",
@@ -2656,7 +2725,8 @@
           "number": "29",
           "text": "And from henceforth there shall be nothing corruptible;For that Son of Man has appeared,And has seated himself on the throne of his glory,And all evil shall pass away before his face,And the word of that Son of Man shall go forth And be strong before the Lord of Spirits."
         }
-      ]
+      ],
+      "shortSection": "墮落天使與大誓言"
     },
     {
       "id": "70",
@@ -2679,7 +2749,8 @@
           "number": "4",
           "text": "And there I saw the first fathers and the righteous who from the beginning dwell in that place."
         }
-      ]
+      ],
+      "shortSection": "以諾被提升"
     },
     {
       "id": "71",
@@ -2754,7 +2825,8 @@
           "number": "17",
           "text": "And so there shall be length of days with that Son of Man,And the righteous shall have peace and an upright wayIn the name of the Lord of Spirits for ever and ever.'"
         }
-      ]
+      ],
+      "shortSection": "以諾升天見榮耀"
     },
     {
       "id": "72",
@@ -2909,7 +2981,8 @@
           "number": "37",
           "text": "As he rises, so he sets and decreases not, and rests not, but runs day and night, and his light is sevenfold brighter than that of the moon; but as regards size they are both equal."
         }
-      ]
+      ],
+      "shortSection": "太陽運行的規律"
     },
     {
       "id": "73",
@@ -2948,7 +3021,8 @@
           "number": "8",
           "text": "And she rises on that day with exactly a seventh part, and comes forth and recedes from the rising of the sun, and in her remaining days she becomes bright in the (remaining) thirteen parts."
         }
-      ]
+      ],
+      "shortSection": "月亮的光與軌道"
     },
     {
       "id": "74",
@@ -3023,7 +3097,8 @@
           "number": "17",
           "text": "And the year is accurately completed in conformity with their world-stations and the stations of the sun, which rise from the portals through which it (the sun) rises and sets 30 days."
         }
-      ]
+      ],
+      "shortSection": "日月曆法的計算"
     },
     {
       "id": "75",
@@ -3066,7 +3141,8 @@
           "number": "9",
           "text": "And one is larger than all the rest, and it is that that makes its course through the entire world."
         }
-      ]
+      ],
+      "shortSection": "附加日與星辰首領"
     },
     {
       "id": "76",
@@ -3129,7 +3205,8 @@
           "number": "14",
           "text": "And the twelve portals of the four quarters of the heaven are therewith completed, and all their laws and all their plagues and all their benefactions have I shown to thee, my son Methuselah."
         }
-      ]
+      ],
+      "shortSection": "十二風門"
     },
     {
       "id": "77",
@@ -3168,7 +3245,8 @@
           "number": "8",
           "text": "Seven great islands I saw in the sea and in the mainland: two in the mainland and five in the Great Sea."
         }
-      ]
+      ],
+      "shortSection": "四方山河與海島"
     },
     {
       "id": "78",
@@ -3243,7 +3321,8 @@
           "number": "17",
           "text": "At night she appears like a man for twenty days each time, and by day she appears like the heaven, and there is nothing else in her save her light."
         }
-      ]
+      ],
+      "shortSection": "日月名稱與月相"
     },
     {
       "id": "79",
@@ -3274,7 +3353,8 @@
           "number": "6",
           "text": "Such is the picture and sketch of every luminary which Uriel the archangel, who is their leader, showed unto me."
         }
-      ]
+      ],
+      "shortSection": "月亮週期的差異"
     },
     {
       "id": "80",
@@ -3313,7 +3393,8 @@
           "number": "8",
           "text": "And evil shall be multiplied upon them,And punishment shall come upon them So as to destroy all.'"
         }
-      ]
+      ],
+      "shortSection": "罪人時代天象失序"
     },
     {
       "id": "81",
@@ -3360,7 +3441,8 @@
           "number": "10",
           "text": "And in those days they ceased to speak to me, and I came to my people, blessing the Lord of the world."
         }
-      ]
+      ],
+      "shortSection": "天上書版與返家"
     },
     {
       "id": "82",
@@ -3447,7 +3529,8 @@
           "number": "20",
           "text": "These are the names, and the orders, and the leaders of those heads of thousands: Gida'ljal, Ke'el, and He'el, and the name of the head of a thousand which is added to them, Asfa'el: and the days of his dominion are at an end."
         }
-      ]
+      ],
+      "shortSection": "傳授曆法與四季"
     },
     {
       "id": "83",
@@ -3498,7 +3581,8 @@
           "number": "11",
           "text": "And when I had gone forth below and seen the heaven, and the sun rising in the east, and the moon setting in the west, and a few stars, and the whole earth, and everything as He had known it in the beginning, then I blessed the Lord of judgement and extolled Him because He had made the sun to go forth from the windows of the east, and he ascended and rose on the face of the heaven, and set out and kept traversing the path shown unto him."
         }
-      ]
+      ],
+      "shortSection": "天地崩塌之夢"
     },
     {
       "id": "84",
@@ -3529,7 +3613,8 @@
           "number": "6",
           "text": "And now, my Lord, destroy from the earth the flesh which has aroused Thy wrath,But the flesh of righteousness and uprightness establish as a plant of the eternal seed,And hide not Thy face from the prayer of Thy servant, O Lord.'"
         }
-      ]
+      ],
+      "shortSection": "求主保全後裔"
     },
     {
       "id": "85",
@@ -3576,7 +3661,8 @@
           "number": "10",
           "text": "And they began to beget many white bulls, which resembled them, one following the other, (even) many."
         }
-      ]
+      ],
+      "shortSection": "牛群象徵人類起源"
     },
     {
       "id": "86",
@@ -3607,7 +3693,8 @@
           "number": "6",
           "text": "And they began, moreover, to devour those oxen; and behold all the children of the earth began to tremble and quake before them and to flee from them."
         }
-      ]
+      ],
+      "shortSection": "墜星與巨獸誕生"
     },
     {
       "id": "87",
@@ -3630,7 +3717,8 @@
           "number": "4",
           "text": "And one said unto me: ' Remain here till thou seest everything that befalls those elephants, camels, and asses, and the stars and the oxen, and all of them.'"
         }
-      ]
+      ],
+      "shortSection": "天使帶以諾登高"
     },
     {
       "id": "88",
@@ -3649,7 +3737,8 @@
           "number": "3",
           "text": "And as I was beholding in the vision, lo, one of those four who had come forth stoned (them) from heaven, and gathered and took all the great stars whose privy members were like those of horses, and bound them all hand and foot, and cast them in an abyss of the earth."
         }
-      ]
+      ],
+      "shortSection": "墜星被囚與巨獸相殺"
     },
     {
       "id": "89",
@@ -3968,7 +4057,8 @@
           "number": "77",
           "text": "And he took the actual book and laid it down beside Him and departed."
         }
-      ]
+      ],
+      "shortSection": "洪水至羊群流散"
     },
     {
       "id": "90",
@@ -4143,7 +4233,8 @@
           "number": "42",
           "text": "On that night I remembered the first dream, and because of it I wept and was troubled-because I had seen that vision."
         }
-      ]
+      ],
+      "shortSection": "羊群得救與新殿"
     },
     {
       "id": "91",
@@ -4170,7 +4261,8 @@
           "number": "5",
           "text": "And sin shall perish in darkness for ever,And shall no more be seen from that day for evermore."
         }
-      ]
+      ],
+      "shortSection": "勉勵義人持守盼望"
     },
     {
       "id": "92",
@@ -4229,7 +4321,8 @@
           "number": "19",
           "text": "And now, hearken unto me, my sons,And walk in the paths of righteousness,And walk not in the paths of violence;For all who walk in the paths of unrighteousness shall perish for ever.'"
         }
-      ]
+      ],
+      "shortSection": "以諾訓勉眾子"
     },
     {
       "id": "93",
@@ -4292,7 +4385,8 @@
           "number": "14",
           "text": "Or is there any one who could discern the length of the heaven and how great is its height, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest ?]"
         }
-      ]
+      ],
+      "shortSection": "前七個時期的異象"
     },
     {
       "id": "94",
@@ -4335,7 +4429,8 @@
           "number": "17",
           "text": "And after that there will be many weeks without number for ever,And all shall be in goodness and righteousness,And sin shall no more be mentioned for ever."
         }
-      ]
+      ],
+      "shortSection": "末後時期與新天"
     },
     {
       "id": "95",
@@ -4386,7 +4481,8 @@
           "number": "11",
           "text": "And your righteous ones in those days shall beA reproach to the sinners and the godless."
         }
-      ]
+      ],
+      "shortSection": "選擇公義遠離財富之罪"
     },
     {
       "id": "96",
@@ -4421,7 +4517,8 @@
           "number": "7",
           "text": "Woe to you, sinners, for ye persecute the righteous;For ye shall be delivered up and persecuted because of injustice,And heavy shall its yoke be upon you."
         }
-      ]
+      ],
+      "shortSection": "控訴暴行與不義"
     },
     {
       "id": "97",
@@ -4460,7 +4557,8 @@
           "number": "8",
           "text": "Woe to you, ye mighty,Who with might oppress the righteous;For the day of your destruction is coming. In those days many and good days shall come to the righteous-in the day of your judgement."
         }
-      ]
+      ],
+      "shortSection": "受苦義人得安慰"
     },
     {
       "id": "98",
@@ -4515,7 +4613,8 @@
           "number": "10",
           "text": "Yea and like water your lies shall flow away;For your riches shall not abideBut speedily ascend from you; For ye have acquired it all in unrighteousness,And ye shall be given over to a great curse."
         }
-      ]
+      ],
+      "shortSection": "不義財富必受審"
     },
     {
       "id": "99",
@@ -4586,7 +4685,8 @@
           "number": "16",
           "text": "Therefore they shall have no peace but die a sudden death."
         }
-      ]
+      ],
+      "shortSection": "罪由人造與天上記錄"
     },
     {
       "id": "100",
@@ -4657,7 +4757,8 @@
           "number": "16",
           "text": "For He shall cast down your glory,And bring affliction on your hearts,And shall arouse His fierce indignationAnd destroy you all with the sword;And all the holy and righteous shall remember your sins."
         }
-      ]
+      ],
+      "shortSection": "虛謊偶像與欺壓之罪"
     },
     {
       "id": "101",
@@ -4716,7 +4817,8 @@
           "number": "13",
           "text": "When the hoar-frost and snow with their chilliness, and all the snow-storms with all their plagues fall upon you, in those days ye shall not be able to stand before them."
         }
-      ]
+      ],
+      "shortSection": "流血之日與義人蒙護"
     },
     {
       "id": "102",
@@ -4759,7 +4861,8 @@
           "number": "9",
           "text": "Do not the sailors of the ships fear the sea ? Yet sinners fear not the Most High."
         }
-      ]
+      ],
+      "shortSection": "從風雨海浪學敬畏"
     },
     {
       "id": "103",
@@ -4810,7 +4913,8 @@
           "number": "11",
           "text": "\"Nevertheless they perished and became as though they had not been, and their spirits descended into Sheol in tribulation.\""
         }
-      ]
+      ],
+      "shortSection": "安慰死去的義人"
     },
     {
       "id": "104",
@@ -4877,7 +4981,8 @@
           "number": "15",
           "text": "And they helped those who robbed us and devoured us and those who made us few; and they concealed their oppression, and they did not remove from us the yoke of those that devoured us and dispersed us and murdered us, and they concealed their murder, and remembered not that they had lifted up their hands against us."
         }
-      ]
+      ],
+      "shortSection": "義人死後的賞賜"
     },
     {
       "id": "105",
@@ -4936,7 +5041,8 @@
           "number": "13",
           "text": "And to them shall the books be given, and they shall believe in them and rejoice over them, and then shall all the righteous who have learnt therefrom all the paths of uprightness be recompensed.'"
         }
-      ]
+      ],
+      "shortSection": "義人如星發光"
     },
     {
       "id": "106",
@@ -4951,7 +5057,8 @@
           "number": "2",
           "text": "For I and My son will be united with them for ever in the paths of uprightness in their lives; and ye shall have peace: rejoice, ye children of uprightness. Amen."
         }
-      ]
+      ],
+      "shortSection": "智慧見證與平安"
     },
     {
       "id": "107",
@@ -5034,7 +5141,8 @@
           "number": "19",
           "text": "And after that there shall be still more unrighteousness than that which was first consummated on the earth; for I know the mysteries of the holy ones; for He, the Lord, has showed me and informed me, and I have read (them) in the heavenly tablets."
         }
-      ]
+      ],
+      "shortSection": "挪亞出生的奇異徵兆"
     },
     {
       "id": "108",
@@ -5053,7 +5161,8 @@
           "number": "3",
           "text": "And when Methuselah had heard the words of his father Enoch-for he had shown to him everything in secret-he returned and showed (them) to him and called the name of that son Noah; for he will comfort the earth after all the destruction."
         }
-      ]
+      ],
+      "shortSection": "以諾解釋挪亞身世"
     },
     {
       "id": "109",
@@ -5120,7 +5229,8 @@
           "number": "15",
           "text": "And the sinners shall cry aloud and see them resplendent, and they indeed will go where days and seasons are prescribed for them.'"
         }
-      ]
+      ],
+      "shortSection": "義人得光與罪人受罰"
     }
   ]
 }

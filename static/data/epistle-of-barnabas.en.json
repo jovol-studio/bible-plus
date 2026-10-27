@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "8f0743c5ce6d0b51c1c50d85ac4aa603d5adffd3a918eae4bf23b27878acda51",
-    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -48,7 +49,8 @@
           "text": "For the Lord made known to us by His prophets things past and present, giving us likewise the firstfruits of the taste of things future. And seeing each of these things severally coming to pass, according as He spake, we ought to offer a richer and higher offering to the fear of Him. But I, not as though I were a teacher, but as one of yourselves, will show forth a few things, whereby ye shall be gladdened in the present circumstances."
         }
       ],
-      "sourceReference": "Barn. 1"
+      "sourceReference": "Barn. 1",
+      "shortSection": "問安與勸勉"
     },
     {
       "id": "2",
@@ -96,7 +98,8 @@
           "text": "Thus then speaketh He to us; The sacrifice unto God is a broken heart, the smell of a sweet savor unto the Lord is a heart that glorifies its Maker. We ought therefore, brethren, to learn accurately concerning our salvation, lest the Evil One having effected an entrance of error in us should fling us away from our life."
         }
       ],
-      "sourceReference": "Barn. 2"
+      "sourceReference": "Barn. 2",
+      "shortSection": "真正的獻祭"
     },
     {
       "id": "3",
@@ -128,7 +131,8 @@
           "text": "To this end therefore, my brethren, He that is long-suffering, foreseeing that the people whom He had prepared in His well-beloved would believe in simplicity, manifested to us beforehand concerning all things, that we might not as novices shipwreck ourselves upon their law."
         }
       ],
-      "sourceReference": "Barn. 3"
+      "sourceReference": "Barn. 3",
+      "shortSection": "真正的禁食"
     },
     {
       "id": "4",
@@ -192,7 +196,8 @@
           "text": "Moreover understand this also, my brothers. When ye see that after so many signs and wonders wrought in Israel, even then they were abandoned, let us give heed, lest haply we be found, as the scripture saith, many are called but few are chosen."
         }
       ],
-      "sourceReference": "Barn. 4"
+      "sourceReference": "Barn. 4",
+      "shortSection": "警醒防備罪惡"
     },
     {
       "id": "5",
@@ -256,7 +261,8 @@
           "text": "And again He saith; Behold I have given My back to stripes, and My cheeks to smitings, and My face did I set as a hard rock."
         }
       ],
-      "sourceReference": "Barn. 5"
+      "sourceReference": "Barn. 5",
+      "shortSection": "基督受苦"
     },
     {
       "id": "6",
@@ -340,7 +346,8 @@
           "text": "If then this cometh not to pass now, assuredly He spake to us for the hereafter, when we ourselves shall be made perfect so that we may become heirs of the covenant of the Lord."
         }
       ],
-      "sourceReference": "Barn. 6"
+      "sourceReference": "Barn. 6",
+      "shortSection": "新造與應許之地"
     },
     {
       "id": "7",
@@ -392,7 +399,8 @@
           "text": "But what meaneth it, that they place the wool in the midst of the thorns? It is a type of Jesus set forth for the Church, since whosoever should desire to take away the scarlet wool it behoved him to suffer many things owing to the terrible nature of the thorn, and through affliction to win the mastery over it. Thus, He saith, they that desire to see Me, and to attain unto My kingdom, must lay hold on Me through tribulation and affliction."
         }
       ],
-      "sourceReference": "Barn. 7"
+      "sourceReference": "Barn. 7",
+      "shortSection": "山羊與受難預表"
     },
     {
       "id": "8",
@@ -428,7 +436,8 @@
           "text": "Now to us indeed it is manifest that these things so befell for this reason, but to them they were dark, because they heard not the voice of the Lord."
         }
       ],
-      "sourceReference": "Barn. 8"
+      "sourceReference": "Barn. 8",
+      "shortSection": "紅母牛的預表"
     },
     {
       "id": "9",
@@ -468,7 +477,8 @@
           "text": "He who placed within us the innate gift of His covenant knoweth; no man hath ever learnt from me a more genuine word; but I know that ye are worthy."
         }
       ],
-      "sourceReference": "Barn. 9"
+      "sourceReference": "Barn. 9",
+      "shortSection": "心靈的割禮"
     },
     {
       "id": "10",
@@ -524,7 +534,8 @@
           "text": "But whence should they perceive or understand these things? Howbeit we having justly perceived the commandments tell them as the Lord willed. To this end He circumcised our ears and hearts, that we might understand these things."
         }
       ],
-      "sourceReference": "Barn. 10"
+      "sourceReference": "Barn. 10",
+      "shortSection": "飲食律法的寓意"
     },
     {
       "id": "11",
@@ -576,7 +587,8 @@
           "text": "This He saith, because we go down into the water laden with sins and filth, and rise up from it bearing fruit in the heart, resting our fear and hope on Jesus in the spirit. And whosoever shall eat of these shall live forever; He meaneth this; whosoever, saith He, shall hear these things spoken and shall believe, shall live forever."
         }
       ],
-      "sourceReference": "Barn. 11"
+      "sourceReference": "Barn. 11",
+      "shortSection": "洗禮與十字架"
     },
     {
       "id": "12",
@@ -628,7 +640,8 @@
           "text": "And again thus sayith Isaiah; The Lord said unto my Christ the Lord, of whose right hand I laid hold, that the nations should give ear before Him, and I will break down the strength of kings. See how David calleth Him Lord, and calleth Him not Son."
         }
       ],
-      "sourceReference": "Barn. 12"
+      "sourceReference": "Barn. 12",
+      "shortSection": "十字架的預表"
     },
     {
       "id": "13",
@@ -664,7 +677,8 @@
           "text": "If then besides this He also recorded it through Abraham, we attain the completion of our knowledge. What then saith he to Abraham when he alone believed, and was ascribed for righteousness? Behold I have made thee, Abraham, a father of nations that believe in God in uncircumcision."
         }
       ],
-      "sourceReference": "Barn. 13"
+      "sourceReference": "Barn. 13",
+      "shortSection": "承受應許的人"
     },
     {
       "id": "14",
@@ -708,7 +722,8 @@
           "text": "Again the prophet saith; The Spirit of the Lord is upon Me, wherefore He anointed Me to preach good tidings to the humble; He hath sent Me to heal them that are broken-hearted, to preach release to the captives and recovery of sight to the blind, to proclaim the acceptable year of the Lord and the day of recompense, to comfort all that mourn."
         }
       ],
-      "sourceReference": "Barn. 14"
+      "sourceReference": "Barn. 14",
+      "shortSection": "立約與更新"
     },
     {
       "id": "15",
@@ -752,7 +767,8 @@
           "text": "Wherefore also we keep the eighth day for rejoicing, in the which also Jesus rose from the dead, and having been manifested ascended into the heavens."
         }
       ],
-      "sourceReference": "Barn. 15"
+      "sourceReference": "Barn. 15",
+      "shortSection": "安息日的寓意"
     },
     {
       "id": "16",
@@ -800,7 +816,8 @@
           "text": "For he that desireth to be saved looketh not to the man, but to Him that dwelleth and speaketh in him, being amazed at this that he has never at any time heard these words from the mouth of the speaker, nor himself ever desired to hear them. This is the spiritual temple built up to the Lord."
         }
       ],
-      "sourceReference": "Barn. 16"
+      "sourceReference": "Barn. 16",
+      "shortSection": "聖殿的寓意"
     },
     {
       "id": "17",
@@ -816,7 +833,8 @@
           "text": "For if I should write to you concerning things immediate or future, ye would not understand them, because they are put in parables. So much then for this."
         }
       ],
-      "sourceReference": "Barn. 17"
+      "sourceReference": "Barn. 17",
+      "shortSection": "教導的總結"
     },
     {
       "id": "18",
@@ -832,7 +850,8 @@
           "text": "And the one is the Lord from all eternity and unto all eternity, whereas the other is Lord of the season of iniquity that now is."
         }
       ],
-      "sourceReference": "Barn. 18"
+      "sourceReference": "Barn. 18",
+      "shortSection": "光明與黑暗兩路"
     },
     {
       "id": "19",
@@ -888,7 +907,8 @@
           "text": "Thou shalt not make a schism, but thou shalt pacify them that contend by bringing them together. Thou shalt confess thy sins. Thou shalt not betake thyself to prayer with an evil conscience. This is the way of light."
         }
       ],
-      "sourceReference": "Barn. 19"
+      "sourceReference": "Barn. 19",
+      "shortSection": "光明之路"
     },
     {
       "id": "20",
@@ -904,7 +924,8 @@
           "text": "persecutors of good men, hating the truth, loving lies, not perceiving the reward of righteousness, not cleaving to the good nor to the righteous judgment, paying no heed to the widow and the orphan, wakeful not for the fear of God but for that which is evil; men from whom gentleness and forbearance stand aloof and far off; loving vain things, pursuing a recompense, not pitying the poor man, not toiling for him that is oppressed with toil, ready to slander, not recognizing Him that made them murderers of children, corrupters of the creatures of God, turning away from him that is in want, oppressing him that is afflicted, advocates of the wealthy, unjust judges of the poor, sinful in all things."
         }
       ],
-      "sourceReference": "Barn. 20"
+      "sourceReference": "Barn. 20",
+      "shortSection": "黑暗之路"
     },
     {
       "id": "21",
@@ -948,7 +969,8 @@
           "text": "For this reason I was the more eager to write to you so far as I was able, that I might give you joy. Fare ye well, children of love and peace. The Lord of glory and of every grace be with your spirit."
         }
       ],
-      "sourceReference": "Barn. 21"
+      "sourceReference": "Barn. 21",
+      "shortSection": "末了勸勉"
     }
   ]
 }

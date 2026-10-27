@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "e240342b1b529c7fda2087b15585035952b79598a37d1fb017a1069aec851916",
-    "editionNote": "全書正文 182 章，保留原節號；不含現代網站摘要、出版序言及索引。這是近代宗教著作，不是古代彼得福音。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "全書正文 182 章，保留原節號；不含現代網站摘要、出版序言及索引。這是近代宗教著作，不是古代彼得福音。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -68,7 +69,8 @@
           "number": "12",
           "text": "And Joseph was an upright man; and a devoted Essenes."
         }
-      ]
+      ],
+      "shortSection": "馬利亞的童年"
     },
     {
       "id": "2",
@@ -180,7 +182,8 @@
           "number": "26",
           "text": "Behold, for soon the Day Star from on high will visit us, to light the way for those who sit within the darkness of the shadowland, and guide our feet unto the ways of peace."
         }
-      ]
+      ],
+      "shortSection": "約翰出生"
     },
     {
       "id": "3",
@@ -264,7 +267,8 @@
           "number": "19",
           "text": "According to the custom of the Jews, the child was circumcised; and when they asked, What will you call the child? the mother said, His name is Jesus, as the man of God declared."
         }
-      ]
+      ],
+      "shortSection": "耶穌降生"
     },
     {
       "id": "4",
@@ -328,7 +332,8 @@
           "number": "14",
           "text": "And Mary took the infant Jesus and returned to Bethlehem."
         }
-      ]
+      ],
+      "shortSection": "獻上嬰孩"
     },
     {
       "id": "5",
@@ -416,7 +421,8 @@
           "number": "20",
           "text": "And Joseph took the infant Jesus and his mother in the night and fled to Egypt land, and with Elihu and Salome in ancient Zoan they abode."
         }
-      ]
+      ],
+      "shortSection": "博士來訪與逃亡"
     },
     {
       "id": "6",
@@ -516,7 +522,8 @@
           "number": "23",
           "text": "Now Herod sat upon his throne; he did not seem to move; his courtiers came; the king was dead. His sons reigned in his stead."
         }
-      ]
+      ],
+      "shortSection": "希律迫害與撒迦利亞之死"
     },
     {
       "id": "7",
@@ -636,7 +643,8 @@
           "number": "28",
           "text": "And man again will be at one with God."
         }
-      ]
+      ],
+      "shortSection": "在埃及受教"
     },
     {
       "id": "8",
@@ -736,7 +744,8 @@
           "number": "23",
           "text": "The David of the light is Purity, who slays the strong Goliath of the dark, and seats the savior, Love, upon the throne."
         }
-      ]
+      ],
+      "shortSection": "生命與愛"
     },
     {
       "id": "9",
@@ -864,7 +873,8 @@
           "number": "30",
           "text": "Thus closed the lesson of Salome."
         }
-      ]
+      ],
+      "shortSection": "男女與神性"
     },
     {
       "id": "10",
@@ -992,7 +1002,8 @@
           "number": "30",
           "text": "Truth is the leavening power of God; it can transmute the all of life into itself; and when the all of life is truth, then man is truth."
         }
-      ]
+      ],
+      "shortSection": "宗教與亞伯拉罕"
     },
     {
       "id": "11",
@@ -1064,7 +1075,8 @@
           "number": "16",
           "text": "But I have said enough. Tomorrow at the rising of the sun we meet again."
         }
-      ]
+      ],
+      "shortSection": "佛教與埃及奧秘"
     },
     {
       "id": "12",
@@ -1172,7 +1184,8 @@
           "number": "25",
           "text": "But Joseph, Mary and their son went by the Jordan way, and after certain days they reached their home in Nazareth."
         }
-      ]
+      ],
+      "shortSection": "禱告與返鄉"
     },
     {
       "id": "13",
@@ -1268,7 +1281,8 @@
           "number": "22",
           "text": "Matheno said, The door is wide ajar; you see the way of man’s return to right, and the forgiveness of his sins."
         }
-      ]
+      ],
+      "shortSection": "約翰學習赦免"
     },
     {
       "id": "14",
@@ -1384,7 +1398,8 @@
           "number": "27",
           "text": "And then, at last, a mighty master soul will come to earth to light the way up to the throne of perfect man."
         }
-      ]
+      ],
+      "shortSection": "選擇與人生使命"
     },
     {
       "id": "15",
@@ -1516,7 +1531,8 @@
           "number": "31",
           "text": "For eighteen years John lived and wrought within these temple gates; and here he conquered self, became a master mind and learned the duties of the harbinger."
         }
-      ]
+      ],
+      "shortSection": "約翰赴埃及"
     },
     {
       "id": "16",
@@ -1616,7 +1632,8 @@
           "number": "23",
           "text": "And there was food enough for all, and all were glad; and so the birthday gift of Jesus was a crown of righteousness."
         }
-      ]
+      ],
+      "shortSection": "耶穌的童年"
     },
     {
       "id": "17",
@@ -1704,7 +1721,8 @@
           "number": "20",
           "text": "I want to go from Jewry land and meet my kin in other countries of my Fatherland."
         }
-      ]
+      ],
+      "shortSection": "與拉比談信仰"
     },
     {
       "id": "18",
@@ -1800,7 +1818,8 @@
           "number": "22",
           "text": "The child remained with Hillel in the temple for a year, and then returned unto his home in Nazareth; and there he wrought with Joseph as a carpenter."
         }
-      ]
+      ],
+      "shortSection": "耶路撒冷的獻祭"
     },
     {
       "id": "19",
@@ -1944,7 +1963,8 @@
           "number": "34",
           "text": "When Jesus had thus said, he stepped aside, and all the people were amazed and said, This surely is the Christ."
         }
-      ]
+      ],
+      "shortSection": "聖殿中的問答"
     },
     {
       "id": "20",
@@ -2036,7 +2056,8 @@
           "number": "21",
           "text": "And on the twelve-step ladder we ascend until we reach the pinnacle of that which life is spent to build--the Temple of Perfected Man."
         }
-      ]
+      ],
+      "shortSection": "返家與木匠工具"
     },
     {
       "id": "21",
@@ -2124,7 +2145,8 @@
           "number": "20",
           "text": "The Brahmic masters wondered at the clear conceptions of the child, and often were amazed when he explained to them the meaning of the laws."
         }
-      ]
+      ],
+      "shortSection": "前往印度"
     },
     {
       "id": "22",
@@ -2256,7 +2278,8 @@
           "number": "31",
           "text": "Belief is lost in faith; and in fruition faith is lost; and man is saved when he has reached deific life; when he and God are one."
         }
-      ]
+      ],
+      "shortSection": "真理與信心"
     },
     {
       "id": "23",
@@ -2368,7 +2391,8 @@
           "number": "26",
           "text": "Of what this great physician said, this is the sum. And Jesus bowed his head in recognition of the wisdom of this master soul, and went his way."
         }
-      ]
+      ],
+      "shortSection": "在貝拿勒斯求學"
     },
     {
       "id": "24",
@@ -2488,7 +2512,8 @@
           "number": "28",
           "text": "The common people heard him with delight, and learned to pray, Our Father-God who art in heaven."
         }
-      ]
+      ],
+      "shortSection": "反對種姓制度"
     },
     {
       "id": "25",
@@ -2604,7 +2629,8 @@
           "number": "27",
           "text": "And all the people cried, Show us the way that like the flower we may unfold and come unto our own."
         }
-      ]
+      ],
+      "shortSection": "貴族與兒子的比喻"
     },
     {
       "id": "26",
@@ -2708,7 +2734,8 @@
           "number": "24",
           "text": "I am your brother man just come to show the way to God; you shall not worship man; praise God, the Holy One."
         }
-      ]
+      ],
+      "shortSection": "祭祀與捨己"
     },
     {
       "id": "27",
@@ -2844,7 +2871,8 @@
           "number": "32",
           "text": "And the accusers hung their heads in shame; and Jesus went his way."
         }
-      ]
+      ],
+      "shortSection": "折斷刀刃的比喻"
     },
     {
       "id": "28",
@@ -2964,7 +2992,8 @@
           "number": "28",
           "text": "But Jesus tarried not. Among the guests was one, a tiller of the soil, a generous soul, a seeker after truth, who loved the words that Jesus spoke; and Jesus went with him, and in his home abode."
         }
-      ]
+      ],
+      "shortSection": "生命的合一"
     },
     {
       "id": "29",
@@ -3088,7 +3117,8 @@
           "number": "29",
           "text": "Now, in Benares Jesus tarried many days and taught."
         }
-      ]
+      ],
+      "shortSection": "祭司夜訪"
     },
     {
       "id": "30",
@@ -3176,7 +3206,8 @@
           "number": "20",
           "text": "And by the hand of one, a merchant, going to Jerusalem, he sent this letter on its way."
         }
-      ]
+      ],
+      "shortSection": "父親逝世的消息"
     },
     {
       "id": "31",
@@ -3280,7 +3311,8 @@
           "number": "24",
           "text": "The priests of Buddha opened wide their temple doors for him."
         }
-      ]
+      ],
+      "shortSection": "離開印度"
     },
     {
       "id": "32",
@@ -3468,7 +3500,8 @@
           "number": "45",
           "text": "And all the priests gave thanks, and praised the Buddha of enlightenment."
         }
-      ]
+      ],
+      "shortSection": "與巴拉塔研讀"
     },
     {
       "id": "33",
@@ -3576,7 +3609,8 @@
           "number": "25",
           "text": "And Jesus opened up the way; the toilers saw another side of life, and toil became a joy."
         }
-      ]
+      ],
+      "shortSection": "田地與寶藏"
     },
     {
       "id": "34",
@@ -3672,7 +3706,8 @@
           "number": "22",
           "text": "The priests were not well pleased with Jesus’ words; but they rebuked him not; they feared the multitude."
         }
-      ]
+      ],
+      "shortSection": "失修葡萄園的比喻"
     },
     {
       "id": "35",
@@ -3740,7 +3775,8 @@
           "number": "15",
           "text": "The perfect age will come when every man will be a priest and men will not array themselves in special garb to advertise their piety."
         }
-      ]
+      ],
+      "shortSection": "迎接新時代"
     },
     {
       "id": "36",
@@ -3892,7 +3928,8 @@
           "number": "36",
           "text": "And Jesus raised his hand in silent benediction; then he went his way."
         }
-      ]
+      ],
+      "shortSection": "拉薩與拉達克"
     },
     {
       "id": "37",
@@ -3980,7 +4017,8 @@
           "number": "20",
           "text": "But Jesus could not tarry longer in Lahore; he bade the priests and other friends farewell; and then he took his camel and he went his way toward the Sind."
         }
-      ]
+      ],
+      "shortSection": "拉合爾的教導"
     },
     {
       "id": "38",
@@ -4048,7 +4086,8 @@
           "number": "15",
           "text": "They sought for light, for revelation and for power. The laws and precepts of the coming age required all the wisdom of the masters of the world."
         }
-      ]
+      ],
+      "shortSection": "波斯賢者相會"
     },
     {
       "id": "39",
@@ -4136,7 +4175,8 @@
           "number": "20",
           "text": "And he departed from the throng and went into a secret place to pray."
         }
-      ]
+      ],
+      "shortSection": "論邪惡的起源"
     },
     {
       "id": "40",
@@ -4248,7 +4288,8 @@
           "number": "26",
           "text": "And Jesus went his way, and in the sacred groves of Cyrus, where the multitudes were met, he taught and healed the sick."
         }
-      ]
+      ],
+      "shortSection": "靜默的教導"
     },
     {
       "id": "41",
@@ -4352,7 +4393,8 @@
           "number": "24",
           "text": "The waters of the fount are love; the potency is faith, and he who plunges deep into the living springs, in living faith, may wash away his guilt and be made whole, and freed from sin."
         }
-      ]
+      ],
+      "shortSection": "信心與醫治"
     },
     {
       "id": "42",
@@ -4428,7 +4470,8 @@
           "number": "17",
           "text": "And Jesus healed a multitude of people who were sick."
         }
-      ]
+      ],
+      "shortSection": "亞述之旅"
     },
     {
       "id": "43",
@@ -4524,7 +4567,8 @@
           "number": "22",
           "text": "He told them of the lessons he had learned, and of the works that he had done. To others he told not the story of his life."
         }
-      ]
+      ],
+      "shortSection": "返回拿撒勒"
     },
     {
       "id": "44",
@@ -4640,7 +4684,8 @@
           "number": "27",
           "text": "When Jesus had thus said he stepped aside. The Grecian masters were astonished at the wisdom of his words; they answered not."
         }
-      ]
+      ],
+      "shortSection": "雅典的講論"
     },
     {
       "id": "45",
@@ -4728,7 +4773,8 @@
           "number": "20",
           "text": "But when the master minds of Greece shall perish from the land, this giant master mind will cease to be, and then the Delphic Oracle will speak no more."
         }
-      ]
+      ],
+      "shortSection": "德爾斐神諭"
     },
     {
       "id": "46",
@@ -4848,7 +4894,8 @@
           "number": "28",
           "text": "Upon the Cretan vessel, Mars, the Hebrew sage sailed from the Grecian port."
         }
-      ]
+      ],
+      "shortSection": "海上救援"
     },
     {
       "id": "47",
@@ -4924,7 +4971,8 @@
           "number": "17",
           "text": "The guide then led the way and in the fountain Jesus bathed; and when he had been clothed in proper garb he stood again before the hierophant."
         }
-      ]
+      ],
+      "shortSection": "重訪埃及"
     },
     {
       "id": "48",
@@ -5024,7 +5072,8 @@
           "number": "23",
           "text": "The guide again appeared, and led the way, and in a spacious room replete with everything a student craves was Jesus bade to rest and wait."
         }
-      ]
+      ],
+      "shortSection": "真誠的考驗"
     },
     {
       "id": "49",
@@ -5132,7 +5181,8 @@
           "number": "25",
           "text": "And Jesus was the master of the phantom forms of prejudice and of treachery."
         }
-      ]
+      ],
+      "shortSection": "公義的考驗"
     },
     {
       "id": "50",
@@ -5236,7 +5286,8 @@
           "number": "24",
           "text": "And Jesus bowed his head in humble thanks; then went his way."
         }
-      ]
+      ],
+      "shortSection": "信心的考驗"
     },
     {
       "id": "51",
@@ -5352,7 +5403,8 @@
           "number": "27",
           "text": "And Jesus was a victor over selfish self."
         }
-      ]
+      ],
+      "shortSection": "仁愛的考驗"
     },
     {
       "id": "52",
@@ -5444,7 +5496,8 @@
           "number": "21",
           "text": "The Logos had encountered fear and all his phantom host, and in the conflict he achieved the victory."
         }
-      ]
+      ],
+      "shortSection": "勇氣的考驗"
     },
     {
       "id": "53",
@@ -5584,7 +5637,8 @@
           "number": "33",
           "text": "Together they passed from the grotto of the beautiful, and in the banquet hall a feast was served, and Jesus was the honored guest."
         }
-      ]
+      ],
+      "shortSection": "神聖之愛的考驗"
     },
     {
       "id": "54",
@@ -5712,7 +5766,8 @@
           "number": "30",
           "text": "And then he laid his hand upon the maiden’s head, and said, I’m sure the blessings of my Father-God will rest upon you, child, forevermore."
         }
-      ]
+      ],
+      "shortSection": "死亡之室"
     },
     {
       "id": "55",
@@ -5768,7 +5823,8 @@
           "number": "12",
           "text": "The great doors of the temple swung ajar; the Logos journeyed on his way a conqueror."
         }
-      ]
+      ],
+      "shortSection": "最後的試煉"
     },
     {
       "id": "56",
@@ -5872,7 +5928,8 @@
           "number": "24",
           "text": "When this shall come to pass the magian land will glory in the light. The soul of Persia calls for light."
         }
-      ]
+      ],
+      "shortSection": "七位賢者聚集"
     },
     {
       "id": "57",
@@ -5976,7 +6033,8 @@
           "number": "24",
           "text": "Again the sages sat in silence seven days."
         }
-      ]
+      ],
+      "shortSection": "賢者與靜默"
     },
     {
       "id": "58",
@@ -6128,7 +6186,8 @@
           "number": "36",
           "text": "The quality of soul that makes it possible for man to rise to spirit life is purity."
         }
-      ]
+      ],
+      "shortSection": "普世信念"
     },
     {
       "id": "59",
@@ -6236,7 +6295,8 @@
           "number": "25",
           "text": "And then the sages sat in silence seven days."
         }
-      ]
+      ],
+      "shortSection": "賢者的祝福"
     },
     {
       "id": "60",
@@ -6328,7 +6388,8 @@
           "number": "21",
           "text": "And Jesus went his way, and after many days, he reached Jerusalem; and then he sought his home in Galilee."
         }
-      ]
+      ],
+      "shortSection": "告別賢者"
     },
     {
       "id": "61",
@@ -6472,7 +6533,8 @@
           "number": "34",
           "text": "And then the priests, the doctors and the scribes were sore afraid; they said no more; they hid themselves away."
         }
-      ]
+      ],
+      "shortSection": "約翰開始宣講"
     },
     {
       "id": "62",
@@ -6600,7 +6662,8 @@
           "number": "30",
           "text": "And then he threw the sparkling wine out in the street."
         }
-      ]
+      ],
+      "shortSection": "呼召人悔改"
     },
     {
       "id": "63",
@@ -6716,7 +6779,8 @@
           "number": "27",
           "text": "And John left Bethany and went again unto the Jordan ford."
         }
-      ]
+      ],
+      "shortSection": "約翰施洗"
     },
     {
       "id": "64",
@@ -6788,7 +6852,8 @@
           "number": "16",
           "text": "As many as confessed their sins, and turned from evil ways to ways of right, the harbinger baptized, symbolic of the blotting out of sins by righteousness."
         }
-      ]
+      ],
+      "shortSection": "耶穌受洗"
     },
     {
       "id": "65",
@@ -6864,7 +6929,8 @@
           "number": "17",
           "text": "Then Jesus left the wilderness, and in the consciousness of Holy Breath, he came unto the camps of John and taught."
         }
-      ]
+      ],
+      "shortSection": "曠野受試探"
     },
     {
       "id": "66",
@@ -6964,7 +7030,8 @@
           "number": "23",
           "text": "Then Jesus and the six disciples sat a long, long time in silent thought."
         }
-      ]
+      ],
+      "shortSection": "最初的門徒"
     },
     {
       "id": "67",
@@ -7052,7 +7119,8 @@
           "number": "20",
           "text": "When Jesus had thus said he went his way, and with his six disciples came to Bethany; and they abode with Lazarus many days."
         }
-      ]
+      ],
+      "shortSection": "約旦河的講論"
     },
     {
       "id": "68",
@@ -7168,7 +7236,8 @@
           "number": "27",
           "text": "And they abode with Mary, Jesus’ mother, and her sister, Miriam."
         }
-      ]
+      ],
+      "shortSection": "清心與預言"
     },
     {
       "id": "69",
@@ -7236,7 +7305,8 @@
           "number": "15",
           "text": "He said no more, and all the people marveled much because he would not speak in Nazareth."
         }
-      ]
+      ],
+      "shortSection": "返回家鄉"
     },
     {
       "id": "70",
@@ -7316,7 +7386,8 @@
           "number": "18",
           "text": "And many of the guests believed on him, and gladly would have followed him."
         }
-      ]
+      ],
+      "shortSection": "迦拿婚宴"
     },
     {
       "id": "71",
@@ -7396,7 +7467,8 @@
           "number": "18",
           "text": "And Jesus taught the people many lessons as he walked with them beside the sea."
         }
-      ]
+      ],
+      "shortSection": "天國與地上國度"
     },
     {
       "id": "72",
@@ -7528,7 +7600,8 @@
           "number": "31",
           "text": "I am the candle of the Lord aflame to light the way; and while you have the light walk in the light."
         }
-      ]
+      ],
+      "shortSection": "潔淨聖殿"
     },
     {
       "id": "73",
@@ -7648,7 +7721,8 @@
           "number": "28",
           "text": "Give unto Cæsar what belongs to him; give unto God the treasures of your heart."
         }
-      ]
+      ],
+      "shortSection": "君王與兒子的比喻"
     },
     {
       "id": "74",
@@ -7752,7 +7826,8 @@
           "number": "24",
           "text": "Whoever is not kind to every form of life--to man, to beast, to bird, and creeping thing--cannot expect the blessings of the Holy One; for as we give, so God will give to us."
         }
-      ]
+      ],
+      "shortSection": "安息日行善"
     },
     {
       "id": "75",
@@ -7876,7 +7951,8 @@
           "number": "29",
           "text": "The common people gladly listened to his words, and many left their all of carnal things and followed him."
         }
-      ]
+      ],
+      "shortSection": "尼哥底母夜訪"
     },
     {
       "id": "76",
@@ -7988,7 +8064,8 @@
           "number": "26",
           "text": "And many said, He is the Christ; the king who was to come has come; Praise God."
         }
-      ]
+      ],
+      "shortSection": "向牧人講和平"
     },
     {
       "id": "77",
@@ -8084,7 +8161,8 @@
           "number": "22",
           "text": "And it was so."
         }
-      ]
+      ],
+      "shortSection": "家庭中的勸勉"
     },
     {
       "id": "78",
@@ -8156,7 +8234,8 @@
           "number": "16",
           "text": "And, lo, the multitudes came down, renounced their sins, confessed their faith in Christ, and were baptized."
         }
-      ]
+      ],
+      "shortSection": "洗禮與門徒身分"
     },
     {
       "id": "79",
@@ -8236,7 +8315,8 @@
           "number": "18",
           "text": "But they who do not trust the Christ, and will not purify their hearts so that the Christ can dwell within, can never enter life."
         }
-      ]
+      ],
+      "shortSection": "約翰見證耶穌"
     },
     {
       "id": "80",
@@ -8332,7 +8412,8 @@
           "number": "22",
           "text": "Lamaas said, Behold the Sun of Righteousness! And he confessed his faith in Christ, and followed him."
         }
-      ]
+      ],
+      "shortSection": "拉瑪斯重逢耶穌"
     },
     {
       "id": "81",
@@ -8456,7 +8537,8 @@
           "number": "29",
           "text": "And Jesus said, Behold the Christ has come; Messiah speaks to you."
         }
-      ]
+      ],
+      "shortSection": "井旁的婦人"
     },
     {
       "id": "82",
@@ -8560,7 +8642,8 @@
           "number": "24",
           "text": "And Jesus went with them into the town, and tarried certain days."
         }
-      ]
+      ],
+      "shortSection": "敘加居民來聽道"
     },
     {
       "id": "83",
@@ -8672,7 +8755,8 @@
           "number": "26",
           "text": "And then he took the ruler by the hand; a love light filled their souls; and all the people were amazed."
         }
-      ]
+      ],
+      "shortSection": "在敘加醫治"
     },
     {
       "id": "84",
@@ -8792,7 +8876,8 @@
           "number": "28",
           "text": "But as they walked and talked about the strange event, lo, Jesus came and walked with them to Nazareth of Galilee."
         }
-      ]
+      ],
+      "shortSection": "撒馬利亞的教導"
     },
     {
       "id": "85",
@@ -8872,7 +8957,8 @@
           "number": "18",
           "text": "All these events are part of God’s own plan. The innocent will suffer while the wicked are in power; but woe to them who cause the suffering of the innocents."
         }
-      ]
+      ],
+      "shortSection": "約翰被囚"
     },
     {
       "id": "86",
@@ -8956,7 +9042,8 @@
           "number": "19",
           "text": "They troubled him no more for they were sore afraid."
         }
-      ]
+      ],
+      "shortSection": "拿撒勒人的拒絕"
     },
     {
       "id": "87",
@@ -9040,7 +9127,8 @@
           "number": "19",
           "text": "Three days and nights he spent communing with the Silent Brotherhood; then, in the power of Holy Breath he came to call the twelve."
         }
-      ]
+      ],
+      "shortSection": "醫治官員之子"
     },
     {
       "id": "88",
@@ -9188,7 +9276,8 @@
           "number": "35",
           "text": "And in the message Jesus said, The masters call for men to demonstrate the faith of Abraham; I go, and you may follow me. And Simon followed him."
         }
-      ]
+      ],
+      "shortSection": "呼召十二使徒"
     },
     {
       "id": "89",
@@ -9304,7 +9393,8 @@
           "number": "27",
           "text": "The neighbors heard what had occurred, and then they brought their sick, and those obsessed, and Jesus laid his hands on them, and they were healed."
         }
-      ]
+      ],
+      "shortSection": "使徒受教與醫治"
     },
     {
       "id": "90",
@@ -9428,7 +9518,8 @@
           "number": "29",
           "text": "The Christines sought the quiet of their homes, where they remained in prayer for certain days."
         }
-      ]
+      ],
+      "shortSection": "麻風與癱瘓者得醫治"
     },
     {
       "id": "91",
@@ -9636,7 +9727,8 @@
           "number": "50",
           "text": "Shall I accuse you unto God? No, for your prophet, Moses, has done that; and if you hear not Moses’ words you will not hearken unto me, for Moses wrote of me."
         }
-      ]
+      ],
+      "shortSection": "節期中的醫治"
     },
     {
       "id": "92",
@@ -9756,7 +9848,8 @@
           "number": "28",
           "text": "A man was saved, and no one ever said a word about neglect or drunkenness, nor urged him to reform."
         }
-      ]
+      ],
+      "shortSection": "救火與扶助醉者"
     },
     {
       "id": "93",
@@ -9872,7 +9965,8 @@
           "number": "27",
           "text": "And Jesus and the twelve went down and walked beside the sea, and many people followed them."
         }
-      ]
+      ],
+      "shortSection": "安息日與枯手"
     },
     {
       "id": "94",
@@ -9968,7 +10062,8 @@
           "number": "22",
           "text": "In giving alms do not let the right hand know the secret of the left."
         }
-      ]
+      ],
+      "shortSection": "禱告與禁食"
     },
     {
       "id": "95",
@@ -10148,7 +10243,8 @@
           "number": "43",
           "text": "The letter of the law deals with the acts of man; the spirit of the law takes note of his desires."
         }
-      ]
+      ],
+      "shortSection": "福分與警告"
     },
     {
       "id": "96",
@@ -10264,7 +10360,8 @@
           "number": "27",
           "text": "This day is consecrated unto God; but man serves God by serving man."
         }
-      ]
+      ],
+      "shortSection": "前四誡的意義"
     },
     {
       "id": "97",
@@ -10400,7 +10497,8 @@
           "number": "32",
           "text": "Be perfect as your Father-God in heaven is."
         }
-      ]
+      ],
+      "shortSection": "第五與第六誡"
     },
     {
       "id": "98",
@@ -10500,7 +10598,8 @@
           "number": "23",
           "text": "And such a wish, within the spirit of the law, is theft."
         }
-      ]
+      ],
+      "shortSection": "婚姻與財物的誡命"
     },
     {
       "id": "99",
@@ -10628,7 +10727,8 @@
           "number": "30",
           "text": "Seek first the kingdom of the soul, the righteousness of God, the good of men, and murmur not; God will protect, and feed, and clothe."
         }
-      ]
+      ],
+      "shortSection": "不可作假見證"
     },
     {
       "id": "100",
@@ -10732,7 +10832,8 @@
           "number": "24",
           "text": "If you would lead the way to God you must be clear in sight, as well as pure in heart."
         }
-      ]
+      ],
+      "shortSection": "靈性生活準則"
     },
     {
       "id": "101",
@@ -10872,7 +10973,8 @@
           "number": "33",
           "text": "And Jesus finished all his sayings on the mount and then he, with the twelve, returned unto Capernaum."
         }
-      ]
+      ],
+      "shortSection": "山上教導結束"
     },
     {
       "id": "102",
@@ -10980,7 +11082,8 @@
           "number": "25",
           "text": "The Christines journeyed on; they taught, and healed the sick in many towns of Galilee, and then they came again unto Capernaum."
         }
-      ]
+      ],
+      "shortSection": "拿因寡婦之子"
     },
     {
       "id": "103",
@@ -11148,7 +11251,8 @@
           "number": "40",
           "text": "And, lo, I say, The judgment day will come and God will deal in greater mercy with the cities of the plains than he will deal with you."
         }
-      ]
+      ],
+      "shortSection": "約翰的使者"
     },
     {
       "id": "104",
@@ -11276,7 +11380,8 @@
           "number": "30",
           "text": "And then the guests who sat around the board, began to say within themselves, What manner of a man is this who says, Thy sins are all forgiven?"
         }
-      ]
+      ],
+      "shortSection": "婦人膏抹耶穌"
     },
     {
       "id": "105",
@@ -11480,7 +11585,8 @@
           "number": "49",
           "text": "I tell you, men, that you must give account to God for every idle word you speak and every evil deed you do."
         }
-      ]
+      ],
+      "shortSection": "真誠與偽善"
     },
     {
       "id": "106",
@@ -11616,7 +11722,8 @@
           "number": "32",
           "text": "And Miriam stood before the waiting throngs and sung again the songs of victory, and all the people said, Amen."
         }
-      ]
+      ],
+      "shortSection": "家人與屬靈親屬"
     },
     {
       "id": "107",
@@ -11768,7 +11875,8 @@
           "number": "36",
           "text": "And like a city on a hill, your light will shine afar, and thus your light may light the way for other men."
         }
-      ]
+      ],
+      "shortSection": "辨認眼前的記號"
     },
     {
       "id": "108",
@@ -11912,7 +12020,8 @@
           "number": "34",
           "text": "The truths he spoke came like a thunderbolt from heaven; the rulers counseled how they might ensnare him by his words; they sought a legal way to shed his blood."
         }
-      ]
+      ],
+      "shortSection": "責備宗教偽善"
     },
     {
       "id": "109",
@@ -12048,7 +12157,8 @@
           "number": "32",
           "text": "And then the Christines went again to teach the multitudes."
         }
-      ]
+      ],
+      "shortSection": "上帝眷顧與人的責任"
     },
     {
       "id": "110",
@@ -12152,7 +12262,8 @@
           "number": "24",
           "text": "And when at last men stand upon the Jordan’s brink, these waters stay, and men step forth into their own."
         }
-      ]
+      ],
+      "shortSection": "出埃及的象徵"
     },
     {
       "id": "111",
@@ -12264,7 +12375,8 @@
           "number": "26",
           "text": "To every steward who is true to self, to other men, to every thing that is, the Lord will say, Well done."
         }
-      ]
+      ],
+      "shortSection": "財主與豐收"
     },
     {
       "id": "112",
@@ -12396,7 +12508,8 @@
           "number": "31",
           "text": "And verily I say to you, To whom much has been given, much is required; to whom a little has been given, a little only is required."
         }
-      ]
+      ],
+      "shortSection": "小群與內在生命"
     },
     {
       "id": "113",
@@ -12500,7 +12613,8 @@
           "number": "24",
           "text": "The Christines went their way, and came unto Bethsaida and taught."
         }
-      ]
+      ],
+      "shortSection": "和平與時代記號"
     },
     {
       "id": "114",
@@ -12712,7 +12826,8 @@
           "number": "51",
           "text": "And when the wrongs have all been righted then will man arise and be at one with God."
         }
-      ]
+      ],
+      "shortSection": "風暴與災難"
     },
     {
       "id": "115",
@@ -12864,7 +12979,8 @@
           "number": "36",
           "text": "When he had spoken thus, he left the boat and went up to the house, and his disciples followed him."
         }
-      ]
+      ],
+      "shortSection": "撒種與稗子的比喻"
     },
     {
       "id": "116",
@@ -12972,7 +13088,8 @@
           "number": "25",
           "text": "When Jesus had thus said he went alone into a mountain pass near by to pray."
         }
-      ]
+      ],
+      "shortSection": "天國成長的比喻"
     },
     {
       "id": "117",
@@ -13124,7 +13241,8 @@
           "number": "36",
           "text": "And the disciples were amazed. They said, Who is this man that even winds and waves obey his voice?"
         }
-      ]
+      ],
+      "shortSection": "約翰殉道"
     },
     {
       "id": "118",
@@ -13252,7 +13370,8 @@
           "number": "30",
           "text": "The Christines sailed away, re-crossed the sea and came again into Capernaum."
         }
-      ]
+      ],
+      "shortSection": "格拉森趕鬼"
     },
     {
       "id": "119",
@@ -13376,7 +13495,8 @@
           "number": "29",
           "text": "They who have ears to hear may hear; they who have hearts to feel may understand."
         }
-      ]
+      ],
+      "shortSection": "與罪人同席"
     },
     {
       "id": "120",
@@ -13520,7 +13640,8 @@
           "number": "34",
           "text": "But, like a phantom of the night, he disappeared and went his way."
         }
-      ]
+      ],
+      "shortSection": "新舊與醫治"
     },
     {
       "id": "121",
@@ -13708,7 +13829,8 @@
           "number": "45",
           "text": "And with the foreign masters and the twelve he went up to the town where he once turned the water into wine and tarried certain days."
         }
-      ]
+      ],
+      "shortSection": "家鄉中的不信"
     },
     {
       "id": "122",
@@ -13900,7 +14022,8 @@
           "number": "46",
           "text": "And they went out through all the towns of Galilee and taught and healed in spirit and in power."
         }
-      ]
+      ],
+      "shortSection": "差遣十二使徒"
     },
     {
       "id": "123",
@@ -14052,7 +14175,8 @@
           "number": "36",
           "text": "They said that by the sacred Word they had done many mighty works; and Jesus said to them, Well done."
         }
-      ]
+      ],
+      "shortSection": "差遣各地教師"
     },
     {
       "id": "124",
@@ -14200,7 +14324,8 @@
           "number": "35",
           "text": "The storm had spent its force; the winds were still, and they were near the shore, and when they landed they were in the valley of Gennesaret."
         }
-      ]
+      ],
+      "shortSection": "餵飽五千人"
     },
     {
       "id": "125",
@@ -14340,7 +14465,8 @@
           "number": "33",
           "text": "But Peter said, Lord, we have no place else to go; you have the words of everlasting life; we know that you are sent to us from God."
         }
-      ]
+      ],
+      "shortSection": "生命之糧"
     },
     {
       "id": "126",
@@ -14472,7 +14598,8 @@
           "number": "31",
           "text": "The leaders and the led together walk; together they will fall into the yawning pits."
         }
-      ]
+      ],
+      "shortSection": "潔淨與偽善"
     },
     {
       "id": "127",
@@ -14604,7 +14731,8 @@
           "number": "31",
           "text": "Then Jesus and the twelve went to a village by the sea."
         }
-      ]
+      ],
+      "shortSection": "私下教導門徒"
     },
     {
       "id": "128",
@@ -14772,7 +14900,8 @@
           "number": "40",
           "text": "Then Jesus and the twelve went up and were Susanna’s guests for many days."
         }
-      ]
+      ],
+      "shortSection": "餵飽四千人"
     },
     {
       "id": "129",
@@ -14936,7 +15065,8 @@
           "number": "39",
           "text": "Then the disciples understood that Jesus spoke of John whom Herod slew."
         }
-      ]
+      ],
+      "shortSection": "山上變像"
     },
     {
       "id": "130",
@@ -15052,7 +15182,8 @@
           "number": "27",
           "text": "Next day the Christine master and the twelve began their journey of return, and soon were in Capernaum."
         }
-      ]
+      ],
+      "shortSection": "醫治患病孩童"
     },
     {
       "id": "131",
@@ -15220,7 +15351,8 @@
           "number": "40",
           "text": "Whoever gives a cup of water in the name of Christ is one with us; so God shall judge."
         }
-      ]
+      ],
+      "shortSection": "納稅與謙卑"
     },
     {
       "id": "132",
@@ -15356,7 +15488,8 @@
           "number": "32",
           "text": "I tell you, men, if you would censure not till you are free from sin, the world would soon forget the meaning of the word, accused."
         }
-      ]
+      ],
+      "shortSection": "為飢餓者申辯"
     },
     {
       "id": "133",
@@ -15520,7 +15653,8 @@
           "number": "39",
           "text": "But Jesus answered not; unnoticed by the multitudes he left the temple courts and went his way."
         }
-      ]
+      ],
+      "shortSection": "差遣七十人"
     },
     {
       "id": "134",
@@ -15636,7 +15770,8 @@
           "number": "27",
           "text": "And Jesus said, And I condemn you not; go on your way in peace, and sin no more."
         }
-      ]
+      ],
+      "shortSection": "婦人被控通姦"
     },
     {
       "id": "135",
@@ -15792,7 +15927,8 @@
           "number": "37",
           "text": "Again the scribes and Pharisees were in a rage; they took up stones to cast at him, but, like a phantom of the night, he disappeared; the people knew not where he went."
         }
-      ]
+      ],
+      "shortSection": "聖殿中的爭論"
     },
     {
       "id": "136",
@@ -15896,7 +16032,8 @@
           "number": "24",
           "text": "Your sister here has chosen far the better part, a part that none can take away."
         }
-      ]
+      ],
+      "shortSection": "好撒馬利亞人"
     },
     {
       "id": "137",
@@ -15976,7 +16113,8 @@
           "number": "18",
           "text": "Behold, if men of flesh know how to give abundantly to children of the flesh, will not your heavenly Father give abundantly to you when you shall pray?"
         }
-      ]
+      ],
+      "shortSection": "恆切禱告"
     },
     {
       "id": "138",
@@ -16176,7 +16314,8 @@
           "number": "48",
           "text": "The Pharisees replied, You wretch! you were begotten and were born in sin, and now you try to teach the law to us. And then they cast him from the synagogue."
         }
-      ]
+      ],
+      "shortSection": "生來瞎眼者得醫治"
     },
     {
       "id": "139",
@@ -16296,7 +16435,8 @@
           "number": "28",
           "text": "Then Jesus left Jerusalem and with Massalian he tarried certain days."
         }
-      ]
+      ],
+      "shortSection": "羊圈與牧人"
     },
     {
       "id": "140",
@@ -16460,7 +16600,8 @@
           "number": "39",
           "text": "It grew and after many years became a mighty tree, and many people rested in its shade, and birds built nests and reared their young among its leafy boughs."
         }
-      ]
+      ],
+      "shortSection": "七十人歸來"
     },
     {
       "id": "141",
@@ -16640,7 +16781,8 @@
           "number": "43",
           "text": "Behold, for he will send his angels forth with mighty trumpet blast, and men will be compelled to come up to the feast."
         }
-      ]
+      ],
+      "shortSection": "筵席與謙卑"
     },
     {
       "id": "142",
@@ -16856,7 +16998,8 @@
           "number": "52",
           "text": "And he who conquers carnal self, and follows me through Christ shall have a hundred fold of that which is the wealth of life on earth, and in the world to come, eternal life."
         }
-      ]
+      ],
+      "shortSection": "門徒與財富"
     },
     {
       "id": "143",
@@ -17044,7 +17187,8 @@
           "number": "45",
           "text": "He who is able to receive the truth I speak, let him receive."
         }
-      ]
+      ],
+      "shortSection": "工人與婚姻"
     },
     {
       "id": "144",
@@ -17176,7 +17320,8 @@
           "number": "31",
           "text": "Then Jesus and the twelve came to Capernaum."
         }
-      ]
+      ],
+      "shortSection": "浪子回頭"
     },
     {
       "id": "145",
@@ -17344,7 +17489,8 @@
           "number": "40",
           "text": "Lo, every one who lauds himself shall be abased, and he who does not praise himself shall be exalted in the sight of God."
         }
-      ]
+      ],
+      "shortSection": "警醒等候主"
     },
     {
       "id": "146",
@@ -17508,7 +17654,8 @@
           "number": "39",
           "text": "And then the Christines journeyed on and came unto Jerusalem."
         }
-      ]
+      ],
+      "shortSection": "前往耶路撒冷"
     },
     {
       "id": "147",
@@ -17608,7 +17755,8 @@
           "number": "23",
           "text": "And with the twelve he went to Jericho, and after certain days they crossed the Jordan and in Bethabara abode for many days."
         }
-      ]
+      ],
+      "shortSection": "身分之爭"
     },
     {
       "id": "148",
@@ -17796,7 +17944,8 @@
           "number": "45",
           "text": "Now, Jesus and the twelve did not remain in Bethany; but in the hills of Ephriam, upon the borders of Samaria, they found a home, and there abode for many days."
         }
-      ]
+      ],
+      "shortSection": "拉撒路復活"
     },
     {
       "id": "149",
@@ -17908,7 +18057,8 @@
           "number": "26",
           "text": "For lo, I say, that every one who uses what he has and gains, shall have abundantly; but he who hides away his talent in the earth shall forfeit what he has."
         }
-      ]
+      ],
+      "shortSection": "撒該與銀錢比喻"
     },
     {
       "id": "150",
@@ -17992,7 +18142,8 @@
           "number": "19",
           "text": "And they commanded every man to be alert and help to apprehend the Lord that they might take his life."
         }
-      ]
+      ],
+      "shortSection": "巴底買得醫治"
     },
     {
       "id": "151",
@@ -18124,7 +18275,8 @@
           "number": "31",
           "text": "And when the evening came the Lord and his disciples went again to Bethany."
         }
-      ]
+      ],
+      "shortSection": "進入耶路撒冷"
     },
     {
       "id": "152",
@@ -18192,7 +18344,8 @@
           "number": "15",
           "text": "And when the evening came he went again to Bethany."
         }
-      ]
+      ],
+      "shortSection": "無花果樹與聖殿"
     },
     {
       "id": "153",
@@ -18332,7 +18485,8 @@
           "number": "33",
           "text": "I tell you now, as I have told you many times, The many have been called, but chosen are the few."
         }
-      ]
+      ],
+      "shortSection": "信心與筵席比喻"
     },
     {
       "id": "154",
@@ -18480,7 +18634,8 @@
           "number": "35",
           "text": "The many have been called, but none are chosen to be guests who have not clad themselves in wedding robes."
         }
-      ]
+      ],
+      "shortSection": "惡園戶與婚宴"
     },
     {
       "id": "155",
@@ -18664,7 +18819,8 @@
           "number": "44",
           "text": "If you would be exalted, sit down at the master’s feet and serve. He is the greatest man who serves the best."
         }
-      ]
+      ],
+      "shortSection": "納稅與最大的誡命"
     },
     {
       "id": "156",
@@ -18884,7 +19040,8 @@
           "number": "53",
           "text": "And then he said, Jerusalem, with all your glory and your crimes, Farewell."
         }
-      ]
+      ],
+      "shortSection": "哀嘆聖城"
     },
     {
       "id": "157",
@@ -19060,7 +19217,8 @@
           "number": "42",
           "text": "When Jesus had thus said, he went with his disciples back to Bethany."
         }
-      ]
+      ],
+      "shortSection": "預告患難"
     },
     {
       "id": "158",
@@ -19276,7 +19434,8 @@
           "number": "52",
           "text": "Then Jesus and the twelve returned to Bethany."
         }
-      ]
+      ],
+      "shortSection": "警醒的比喻"
     },
     {
       "id": "159",
@@ -19404,7 +19563,8 @@
           "number": "30",
           "text": "And so he said to Ananias, I will lead the way, and by a kiss make known which person is the Lord."
         }
-      ]
+      ],
+      "shortSection": "受膏與背叛密謀"
     },
     {
       "id": "160",
@@ -19584,7 +19744,8 @@
           "number": "43",
           "text": "From henceforth shall this bread be called Remembrance bread; this wine shall be Remembrance wine; and when you eat this bread and drink this wine remember me."
         }
-      ]
+      ],
+      "shortSection": "洗腳與最後晚餐"
     },
     {
       "id": "161",
@@ -19744,7 +19905,8 @@
           "number": "38",
           "text": "I will not leave you desolate, but in the Christ, which is the love of God made manifest to men, I will be with you all the way."
         }
-      ]
+      ],
+      "shortSection": "離別前的安慰"
     },
     {
       "id": "162",
@@ -19912,7 +20074,8 @@
           "number": "40",
           "text": "When Jesus had thus said, they sung the Jewish song of praise, and then arose and went their way."
         }
-      ]
+      ],
+      "shortSection": "為門徒禱告"
     },
     {
       "id": "163",
@@ -20164,7 +20327,8 @@
           "number": "61",
           "text": "And when they came again to Kidron, lo, the eight disciples were asleep, and Jesus said, You men, awake; behold, for the betrayer of the son of man is come."
         }
-      ]
+      ],
+      "shortSection": "客西馬尼園"
     },
     {
       "id": "164",
@@ -20304,7 +20468,8 @@
           "number": "33",
           "text": "And Peter was ashamed because of his weak cowardice, and when he was himself again he joined with John and followed close behind the mob, and came into Jerusalem."
         }
-      ]
+      ],
+      "shortSection": "耶穌被捕"
     },
     {
       "id": "165",
@@ -20500,7 +20665,8 @@
           "number": "47",
           "text": "And Jesus said, So you have said; and then he said no more."
         }
-      ]
+      ],
+      "shortSection": "彼得否認耶穌"
     },
     {
       "id": "166",
@@ -20604,7 +20770,8 @@
           "number": "24",
           "text": "And then was Jesus dragged along the way up to the palace of the Roman governor."
         }
-      ]
+      ],
+      "shortSection": "公會審問"
     },
     {
       "id": "167",
@@ -20808,7 +20975,8 @@
           "number": "49",
           "text": "And then she left, and Pilate wept."
         }
-      ]
+      ],
+      "shortSection": "彼拉多與希律審問"
     },
     {
       "id": "168",
@@ -20924,7 +21092,8 @@
           "number": "27",
           "text": "A man named Simon, from Cyrene, a friend of Jesus, was a-near the scene and since the bruised and wounded Jesus could not bear his cross, they laid it on the shoulders of this man and made him bear it on to Calvary."
         }
-      ]
+      ],
+      "shortSection": "判刑與受辱"
     },
     {
       "id": "169",
@@ -20976,7 +21145,8 @@
           "number": "11",
           "text": "And there they put the body of the man who sold his Lord."
         }
-      ]
+      ],
+      "shortSection": "猶大懊悔"
     },
     {
       "id": "170",
@@ -21144,7 +21314,8 @@
           "number": "40",
           "text": "And thus the scripture was fulfilled, which said, And they divided all my robes among themselves, and for my vesture they cast lots."
         }
-      ]
+      ],
+      "shortSection": "釘十字架"
     },
     {
       "id": "171",
@@ -21296,7 +21467,8 @@
           "number": "36",
           "text": "And then they sent a hundred soldiers out to guard the tomb."
         }
-      ]
+      ],
+      "shortSection": "死亡與安葬"
     },
     {
       "id": "172",
@@ -21504,7 +21676,8 @@
           "number": "50",
           "text": "The soldiers did as they were paid to do."
         }
-      ]
+      ],
+      "shortSection": "墓中復活"
     },
     {
       "id": "173",
@@ -21668,7 +21841,8 @@
           "number": "39",
           "text": "The brethren were amazed at what the three disciples said; but still they looked upon their words as idle talk and they believed them not."
         }
-      ]
+      ],
+      "shortSection": "向親友顯現"
     },
     {
       "id": "174",
@@ -21780,7 +21954,8 @@
           "number": "26",
           "text": "He walked with us to Emmaus; he ate with us the evening meal, and broke for us the bread of life."
         }
-      ]
+      ],
+      "shortSection": "以馬忤斯途中"
     },
     {
       "id": "175",
@@ -21864,7 +22039,8 @@
           "number": "19",
           "text": "Then Jesus said, Fear not, for I will be your boon companion all the way; and then he disappeared."
         }
-      ]
+      ],
+      "shortSection": "向門徒顯現"
     },
     {
       "id": "176",
@@ -22020,7 +22196,8 @@
           "number": "37",
           "text": "He is the God-man of today; but every one of earth shall overcome and be like him, a son of God."
         }
-      ]
+      ],
+      "shortSection": "向東方賢者顯現"
     },
     {
       "id": "177",
@@ -22144,7 +22321,8 @@
           "number": "29",
           "text": "Then Jesus vanished from their sight, but the disciples were established in their faith."
         }
-      ]
+      ],
+      "shortSection": "聖殿顯現與多馬"
     },
     {
       "id": "178",
@@ -22340,7 +22518,8 @@
           "number": "47",
           "text": "The masters looked; the form upon the sacred pedestal had gone, but every temple priest, and every living creature said, Praise God."
         }
-      ]
+      ],
+      "shortSection": "向各地友人顯現"
     },
     {
       "id": "179",
@@ -22476,7 +22655,8 @@
           "number": "32",
           "text": "Behold, for now we know that he, the Nazarene, has risen from the dead for we have seen him face to face."
         }
-      ]
+      ],
+      "shortSection": "加利利的顯現"
     },
     {
       "id": "180",
@@ -22596,7 +22776,8 @@
           "number": "28",
           "text": "And they were constantly in prayer and holy thought. They waited for the Holy Breath, and for the coming of the promised power from on high."
         }
-      ]
+      ],
+      "shortSection": "託付門徒與升天"
     },
     {
       "id": "181",
@@ -22672,7 +22853,8 @@
           "number": "17",
           "text": "Thomas, James the son of Alpheus and Simon Zelotes; Matthew, Jude, the son of Alpheus and Matthias."
         }
-      ]
+      ],
+      "shortSection": "選立馬提亞"
     },
     {
       "id": "182",
@@ -22840,7 +23022,8 @@
           "number": "40",
           "text": "And in one day the Christine Church became a mighty power; and Christ became a mighty word that thrilled the multitudes in many lands."
         }
-      ]
+      ],
+      "shortSection": "五旬節與教會"
     }
   ]
 }

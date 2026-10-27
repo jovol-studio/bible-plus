@@ -12,7 +12,8 @@
     "sha256": "a9178b786207a141d5c3c2af25c3b76d71ed6022c4b969fd32c0199b22639cc0",
     "rightsUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/life-of-adam-and-eve.html",
     "rightsNotice": "英文歷史譯本的譯者及版次見上述來源署名；來源網站將該版本標示為公版。這不是全球適用的授權保證，後來的導言、編輯或網站內容不因此一併成為公版；本應用未收錄網站的現代導言。",
-    "rightsReviewed": "2026-10-26"
+    "rightsReviewed": "2026-10-26",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的內容摘要，不是經文翻譯。閱讀第 1–51 章為拉丁文生平；第 52–64 章為斯拉夫文附錄原第 28–40 章。選單使用連續閱讀章號，原版本名稱與章號保留於資料中。"
   },
   "chapters": [
     {
@@ -28,7 +29,8 @@
           "number": "1",
           "text": "When they were driven out from paradise, they made themselves a booth, and spent seven days mourning and lamenting in great grief."
         }
-      ]
+      ],
+      "shortSection": "被逐後的哀哭"
     },
     {
       "id": "2",
@@ -43,7 +45,8 @@
           "number": "2",
           "text": "Then Eve said to Adam: 'My lord, I am hungry. Go, look for (something) for us to eat. Perchance the Lord God will look back and pity us and recall us to the place in which we were before."
         }
-      ]
+      ],
+      "shortSection": "飢餓與尋找食物"
     },
     {
       "id": "3",
@@ -62,7 +65,8 @@
           "number": "3",
           "text": "Adam answered: 'Forbear, Eve, from such words, that peradventure God bring not some other curse upon us. How is it possible that I should stretch forth my hand against my own flesh? Nay, let us arise and look for something for us to live on, that we fail not.'"
         }
-      ]
+      ],
+      "shortSection": "夏娃求死與亞當勸阻"
     },
     {
       "id": "4",
@@ -81,7 +85,8 @@
           "number": "3",
           "text": "But it is just and right that we lament before the sight of God who made us. Let us repent with a great penitence: perchance the Lord will be gracious to us and will pity us and give us a share of something for our living.'"
         }
-      ]
+      ],
+      "shortSection": "決意向上帝悔罪"
     },
     {
       "id": "5",
@@ -100,7 +105,8 @@
           "number": "3",
           "text": "My lord, how much penitence hast thou thought (to do) for I have brought trouble and anguish upon thee?'"
         }
-      ]
+      ],
+      "shortSection": "商議悔罪苦修"
     },
     {
       "id": "6",
@@ -115,7 +121,8 @@
           "number": "2",
           "text": "And do thou stand in the water of the river thirty-seven days. But I will spend forty days in the water of Jordan, perchance the Lord God will take pity upon us.'"
         }
-      ]
+      ],
+      "shortSection": "約定入河禁食"
     },
     {
       "id": "7",
@@ -130,7 +137,8 @@
           "number": "2",
           "text": "Likewise, Adam walked to the river Jordan and stood on a stone up to his neck in water."
         }
-      ]
+      ],
+      "shortSection": "各自入河悔罪"
     },
     {
       "id": "8",
@@ -149,7 +157,8 @@
           "number": "3",
           "text": "Forthwith, all living things came and surrounded him, and, from that hour, the water of Jordan stood (still) and its current was stayed.'"
         }
-      ]
+      ],
+      "shortSection": "萬物與亞當同悲"
     },
     {
       "id": "9",
@@ -176,7 +185,8 @@
           "number": "5",
           "text": "Now come out of the water and I will conduct you to the place where your victual hath been made ready.'"
         }
-      ]
+      ],
+      "shortSection": "撒但假扮天使"
     },
     {
       "id": "10",
@@ -199,7 +209,8 @@
           "number": "4",
           "text": "How hast thou been again ensnared by our adversary, by whose means we have been estranged from our abode in paradise and spiritual joy?'"
         }
-      ]
+      ],
+      "shortSection": "夏娃再次受騙"
     },
     {
       "id": "11",
@@ -218,7 +229,8 @@
           "number": "3",
           "text": "Have we taken away thy glory and caused thee to be without honour? Why dost thou harry us, thou enemy (and persecute us) to the death in wickedness and envy?'"
         }
-      ]
+      ],
+      "shortSection": "夏娃質問魔鬼"
     },
     {
       "id": "12",
@@ -241,7 +253,8 @@
           "number": "3",
           "text": "What have I done to thee or what is my fault against thee? Seeing that thou hast received no harm or injury from us, why dost thou pursue us?'"
         }
-      ]
+      ],
+      "shortSection": "魔鬼訴說敵意"
     },
     {
       "id": "13",
@@ -256,7 +269,8 @@
           "number": "2",
           "text": "When thou wast formed, I was hurled out of the presence of God and banished from the company of the angels. When God blew into thee the breath of life and thy face and likeness was made in the image of God, Michael also brought thee and made (us) worship thee in the sight of God; and God the Lord spake: Here is Adam. I have made thee in our image and likeness.'"
         }
-      ]
+      ],
+      "shortSection": "亞當受造與天使"
     },
     {
       "id": "14",
@@ -275,7 +289,8 @@
           "number": "3",
           "text": "And I answered, 'I have no (need) to worship Adam.' And since Michael kept urging me to worship, I said to him, 'Why dost thou urge me? I will not worship an inferior and younger being (than I). I am his senior in the Creation, before he was made was I already made. It is his duty to worship me.'"
         }
-      ]
+      ],
+      "shortSection": "撒但拒絕敬拜"
     },
     {
       "id": "15",
@@ -290,7 +305,8 @@
           "number": "3",
           "text": "And I said, 'If He be wrath with me, I will set my seat above the stars of heaven and will be like the Highest.'"
         }
-      ]
+      ],
+      "shortSection": "撒但妄圖高升"
     },
     {
       "id": "16",
@@ -313,7 +329,8 @@
           "number": "4",
           "text": "And we were grieved when we saw thee in such joy and luxury. And with guile I cheated thy wife and caused thee to be expelled through her (doing) from thy joy and luxury, as I have been driven out of my glory."
         }
-      ]
+      ],
+      "shortSection": "墮落與嫉妒的起因"
     },
     {
       "id": "17",
@@ -324,7 +341,8 @@
           "number": "1",
           "text": "When Adam heard the devil say this, he cried out and wept and spake: 'O Lord my God, my life is in thy hands. Banish this Adversary far from me, who seeketh to destroy my soul, and give me his glory which he himself hath lost.' 2, 3. And at that moment, the devil vanished before him. But Adam endured in his penance, standing for forty days (on end) in the water of Jordan."
         }
-      ]
+      ],
+      "shortSection": "亞當求主驅逐仇敵"
     },
     {
       "id": "18",
@@ -347,7 +365,8 @@
           "number": "3",
           "text": "And she made there a booth, while she had in her womb offspring of three months old."
         }
-      ]
+      ],
+      "shortSection": "夏娃離去獨居"
     },
     {
       "id": "19",
@@ -366,7 +385,8 @@
           "number": "3",
           "text": "And she said to herself: 'Who shall tell my lord Adam? I implore you, ye luminaries of heaven, what time ye return to the east, bear a message to my lord Adam.'"
         }
-      ]
+      ],
+      "shortSection": "產痛中求助"
     },
     {
       "id": "20",
@@ -385,7 +405,8 @@
           "number": "3",
           "text": "And Adam entreated the Lord for Eve."
         }
-      ]
+      ],
+      "shortSection": "亞當為夏娃代禱"
     },
     {
       "id": "21",
@@ -404,7 +425,8 @@
           "number": "3",
           "text": "And she bore a son and he was shining; and at once the babe rose up and ran and bore a blade of grass in his hands, and gave it to his mother, and his name was called Cain."
         }
-      ]
+      ],
+      "shortSection": "天使相助與該隱出生"
     },
     {
       "id": "22",
@@ -431,7 +453,8 @@
           "number": "5",
           "text": "And Adam said, 'Alas if Cain slew Abel. Yet let us separate them from each other mutually, and let us make for each of them separate dwellings.'"
         }
-      ]
+      ],
+      "shortSection": "學習耕種與不祥夢兆"
     },
     {
       "id": "23",
@@ -450,7 +473,8 @@
           "number": "3",
           "text": "And thereafter Adam knew his wife and he begat a son and called his name Seth."
         }
-      ]
+      ],
+      "shortSection": "亞伯被殺與塞特出生"
     },
     {
       "id": "24",
@@ -465,7 +489,8 @@
           "number": "2",
           "text": "And after Adam had begotten Seth, he lived eight hundred years and begat thirty sons and thirty daughters; in all sixty-three children. And they were increased over the face of the earth in their nations."
         }
-      ]
+      ],
+      "shortSection": "亞當子孫繁衍"
     },
     {
       "id": "25",
@@ -488,7 +513,8 @@
           "number": "3",
           "text": "And I saw a chariot like the wind and its wheels were fiery and I was caught up into the Paradise of righteousness, and I saw the Lord sitting and his face was flaming fire that could not be endured. And many thousands of angels were on the right and the left of that chariot."
         }
-      ]
+      ],
+      "shortSection": "亞當被提見異象"
     },
     {
       "id": "26",
@@ -503,7 +529,8 @@
           "number": "2",
           "text": "And God said to me, 'Behold thou diest, since thou hast transgressed the commandment of God, for thou didst hearken rather to the voice of thy wife, whom I gave into thy power, that thou mightst hold her to thy will. Yet thou didst listen to her and didst pass by My words.'"
         }
-      ]
+      ],
+      "shortSection": "上帝宣告死亡"
     },
     {
       "id": "27",
@@ -522,7 +549,8 @@
           "number": "3",
           "text": "And lo! a word concerning thee came upon me and the Lord said to me, 'Since thy days †were fashioned†, thou hast been created with a love of knowledge; therefore there shall not be taken from thy seed for ever the (right) to serve Me.'"
         }
-      ]
+      ],
+      "shortSection": "亞當懇求恩眷"
     },
     {
       "id": "28",
@@ -545,7 +573,8 @@
           "number": "4",
           "text": "And Michael held a rod in his hand, and he touched the waters, which were round about paradise, and they froze hard."
         }
-      ]
+      ],
+      "shortSection": "讚美與離開異象"
     },
     {
       "id": "29",
@@ -592,7 +621,8 @@
           "number": "10",
           "text": "And in that time, shall men be purified by water from their sins. But those who are unwilling to be purified by water shall be condemned. And happy shall the man be, who hath ruled his soul, when the Judgement shall come to pass and the greatness of God be seen among men and their deeds be inquired into by God the just judge."
         }
-      ]
+      ],
+      "shortSection": "聖殿興衰的預言"
     },
     {
       "id": "30",
@@ -615,7 +645,8 @@
           "number": "4",
           "text": "Then Adam answered and said: 'My sons, I am sick and in pain.' And all his sons said to him: 'What does it mean, father, this illness and pain?'"
         }
-      ]
+      ],
+      "shortSection": "亞當病重召集兒女"
     },
     {
       "id": "31",
@@ -634,7 +665,8 @@
           "number": "3",
           "text": "Seth answered, 'What is pain, my lord father? I am ignorant; but hide it not from us, but tell us (about it).'"
         }
-      ]
+      ],
+      "shortSection": "塞特詢問疼痛"
     },
     {
       "id": "32",
@@ -649,7 +681,8 @@
           "number": "2",
           "text": "But God gave a part of paradise to me and (a part) to your mother: the trees of the eastern part and the north, which is over against Aquilo he gave to me, and to your mother he gave the part of the south and the western part."
         }
-      ]
+      ],
+      "shortSection": "回述樂園禁令"
     },
     {
       "id": "33",
@@ -668,7 +701,8 @@
           "number": "3",
           "text": "And she did eat and gave to me."
         }
-      ]
+      ],
+      "shortSection": "回述受誘吃禁果"
     },
     {
       "id": "34",
@@ -683,7 +717,8 @@
           "number": "2",
           "text": "These hath God †appointed for chastisement†. All these things hath the Lord sent to me and to all our race.'"
         }
-      ]
+      ],
+      "shortSection": "違命帶來疾病"
     },
     {
       "id": "35",
@@ -702,7 +737,8 @@
           "number": "3",
           "text": "And Eve said to Adam: 'My lord, give me a part of thy pains, for this hath come to thee from fault of mine.'"
         }
-      ]
+      ],
+      "shortSection": "夏娃願分擔痛苦"
     },
     {
       "id": "36",
@@ -717,7 +753,8 @@
           "number": "2",
           "text": "Perchance He will have pity (upon you) and send His angel across to the tree of His mercy, whence floweth the oil of life, and will give you a drop of it, to anoint me with it, that I may have rest from these pains, by which I am being consumed.'"
         }
-      ]
+      ],
+      "shortSection": "尋求憐憫之油"
     },
     {
       "id": "37",
@@ -736,7 +773,8 @@
           "number": "3",
           "text": "And Eve said to the serpent in a loud voice: 'Accursed beast! how (is it that) thou hast not feared to let thyself loose against the image of God, but hast dared to fight with it?'"
         }
-      ]
+      ],
+      "shortSection": "塞特遭野獸咬傷"
     },
     {
       "id": "38",
@@ -751,7 +789,8 @@
           "number": "2",
           "text": "Tell me, Eve, how was thy mouth opened to eat of the fruit? But now if I shall begin to reprove thee thou canst not bear it.'"
         }
-      ]
+      ],
+      "shortSection": "野獸責問夏娃"
     },
     {
       "id": "39",
@@ -766,7 +805,8 @@
           "number": "2",
           "text": "And the beast said to Seth: 'See, I leave the presence of the image of God, as thou hast said.' Forthwith he left Seth, wounded by his teeth."
         }
-      ]
+      ],
+      "shortSection": "塞特斥退野獸"
     },
     {
       "id": "40",
@@ -781,7 +821,8 @@
           "number": "2",
           "text": "make loud moaning, imploring the Lord God to pity Adam in his pains and to send His angel to give them the oil from the 'tree of His mercy'."
         }
-      ]
+      ],
+      "shortSection": "樂園門前求油"
     },
     {
       "id": "41",
@@ -800,7 +841,8 @@
           "number": "3",
           "text": "I tell thee, Seth, (thou) man of God, weep not nor pray and entreat on account of the oil of the tree of mercy to anoint thy father Adam for the pains of his body."
         }
-      ]
+      ],
+      "shortSection": "米迦勒回應祈求"
     },
     {
       "id": "42",
@@ -827,7 +869,8 @@
           "number": "5",
           "text": "Then the most beloved Son of God, Christ, descending on earth shall lead thy father Adam to Paradise to the tree of mercy.]"
         }
-      ]
+      ],
+      "shortSection": "末日醫治的應許"
     },
     {
       "id": "43",
@@ -846,7 +889,8 @@
           "number": "3",
           "text": "And Eve and Seth returned bearing with them herbs of fragrance, i.e. nard and crocus and calamus and cinnamon."
         }
-      ]
+      ],
+      "shortSection": "預告亞當死期"
     },
     {
       "id": "44",
@@ -873,7 +917,8 @@
           "number": "5",
           "text": "When Eve heard these words, she began to weep and moan."
         }
-      ]
+      ],
+      "shortSection": "亞當囑咐夏娃"
     },
     {
       "id": "45",
@@ -892,7 +937,8 @@
           "number": "3",
           "text": "And it came to pass that when he had finished all his discourse, he gave up the ghost."
         }
-      ]
+      ],
+      "shortSection": "亞當離世"
     },
     {
       "id": "46",
@@ -911,7 +957,8 @@
           "number": "3",
           "text": "and see what is the doom of the Lord God concerning him. His creature is he, and God hath pitied him.'"
         }
-      ]
+      ],
+      "shortSection": "眾人哀哭與天使顯現"
     },
     {
       "id": "47",
@@ -922,7 +969,8 @@
           "number": "1",
           "text": "And all angels blew their trumpets, and cried: 'Blessed art thou, O Lord, for thou hast had pity on Thy creature.'"
         }
-      ]
+      ],
+      "shortSection": "天使稱頌上帝憐憫"
     },
     {
       "id": "48",
@@ -957,7 +1005,8 @@
           "number": "7",
           "text": "and Michael and Uriel said: 'Just as ye have seen, in like manner, bury your dead.'"
         }
-      ]
+      ],
+      "shortSection": "安葬亞當與亞伯"
     },
     {
       "id": "49",
@@ -980,7 +1029,8 @@
           "number": "3",
           "text": "On account of your transgression, Our Lord will bring upon your race the anger of his judgement, first by water, the second time by fire; by these two, will the Lord judge the whole human race."
         }
-      ]
+      ],
+      "shortSection": "夏娃預告水火審判"
     },
     {
       "id": "50",
@@ -999,7 +1049,8 @@
           "number": "3",
           "text": "When Eve had said all this to her children, she spread out her hands to heaven in prayer, and bent her knees to the earth, and while she worshipped the Lord and gave him thanks, she gave up the ghost. Thereafter, all her children buried her with loud lamentation."
         }
-      ]
+      ],
+      "shortSection": "刻錄生平與夏娃離世"
     },
     {
       "id": "51",
@@ -1018,7 +1069,8 @@
           "number": "3",
           "text": "Thereupon Seth made the tables."
         }
-      ]
+      ],
+      "shortSection": "哀悼期限與立碑"
     },
     {
       "id": "52",
@@ -1033,7 +1085,8 @@
           "number": "2",
           "text": "And seven days passed by and we had nothing to eat and were consumed with great hunger, and I Eve cried with a loud voice: 'Pity me, O Lord, My Creator; for my sake Adam suffereth thus!'"
         }
-      ]
+      ],
+      "shortSection": "附錄：樂園門前哀哭"
     },
     {
       "id": "53",
@@ -1048,7 +1101,8 @@
           "number": "2",
           "text": "Then Adam spake to me: 'I have thoughts of killing thee, but I fear since God created thine image and thou showest penitence and criest to God; hence my heart hath not departed from thee.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：夫妻相勸求生"
     },
     {
       "id": "54",
@@ -1063,7 +1117,8 @@
           "number": "2",
           "text": "'Have compassion on thy creature. O Lord Creator, allow us food.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：尋食與呼求"
     },
     {
       "id": "55",
@@ -1082,7 +1137,8 @@
           "number": "3",
           "text": "Then the Lord said: 'Thorns and thistles shall spring up from under thy hands; and from thy sweat shalt thou eat (bread), and thy wife shall tremble when she looketh upon thee.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：天使代求"
     },
     {
       "id": "56",
@@ -1101,7 +1157,8 @@
           "number": "3",
           "text": "Then indeed he took the oxen and began to plough."
         }
-      ]
+      ],
+      "shortSection": "附錄：命名與耕種"
     },
     {
       "id": "57",
@@ -1120,7 +1177,8 @@
           "number": "3",
           "text": "Adam said: 'The things of Heaven are the Lord's, and the things of earth and Paradise and the whole Universe.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：魔鬼阻止耕田"
     },
     {
       "id": "58",
@@ -1143,7 +1201,8 @@
           "number": "4",
           "text": "The devil said: 'Write me thy bond.' And Adam wrote: 'Who is lord of the earth, to the same do I belong and my children.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：亞當寫下契約"
     },
     {
       "id": "59",
@@ -1162,7 +1221,8 @@
           "number": "3",
           "text": "I, for my part, said: 'Do thou, (my) lord, fast forty days, but I will fast forty-four.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：決意禁食"
     },
     {
       "id": "60",
@@ -1185,7 +1245,8 @@
           "number": "4",
           "text": "And Adam came to Jordan and he entered into the water and he plunged himself altogether into the flood, even (to) the hairs of his head, while he made supplication to God and sent (up) prayers to Him."
         }
-      ]
+      ],
+      "shortSection": "附錄：入河與防備欺騙"
     },
     {
       "id": "61",
@@ -1196,7 +1257,8 @@
           "number": "1",
           "text": "And there, the angels came together and all living creatures, wild and tame, and all birds that fly, (and) they surrounded Adam, like a wall, praying to God for Adam."
         }
-      ]
+      ],
+      "shortSection": "附錄：眾生為亞當代求"
     },
     {
       "id": "62",
@@ -1211,7 +1273,8 @@
           "number": "2",
           "text": "'Come out of the water, Eve, God hath heard thy prayers and (heard) us angels. God hath fulfilled the prayers of those who intercede on thy behalf. God hath sent me to thee, that thou mayst come out of the water.'"
         }
-      ]
+      ],
+      "shortSection": "附錄：魔鬼再次偽裝"
     },
     {
       "id": "63",
@@ -1226,7 +1289,8 @@
           "number": "2",
           "text": "(and) he took me and led me out of the water."
         }
-      ]
+      ],
+      "shortSection": "附錄：夏娃識破騙局"
     },
     {
       "id": "64",
@@ -1237,7 +1301,8 @@
           "number": "1",
           "text": "Then Adam cried out with a loud voice: 'Be silent, Eve, for already is my spirit straitened in my body; arise, go forth, utter prayers to God, till I deliver up my spirit to God.' (Passage follows exactly parallel to Apocalypsis Mosis xxxii. seq., but in abbreviated form.)"
         }
-      ]
+      ],
+      "shortSection": "附錄：亞當臨終囑咐"
     }
   ]
 }

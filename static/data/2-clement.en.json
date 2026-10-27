@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "8f0743c5ce6d0b51c1c50d85ac4aa603d5adffd3a918eae4bf23b27878acda51",
-    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -52,7 +53,8 @@
           "text": "For He called us, when we were not, and from not being He willed us to be."
         }
       ],
-      "sourceReference": "2 Clem. 1"
+      "sourceReference": "2 Clem. 1",
+      "shortSection": "感念基督救恩"
     },
     {
       "id": "2",
@@ -88,7 +90,8 @@
           "text": "So also Christ willed to save the things which were perishing And He saved many, coming and calling us when we were even now perishing."
         }
       ],
-      "sourceReference": "2 Clem. 2"
+      "sourceReference": "2 Clem. 2",
+      "shortSection": "教會蒙召"
     },
     {
       "id": "3",
@@ -116,7 +119,8 @@
           "text": "Now He saith also in Isaiah, This people honoreth me with their lips, but their heart is far from Me."
         }
       ],
-      "sourceReference": "2 Clem. 3"
+      "sourceReference": "2 Clem. 3",
+      "shortSection": "以行動認識主"
     },
     {
       "id": "4",
@@ -144,7 +148,8 @@
           "text": "For this cause, if ye do these things, the Lord said, Though ye be gathered together with Me in My bosom, and do not My commandments, I will cast you away and will say unto you, Depart from Me, I know you not whence ye are, ye workers of iniquity."
         }
       ],
-      "sourceReference": "2 Clem. 4"
+      "sourceReference": "2 Clem. 4",
+      "shortSection": "遵行主的話"
     },
     {
       "id": "5",
@@ -180,7 +185,8 @@
           "text": "For when we desire to obtain these things we fall away from the righteous path."
         }
       ],
-      "sourceReference": "2 Clem. 5"
+      "sourceReference": "2 Clem. 5",
+      "shortSection": "輕看今世"
     },
     {
       "id": "6",
@@ -224,7 +230,8 @@
           "text": "But if even such righteous men as these cannot by their righteous deeds deliver their children, with what confidence shall we, if we keep not our baptism pure and undefiled, enter into the kingdom of God? Or who shall be our advocate, unless we be found having holy and righteous works?"
         }
       ],
-      "sourceReference": "2 Clem. 6"
+      "sourceReference": "2 Clem. 6",
+      "shortSection": "不可事奉二主"
     },
     {
       "id": "7",
@@ -256,7 +263,8 @@
           "text": "For as concerning them that have not kept the seal, He saith, Their worm shall not die, and their fire shall not be quenched, and they shall be for a spectacle unto all flesh."
         }
       ],
-      "sourceReference": "2 Clem. 7"
+      "sourceReference": "2 Clem. 7",
+      "shortSection": "努力奔跑得冠冕"
     },
     {
       "id": "8",
@@ -288,7 +296,8 @@
           "text": "So then He meaneth this, Keep the flesh pure and the seal unstained, to the end that we may receive life."
         }
       ],
-      "sourceReference": "2 Clem. 8"
+      "sourceReference": "2 Clem. 8",
+      "shortSection": "及時悔改"
     },
     {
       "id": "9",
@@ -340,7 +349,8 @@
           "text": "For the Lord also said, These are my brethren, which do the will of My Father."
         }
       ],
-      "sourceReference": "2 Clem. 9"
+      "sourceReference": "2 Clem. 9",
+      "shortSection": "身體復活"
     },
     {
       "id": "10",
@@ -368,7 +378,8 @@
           "text": "And if verily they were doing these things by themselves alone, it had been tolerable: but now they continue teaching evil to innocent souls, not knowing that they shall have their condemnation doubled, both themselves and their hearers."
         }
       ],
-      "sourceReference": "2 Clem. 10"
+      "sourceReference": "2 Clem. 10",
+      "shortSection": "追求德行"
     },
     {
       "id": "11",
@@ -404,7 +415,8 @@
           "text": "If therefore we shalt have wrought righteousness in the sight of God, we shalt enter into His kingdom and shall receive the promises which ear hath not heard nor eye seen, nor eye seen, neither hath it entered into the heart of man."
         }
       ],
-      "sourceReference": "2 Clem. 11"
+      "sourceReference": "2 Clem. 11",
+      "shortSection": "信靠上帝應許"
     },
     {
       "id": "12",
@@ -436,7 +448,8 @@
           "text": "These things if ye do, saith He, the kingdom of my father shall come."
         }
       ],
-      "sourceReference": "2 Clem. 12"
+      "sourceReference": "2 Clem. 12",
+      "shortSection": "等候上帝國"
     },
     {
       "id": "13",
@@ -460,7 +473,8 @@
           "text": "For when they here from us that God saith, It is no thank unto you, if ye love them that love you, but this is thank unto you, if ye love your enemies and them that hate you; when they hear these things, I say, they marvel at their exceeding goodness; but when they see that we not only do not love us, they laugh us to scorn, and the Name is blasphemed."
         }
       ],
-      "sourceReference": "2 Clem. 13"
+      "sourceReference": "2 Clem. 13",
+      "shortSection": "悔改與好見證"
     },
     {
       "id": "14",
@@ -488,7 +502,8 @@
           "text": "So excellent is the life and immortality which this flesh can receive as its portion, if the Holy Spirit be joined to it. No man can declare or tell those things which the Lord hath prepared for His elect."
         }
       ],
-      "sourceReference": "2 Clem. 14"
+      "sourceReference": "2 Clem. 14",
+      "shortSection": "屬靈的教會"
     },
     {
       "id": "15",
@@ -516,7 +531,8 @@
           "text": "Seeing then that we are partakers of so great kindness, let us not grudge ourselves the obtaining of so many good things. For in proportion as the pleasure is great which these words bring to them that have performed them, so also is the condemnation great which they bring to them that have been disobedient."
         }
       ],
-      "sourceReference": "2 Clem. 15"
+      "sourceReference": "2 Clem. 15",
+      "shortSection": "勸人歸正"
     },
     {
       "id": "16",
@@ -540,7 +556,8 @@
           "text": "Almsgiving therefore is a good thing, even as repentance from sin&gt; Fasting is better than prayer, but almsgiving better than both. And love covereth a multitude of sins, but prayer out of a good conscience delivereth from death. Blessed is every man that is found full of these. For almsgiving lifteth off the burden of sin."
         }
       ],
-      "sourceReference": "2 Clem. 16"
+      "sourceReference": "2 Clem. 16",
+      "shortSection": "施捨與悔改"
     },
     {
       "id": "17",
@@ -576,7 +593,8 @@
           "text": "But the righteous, done good and endured torments and hated pleasures of the soul, when they shall behold them that have done amiss and denied Jesus by their words or by their deeds, how that they are punished with grievous torments in unquenchable fire, shall give glory to God, saying, There will be hope for him that hath served God with his whole heart."
         }
       ],
-      "sourceReference": "2 Clem. 17"
+      "sourceReference": "2 Clem. 17",
+      "shortSection": "全心回轉"
     },
     {
       "id": "18",
@@ -592,7 +610,8 @@
           "text": "For I myself too, being an utter sinner and not yet escaped from temptation, but being still amidst the engines of the devil, do my diligence to follow after righteousness, that I may prevail so far at least as to come near unto it, while I fear the judgment to come."
         }
       ],
-      "sourceReference": "2 Clem. 18"
+      "sourceReference": "2 Clem. 18",
+      "shortSection": "感恩與忠心"
     },
     {
       "id": "19",
@@ -616,7 +635,8 @@
           "text": "Therefore let not the godly be grieved, if he be miserable in the times that now are: a blessed time awaiteth him. He shall live again in heaven with our fathers, and shall have rejoicing throughout a sorrowless eternity."
         }
       ],
-      "sourceReference": "2 Clem. 19"
+      "sourceReference": "2 Clem. 19",
+      "shortSection": "實踐所聽的道"
     },
     {
       "id": "20",
@@ -644,7 +664,8 @@
           "text": "To the only God invisible, the Father of truth, who sent forth unto us the Savior and Prince of immortality, through whom also He made manifest unto us the truth and the heavenly life, to Him be the glory for ever and ever. Amen."
         }
       ],
-      "sourceReference": "2 Clem. 20"
+      "sourceReference": "2 Clem. 20",
+      "shortSection": "忍耐等候賞賜"
     }
   ]
 }

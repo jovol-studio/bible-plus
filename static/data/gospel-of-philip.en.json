@@ -11,7 +11,8 @@
     "rightsNotice": "譯者在來源頁明確將此英譯奉獻為公版，允許任何用途之複製及修改。",
     "retrieved": "2026-10-27",
     "sha256": "4f45d536e9b01c3ae50e0e31b96bc03d99123ed95440afccb98980e6edd30793",
-    "editionNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -32,7 +33,8 @@
           "text": "When we were Hebrews, we were fatherless – we had (only) our mother. But when we became Christians, we gained both father and mother."
         }
       ],
-      "sourceHeading": "Gentiles, Hebrews, and Christians"
+      "sourceHeading": "Gentiles, Hebrews, and Christians",
+      "shortSection": "外邦人與信徒"
     },
     {
       "id": "2",
@@ -52,7 +54,8 @@
           "text": "The light and the darkness, the right and the left, are brothers of each other. They're inseparable. So, those who are good aren't good, those who are bad aren't bad, nor is life (really) life, nor is death (really) death. Because of this, each one will be dissolved into its origin from the beginning. But those who are exalted above the world are indissoluble and eternal."
         }
       ],
-      "sourceHeading": "Life, Death, Light, and Darkness"
+      "sourceHeading": "Life, Death, Light, and Darkness",
+      "shortSection": "生命與光明"
     },
     {
       "id": "3",
@@ -68,7 +71,8 @@
           "text": "There's one name that isn't uttered in the world: the name which the Father gave to the Son. It's exalted over everything; it's the Father's name, because the Son wouldn't have become father unless he had taken the name of the Father. Those who have this name know it, but don't say it; and those who don't have it, don't know it. But Truth brought names into the world for us, because it's impossible for us to learn it (Truth) without these names. There's only one Truth, but it's many things for us, to teach this one thing in love through many things."
         }
       ],
-      "sourceHeading": "Names"
+      "sourceHeading": "Names",
+      "shortSection": "名稱與真實"
     },
     {
       "id": "4",
@@ -88,7 +92,8 @@
           "text": "The rulers thought they did what they did by their own power and will, but the Holy Spirit was secretly accomplishing everything it wanted to through them. Truth, which has existed from the beginning, is sown everywhere; and many see it being sown, but few see it being reaped."
         }
       ],
-      "sourceHeading": "The Rulers"
+      "sourceHeading": "The Rulers",
+      "shortSection": "掌權者"
     },
     {
       "id": "5",
@@ -104,7 +109,8 @@
           "text": "And the Lord [wouldn't] have said, \"my [Father who is in] heaven\" unless [he] had another father. Instead, he would simply have said [\"my Father.\"] The Lord said to the [disciples, \"…] 56 [from] every [house] and bring into the Father's house, but don't steal (anything) from the Father's house or carry it away.\""
         }
       ],
-      "sourceHeading": "The Virgin Birth"
+      "sourceHeading": "The Virgin Birth",
+      "shortSection": "童女生子之論"
     },
     {
       "id": "6",
@@ -116,7 +122,8 @@
           "text": "\"Jesus\" is a hidden name; \"Christ\" is a revealed name. So \"Jesus\" is not translated, but he's called by his name \"Jesus.\" But the name \"Christ\" in Syriac is \"Messiah,\" in Greek \"Christ,\" and all the others have it according to their own language. \"The Nazarene\" reveals what's hidden. Christ has everything within himself, whether human or angel or mystery, and the Father."
         }
       ],
-      "sourceHeading": "Jesus, Christ, Messiah, Nazarene"
+      "sourceHeading": "Jesus, Christ, Messiah, Nazarene",
+      "shortSection": "耶穌的稱號"
     },
     {
       "id": "7",
@@ -144,7 +151,8 @@
           "text": "Everything is purified by water and fire – the visible by the visible, the hidden by the hidden. Some things are hidden by things that are visible. There's water in water, and fire in chrism."
         }
       ],
-      "sourceHeading": "The Resurrection"
+      "sourceHeading": "The Resurrection",
+      "shortSection": "復活之論"
     },
     {
       "id": "8",
@@ -164,7 +172,8 @@
           "text": "Don't despise the lamb, because without him it's impossible to see the door. No one will be able to approach the king naked."
         }
       ],
-      "sourceHeading": "Seeing Jesus"
+      "sourceHeading": "Seeing Jesus",
+      "shortSection": "看見耶穌"
     },
     {
       "id": "9",
@@ -208,7 +217,8 @@
           "text": "Echamoth is one thing and Echmoth another. Echamoth is simply Wisdom, but Echmoth is the Wisdom of Death, which knows death. This is called \"the little Wisdom.\""
         }
       ],
-      "sourceHeading": "Father, Son, and Holy Spirit"
+      "sourceHeading": "Father, Son, and Holy Spirit",
+      "shortSection": "父子與聖靈"
     },
     {
       "id": "10",
@@ -224,7 +234,8 @@
           "text": "[The one who's been] formed [is beautiful, but] you'd find his children being 61 noble forms. If he weren't formed but begotten, you'd find that his seed was noble. But now he was formed, and he begot. What nobility is this? First there was adultery, and then murder; and he (Cain) was begotten in adultery, because he was the son of the serpent. Because of this he became a murderer like his father too, and he killed his brother (Abel). Every partnership between those who are dissimilar is adultery."
         }
       ],
-      "sourceHeading": "Humans and Animals"
+      "sourceHeading": "Humans and Animals",
+      "shortSection": "人與動物"
     },
     {
       "id": "11",
@@ -292,7 +303,8 @@
           "text": "If someone goes down into the water and comes up without having received anything, and says, \"I'm a Christian,\" they've borrowed the name at interest. But if they receive the Holy Spirit, they have the gift of the name. Whoever has received a gift doesn't have it taken away, but whoever has borrowed it at interest has to give it back. That's what it's like when someone comes into being in a mystery."
         }
       ],
-      "sourceHeading": "Becoming Christians"
+      "sourceHeading": "Becoming Christians",
+      "shortSection": "成為基督徒"
     },
     {
       "id": "12",
@@ -308,7 +320,8 @@
           "text": "The impure spirits take male and female [forms]. The males are those that are intimate with the souls which dwell in a female form, and the females are those that mingle with those in a male form through disobedience. No one will be able to escape being bound by them without receiving a male power and a female one – the groom and the bride – in the image of the bridal chamber. When the foolish females see a male sitting alone, they jump on him, play with him, and defile him. In the same way, when the foolish males see a beautiful female sitting alone, they seduce and coerce her, wanting to defile her. But if they see the husband and his wife sitting together, the females can't go inside the husband, nor the males inside the wife. That's what it's like when the image unites with the angel; no one will be able to dare to go inside the [male] or the female."
         }
       ],
-      "sourceHeading": "The Mystery of Marriage"
+      "sourceHeading": "The Mystery of Marriage",
+      "shortSection": "婚姻的奧秘"
     },
     {
       "id": "13",
@@ -352,7 +365,8 @@
           "text": "Before Christ, some came from where they were no longer able to enter, and they went where they were no longer able to come out. Then Christ came. He brought out those who entered, and brought in those who went out."
         }
       ],
-      "sourceHeading": "Overcoming the World"
+      "sourceHeading": "Overcoming the World",
+      "shortSection": "勝過世界"
     },
     {
       "id": "14",
@@ -416,7 +430,8 @@
           "text": "In this world, the slaves work for the free. In the kingdom of heaven, the free will serve the slaves. The children of the bridal chamber will serve the children of the [marriage. The] children of the bridal chamber have a [single] name: \"Rest.\" [Being] together they don't need to take form, [because they have] contemplation […] they're many […] with those who are in the […] the glories of the […] not […] them […] go down to the [water …] they'll redeem themselves […] that is, those who have […] in his name, because he said: \"[That's the way] we'll fulfill 73 all righteousness.\""
         }
       ],
-      "sourceHeading": "Adam, Eve, and the Bridal Chamber"
+      "sourceHeading": "Adam, Eve, and the Bridal Chamber",
+      "shortSection": "亞當夏娃與新房"
     },
     {
       "id": "15",
@@ -496,7 +511,8 @@
           "text": "Whoever is an unwilling slave will be able to be made free. Whoever has become free by the grace of their master and has sold themselves (back) into slavery won't be able to be made free any longer."
         }
       ],
-      "sourceHeading": "Baptism, Chrism, Eucharist, Bridal Chamber"
+      "sourceHeading": "Baptism, Chrism, Eucharist, Bridal Chamber",
+      "shortSection": "洗禮與聖禮"
     },
     {
       "id": "16",
@@ -520,7 +536,8 @@
           "text": "No [one will be able to] know [when the husband] 82 and the wife are intimate with each other, except they themselves, because the marriage of the world is a mystery for those who have married. If the defiled marriage is hidden, how much more is the undefiled marriage a true mystery! It's not fleshly, but pure. It isn't of desire, but of the will. It isn't of the darkness or the night, but it's of the day and the light. If a marriage is stripped naked, it becomes pornography – not only if the bride receives the seed of another man, but even if she leaves the chamber and is seen, she commits adultery. Let her reveal herself to her father, her mother, the best man, and the groom's children. They're allowed to enter the bridal chamber every day. But let the others yearn just to hear her voice and enjoy her perfume, and, like dogs, let them eat the crumbs that fall from the table. Grooms and brides belong to the bridal chamber. No one will be able to see the groom and the bride unless [they become] such."
         }
       ],
-      "sourceHeading": "Spiritual Growth"
+      "sourceHeading": "Spiritual Growth",
+      "shortSection": "靈性成長"
     },
     {
       "id": "17",
@@ -548,7 +565,8 @@
           "text": "As long as it's hidden, evil is inactive, but it hasn't been removed from among the Holy Spirit's seed. They're slaves of evil. But whenever it's revealed, then the perfect light will flow out upon everyone, and all of them who are in it will [receive the chrism]. Then the slaves will be made free and the captives will be redeemed. \"[Every] plant [which] my Father who's in heaven [hasn't] planted [will be] uprooted.\" Those who are separated will unite […] will be filled."
         }
       ],
-      "sourceHeading": "Uprooting Evil"
+      "sourceHeading": "Uprooting Evil",
+      "shortSection": "除去惡根"
     },
     {
       "id": "18",
@@ -568,7 +586,8 @@
           "text": "The Gospel According to Philip"
         }
       ],
-      "sourceHeading": "Conclusion"
+      "sourceHeading": "Conclusion",
+      "shortSection": "隱藏真理顯明"
     }
   ]
 }

@@ -14,7 +14,8 @@
     "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
     "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
     "retrieved": "2026-10-27",
-    "editionNote": "巴錄書第 1–5 章；第 6 章已獨立列為耶利米書信。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。"
+    "editionNote": "巴錄書第 1–5 章；第 6 章已獨立列為耶利米書信。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -132,7 +133,8 @@
           "text": "but we each walked in the imagination of his own wicked heart, to serve strange gods and to do what is evil in the sight of the Lord our God.",
           "sourceReference": "BAR 1:22"
         }
-      ]
+      ],
+      "shortSection": "被擄者認罪"
     },
     {
       "id": "2",
@@ -314,7 +316,8 @@
           "text": "And I will make an everlasting covenant with them to be their God, and they will be my people. I will no more remove my people Israel out of the land that I have given them.”",
           "sourceReference": "BAR 2:35"
         }
-      ]
+      ],
+      "shortSection": "祈求憐憫"
     },
     {
       "id": "3",
@@ -506,7 +509,8 @@
           "text": "Afterward she appeared upon earth, and lived with men.",
           "sourceReference": "BAR 3:37"
         }
-      ]
+      ],
+      "shortSection": "尋求智慧"
     },
     {
       "id": "4",
@@ -698,7 +702,8 @@
           "text": "Behold, your sons come, whom you sent away. They come gathered together from the east to the west at the word of the Holy One, rejoicing in the glory of God.",
           "sourceReference": "BAR 4:37"
         }
-      ]
+      ],
+      "shortSection": "錫安的哀哭與盼望"
     },
     {
       "id": "5",
@@ -750,7 +755,8 @@
           "text": "For God will lead Israel with joy in the light of his glory with the mercy and righteousness that come from him.",
           "sourceReference": "BAR 5:9"
         }
-      ]
+      ],
+      "shortSection": "耶路撒冷復興"
     }
   ]
 }

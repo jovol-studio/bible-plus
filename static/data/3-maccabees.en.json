@@ -14,7 +14,8 @@
     "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
     "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
     "retrieved": "2026-10-27",
-    "editionNote": "保留原章節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。"
+    "editionNote": "保留原章節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -167,7 +168,8 @@
           "text": "Not the men only, but the very walls and floor seemed to sound out, all things preferring death rather than to see the place defiled.",
           "sourceReference": "3MA 1:29"
         }
-      ]
+      ],
+      "shortSection": "君王企圖入殿"
     },
     {
       "id": "2",
@@ -339,7 +341,8 @@
           "text": "cheerfully looking forward to future aid, they abhorred their own apostates, considering them to be national foes, and depriving them of common fellowship and mutual help.",
           "sourceReference": "3MA 2:33"
         }
-      ]
+      ],
+      "shortSection": "西門禱告與迫害"
     },
     {
       "id": "3",
@@ -496,7 +499,8 @@
           "text": "The king’s letter was written in the above form.",
           "sourceReference": "3MA 3:30"
         }
-      ]
+      ],
+      "shortSection": "拘捕猶太人的詔令"
     },
     {
       "id": "4",
@@ -608,7 +612,8 @@
           "text": "Now this was an active interference of the unconquerable Providence which assisted the Jews from heaven.",
           "sourceReference": "3MA 4:21"
         }
-      ]
+      ],
+      "shortSection": "猶太人被押送"
     },
     {
       "id": "5",
@@ -870,7 +875,8 @@
           "text": "sent up an exceedingly great cry asking the Lord of all power to reveal himself, and have mercy upon those who now lay at the gates of hades.",
           "sourceReference": "3MA 5:51"
         }
-      ]
+      ],
+      "shortSection": "象群刑罰受阻"
     },
     {
       "id": "6",
@@ -1082,7 +1088,8 @@
           "text": "The king commended them, and wrote the following letter, of magnanimous import for them, to the commanders of every city:",
           "sourceReference": "3MA 6:41"
         }
-      ]
+      ],
+      "shortSection": "禱告與拯救"
     },
     {
       "id": "7",
@@ -1204,7 +1211,8 @@
           "text": "Blessed be the Redeemer of Israel forever! Amen.",
           "sourceReference": "3MA 7:23"
         }
-      ]
+      ],
+      "shortSection": "獲釋與歸回"
     }
   ]
 }

@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "8f0743c5ce6d0b51c1c50d85ac4aa603d5adffd3a918eae4bf23b27878acda51",
-    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -32,7 +33,8 @@
           "text": "For he lingered that he might be delivered up, even as the Lord did, to the end that we too might be imitators of him, not looking only to that which concerneth ourselves, but also to that which concerneth our neighbors. For it is the office of true and steadfast love, not only to desire that oneself be saved, but all the brethren also."
         }
       ],
-      "sourceReference": "MartPol. 1"
+      "sourceReference": "MartPol. 1",
+      "shortSection": "殉道記緣起"
     },
     {
       "id": "2",
@@ -56,7 +58,8 @@
           "text": "And in like manner also those that were condemned to the wild beasts endured fearful punishments, being made to lie on sharp shells and buffeted with other forms of manifold tortures, that the devil might, if possible, by the persistence of the punishment bring them to a denial; for he tried many wiles against them."
         }
       ],
-      "sourceReference": "MartPol. 2"
+      "sourceReference": "MartPol. 2",
+      "shortSection": "殉道者的堅忍"
     },
     {
       "id": "3",
@@ -72,7 +75,8 @@
           "text": "So after this all the multitude, marvelling at the bravery of the God-beloved and God-fearing people of the Christians, raised a cry, 'Away with the atheists; let search be made for Polycarp.'"
         }
       ],
-      "sourceReference": "MartPol. 3"
+      "sourceReference": "MartPol. 3",
+      "shortSection": "革馬尼古的勇氣"
     },
     {
       "id": "4",
@@ -84,7 +88,8 @@
           "text": "But one man, Quintus by name, a Phrygian newly arrived from Phrygia, when he saw the wild beasts, turned coward. He it was who had forced himself and some others to come forward of their own free will. This man the proconsul by much entreaty persuaded to swear the oath and to offer incense. For this cause therefore, brethren, we praise not those who deliver themselves up, since the Gospel doth not so teach us."
         }
       ],
-      "sourceReference": "MartPol. 4"
+      "sourceReference": "MartPol. 4",
+      "shortSection": "昆圖斯退縮"
     },
     {
       "id": "5",
@@ -100,7 +105,8 @@
           "text": "And while praying he falleth into a trance three days before his apprehension; and he saw his pillow burning with fire. And he turned and said unto those that were with him: 'It must needs be that I shall be burned alive.'"
         }
       ],
-      "sourceReference": "MartPol. 5"
+      "sourceReference": "MartPol. 5",
+      "shortSection": "避難與異夢"
     },
     {
       "id": "6",
@@ -116,7 +122,8 @@
           "text": "for it was impossible for him to lie concealed, seeing that the very persons who betrayed him were people of his own household. And the captain of the police, who chanced to have the very name, being called Herod, was eager to bring him into the stadium, that he himself might fulfill his appointed lot, being made a partaker with Christ, while they--his betrayers--underwent the punishment of Judas himself."
         }
       ],
-      "sourceReference": "MartPol. 6"
+      "sourceReference": "MartPol. 6",
+      "shortSection": "藏身處被發現"
     },
     {
       "id": "7",
@@ -136,7 +143,8 @@
           "text": "and on their consenting, he stood up and prayed, being so full of the grace of God, that for two hours he could not hold his peace, and those that heard were amazed, and many repented that they had come against such a venerable old man."
         }
       ],
-      "sourceReference": "MartPol. 7"
+      "sourceReference": "MartPol. 7",
+      "shortSection": "被捕與禱告"
     },
     {
       "id": "8",
@@ -156,7 +164,8 @@
           "text": "Then they, failing to persuade him, uttered threatening words and made him dismount with speed, so that he bruised his shin, as he got down from the carriage. And without even turning round, he went on his way promptly and with speed, as if nothing had happened to him, being taken to the stadium; there being such a tumult in the stadium that no man's voice could be so much as heard."
         }
       ],
-      "sourceReference": "MartPol. 8"
+      "sourceReference": "MartPol. 8",
+      "shortSection": "被押往競技場"
     },
     {
       "id": "9",
@@ -176,7 +185,8 @@
           "text": "But when the magistrate pressed him hard and said, 'Swear the oath, and I will release thee; revile the Christ,' Polycarp said, 'Fourscore and six years have I been His servant, and He hath done me no wrong. How then can I blaspheme my King who saved me?'"
         }
       ],
-      "sourceReference": "MartPol. 9"
+      "sourceReference": "MartPol. 9",
+      "shortSection": "拒絕否認基督"
     },
     {
       "id": "10",
@@ -192,7 +202,8 @@
           "text": "The proconsul said; 'Prevail upon the people.' But Polycarp said; 'As for thyself, I should have held thee worthy of discourse; for we have been taught to render, as is meet, to princes and authorities appointed by God such honor as does us no harm; but as for these, I do not hold them worthy, that I should defend myself before them.'"
         }
       ],
-      "sourceReference": "MartPol. 10"
+      "sourceReference": "MartPol. 10",
+      "shortSection": "公開承認信仰"
     },
     {
       "id": "11",
@@ -208,7 +219,8 @@
           "text": "Then he said to him again, 'I will cause thee to be consumed by fire, if thou despisest the wild beasts, unless thou repent.' But Polycarp said; 'Thou threatenest that fire which burneth for a season and after a little while is quenched: for thou art ignorant of the fire of the future judgment and eternal punishment, which is reserved for the ungodly. But why delayest thou? Come, do what thou wilt.'"
         }
       ],
-      "sourceReference": "MartPol. 11"
+      "sourceReference": "MartPol. 11",
+      "shortSection": "面對刑罰威脅"
     },
     {
       "id": "12",
@@ -228,7 +240,8 @@
           "text": "Then they thought fit to shout out with one accord that Polycarp should be burned alive. For it must needs be that the matter of the vision should be fulfilled, which was shown him concerning his pillow, when he saw it on fire while praying, and turning round he said prophetically to the faithful who were with him, 'I must needs be burned alive.'"
         }
       ],
-      "sourceReference": "MartPol. 12"
+      "sourceReference": "MartPol. 12",
+      "shortSection": "眾人要求處死"
     },
     {
       "id": "13",
@@ -248,7 +261,8 @@
           "text": "Forthwith then the instruments that were prepared for the pile were placed about him; and as they were going likewise to nail him to the stake, he said; 'Leave me as I am; for He that hath granted me to endure the fire will grant me also to remain at the pile unmoved, even without the security which ye seek from the nails.'"
         }
       ],
-      "sourceReference": "MartPol. 13"
+      "sourceReference": "MartPol. 13",
+      "shortSection": "準備火刑"
     },
     {
       "id": "14",
@@ -344,7 +358,8 @@
           "text": "both now [and ever] and for the ages to come. Amen.'"
         }
       ],
-      "sourceReference": "MartPol. 14"
+      "sourceReference": "MartPol. 14",
+      "shortSection": "殉道前的禱告"
     },
     {
       "id": "15",
@@ -360,7 +375,8 @@
           "text": "The fire, making the appearance of a vault, like the sail of a vessel filled by the wind, made a wall round about the body of the martyr; and it was there in the midst, not like flesh burning, but like [a loaf in the oven or like] gold and silver refined in a furnace. For we perceived such a fragrant smell, as if it were the wafted odor of frankincense or some other precious spice."
         }
       ],
-      "sourceReference": "MartPol. 15"
+      "sourceReference": "MartPol. 15",
+      "shortSection": "火中的異象"
     },
     {
       "id": "16",
@@ -376,7 +392,8 @@
           "text": "In the number of these was this man, the glorious martyr Polycarp, who was found an apostolic and prophetic teacher in our own time, a bishop of the holy Church which is in Smyrna. For every word which he uttered from his mouth was accomplished and will be accomplished."
         }
       ],
-      "sourceReference": "MartPol. 16"
+      "sourceReference": "MartPol. 16",
+      "shortSection": "刺死波利甲"
     },
     {
       "id": "17",
@@ -396,7 +413,8 @@
           "text": "For Him, being the Son of God, we adore, but the martyrs as disciples and imitators of the Lord we cherish as they deserve for their matchless affection towards their own King and Teacher. May it be our lot also to be found partakers and fellow-disciples with them."
         }
       ],
-      "sourceReference": "MartPol. 17"
+      "sourceReference": "MartPol. 17",
+      "shortSection": "遺體的爭議"
     },
     {
       "id": "18",
@@ -416,7 +434,8 @@
           "text": "where the Lord will permit us to gather ourselves together, as we are able, in gladness and joy, and to celebrate the birth-day of his martyrdom for the commemoration of those that have already fought in the contest, and for the training and preparation of those that shall do so hereafter."
         }
       ],
-      "sourceReference": "MartPol. 18"
+      "sourceReference": "MartPol. 18",
+      "shortSection": "收集遺骨與紀念"
     },
     {
       "id": "19",
@@ -432,7 +451,8 @@
           "text": "Having by his endurance overcome the unrighteous ruler in the conflict and so received the crown of immortality, he rejoiceth in company with the Apostles and all righteous men, and glorifieth the Almighty God and Father, and blesseth our Lord Jesus Christ, the savior of our souls and helmsman of our bodies and shepherd of the universal Church which is throughout the world."
         }
       ],
-      "sourceReference": "MartPol. 19"
+      "sourceReference": "MartPol. 19",
+      "shortSection": "殉道的榜樣"
     },
     {
       "id": "20",
@@ -448,7 +468,8 @@
           "text": "Now unto Him that is able to bring us all by His grace and bounty unto His eternal kingdom, through His only-begotten Son Jesus Christ, be glory, honor, power, and greatness for ever. Salute all the saints. They that are with us salute you, and Euarestus, who wrote the letter, with his whole house."
         }
       ],
-      "sourceReference": "MartPol. 20"
+      "sourceReference": "MartPol. 20",
+      "shortSection": "傳閱見證"
     },
     {
       "id": "21",
@@ -460,7 +481,8 @@
           "text": "Now the blessed Polycarp was martyred on the second day of the first part of the month Xanthicus, on the seventh before the calends of March, on a great Sabbath, at the eighth hour. He was apprehended by Herodes, when Philip of Tralles was high priest, in the proconsulship of Statius Quadratus, but in the reign of the Eternal King Jesus Christ. To whom be the glory, honor, greatness, and eternal throne, from generation to generation. Amen."
         }
       ],
-      "sourceReference": "MartPol. 21"
+      "sourceReference": "MartPol. 21",
+      "shortSection": "殉道日期"
     },
     {
       "id": "22",
@@ -496,7 +518,8 @@
           "text": "And I Pionius again wrote it down from the copy of Isocrates, having searched for it in obedience to a revelation of the holy Polycarp, gathering it together, when it was well nigh worn out by age, that the Lord Jesus Christ may gather me also with His elect into His heavenly kingdom; to whom be the glory with the Father and the Son and the Holy Spirit for ever and ever. Amen."
         }
       ],
-      "sourceReference": "MartPol. 22"
+      "sourceReference": "MartPol. 22",
+      "shortSection": "抄傳記錄與祝福"
     }
   ]
 }

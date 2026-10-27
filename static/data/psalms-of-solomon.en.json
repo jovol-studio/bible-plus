@@ -11,7 +11,8 @@
     "rightsNotice": "English historical translation by G. Buchanan Gray (1913); edited and slightly adapted by George Lyons for the Wesley Center for Applied Theology at Northwest Nazarene University. Copyright 2000 by the Wesley Center for Applied Theology. Text may be freely used for personal or scholarly purposes or mirrored on other web sites, provided the notice below the horizontal line is left intact. Any use of this material for commercial purposes of any kind is strictly forbidden without the express permission of the Wesley Center at Northwest Nazarene University, Nampa, ID 83686. Contact the webmaster for permission or to report errors.",
     "retrieved": "2026-10-27",
     "sha256": "423937faccae7a5433c572a47df2ea3ba2a983e688bf7d9f342797c11fb54150",
-    "editionNote": "以來源段落提供閱讀定位，並非聖經節號；原文中的節號、括號及來源誤植均保留，未自行校訂。使用條件及署名照錄。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "以來源段落提供閱讀定位，並非聖經節號；原文中的節號、括號及來源誤植均保留，未自行校訂。使用條件及署名照錄。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -84,7 +85,8 @@
           "text": "They utterly polluted the holy things of the Lord."
         }
       ],
-      "sourceHeading": "1"
+      "sourceHeading": "1",
+      "shortSection": "繁盛中的罪惡"
     },
     {
       "id": "2",
@@ -404,7 +406,8 @@
           "text": "41 (37) Blessed be the Lord for ever before His servants."
         }
       ],
-      "sourceHeading": "2. A Psalm Of Solomon. Concerning Jerusalem."
+      "sourceHeading": "2. A Psalm Of Solomon. Concerning Jerusalem.",
+      "shortSection": "耶路撒冷受罰"
     },
     {
       "id": "3",
@@ -528,7 +531,8 @@
           "text": "And their life (shall be) in the light of the Lord, and shall come to an end no more."
         }
       ],
-      "sourceHeading": "3."
+      "sourceHeading": "3.",
+      "shortSection": "義人與罪人"
     },
     {
       "id": "4",
@@ -752,7 +756,8 @@
           "text": "29 (28) Let Thy mercy, O Lord, be upon all them that love Thee."
         }
       ],
-      "sourceHeading": "4. A Conversation of Solomon with the Men-pleasers."
+      "sourceHeading": "4. A Conversation of Solomon with the Men-pleasers.",
+      "shortSection": "虛偽者的罪"
     },
     {
       "id": "5",
@@ -904,7 +909,8 @@
           "text": "Blessed is the glory of the Lord for He is our king."
         }
       ],
-      "sourceHeading": "5. A Psalm. Of Solomon"
+      "sourceHeading": "5. A Psalm. Of Solomon",
+      "shortSection": "求恩典與供應"
     },
     {
       "id": "6",
@@ -960,7 +966,8 @@
           "text": "9 Blessed is the Lord, who showeth mercy to those who love Him in sincerity."
         }
       ],
-      "sourceHeading": "6. In Hope. Of Solomon."
+      "sourceHeading": "6. In Hope. Of Solomon.",
+      "shortSection": "呼求上帝"
     },
     {
       "id": "7",
@@ -1048,7 +1055,8 @@
           "text": "Showing mercy to the house of Jacob on the day wherein Thou didst promise (to help them)."
         }
       ],
-      "sourceHeading": "7. Of Solomon. Of turning."
+      "sourceHeading": "7. Of Solomon. Of turning.",
+      "shortSection": "求保護與憐憫"
     },
     {
       "id": "8",
@@ -1288,7 +1296,8 @@
           "text": "And blessed be Israel of the Lord for ever."
         }
       ],
-      "sourceHeading": "8. Of Solomon. Of the chief Musician."
+      "sourceHeading": "8. Of Solomon. Of the chief Musician.",
+      "shortSection": "聖城受審判"
     },
     {
       "id": "9",
@@ -1416,7 +1425,8 @@
           "text": "The mercy of the Lord be upon the house of Israel for ever and ever."
         }
       ],
-      "sourceHeading": "9. Of Solomon. For rebuke."
+      "sourceHeading": "9. Of Solomon. For rebuke.",
+      "shortSection": "被擄與認罪"
     },
     {
       "id": "10",
@@ -1496,7 +1506,8 @@
           "text": "The salvation of the Lord be upon the house of Israel unto everlasting gladness!"
         }
       ],
-      "sourceHeading": "10. A Hymn Of Solomon."
+      "sourceHeading": "10. A Hymn Of Solomon.",
+      "shortSection": "管教使人歸正"
     },
     {
       "id": "11",
@@ -1576,7 +1587,8 @@
           "text": "(9) The mercy of the Lord be upon Israel for ever and ever."
         }
       ],
-      "sourceHeading": "11. Of Solomon. Unto expectation."
+      "sourceHeading": "11. Of Solomon. Unto expectation.",
+      "shortSection": "歸回的盼望"
     },
     {
       "id": "12",
@@ -1644,7 +1656,8 @@
           "text": "But let the Lord's pious ones inherit the promises of the Lord."
         }
       ],
-      "sourceHeading": "12. Of Solomon. Against the tongue of transgressors."
+      "sourceHeading": "12. Of Solomon. Against the tongue of transgressors.",
+      "shortSection": "防備惡舌"
     },
     {
       "id": "13",
@@ -1752,7 +1765,8 @@
           "text": "And upon them that fear Him His mercy."
         }
       ],
-      "sourceHeading": "13. Of Solomon. A Psalm. Comfort for the righteous."
+      "sourceHeading": "13. Of Solomon. A Psalm. Comfort for the righteous.",
+      "shortSection": "義人蒙保守"
     },
     {
       "id": "14",
@@ -1832,7 +1846,8 @@
           "text": "7 (10) But the pious of the Lord shall inherit life in gladness."
         }
       ],
-      "sourceHeading": "14. A Hymn. Of Solomon."
+      "sourceHeading": "14. A Hymn. Of Solomon.",
+      "shortSection": "忠信與生命"
     },
     {
       "id": "15",
@@ -1952,7 +1967,8 @@
           "text": "But sinners shall perish for ever."
         }
       ],
-      "sourceHeading": "15. A Psalm. Of Solomon. With a Song."
+      "sourceHeading": "15. A Psalm. Of Solomon. With a Song.",
+      "shortSection": "義惡的結局"
     },
     {
       "id": "16",
@@ -2068,7 +2084,8 @@
           "text": "15 If the righteous endureth in all these (trials), he shall receive mercy from the Lord."
         }
       ],
-      "sourceHeading": "16. A Hymn. Of Solomon. For Help to the Pious."
+      "sourceHeading": "16. A Hymn. Of Solomon. For Help to the Pious.",
+      "shortSection": "求拯救與扶持"
     },
     {
       "id": "17",
@@ -2468,7 +2485,8 @@
           "text": "The Lord Himself is our king for ever and ever."
         }
       ],
-      "sourceHeading": "17. A Psalm. Of Solomon. With Song. Of the King."
+      "sourceHeading": "17. A Psalm. Of Solomon. With Song. Of the King.",
+      "shortSection": "盼望公義君王"
     },
     {
       "id": "18",
@@ -2576,7 +2594,8 @@
           "text": "Unless God commanded them (so to do) by the command of His servants."
         }
       ],
-      "sourceHeading": "18. A Psalm. Of Solomon. Again of the Anointed of the Lord."
+      "sourceHeading": "18. A Psalm. Of Solomon. Again of the Anointed of the Lord.",
+      "shortSection": "受膏者與管教"
     }
   ]
 }

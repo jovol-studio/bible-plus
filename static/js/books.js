@@ -697,6 +697,7 @@ const books = [
   },
   {
     "id": "1-enoch",
+    "chapterTitlesStandalone": true,
     "name": "以諾一書",
     "english": "1 Enoch",
     "category": "典外書卷 / 偽經"
@@ -721,6 +722,7 @@ const books = [
   },
   {
     "id": "life-of-adam-and-eve",
+    "chapterTitlesStandalone": true,
     "name": "亞當和夏娃生平",
     "english": "Life of Adam and Eve",
     "category": "典外書卷 / 偽經"

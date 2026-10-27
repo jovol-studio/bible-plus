@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "8f0743c5ce6d0b51c1c50d85ac4aa603d5adffd3a918eae4bf23b27878acda51",
-    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -36,7 +37,8 @@
           "text": "though ye saw Him not, ye believe with joy unutterable and full of glory; unto which joy many desire to enter in; forasmuch as ye know that it is by grace ye are saved, not of works, but by the will of God through Jesus Christ."
         }
       ],
-      "sourceReference": "PolPhil. 1"
+      "sourceReference": "PolPhil. 1",
+      "shortSection": "問安與信心"
     },
     {
       "id": "2",
@@ -56,7 +58,8 @@
           "text": "but remembering the words which the Lord spake, as He taught; Judge not that ye be not judged. Forgive, and it shall be forgiven to you. Have mercy that ye may receive mercy. With what measure ye mete, it shall be measured to you again; and again Blessed are the poor and they that are persecuted for righteousness' sake, for theirs is the kingdom of God."
         }
       ],
-      "sourceReference": "PolPhil. 2"
+      "sourceReference": "PolPhil. 2",
+      "shortSection": "遵行主的誡命"
     },
     {
       "id": "3",
@@ -76,7 +79,8 @@
           "text": "which is the mother of us all, while hope followeth after and love goeth before--love toward God and Christ and toward our neighbor. For if any man be occupied with these, he hath fulfilled the commandment of righteousness; for he that hath love is far from all sin."
         }
       ],
-      "sourceReference": "PolPhil. 3"
+      "sourceReference": "PolPhil. 3",
+      "shortSection": "保羅的教導"
     },
     {
       "id": "4",
@@ -96,7 +100,8 @@
           "text": "Our widows must be sober-minded as touching the faith of the Lord, making intercession without ceasing for all men, abstaining from all calumny, evil speaking, false witness, love of money, and every evil thing, knowing that they are God's altar, and that all sacrifices are carefully inspected, and nothing escapeth Him either of their thoughts or intents or any of the secret things of the heart."
         }
       ],
-      "sourceReference": "PolPhil. 4"
+      "sourceReference": "PolPhil. 4",
+      "shortSection": "家庭與寡婦"
     },
     {
       "id": "5",
@@ -116,7 +121,8 @@
           "text": "In like manner also the younger men must be blameless in all things, caring for purity before everything and curbing themselves from every evil. For it is a good thing to refrain from lusts in the world, for every lust warreth against the Spirit, and neither whoremongers nor effeminate persons nor defilers of themselves with men shall inherit the kingdom of God, neither they that do untoward things. Wherefore it is right to abstain from all these things, submitting yourselves to the presbyters and deacons as to God and Christ. The virgins must walk in a blameless and pure conscience."
         }
       ],
-      "sourceReference": "PolPhil. 5"
+      "sourceReference": "PolPhil. 5",
+      "shortSection": "執事與青年"
     },
     {
       "id": "6",
@@ -136,7 +142,8 @@
           "text": "Let us therefore so serve Him with fear and all reverence, as He himself gave commandment and the Apostles who preached the Gospel to us and the prophets who proclaimed beforehand the coming of our Lord; being zealous as touching that which is good, abstaining from offenses and from the false brethren and from them that bear the name of the Lord in hypocrisy, who lead foolish men astray."
         }
       ],
-      "sourceReference": "PolPhil. 6"
+      "sourceReference": "PolPhil. 6",
+      "shortSection": "長老與饒恕"
     },
     {
       "id": "7",
@@ -152,7 +159,8 @@
           "text": "Wherefore let us forsake the vain doing of the many and their false teachings, and turn unto the word which was delivered unto us from the beginning, being sober unto prayer and constant in fastings, entreating the all-seeing God with supplications that He bring us not into temptation, according as the Lord said, The Spirit is indeed willing, but the flesh is weak."
         }
       ],
-      "sourceReference": "PolPhil. 7"
+      "sourceReference": "PolPhil. 7",
+      "shortSection": "防備錯誤教導"
     },
     {
       "id": "8",
@@ -168,7 +176,8 @@
           "text": "Let us therefore become imitators of His endurance; and if we should suffer for His name's sake, let us glorify Him. For He gave this example to us in His own person, and we believed this."
         }
       ],
-      "sourceReference": "PolPhil. 8"
+      "sourceReference": "PolPhil. 8",
+      "shortSection": "效法基督忍耐"
     },
     {
       "id": "9",
@@ -184,7 +193,8 @@
           "text": "being persuaded that all these ran not in vain but in faith and righteousness, and that they are in their due place in the presence of the Lord, with whom also they suffered. For they loved not the present world, but Him that died for our sakes and was raised by God for us."
         }
       ],
-      "sourceReference": "PolPhil. 9"
+      "sourceReference": "PolPhil. 9",
+      "shortSection": "殉道者的榜樣"
     },
     {
       "id": "10",
@@ -204,7 +214,8 @@
           "text": "But woe to him through whom the name of the Lord be blasphemed. Therefore teach all men soberness, in which ye yourselves also walk."
         }
       ],
-      "sourceReference": "PolPhil. 10"
+      "sourceReference": "PolPhil. 10",
+      "shortSection": "持守信仰與善行"
     },
     {
       "id": "11",
@@ -228,7 +239,8 @@
           "text": "Therefore I am exceedingly grieved for him and for his wife, unto whom may the Lord grant true repentance. Be ye therefore yourselves also sober herein, and hold not such as enemies but restore them as frail and erring members, that ye may save the whole body of you. For so doing, ye do edify one another."
         }
       ],
-      "sourceReference": "PolPhil. 11"
+      "sourceReference": "PolPhil. 11",
+      "shortSection": "瓦倫斯的失職"
     },
     {
       "id": "12",
@@ -248,7 +260,8 @@
           "text": "Pray for all the saints. Pray also for kings and powers and princes and for them that persecute and hate you and for the enemies of the cross, that your fruit may be manifest among all men, that ye may be perfect in Him."
         }
       ],
-      "sourceReference": "PolPhil. 12"
+      "sourceReference": "PolPhil. 12",
+      "shortSection": "代禱與祝福"
     },
     {
       "id": "13",
@@ -264,7 +277,8 @@
           "text": "The letters of Ignatius which were sent to us by him, and others as many as we had by us, we send unto you, according as ye gave charge; the which are subjoined to this letter; from which ye will be able to gain great advantage. For they comprise faith and endurance and every kind of edification, which pertaineth unto our Lord. Moreover concerning Ignatius himself and those that were with him, if ye have any sure tidings, certify us."
         }
       ],
-      "sourceReference": "PolPhil. 13"
+      "sourceReference": "PolPhil. 13",
+      "shortSection": "轉交書信"
     },
     {
       "id": "14",
@@ -276,7 +290,8 @@
           "text": "I write these things to you by Crescens, whom I commended to you recently and now commend unto you: for he hath walked blamelessly with us; and I believe also with you in like manner. But ye shall have his sister commended, when she shall come to you. Fare ye well in the Lord Jesus Christ in grace, ye and all yours. Amen."
         }
       ],
-      "sourceReference": "PolPhil. 14"
+      "sourceReference": "PolPhil. 14",
+      "shortSection": "末了問安"
     }
   ]
 }

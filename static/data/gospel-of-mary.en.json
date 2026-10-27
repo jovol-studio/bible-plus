@@ -11,7 +11,8 @@
     "rightsNotice": "譯者在來源頁明確將此英譯奉獻為公版，允許任何用途之複製及修改。",
     "retrieved": "2026-10-27",
     "sha256": "752d743e113852d246a9e0c50d50c9f618598f372f8163936e30ea05bc93918b",
-    "editionNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -48,7 +49,8 @@
           "text": "\"Matter [gave birth to] a passion that has no image because it comes from what's contrary to nature. Then confusion arises in the whole body. That's why I told you to be content at heart. If you're discontented, find contentment in the presence of the various images of nature. Anyone who has ears to hear should hear!\""
         }
       ],
-      "sourceHeading": "An Eternal Perspective"
+      "sourceHeading": "An Eternal Perspective",
+      "shortSection": "永恆與物質"
     },
     {
       "id": "2",
@@ -68,7 +70,8 @@
           "text": "But they grieved and wept bitterly. They said, \"How can we go up to the Gentiles to preach the gospel about the kingdom of the Son of Humanity? If they didn't spare him, why would they spare us?\""
         }
       ],
-      "sourceHeading": "The Gospel"
+      "sourceHeading": "The Gospel",
+      "shortSection": "宣講福音"
     },
     {
       "id": "3",
@@ -108,7 +111,8 @@
           "text": "Pages 11 through 14 are missing."
         }
       ],
-      "sourceHeading": "Mary and Jesus"
+      "sourceHeading": "Mary and Jesus",
+      "shortSection": "馬利亞的啟示"
     },
     {
       "id": "4",
@@ -156,7 +160,8 @@
           "text": "When Mary said these things, she fell silent because the Savior had spoken with her up to this point."
         }
       ],
-      "sourceHeading": "Overcoming the Powers"
+      "sourceHeading": "Overcoming the Powers",
+      "shortSection": "靈魂勝過權勢"
     },
     {
       "id": "5",
@@ -192,7 +197,8 @@
           "text": "The Gospel According to Mary"
         }
       ],
-      "sourceHeading": "Conflict over Authority"
+      "sourceHeading": "Conflict over Authority",
+      "shortSection": "啟示權威之爭"
     }
   ]
 }

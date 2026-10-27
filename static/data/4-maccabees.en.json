@@ -14,7 +14,8 @@
     "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
     "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
     "retrieved": "2026-10-27",
-    "editionNote": "保留原章節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。"
+    "editionNote": "保留原章節號。僅收錄英文原文，未另作中文翻譯；註腳不含在此逐節來源。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -197,7 +198,8 @@
           "text": "For the affections of our appetites are resisted by the temperate understanding, and bent back again, and all the impulses of the body are reined in by reasoning.",
           "sourceReference": "4MA 1:35"
         }
-      ]
+      ],
+      "shortSection": "敬虔理性與情慾"
     },
     {
       "id": "2",
@@ -324,7 +326,8 @@
           "text": "How, then, a man may say, if reasoning is master of the emotions, has it no control over forgetfulness and ignorance?",
           "sourceReference": "4MA 2:24"
         }
-      ]
+      ],
+      "shortSection": "律法與自制"
     },
     {
       "id": "3",
@@ -436,7 +439,8 @@
           "text": "then certain people, bringing in new things contrary to the public harmony, in various ways fell into calamities.",
           "sourceReference": "4MA 3:21"
         }
-      ]
+      ],
+      "shortSection": "理性勝過欲望"
     },
     {
       "id": "4",
@@ -573,7 +577,8 @@
           "text": "When, therefore, his decrees were disregarded by the people, he himself compelled by means of tortures every one of this race, by tasting forbidden meats, to renounce the Jewish religion.",
           "sourceReference": "4MA 4:26"
         }
-      ]
+      ],
+      "shortSection": "聖殿危機與暴政"
     },
     {
       "id": "5",
@@ -770,7 +775,8 @@
           "text": "For you will rule like a tyrant over the ungodly, but you will not lord it over my thoughts about religion, either by your arguments, or through deeds.”",
           "sourceReference": "4MA 5:38"
         }
-      ]
+      ],
+      "shortSection": "以利亞撒拒絕屈服"
     },
     {
       "id": "6",
@@ -952,7 +958,8 @@
           "text": "It would be ridiculous if it weren’t so. I prove that reasoning has not only mastered pains, but that it is also superior to the pleasures, and withstands them.",
           "sourceReference": "4MA 6:35"
         }
-      ]
+      ],
+      "shortSection": "以利亞撒受刑"
     },
     {
       "id": "7",
@@ -1084,7 +1091,8 @@
           "text": "for when the tyrant was manifestly vanquished in his first attempt, in being unable to force the old man to eat the unclean thing,",
           "sourceReference": "4MA 7:25"
         }
-      ]
+      ],
+      "shortSection": "堅忍的榜樣"
     },
     {
       "id": "8",
@@ -1231,7 +1239,8 @@
           "text": "So that as soon as the tyrant had ceased counselling them to eat the unclean, they all with one voice, as from the same heart said:",
           "sourceReference": "4MA 8:28"
         }
-      ]
+      ],
+      "shortSection": "七兄弟受審"
     },
     {
       "id": "9",
@@ -1398,7 +1407,8 @@
           "text": "But you are tortured with threatenings for impiety. You won’t escape, most corrupt tyrant, the vengeance of Divine wrath.”",
           "sourceReference": "4MA 9:32"
         }
-      ]
+      ],
+      "shortSection": "兄弟拒絕背道"
     },
     {
       "id": "10",
@@ -1510,7 +1520,8 @@
           "text": "But God will speedily find you, since you cut off the tongue, the instrument of divine melody.”",
           "sourceReference": "4MA 10:21"
         }
-      ]
+      ],
+      "shortSection": "第三與第四子受刑"
     },
     {
       "id": "11",
@@ -1652,7 +1663,8 @@
           "text": "For the guards not of a tyrant but of a divine law are our defenders. Through this we keep our reasoning unconquered.”",
           "sourceReference": "4MA 11:27"
         }
-      ]
+      ],
+      "shortSection": "第五與第六子受刑"
     },
     {
       "id": "12",
@@ -1759,7 +1771,8 @@
           "text": "Thus having prayed, he hurled himself into the pans; and so expired.",
           "sourceReference": "4MA 12:20"
         }
-      ]
+      ],
+      "shortSection": "幼子殉道"
     },
     {
       "id": "13",
@@ -1901,7 +1914,8 @@
           "text": "And yet, although nature, companionship, and virtuous morals increased their brotherly love, those who were left endured to see their kindred, who were mistreated for their religion, tortured even to death.",
           "sourceReference": "4MA 13:27"
         }
-      ]
+      ],
+      "shortSection": "兄弟同心堅忍"
     },
     {
       "id": "14",
@@ -2008,7 +2022,8 @@
           "text": "But sympathy with her children didn’t turn away the mother of the young men, who had a spirit kindred with that of Abraham.",
           "sourceReference": "4MA 14:20"
         }
-      ]
+      ],
+      "shortSection": "親情與信仰考驗"
     },
     {
       "id": "15",
@@ -2175,7 +2190,8 @@
           "text": "so you, the guardian of the law, when surrounded on every side by the flood of emotions, and assaulted by violent storms which were the torments of your children, bore up nobly against the storms against religion.",
           "sourceReference": "4MA 15:32"
         }
-      ]
+      ],
+      "shortSection": "母親的勇氣"
     },
     {
       "id": "16",
@@ -2307,7 +2323,8 @@
           "text": "They saw this, too, that those who die for God, live to God, like Abraham, Isaac, Jacob, and all the patriarchs.",
           "sourceReference": "4MA 16:25"
         }
-      ]
+      ],
+      "shortSection": "母親勉勵眾子"
     },
     {
       "id": "17",
@@ -2434,7 +2451,8 @@
           "text": "They proved to be to him noble and brave for land battles and for sieges; and he conquered and stormed the towns of all his enemies.",
           "sourceReference": "4MA 17:24"
         }
-      ]
+      ],
+      "shortSection": "母子殉道的見證"
     },
     {
       "id": "18",
@@ -2561,7 +2579,8 @@
           "text": "To him be glory forever and ever. Amen.",
           "sourceReference": "4MA 18:24"
         }
-      ]
+      ],
+      "shortSection": "持守律法的勸勉"
     }
   ]
 }

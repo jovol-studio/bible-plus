@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "f298ba5f5c62e6ee14b46b4973b73bc69673f391f3b677f94fb0d626089303b6",
-    "editionNote": "只收錄歷史譯文，未匯入網站現代導言。保留底本殘缺及原章節號；現存抄本結尾殘缺。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "只收錄歷史譯文，未匯入網站現代導言。保留底本殘缺及原章節號；現存抄本結尾殘缺。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -91,7 +92,8 @@
           "number": "18",
           "text": "that His name should be called upon until the day of repentance in the visitation wherewith the Lord will visit them in the consummation of the end of the days."
         }
-      ]
+      ],
+      "shortSection": "摩西託付約書亞"
     },
     {
       "id": "2",
@@ -134,7 +136,8 @@
           "number": "9",
           "text": "And in the house of the Lord they shall work impiety and engrave every form of beast, even many abominations."
         }
-      ]
+      ],
+      "shortSection": "進入應許之地"
     },
     {
       "id": "3",
@@ -197,7 +200,8 @@
           "number": "14",
           "text": "Who shall be also in bondage for about seventy and seven years."
         }
-      ]
+      ],
+      "shortSection": "聖城遭毀與被擄"
     },
     {
       "id": "4",
@@ -240,7 +244,8 @@
           "number": "9",
           "text": "And the ten tribes shall increase and multiply among the Gentiles during the time of their captivity."
         }
-      ]
+      ],
+      "shortSection": "代求與歸回"
     },
     {
       "id": "5",
@@ -271,7 +276,8 @@
           "number": "6",
           "text": "And on this account the colony and the borders of their habitation shall be filled with lawless deeds and iniquities: those who wickedly depart from the Lord shall be judges: they shall be ready to judge for money as each may wish."
         }
-      ]
+      ],
+      "shortSection": "領袖背離真道"
     },
     {
       "id": "6",
@@ -314,7 +320,8 @@
           "number": "9",
           "text": "and he shall take them captive, and burn a part of their temple with fire, (and) shall crucify some around their colony."
         }
-      ]
+      ],
+      "shortSection": "暴君興起"
     },
     {
       "id": "7",
@@ -361,7 +368,8 @@
           "number": "10",
           "text": "and they shall say furthermore: ‘Do not touch me lest thou shouldst pollute me in the place ‹where I stand’› . . ."
         }
-      ]
+      ],
+      "shortSection": "末時的敗壞"
     },
     {
       "id": "8",
@@ -388,7 +396,8 @@
           "number": "5",
           "text": "And they shall likewise be forced by those who torture them to enter their inmost sanctuary, and they shall be forced by goads to blaspheme with insolence the word, finally after these things the laws and what they had above their altar."
         }
-      ]
+      ],
+      "shortSection": "信仰遭受迫害"
     },
     {
       "id": "9",
@@ -423,7 +432,8 @@
           "number": "7",
           "text": "For if we do this and die, our blood shall be avenged before the Lord."
         }
-      ]
+      ],
+      "shortSection": "他克索與七子"
     },
     {
       "id": "10",
@@ -490,7 +500,8 @@
           "number": "15",
           "text": "Wherefore, Joshua thou (son of) Nun, ‹be strong and› be of good courage; ‹for› God hath chosen ‹thee› to be minister in the same covenant."
         }
-      ]
+      ],
+      "shortSection": "上帝國度顯現"
     },
     {
       "id": "11",
@@ -573,7 +584,8 @@
           "number": "19",
           "text": "What shall then become of this people, my lord Moses?’"
         }
-      ]
+      ],
+      "shortSection": "約書亞的憂慮"
     },
     {
       "id": "12",
@@ -632,7 +644,8 @@
           "number": "13",
           "text": "For God will go forth who has foreseen all things for ever, and His covenant has been established and by the oath which . . ."
         }
-      ]
+      ],
+      "shortSection": "摩西最後勸勉"
     }
   ]
 }

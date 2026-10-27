@@ -11,7 +11,8 @@
     "rightsNotice": "歷史英文譯本為公版；保留來源及譯者資料。",
     "retrieved": "2026-10-27",
     "sha256": "8f0743c5ce6d0b51c1c50d85ac4aa603d5adffd3a918eae4bf23b27878acda51",
-    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。"
+    "editionNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -36,7 +37,8 @@
           "text": "For ye did all things without respect of persons, and ye walked after the ordinances of God, submitting yourselves to your rulers and rendering to the older men among you the honor which is their due. On the young too ye enjoined modest and seemly thoughts: and the women ye charged to perform all their duties in a blameless and seemly and pure conscience, cherishing their own husbands, as is meet; and ye taught them to keep in the rule of obedience, and to manage the affairs of their household in seemliness, with all discretion."
         }
       ],
-      "sourceReference": "1 Clem. 1"
+      "sourceReference": "1 Clem. 1",
+      "shortSection": "哥林多教會紛爭"
     },
     {
       "id": "2",
@@ -76,7 +78,8 @@
           "text": "Being adorned with a most virtuous and honorable life, ye performed all your duties in the fear of Him. The commandments and the ordinances of the Lord were written on the tablets of your hearts."
         }
       ],
-      "sourceReference": "1 Clem. 2"
+      "sourceReference": "1 Clem. 2",
+      "shortSection": "昔日的謙卑和睦"
     },
     {
       "id": "3",
@@ -100,7 +103,8 @@
           "text": "For this cause righteousness and peace stand aloof, while each man hath forsaken the fear of the Lord and become purblind in the faith of Him, neither walketh in the ordinances of His commandments nor liveth according to that which becometh Christ, but each goeth after the lusts of his evil heart, seeing that they have conceived an unrighteous and ungodly jealousy, through which also death entered into the world."
         }
       ],
-      "sourceReference": "1 Clem. 3"
+      "sourceReference": "1 Clem. 3",
+      "shortSection": "嫉妒引發分裂"
     },
     {
       "id": "4",
@@ -160,7 +164,8 @@
           "text": "By reason of jealousy David was envied not only by the Philistines, but was persecuted also by Saul [king of Israel]."
         }
       ],
-      "sourceReference": "1 Clem. 4"
+      "sourceReference": "1 Clem. 4",
+      "shortSection": "該隱等人的警戒"
     },
     {
       "id": "5",
@@ -192,7 +197,8 @@
           "text": "having taught righteousness unto the whole world and having reached the farthest bounds of the West; and when he had borne his testimony before the rulers, so he departed from the world and went unto the holy place, having been found a notable pattern of patient endurance."
         }
       ],
-      "sourceReference": "1 Clem. 5"
+      "sourceReference": "1 Clem. 5",
+      "shortSection": "彼得與保羅的見證"
     },
     {
       "id": "6",
@@ -216,7 +222,8 @@
           "text": "Jealousy and strife have overthrown great cities and uprooted great nations."
         }
       ],
-      "sourceReference": "1 Clem. 6"
+      "sourceReference": "1 Clem. 6",
+      "shortSection": "受迫害者的榜樣"
     },
     {
       "id": "7",
@@ -252,7 +259,8 @@
           "text": "Jonah preached destruction unto the men of Nineveh; but they, repenting of their sins, obtained pardon of God by their supplications and received salvation, albeit they were aliens from God."
         }
       ],
-      "sourceReference": "1 Clem. 7"
+      "sourceReference": "1 Clem. 7",
+      "shortSection": "悔改的呼召"
     },
     {
       "id": "8",
@@ -284,7 +292,8 @@
           "text": "Seeing then that He desireth all His beloved to be partakers of repentance, He confirmed it by an act of His almighty will."
         }
       ],
-      "sourceReference": "1 Clem. 8"
+      "sourceReference": "1 Clem. 8",
+      "shortSection": "上帝應許赦免"
     },
     {
       "id": "9",
@@ -308,7 +317,8 @@
           "text": "Noah, being found faithful, by his ministration preached regeneration unto the world, and through him the Master saved the living creatures that entered into the ark in concord."
         }
       ],
-      "sourceReference": "1 Clem. 9"
+      "sourceReference": "1 Clem. 9",
+      "shortSection": "順服的古人"
     },
     {
       "id": "10",
@@ -344,7 +354,8 @@
           "text": "For his faith and hospitality a son was given unto him in old age, and by obedience he offered him a sacrifice unto God on one of the mountains which He showed him."
         }
       ],
-      "sourceReference": "1 Clem. 10"
+      "sourceReference": "1 Clem. 10",
+      "shortSection": "亞伯拉罕的信心"
     },
     {
       "id": "11",
@@ -360,7 +371,8 @@
           "text": "For when his wife had gone forth with him, being otherwise minded and not in accord, she was appointed for a sign hereunto, so that she became a pillar of salt unto this day, that it might be known unto all men that they which are double-minded and they which doubt concerning the power of God are set for a judgment and for a token unto all the generations."
         }
       ],
-      "sourceReference": "1 Clem. 11"
+      "sourceReference": "1 Clem. 11",
+      "shortSection": "羅得蒙拯救"
     },
     {
       "id": "12",
@@ -400,7 +412,8 @@
           "text": "Ye see, dearly beloved, not only faith, but prophecy, is found in the woman."
         }
       ],
-      "sourceReference": "1 Clem. 12"
+      "sourceReference": "1 Clem. 12",
+      "shortSection": "喇合接待使者"
     },
     {
       "id": "13",
@@ -424,7 +437,8 @@
           "text": "For the holy word saith, Upon whom shall I look, save upon him that is gentle and quiet and feareth Mine oracles?"
         }
       ],
-      "sourceReference": "1 Clem. 13"
+      "sourceReference": "1 Clem. 13",
+      "shortSection": "謙卑與饒恕"
     },
     {
       "id": "14",
@@ -452,7 +466,8 @@
           "text": "And again He saith I saw the ungodly lifted up on high and exalted as the cedars of Lebanon. And I passed by, and behold he was not; and sought out his place, and I found it not. Keep innocence and behold uprightness; for there is a remnant for the peaceful man."
         }
       ],
-      "sourceReference": "1 Clem. 14"
+      "sourceReference": "1 Clem. 14",
+      "shortSection": "順服上帝"
     },
     {
       "id": "15",
@@ -484,7 +499,8 @@
           "text": "For the misery of the needy and for the groaning of the poor I will now arise, saith the Lord. I will set him in safety; I will deal boldly by him."
         }
       ],
-      "sourceReference": "1 Clem. 15"
+      "sourceReference": "1 Clem. 15",
+      "shortSection": "真誠追求和平"
     },
     {
       "id": "16",
@@ -560,7 +576,8 @@
           "text": "Ye see, dearly beloved, what is the pattern that hath been given unto us; for, if the Lord was thus lowly of mind, what should we do, who through Him have been brought under the yoke of His grace?"
         }
       ],
-      "sourceReference": "1 Clem. 16"
+      "sourceReference": "1 Clem. 16",
+      "shortSection": "基督謙卑的榜樣"
     },
     {
       "id": "17",
@@ -592,7 +609,8 @@
           "text": "Nay, I am feeble of speech and slow of tongue. And again he saith, But I am smoke from the pot."
         }
       ],
-      "sourceReference": "1 Clem. 17"
+      "sourceReference": "1 Clem. 17",
+      "shortSection": "先知的謙卑"
     },
     {
       "id": "18",
@@ -656,7 +674,8 @@
           "text": "A sacrifice unto God is a contrite spirit; a contrite and humbled heart God will not despise."
         }
       ],
-      "sourceReference": "1 Clem. 18"
+      "sourceReference": "1 Clem. 18",
+      "shortSection": "大衛認罪"
     },
     {
       "id": "19",
@@ -676,7 +695,8 @@
           "text": "Let us behold Him in our mind, and let us look with the eyes of our soul unto His long-suffering will. Let us note how free from anger He is towards all His creatures."
         }
       ],
-      "sourceReference": "1 Clem. 19"
+      "sourceReference": "1 Clem. 19",
+      "shortSection": "效法聖徒"
     },
     {
       "id": "20",
@@ -732,7 +752,8 @@
           "text": "to whom be the glory and the majesty for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 20"
+      "sourceReference": "1 Clem. 20",
+      "shortSection": "受造萬物的秩序"
     },
     {
       "id": "21",
@@ -776,7 +797,8 @@
           "text": "For He is the searcher out of the intents and desires; whose breath is in us, and when He listeth, He shall take it away."
         }
       ],
-      "sourceReference": "1 Clem. 21"
+      "sourceReference": "1 Clem. 21",
+      "shortSection": "和睦與敬畏"
     },
     {
       "id": "22",
@@ -816,7 +838,8 @@
           "text": "And again Many are the stripes of the sinner, but them that set their hope on the Lord mercy shall compass about."
         }
       ],
-      "sourceReference": "1 Clem. 22"
+      "sourceReference": "1 Clem. 22",
+      "shortSection": "敬畏主的教導"
     },
     {
       "id": "23",
@@ -844,7 +867,8 @@
           "text": "Of a truth quickly and suddenly shall His will be accomplished, the scripture also bearing witness to it, saying He shall come quickly and shall not tarry; and the Lord shall come suddenly into His temple, even the Holy One, whom ye expect."
         }
       ],
-      "sourceReference": "1 Clem. 23"
+      "sourceReference": "1 Clem. 23",
+      "shortSection": "耐心等候應許"
     },
     {
       "id": "24",
@@ -872,7 +896,8 @@
           "text": "The sower goeth forth and casteth into the earth each of the seeds; and these falling into the earth dry and bare decay: then out of their decay the mightiness of the Master's providence raiseth them up, and from being one they increase manifold and bear fruit."
         }
       ],
-      "sourceReference": "1 Clem. 24"
+      "sourceReference": "1 Clem. 24",
+      "shortSection": "復活的盼望"
     },
     {
       "id": "25",
@@ -900,7 +925,8 @@
           "text": "So the priests examine the registers of the times, and they find that it hath come when the five hundredth year is completed."
         }
       ],
-      "sourceReference": "1 Clem. 25"
+      "sourceReference": "1 Clem. 25",
+      "shortSection": "鳳凰的比喻"
     },
     {
       "id": "26",
@@ -920,7 +946,8 @@
           "text": "And again Job saith And Thou shall raise this my flesh which hath endured all these things."
         }
       ],
-      "sourceReference": "1 Clem. 26"
+      "sourceReference": "1 Clem. 26",
+      "shortSection": "上帝能使人復活"
     },
     {
       "id": "27",
@@ -956,7 +983,8 @@
           "text": "seeing that The heavens declare the glory of God, and the firmament proclaimeth His handiwork. Day uttereth word unto day, and night proclaimeth knowledge unto night; and there are neither words nor speeches, whose voices are not heard."
         }
       ],
-      "sourceReference": "1 Clem. 27"
+      "sourceReference": "1 Clem. 27",
+      "shortSection": "信靠上帝的應許"
     },
     {
       "id": "28",
@@ -980,7 +1008,8 @@
           "text": "Whither then shall one depart, or where shall one flee, from Him that embraceth the universe?"
         }
       ],
-      "sourceReference": "1 Clem. 28"
+      "sourceReference": "1 Clem. 28",
+      "shortSection": "無處逃避上帝"
     },
     {
       "id": "29",
@@ -1000,7 +1029,8 @@
           "text": "And in another place He saith, Behold, the Lord taketh for Himself a nation out of the midst of the nations, as a man taketh the first fruits of his threshing floor; and the holy of holies shall come forth from that nation."
         }
       ],
-      "sourceReference": "1 Clem. 29"
+      "sourceReference": "1 Clem. 29",
+      "shortSection": "聖潔親近上帝"
     },
     {
       "id": "30",
@@ -1040,7 +1070,8 @@
           "text": "Boldness and arrogance and daring are for them that are accursed of God; but forbearance and humility and gentleness are with them that are blessed of God."
         }
       ],
-      "sourceReference": "1 Clem. 30"
+      "sourceReference": "1 Clem. 30",
+      "shortSection": "棄絕惡行"
     },
     {
       "id": "31",
@@ -1064,7 +1095,8 @@
           "text": "Jacob with humility departed from his land because of his brother, and went unto Laban and served; and the twelve tribes of Israel were given unto him."
         }
       ],
-      "sourceReference": "1 Clem. 31"
+      "sourceReference": "1 Clem. 31",
+      "shortSection": "列祖蒙福"
     },
     {
       "id": "32",
@@ -1088,7 +1120,8 @@
           "text": "And so we, having been called through His will in Christ Jesus, are not justified through ourselves or through our own wisdom or understanding or piety or works which we wrought in holiness of heart, but through faith, whereby the Almighty God justified all men that have been from the beginning; to whom be the glory for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 32"
+      "sourceReference": "1 Clem. 32",
+      "shortSection": "因信稱義"
     },
     {
       "id": "33",
@@ -1128,7 +1161,8 @@
           "text": "Seeing then that we have this pattern, let us conform ourselves with all diligence to His will; let us with all our strength work the work of righteousness."
         }
       ],
-      "sourceReference": "1 Clem. 33"
+      "sourceReference": "1 Clem. 33",
+      "shortSection": "熱心行善"
     },
     {
       "id": "34",
@@ -1168,7 +1202,8 @@
           "text": "For He saith, Eye hath not seen and ear hath not heard, and it hath not entered into the heart of man what great things He hath prepared for them that patiently await Him."
         }
       ],
-      "sourceReference": "1 Clem. 34"
+      "sourceReference": "1 Clem. 34",
+      "shortSection": "勤勞事奉"
     },
     {
       "id": "35",
@@ -1224,7 +1259,8 @@
           "text": "The sacrifice of praise shall glorify Me, and there is the way wherein I will show him the salvation of God."
         }
       ],
-      "sourceReference": "1 Clem. 35"
+      "sourceReference": "1 Clem. 35",
+      "shortSection": "上帝的美善恩賜"
     },
     {
       "id": "36",
@@ -1256,7 +1292,8 @@
           "text": "Who then are these enemies? They that are wicked and resist His will."
         }
       ],
-      "sourceReference": "1 Clem. 36"
+      "sourceReference": "1 Clem. 36",
+      "shortSection": "基督為大祭司"
     },
     {
       "id": "37",
@@ -1284,7 +1321,8 @@
           "text": "Let us take our body as an example. The head without the feet is nothing; so likewise the feet without the head are nothing: even the smallest limbs of our body are necessary and useful for the whole body: but all the members conspire and unite in subjection, that the whole body maybe saved."
         }
       ],
-      "sourceReference": "1 Clem. 37"
+      "sourceReference": "1 Clem. 37",
+      "shortSection": "各盡其職"
     },
     {
       "id": "38",
@@ -1308,7 +1346,8 @@
           "text": "Seeing therefore that we have all these things from Him, we ought in all things to give thanks to Him, to whom be the glory for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 38"
+      "sourceReference": "1 Clem. 38",
+      "shortSection": "肢體彼此配搭"
     },
     {
       "id": "39",
@@ -1352,7 +1391,8 @@
           "text": "Far be their sons from safety. May they be mocked at the gates of inferiors, and there shall be none to deliver them. For the things which are prepared for them, the righteous shall eat; but they themselves shall not be delivered from evils."
         }
       ],
-      "sourceReference": "1 Clem. 39"
+      "sourceReference": "1 Clem. 39",
+      "shortSection": "人的軟弱"
     },
     {
       "id": "40",
@@ -1380,7 +1420,8 @@
           "text": "For unto the high priest his proper services have been assigned, and to the priests their proper office is appointed, and upon the levites their proper ministrations are laid. The layman is bound by the layman's ordinances."
         }
       ],
-      "sourceReference": "1 Clem. 40"
+      "sourceReference": "1 Clem. 40",
+      "shortSection": "按秩序事奉"
     },
     {
       "id": "41",
@@ -1404,7 +1445,8 @@
           "text": "Ye see, brethren, in proportion as greater knowledge hath been vouchsafed unto us, so much the more are we exposed to danger."
         }
       ],
-      "sourceReference": "1 Clem. 41"
+      "sourceReference": "1 Clem. 41",
+      "shortSection": "守住所託職分"
     },
     {
       "id": "42",
@@ -1432,7 +1474,8 @@
           "text": "And this they did in no new fashion; for indeed it had been written concerning bishops and deacons from very ancient times; for thus saith the scripture in a certain place, I will appoint their bishops in righteousness and their deacons in faith."
         }
       ],
-      "sourceReference": "1 Clem. 42"
+      "sourceReference": "1 Clem. 42",
+      "shortSection": "使徒設立領袖"
     },
     {
       "id": "43",
@@ -1464,7 +1507,8 @@
           "text": "What think ye, dearly beloved? Did not Moses know beforehand that this would come to pass? Assuredly he knew it. But that disorder might not arise in Israel, he did thus, to the end that the Name of the true and only God might be glorified: to whom he the glory for ever and ever. Amen..."
         }
       ],
-      "sourceReference": "1 Clem. 43"
+      "sourceReference": "1 Clem. 43",
+      "shortSection": "亞倫蒙選的記號"
     },
     {
       "id": "44",
@@ -1492,7 +1536,8 @@
           "text": "For we see that ye have displaced certain persons, though they were living honorably, from the ministration which had been respected by them blamelessly."
         }
       ],
-      "sourceReference": "1 Clem. 44"
+      "sourceReference": "1 Clem. 44",
+      "shortSection": "長老職分與紛爭"
     },
     {
       "id": "45",
@@ -1532,7 +1577,8 @@
           "text": "But they that endured patiently in confidence inherited glory and honor; they were exalted, and had their names recorded by God in their memorial for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 45"
+      "sourceReference": "1 Clem. 45",
+      "shortSection": "義人遭受逼迫"
     },
     {
       "id": "46",
@@ -1576,7 +1622,8 @@
           "text": "Your division hath perverted many; it hath brought many to despair, many to doubting, and all of us to sorrow. And your sedition still continueth."
         }
       ],
-      "sourceReference": "1 Clem. 46"
+      "sourceReference": "1 Clem. 46",
+      "shortSection": "分裂傷害教會"
     },
     {
       "id": "47",
@@ -1612,7 +1659,8 @@
           "text": "And this report hath reached not only us, but them also which differ from us, so that ye even heap blasphemies on the Name of the Lord by reason of your folly, and moreover create peril for yourselves."
         }
       ],
-      "sourceReference": "1 Clem. 47"
+      "sourceReference": "1 Clem. 47",
+      "shortSection": "重讀保羅書信"
     },
     {
       "id": "48",
@@ -1644,7 +1692,8 @@
           "text": "for so much the more ought he to be lowly in mind, in proportion as he seemeth to be the greater; and he ought to seek the common advantage of all, and not his own."
         }
       ],
-      "sourceReference": "1 Clem. 48"
+      "sourceReference": "1 Clem. 48",
+      "shortSection": "恢復和睦"
     },
     {
       "id": "49",
@@ -1676,7 +1725,8 @@
           "text": "in love the Master took us unto Himself; for the love which He had toward us, Jesus Christ our Lord hath given His blood for us by the will of God, and His flesh for our flesh and His life for our lives."
         }
       ],
-      "sourceReference": "1 Clem. 49"
+      "sourceReference": "1 Clem. 49",
+      "shortSection": "愛的力量"
     },
     {
       "id": "50",
@@ -1708,7 +1758,8 @@
           "text": "This declaration of blessedness was pronounced upon them that have been elected by God through Jesus Christ our Lord, to whom be the glory for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 50"
+      "sourceReference": "1 Clem. 50",
+      "shortSection": "愛的完全"
     },
     {
       "id": "51",
@@ -1736,7 +1787,8 @@
           "text": "Pharaoh and his host and all the rulers of Egypt, their chariots and their horsemen, were overwhelmed in the depths of the Red Sea, and perished for none other reason but because their foolish hearts were hardened after that the signs and the wonders had been wrought in the land of Egypt by the hand of Moses the servant of God."
         }
       ],
-      "sourceReference": "1 Clem. 51"
+      "sourceReference": "1 Clem. 51",
+      "shortSection": "認罪與悔改"
     },
     {
       "id": "52",
@@ -1760,7 +1812,8 @@
           "text": "For a sacrifice unto God is a broken spirit."
         }
       ],
-      "sourceReference": "1 Clem. 52"
+      "sourceReference": "1 Clem. 52",
+      "shortSection": "獻上感恩"
     },
     {
       "id": "53",
@@ -1788,7 +1841,8 @@
           "text": "O mighty love! O unsurpassable perfection! The servant is bold with his Master; he asketh forgiveness for the multitude, or he demandeth that himself also be blotted out with them."
         }
       ],
-      "sourceReference": "1 Clem. 53"
+      "sourceReference": "1 Clem. 53",
+      "shortSection": "摩西為百姓代求"
     },
     {
       "id": "54",
@@ -1812,7 +1866,8 @@
           "text": "Thus have they done and will do, that live as citizens of that kingdom of God which bringeth no regrets."
         }
       ],
-      "sourceReference": "1 Clem. 54"
+      "sourceReference": "1 Clem. 54",
+      "shortSection": "為群體捨己"
     },
     {
       "id": "55",
@@ -1844,7 +1899,8 @@
           "text": "To no less peril did Esther also, who was perfect in faith, expose herself, that she might deliver the twelve tribes of Israel, when they were on the point to perish. For through her fasting and her humiliation she entreated the all seeing Master, the God of the ages; and He, seeing the humility of her soul, delivered the people for whose sake she encountered the peril."
         }
       ],
-      "sourceReference": "1 Clem. 55"
+      "sourceReference": "1 Clem. 55",
+      "shortSection": "捨己救人的榜樣"
     },
     {
       "id": "56",
@@ -1916,7 +1972,8 @@
           "text": "Ye see, dearly beloved, how great protection there is for them that are chastened by the Master: for being a kind father He chasteneth us to the end that we may obtain mercy through His holy chastisement."
         }
       ],
-      "sourceReference": "1 Clem. 56"
+      "sourceReference": "1 Clem. 56",
+      "shortSection": "接受管教"
     },
     {
       "id": "57",
@@ -1952,7 +2009,8 @@
           "text": "For because they wronged babes, they shall be slain, and inquisition shall destroy the ungodly. But he that heareth Me shall dwell safely trusting in hope, and shall be quiet from all fear of all evil."
         }
       ],
-      "sourceReference": "1 Clem. 57"
+      "sourceReference": "1 Clem. 57",
+      "shortSection": "領袖當悔改"
     },
     {
       "id": "58",
@@ -1968,7 +2026,8 @@
           "text": "Receive our counsel, and ye shall have no occasion of regret. For as God liveth, and the Lord Jesus Christ liveth, and the Holy Spirit, who are the faith and the hope of the elect, so surely shall he, who with lowliness of mind and instant in gentleness hath without regretfulness performed the ordinances and commandments that are given by God, be enrolled and have a name among the number of them that are saved through Jesus Christ, through whom is the glory unto Him for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 58"
+      "sourceReference": "1 Clem. 58",
+      "shortSection": "順服與平安"
     },
     {
       "id": "59",
@@ -1992,7 +2051,8 @@
           "text": "We beseech Thee, Lord and Master, to be our help and succor. Save those among us who are in tribulation; have mercy on the lowly; lift up the fallen; show Thyself unto the needy; heal the ungodly; convert the wanderers of Thy people; feed the hungry; release our prisoners; raise up the weak; comfort the fainthearted. Let all the Gentiles know that Thou art the God alone, and Jesus Christ is Thy Son, and we are Thy people and the sheep of Thy pasture."
         }
       ],
-      "sourceReference": "1 Clem. 59"
+      "sourceReference": "1 Clem. 59",
+      "shortSection": "為眾人代禱"
     },
     {
       "id": "60",
@@ -2016,7 +2076,8 @@
           "text": "Give concord and peace to us and to all that dwell on the earth, as Thou gavest to our fathers, when they called on Thee in faith and truth with holiness, [that we may be saved,] while we render obedience to Thine almighty and most excellent Name, and to our rulers and governors upon the earth."
         }
       ],
-      "sourceReference": "1 Clem. 60"
+      "sourceReference": "1 Clem. 60",
+      "shortSection": "求赦免與平安"
     },
     {
       "id": "61",
@@ -2036,7 +2097,8 @@
           "text": "O Thou, who alone art able to do these things and things far more exceeding good than these for us, we praise Thee through the High priest and Guardian of our souls, Jesus Christ, through whom be the glory and the majesty unto Thee both now and for all generations and for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 61"
+      "sourceReference": "1 Clem. 61",
+      "shortSection": "為掌權者祈禱"
     },
     {
       "id": "62",
@@ -2056,7 +2118,8 @@
           "text": "And we have put you in mind of these things the more gladly, since we knew well that we were writing to men who are faithful and highly accounted and have diligently searched into the oracles of the teaching of God."
         }
       ],
-      "sourceReference": "1 Clem. 62"
+      "sourceReference": "1 Clem. 62",
+      "shortSection": "勸勉的總結"
     },
     {
       "id": "63",
@@ -2080,7 +2143,8 @@
           "text": "And this we have done that ye might know that we have had, and still have, every solicitude that ye should be speedily at peace."
         }
       ],
-      "sourceReference": "1 Clem. 63"
+      "sourceReference": "1 Clem. 63",
+      "shortSection": "接待使者與和好"
     },
     {
       "id": "64",
@@ -2092,7 +2156,8 @@
           "text": "Finally may the All seeing God and Master of spirits and Lord of all flesh, who chose the Lord Jesus Christ, and us through Him for a peculiar people, grant unto every soul that is called after His excellent and holy Name faith, fear, peace, patience, long-suffering, temperance, chastity and soberness, that they may be well pleasing unto His Name through our High priest and Guardian Jesus Christ, through whom unto Him be glory and majesty, might and honor, both now and for ever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 64"
+      "sourceReference": "1 Clem. 64",
+      "shortSection": "祝福眾信徒"
     },
     {
       "id": "65",
@@ -2108,7 +2173,8 @@
           "text": "The grace of our Lord Jesus Christ be with you and with all men in all places who have been called by God and through Him, through whom be glory and honor, power and greatness and eternal dominion, unto Him, from the ages past and forever and ever. Amen."
         }
       ],
-      "sourceReference": "1 Clem. 65"
+      "sourceReference": "1 Clem. 65",
+      "shortSection": "使者返程與問安"
     }
   ]
 }

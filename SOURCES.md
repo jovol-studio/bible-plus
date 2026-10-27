@@ -228,3 +228,7 @@ The [source audit](CONTENT_STATUS.md) lists every current source. Six missing Ch
 New English editions include WEB Classic, Lightfoot’s Apostolic Fathers, historical Charles/ANF/James/Terry/Ragg translations, Dowling’s 1908 work, and Mattison’s explicitly public-domain gospel translations. Psalms of Solomon uses the Wesley Center transcription and retains its noncommercial reuse notice; it is not represented as unrestricted modern text. Source hashes and edition limits are stored per book. `import-manifest.json` records the imported editions’ chapter IDs and entry counts; counts alone do not establish fidelity.
 
 The War Scroll is now imported from a user-supplied HTML file, with 19 columns and 362 line entries. Text and gaps are preserved; two apparent source numbering errors are normalized for navigation with the original numbers recorded. No new translation was produced and no public-domain or redistribution grant is asserted. Modern Chinese source links are recorded where found, without bundling protected full translations. Existing AI drafts remain identified as such; none were newly generated in this import.
+
+## Short navigation titles for imported books
+
+Added concise Traditional Chinese `shortSection` labels for 689 sections across 19 previously unlabeled books. These are editorial navigation summaries of the bundled text or its source headings, not translated scripture or claims of canonical authority. Original source headings, verse text, references, numbering and gaps are preserved. The Info dialog identifies their editorial status.

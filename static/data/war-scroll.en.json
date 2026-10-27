@@ -12,7 +12,8 @@
     "editionNote": "收錄所提供 HTML 中的 1QM 第 1–19 欄及原行號。App 的章／節控制對應欄／行，並非原作章節。保留缺文 […]、補入文字 [文字]、不確定讀法及來源拼寫；跳號不補造。兩處來源行號誤植僅修正閱讀定位：第 5 欄第 11 行後所印 17 改定位為 12；第 14 欄第 7 行後所印 9 改定位為 8，原印號保留於 sourceNumber／sourceReference。只正規化 HTML 排版空白，不補譯或新增中文。先前線上頁尾稱譯文可能出自 Wise、Abegg、Cook，所提供檔案未附完整譯者來源，故未確證版本。",
     "providedFile": "War Scroll (1QM).html",
     "sha256": "ef7b248ca44d72324d1ef5fe3fcc78606c484e94d831bf0796a541575f780946",
-    "imported": "2026-10-27"
+    "imported": "2026-10-27",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。"
   },
   "chapters": [
     {
@@ -122,7 +123,8 @@
           "text": "[the Levites, the chiefs of the tribes, the fathers of the congregation ... the priests and thus for the Levites and the courses of the heads of]",
           "sourceReference": "1QM 1:20"
         }
-      ]
+      ],
+      "shortSection": "光暗兩軍交戰"
     },
     {
       "id": "2",
@@ -231,7 +233,8 @@
           "text": "[... they shall write ... the trumpets of]",
           "sourceReference": "1QM 2:20"
         }
-      ]
+      ],
+      "shortSection": "敬拜與戰爭年期"
     },
     {
       "id": "3",
@@ -335,7 +338,8 @@
           "text": "[...]",
           "sourceReference": "1QM 3:20"
         }
-      ]
+      ],
+      "shortSection": "號角與軍旗"
     },
     {
       "id": "4",
@@ -443,7 +447,8 @@
           "text": "[...]",
           "sourceReference": "1QM 4:20"
         }
-      ]
+      ],
+      "shortSection": "軍旗規制"
     },
     {
       "id": "5",
@@ -549,7 +554,8 @@
           "text": "[ . . . they shall sling]",
           "sourceReference": "1QM 5:20"
         }
-      ]
+      ],
+      "shortSection": "盾牌與軍陣"
     },
     {
       "id": "6",
@@ -653,7 +659,8 @@
           "text": "[...]",
           "sourceReference": "1QM 6:20"
         }
-      ]
+      ],
+      "shortSection": "騎兵與兵員"
     },
     {
       "id": "7",
@@ -758,7 +765,8 @@
           "text": "[...]",
           "sourceReference": "1QM 7:20"
         }
-      ]
+      ],
+      "shortSection": "軍營與祭司"
     },
     {
       "id": "8",
@@ -866,7 +874,8 @@
           "text": "[and all the people with rams' horns shall blow a very loud battle alarm, and as the sound goes out]",
           "sourceReference": "1QM 8:20"
         }
-      ]
+      ],
+      "shortSection": "祭司號令"
     },
     {
       "id": "9",
@@ -975,7 +984,8 @@
           "text": "[...]",
           "sourceReference": "1QM 9:20"
         }
-      ]
+      ],
+      "shortSection": "作戰部署"
     },
     {
       "id": "10",
@@ -1085,7 +1095,8 @@
           "text": "[...]",
           "sourceReference": "1QM 10:20"
         }
-      ]
+      ],
+      "shortSection": "祭司的禱告"
     },
     {
       "id": "11",
@@ -1193,7 +1204,8 @@
           "text": "[...]",
           "sourceReference": "1QM 11:20"
         }
-      ]
+      ],
+      "shortSection": "上帝施行拯救"
     },
     {
       "id": "12",
@@ -1297,7 +1309,8 @@
           "sourceReference": "1QM 12:20",
           "sourceHeading": "The blessings of the war recited by all the leaders after the victory."
         }
-      ]
+      ],
+      "shortSection": "得勝的頌讚"
     },
     {
       "id": "13",
@@ -1405,7 +1418,8 @@
           "text": "[...]",
           "sourceReference": "1QM 13:20"
         }
-      ]
+      ],
+      "shortSection": "光暗權勢對立"
     },
     {
       "id": "14",
@@ -1515,7 +1529,8 @@
           "text": "[...]",
           "sourceReference": "1QM 14:20"
         }
-      ]
+      ],
+      "shortSection": "戰前讚美與禱告"
     },
     {
       "id": "15",
@@ -1624,7 +1639,8 @@
           "text": "[...]",
           "sourceReference": "1QM 15:20"
         }
-      ]
+      ],
+      "shortSection": "決戰開始"
     },
     {
       "id": "16",
@@ -1723,7 +1739,8 @@
           "text": "[...]",
           "sourceReference": "1QM 16:20"
         }
-      ]
+      ],
+      "shortSection": "再戰與勉勵"
     },
     {
       "id": "17",
@@ -1812,7 +1829,8 @@
           "text": "Thus in the th[ird] lot [...] to fall slain [...]",
           "sourceReference": "1QM 17:16"
         }
-      ]
+      ],
+      "shortSection": "爭戰與信心考驗"
     },
     {
       "id": "18",
@@ -1917,7 +1935,8 @@
           "text": "[... And we shall direct our contempt at kings,]",
           "sourceReference": "1QM 18:20"
         }
-      ]
+      ],
+      "shortSection": "最後得勝與感恩"
     },
     {
       "id": "19",
@@ -1996,7 +2015,8 @@
           "text": "[... to God most high and ...]",
           "sourceReference": "1QM 19:14"
         }
-      ]
+      ],
+      "shortSection": "凱旋與戰後禮儀"
     }
   ]
 }

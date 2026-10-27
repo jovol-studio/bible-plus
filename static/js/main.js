@@ -128,7 +128,7 @@ async function loadBook(chapterId, verseNumber) {
       const section = (translated?.shortSection || translated?.section || c.shortSection || c.section || '').trim().replace(/。+$/, '');
       const label = `第 ${chapterValue(c)} 章`;
       const sourceLabel = (translated?.label || c.label.replace(/^Chapter\s+(.+)$/i, '第$1章')).replace(/^第\s*(.*?)\s*章$/, '第$1章');
-      const description = usesReaderPositions ? `${section}${sourceLabel}` : section;
+      const description = usesReaderPositions && !book.chapterTitlesStandalone ? `${section}${sourceLabel}` : section;
       const choice = option(chapterValue(c), [label, description].filter(Boolean).join(' '));
       choice.dataset.chapterLabel = label;
       choice.dataset.section = description;
@@ -263,7 +263,7 @@ function renderSources() {
     if (!data) continue;
     paragraph(`${label}：${data.source.credit}`);
     paragraph(`${label}授權說明：${data.source.rightsNotice || '尚未記錄此版本的內容授權，請向權利人確認。'}`);
-    for (const field of ['translationNote', 'editionNote']) if (data.source[field]) paragraph(data.source[field]);
+    for (const field of ['translationNote', 'editionNote', 'navigationNote']) if (data.source[field]) paragraph(data.source[field]);
     for (const [field, title] of [['url', `${label}原始來源`], ['editionCheckUrl', '版本核對來源'], ['rightsUrl', `${label}權利說明來源`]]) {
       sourceLink(title, data.source[field]);
     }
