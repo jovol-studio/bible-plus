@@ -11,13 +11,13 @@
     "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
     "rightsNotice": "中文為本 App 新製作的 AI 翻譯初稿，英文底本為公版 WEB Classic；不是官方中文 WEB 譯本，亦未複製其他出版中文譯本。",
     "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
-    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
-    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
     "retrieved": "2026-10-27",
     "editionNote": "逐節對照所收錄的 WEB Classic 英文，保留原章節及敘事差異。",
     "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。",
     "translationNote": "AI-generated Traditional Chinese translation draft, produced sequentially from the bundled WEB Classic English. 未經獨立學術審校；不是已出版的中文譯本，也不是從古代原文直接翻譯。",
-    "translated": "2026-10-27"
+    "translated": "2026-10-28",
+    "englishBaseTextSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "englishBaseArchiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d"
   },
   "chapters": [
     {
@@ -443,6 +443,2146 @@
         }
       ],
       "shortSection": "理性勝過欲望"
+    },
+    {
+      "id": "4",
+      "label": "第 4 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "有一個名叫西門的人，與一位名叫安尼亞的高尚善人作對；安尼亞曾終身擔任大祭司。西門百般毀謗他，卻不能在百姓面前損害他，便離鄉而去，決意出賣自己的國家。",
+          "sourceReference": "4MA 4:1"
+        },
+        {
+          "number": "2",
+          "text": "他來到敘利亞、腓尼基和基利家的軍事總督亞波羅尼面前，說：",
+          "sourceReference": "4MA 4:2"
+        },
+        {
+          "number": "3",
+          "text": "「我關心王的事務，特來告知：耶路撒冷的庫房裡存有數以萬計的私人財富；這些不屬於聖殿，卻屬於西流古王。」",
+          "sourceReference": "4MA 4:3"
+        },
+        {
+          "number": "4",
+          "text": "亞波羅尼查明詳情後，稱讚西門關心王的利益，便去見西流古，把財寶的事告訴他。",
+          "sourceReference": "4MA 4:4"
+        },
+        {
+          "number": "5",
+          "text": "他取得授權後，就與那可咒詛的西門，帶領一支龐大的軍隊，迅速進入我們的國土，",
+          "sourceReference": "4MA 4:5"
+        },
+        {
+          "number": "6",
+          "text": "聲稱自己奉王的命令而來，要取走庫房裡的私人財產。",
+          "sourceReference": "4MA 4:6"
+        },
+        {
+          "number": "7",
+          "text": "全族對這項宣告十分憤怒，回答說，奪去人們寄存在聖庫裡的財物，極不公道；他們便竭力抵抗。",
+          "sourceReference": "4MA 4:7"
+        },
+        {
+          "number": "8",
+          "text": "亞波羅尼卻出言威嚇，走進聖殿。",
+          "sourceReference": "4MA 4:8"
+        },
+        {
+          "number": "9",
+          "text": "祭司和婦女、孩子一同求上帝伸出盾牌，護衛這遭人藐視的聖所。",
+          "sourceReference": "4MA 4:9"
+        },
+        {
+          "number": "10",
+          "text": "亞波羅尼正帶著武裝部隊上前搶奪財寶，忽然有天使從天上顯現，騎著馬，盔甲閃耀光芒，使他們大大恐懼戰兢。",
+          "sourceReference": "4MA 4:10"
+        },
+        {
+          "number": "11",
+          "text": "亞波羅尼半死不活地倒在向萬民開放的院子裡，向天伸手，流淚懇求希伯來人為他禱告，使天軍的忿怒離開他。",
+          "sourceReference": "4MA 4:11"
+        },
+        {
+          "number": "12",
+          "text": "他說自己犯了罪，理當受死；若能得救，必向眾人宣揚這聖所的福澤。",
+          "sourceReference": "4MA 4:12"
+        },
+        {
+          "number": "13",
+          "text": "大祭司安尼亞被這些話打動，也擔心西流古王誤以為亞波羅尼遭人設計殺害，而不是受上帝懲罰，就為他禱告。",
+          "sourceReference": "4MA 4:13"
+        },
+        {
+          "number": "14",
+          "text": "他如此出乎意料地獲救，便離去，向王報告自己的遭遇。",
+          "sourceReference": "4MA 4:14"
+        },
+        {
+          "number": "15",
+          "text": "西流古王死後，他的兒子安提阿古伊比法尼繼承王位；這是一個驕橫可怕的人。",
+          "sourceReference": "4MA 4:15"
+        },
+        {
+          "number": "16",
+          "text": "他廢去安尼亞的大祭司職分，任命安尼亞的兄弟耶孫作大祭司。",
+          "sourceReference": "4MA 4:16"
+        },
+        {
+          "number": "17",
+          "text": "耶孫曾與王約定，若把這權位給他，他就每年繳納三千六百六十他連得。",
+          "sourceReference": "4MA 4:17"
+        },
+        {
+          "number": "18",
+          "text": "於是王把大祭司的職分和治理全族的權柄交給他。",
+          "sourceReference": "4MA 4:18"
+        },
+        {
+          "number": "19",
+          "text": "他既改變百姓的生活方式，又敗壞他們的社會習俗，使他們陷入種種不法之事。",
+          "sourceReference": "4MA 4:19"
+        },
+        {
+          "number": "20",
+          "text": "他不但在我們國家的堡壘上建造體育館，還疏忽了對聖殿的守護。",
+          "sourceReference": "4MA 4:20"
+        },
+        {
+          "number": "21",
+          "text": "因此，上帝的忿怒被激起，促使安提阿古親自起來攻擊他們。",
+          "sourceReference": "4MA 4:21"
+        },
+        {
+          "number": "22",
+          "text": "安提阿古正在埃及與托勒密交戰，聽說有人傳出他的死訊，耶路撒冷的居民竟大為歡喜，便迅速率軍攻打他們。",
+          "sourceReference": "4MA 4:22"
+        },
+        {
+          "number": "23",
+          "text": "他征服他們後，頒布命令：任何人若照祖傳的律法生活，就必須處死。",
+          "sourceReference": "4MA 4:23"
+        },
+        {
+          "number": "24",
+          "text": "然而，他始終不能藉命令摧毀這民族對律法的順服，又看見自己的威嚇和懲罰全都無效。",
+          "sourceReference": "4MA 4:24"
+        },
+        {
+          "number": "25",
+          "text": "甚至婦女明知將受懲罰，仍繼續為孩子行割禮，因而與孩子一同被拋下懸崖。",
+          "sourceReference": "4MA 4:25"
+        },
+        {
+          "number": "26",
+          "text": "所以，當百姓不理會他的命令時，他便親自用酷刑強迫這一族的每個人吃禁戒的食物，藉此放棄猶太信仰。",
+          "sourceReference": "4MA 4:26"
+        }
+      ],
+      "shortSection": "聖殿危機與暴政"
+    },
+    {
+      "id": "5",
+      "label": "第 5 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "暴君安提阿古與他的顧問，坐在一處高臺上公開臨朝，武裝士兵環立在他周圍。",
+          "sourceReference": "4MA 5:1"
+        },
+        {
+          "number": "2",
+          "text": "他命令持矛的侍衛捉拿所有希伯來人，強迫他們吃豬肉和祭過偶像的食物。",
+          "sourceReference": "4MA 5:2"
+        },
+        {
+          "number": "3",
+          "text": "若有人不肯吃這些可咒詛的食物，就要用刑輪折磨，然後處死。",
+          "sourceReference": "4MA 5:3"
+        },
+        {
+          "number": "4",
+          "text": "許多人被捕後，一位名叫以利亞撒的希伯來人被帶到他面前。他是會眾中的領袖，出身祭司家族，以研究律法為業，年事已高，因此王的許多隨從都認識他。",
+          "sourceReference": "4MA 5:4"
+        },
+        {
+          "number": "5",
+          "text": "安提阿古看見他，就說：",
+          "sourceReference": "4MA 5:5"
+        },
+        {
+          "number": "6",
+          "text": "「老人家，在酷刑開始之前，我勸你吃些豬肉，保住性命。我敬重你的年紀和白髮；但你活了這麼久，仍堅持猶太人的迷信，在我看來，你並不是有智慧的人。",
+          "sourceReference": "4MA 5:6"
+        },
+        {
+          "number": "7",
+          "text": "大自然既把這動物最上好的肉賜給你，你為何厭惡它呢？",
+          "sourceReference": "4MA 5:7"
+        },
+        {
+          "number": "8",
+          "text": "美味而又不羞恥的東西，卻不肯享用；又因以為有罪而拒絕大自然的恩賜，這似乎很不明智。",
+          "sourceReference": "4MA 5:8"
+        },
+        {
+          "number": "9",
+          "text": "我認為，你若追隨那些關於真理的虛妄想法，行事就更不明智了。",
+          "sourceReference": "4MA 5:9"
+        },
+        {
+          "number": "10",
+          "text": "而且，你這樣輕視我，只會使自己受罰。",
+          "sourceReference": "4MA 5:10"
+        },
+        {
+          "number": "11",
+          "text": "你何不從這無聊的哲理中醒悟，放棄愚昧的觀念，恢復與你年齡相稱的見識，查明怎樣行才真正有益呢？",
+          "sourceReference": "4MA 5:11"
+        },
+        {
+          "number": "12",
+          "text": "你何不尊重我的善意勸告，憐惜自己的高齡呢？",
+          "sourceReference": "4MA 5:12"
+        },
+        {
+          "number": "13",
+          "text": "要記住，即使真有甚麼力量看顧你這信仰，你因受強迫而違犯律法，它也會全都赦免。」",
+          "sourceReference": "4MA 5:13"
+        },
+        {
+          "number": "14",
+          "text": "暴君如此誘使他違法吃肉，以利亞撒便請求准許他說話。",
+          "sourceReference": "4MA 5:14"
+        },
+        {
+          "number": "15",
+          "text": "得到准許後，他開始向眾人說：",
+          "sourceReference": "4MA 5:15"
+        },
+        {
+          "number": "16",
+          "text": "「安提阿古啊，我們深信自己是在神聖的律法之下生活，認為任何強迫都不能勝過順服這律法的責任。",
+          "sourceReference": "4MA 5:16"
+        },
+        {
+          "number": "17",
+          "text": "所以，我們認為，無論如何都不應違犯律法。",
+          "sourceReference": "4MA 5:17"
+        },
+        {
+          "number": "18",
+          "text": "即使我們的律法果真如你所想，並非出於上帝，而是我們誤認為出於上帝，就是如此，我們也無權毀掉自己敬虔的心。",
+          "sourceReference": "4MA 5:18"
+        },
+        {
+          "number": "19",
+          "text": "不要以為吃不潔淨的肉，只是微不足道的過錯。",
+          "sourceReference": "4MA 5:19"
+        },
+        {
+          "number": "20",
+          "text": "因為違犯律法，不論事情大小，都是同樣嚴重的；",
+          "sourceReference": "4MA 5:20"
+        },
+        {
+          "number": "21",
+          "text": "無論哪一種情況，都是同樣輕視律法。",
+          "sourceReference": "4MA 5:21"
+        },
+        {
+          "number": "22",
+          "text": "你嘲笑我們的哲理，彷彿我們照著它生活是不合情理的。",
+          "sourceReference": "4MA 5:22"
+        },
+        {
+          "number": "23",
+          "text": "但它教導我們自制，使我們勝過一切享樂和慾望；它訓練我們勇敢，使我們甘心承受一切苦難。",
+          "sourceReference": "4MA 5:23"
+        },
+        {
+          "number": "24",
+          "text": "它教導我們公義，使我們在一切往來中，給人所當得的；它教導我們敬虔，使我們正當地敬拜獨一的上帝。",
+          "sourceReference": "4MA 5:24"
+        },
+        {
+          "number": "25",
+          "text": "因此，我們不吃不潔淨的食物；我們相信律法是上帝所立，也深信創造世界的主在頒布律法時，體恤我們的本性。",
+          "sourceReference": "4MA 5:25"
+        },
+        {
+          "number": "26",
+          "text": "適合我們心靈的東西，祂吩咐我們吃；不適合的，祂就禁止。",
+          "sourceReference": "4MA 5:26"
+        },
+        {
+          "number": "27",
+          "text": "你卻像暴君一樣，不但強迫我們違犯律法，還強迫我們吃，好在我們如此褻瀆地吃時嘲弄我們。",
+          "sourceReference": "4MA 5:27"
+        },
+        {
+          "number": "28",
+          "text": "但你不會從我身上得到這樣的笑柄，",
+          "sourceReference": "4MA 5:28"
+        },
+        {
+          "number": "29",
+          "text": "我也不會違背祖先遵守律法的神聖誓言。",
+          "sourceReference": "4MA 5:29"
+        },
+        {
+          "number": "30",
+          "text": "即使你挖出我的眼睛，焚燒我的內臟，我也絕不違背。",
+          "sourceReference": "4MA 5:30"
+        },
+        {
+          "number": "31",
+          "text": "我還沒有衰老、怯懦到不能在理性和捍衛信仰上保持年輕的活力。",
+          "sourceReference": "4MA 5:31"
+        },
+        {
+          "number": "32",
+          "text": "來吧，預備你的刑輪，把火燒得更猛烈些！",
+          "sourceReference": "4MA 5:32"
+        },
+        {
+          "number": "33",
+          "text": "我不會如此憐惜自己的老年，為自己的緣故違背本國的律法。",
+          "sourceReference": "4MA 5:33"
+        },
+        {
+          "number": "34",
+          "text": "教導我的律法啊，我不會背叛你！我所愛的自制啊，我不會離棄你！",
+          "sourceReference": "4MA 5:34"
+        },
+        {
+          "number": "35",
+          "text": "富有智慧的理性啊，我不會使你蒙羞！尊貴的祭司職分和律法知識啊，我不會否認你！",
+          "sourceReference": "4MA 5:35"
+        },
+        {
+          "number": "36",
+          "text": "我的口啊，你不可玷污我的晚年，也不可玷污我一生所達到的完備境地。",
+          "sourceReference": "4MA 5:36"
+        },
+        {
+          "number": "37",
+          "text": "我的祖先將接納純潔的我，因我直到死也不懼怕你的強迫。",
+          "sourceReference": "4MA 5:37"
+        },
+        {
+          "number": "38",
+          "text": "你可以像暴君一樣統治不敬虔的人，卻不能用言辭或行動，支配我對信仰的思想。」",
+          "sourceReference": "4MA 5:38"
+        }
+      ],
+      "shortSection": "以利亞撒拒絕屈服"
+    },
+    {
+      "id": "6",
+      "label": "第 6 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "以利亞撒這樣回答暴君的勸誘後，持矛的侍衛就上前，粗暴地把他拖到刑具旁。",
+          "sourceReference": "4MA 6:1"
+        },
+        {
+          "number": "2",
+          "text": "他們先剝去這位老人的衣服；他原是以敬虔之美為裝飾的。",
+          "sourceReference": "4MA 6:2"
+        },
+        {
+          "number": "3",
+          "text": "接著，他們把他的雙臂和雙手反綁在背後，輕蔑地鞭打他。",
+          "sourceReference": "4MA 6:3"
+        },
+        {
+          "number": "4",
+          "text": "一個傳令官在對面喊道：「服從王的命令！」",
+          "sourceReference": "4MA 6:4"
+        },
+        {
+          "number": "5",
+          "text": "但志氣高尚、真正尊貴的以利亞撒，彷彿在夢中受刑，毫不理會。",
+          "sourceReference": "4MA 6:5"
+        },
+        {
+          "number": "6",
+          "text": "老人舉目望天，鞭子卻打得他皮肉剝落，鮮血直流，兩脅也被刺穿。",
+          "sourceReference": "4MA 6:6"
+        },
+        {
+          "number": "7",
+          "text": "他的身體無力忍受疼痛，倒在地上，理性卻仍然挺立不屈。",
+          "sourceReference": "4MA 6:7"
+        },
+        {
+          "number": "8",
+          "text": "一個凶狠的持矛侍衛衝上前，踢他的腰側，要迫使倒下的他重新站起來。",
+          "sourceReference": "4MA 6:8"
+        },
+        {
+          "number": "9",
+          "text": "他卻忍受疼痛，藐視殘暴，在凌辱中堅持到底。",
+          "sourceReference": "4MA 6:9"
+        },
+        {
+          "number": "10",
+          "text": "這位老人像高尚的競技者，雖然挨打，卻戰勝了折磨他的人。",
+          "sourceReference": "4MA 6:10"
+        },
+        {
+          "number": "11",
+          "text": "他滿面汗水，喘不過氣來；就連施刑的人也敬佩他的勇氣。",
+          "sourceReference": "4MA 6:11"
+        },
+        {
+          "number": "12",
+          "text": "因此，有些王的侍從，一方面憐憫他的年邁，",
+          "sourceReference": "4MA 6:12"
+        },
+        {
+          "number": "13",
+          "text": "一方面因相識而同情他，又一方面欽佩他的忍耐，就說：",
+          "sourceReference": "4MA 6:13"
+        },
+        {
+          "number": "14",
+          "text": "「以利亞撒啊，你為何這樣不明智，讓這些苦難毀掉自己呢？",
+          "sourceReference": "4MA 6:14"
+        },
+        {
+          "number": "15",
+          "text": "我們給你拿些你自己煮的肉來；你只要假裝吃了豬肉，就能救自己。」",
+          "sourceReference": "4MA 6:15"
+        },
+        {
+          "number": "16",
+          "text": "以利亞撒彷彿被這勸告折磨得更加痛苦，大聲說：",
+          "sourceReference": "4MA 6:16"
+        },
+        {
+          "number": "17",
+          "text": "「我們是亞伯拉罕的子孫，豈可聽從這樣邪惡的勸告而屈服，採用不光彩的偽裝！",
+          "sourceReference": "4MA 6:17"
+        },
+        {
+          "number": "18",
+          "text": "我們一生誠實，直到老年，為此謹慎守護自己的品格；如今若退縮，實在不合情理，",
+          "sourceReference": "4MA 6:18"
+        },
+        {
+          "number": "19",
+          "text": "更會親自成為年輕人的不敬虔榜樣，示範如何吃污穢之物。",
+          "sourceReference": "4MA 6:19"
+        },
+        {
+          "number": "20",
+          "text": "若為了多活片刻，就因懦弱而受眾人鄙視，這是何等羞恥！",
+          "sourceReference": "4MA 6:20"
+        },
+        {
+          "number": "21",
+          "text": "又因沒有為神聖的律法奮鬥至死，被暴君斥為懦夫，這也是羞恥。",
+          "sourceReference": "4MA 6:21"
+        },
+        {
+          "number": "22",
+          "text": "所以，亞伯拉罕的子孫啊，你們要為信仰高尚地死去。",
+          "sourceReference": "4MA 6:22"
+        },
+        {
+          "number": "23",
+          "text": "暴君的持矛侍衛啊，你們為何還遲延？」",
+          "sourceReference": "4MA 6:23"
+        },
+        {
+          "number": "24",
+          "text": "他們見他面對苦難仍如此高尚，也不因他們的憐憫而改變，就把他帶到火旁。",
+          "sourceReference": "4MA 6:24"
+        },
+        {
+          "number": "25",
+          "text": "他們用邪惡設計的刑具在火上燒他，又把惡臭的液體灌進他的鼻孔。",
+          "sourceReference": "4MA 6:25"
+        },
+        {
+          "number": "26",
+          "text": "最後，他被燒得露出骨頭，將要斷氣，便舉目望向上帝，說：",
+          "sourceReference": "4MA 6:26"
+        },
+        {
+          "number": "27",
+          "text": "「上帝啊，你知道，我本來可以獲救，卻為律法的緣故，在火刑中被殺。",
+          "sourceReference": "4MA 6:27"
+        },
+        {
+          "number": "28",
+          "text": "求你憐憫你的子民，以我為他們所受的懲罰為足。",
+          "sourceReference": "4MA 6:28"
+        },
+        {
+          "number": "29",
+          "text": "願我的血潔淨他們，求你以我的生命換取他們的生命。」",
+          "sourceReference": "4MA 6:29"
+        },
+        {
+          "number": "30",
+          "text": "這位聖潔的人說完，就離世了；他在酷刑中顯出高尚，甚至在臨死的劇痛中，仍為律法的緣故，以理性抵抗到底。",
+          "sourceReference": "4MA 6:30"
+        },
+        {
+          "number": "31",
+          "text": "所以，敬虔的理性是情慾的主宰，這是無可否認的。",
+          "sourceReference": "4MA 6:31"
+        },
+        {
+          "number": "32",
+          "text": "倘若情慾勝過理性，我就會為情慾的統治權作證。",
+          "sourceReference": "4MA 6:32"
+        },
+        {
+          "number": "33",
+          "text": "但如今，既是理性戰勝情慾，我們理當把首要的權柄歸給它。",
+          "sourceReference": "4MA 6:33"
+        },
+        {
+          "number": "34",
+          "text": "理性既能制服外來的苦難，我們承認這力量屬於它，才是公正的。",
+          "sourceReference": "4MA 6:34"
+        },
+        {
+          "number": "35",
+          "text": "若不是這樣，才是荒謬的。我已證明，理性不但制服痛苦，也勝過快樂，並抵抗它們。",
+          "sourceReference": "4MA 6:35"
+        }
+      ],
+      "shortSection": "以利亞撒受刑"
+    },
+    {
+      "id": "7",
+      "label": "第 7 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "我們先輩以利亞撒的理性，如同一流的舵手，在情慾的海洋上駕駛敬虔之船；",
+          "sourceReference": "4MA 7:1"
+        },
+        {
+          "number": "2",
+          "text": "雖遭暴君威嚇的衝擊，又被酷刑的巨浪淹沒，",
+          "sourceReference": "4MA 7:2"
+        },
+        {
+          "number": "3",
+          "text": "他始終沒有轉動敬虔的船舵，直到駛進戰勝死亡的港灣。",
+          "sourceReference": "4MA 7:3"
+        },
+        {
+          "number": "4",
+          "text": "從沒有一座被圍困的城，抵擋過如此眾多而不同的攻城器械，能比得上這位聖潔的人。他敬虔的心靈經受酷刑與拷打的烈火試煉，卻藉著護衛他的敬虔理性，撼動了圍攻他的人。",
+          "sourceReference": "4MA 7:4"
+        },
+        {
+          "number": "5",
+          "text": "以利亞撒先輩挺起堅定的心志，如同突出的峭壁，擊碎情慾的狂浪。",
+          "sourceReference": "4MA 7:5"
+        },
+        {
+          "number": "6",
+          "text": "配得祭司職分的祭司啊！你沒有玷污神聖的牙齒，也沒有讓一向只接受潔淨合法食物的胃口，參與褻瀆之事。",
+          "sourceReference": "4MA 7:6"
+        },
+        {
+          "number": "7",
+          "text": "與律法和諧一致、委身神聖生活的智者啊！",
+          "sourceReference": "4MA 7:7"
+        },
+        {
+          "number": "8",
+          "text": "那些冒著流血的危險履行律法責任，甘願汗流不息、受苦至死來捍衛律法的人，就應當有這樣的品格。",
+          "sourceReference": "4MA 7:8"
+        },
+        {
+          "number": "9",
+          "text": "先輩啊，你藉忍耐，光榮地堅立我們正當的生活制度；你珍視我們歷來的事奉，使它不致毀滅，又以行動證實了哲理之言可信。",
+          "sourceReference": "4MA 7:9"
+        },
+        {
+          "number": "10",
+          "text": "比酷刑更有力量的老人、比烈火更有活力的長者、統治情慾的偉大君王以利亞撒啊！",
+          "sourceReference": "4MA 7:10"
+        },
+        {
+          "number": "11",
+          "text": "正如先輩亞倫手持香爐，急忙穿過吞噬的火焰，制服那帶火的天使；",
+          "sourceReference": "4MA 7:11"
+        },
+        {
+          "number": "12",
+          "text": "照樣，亞倫的後裔以利亞撒，雖被火焚毀，仍沒有放棄理性。",
+          "sourceReference": "4MA 7:12"
+        },
+        {
+          "number": "13",
+          "text": "最奇妙的是，他雖已年老，體力耗盡，肌肉鬆弛，筋骨衰弱，卻重新得著青春。",
+          "sourceReference": "4MA 7:13"
+        },
+        {
+          "number": "14",
+          "text": "他藉理性的精神，並以撒所具有的理性，使那多頭的刑具失去威力。",
+          "sourceReference": "4MA 7:14"
+        },
+        {
+          "number": "15",
+          "text": "有福的晚年、可敬的白髮、順服律法的一生啊！忠貞的死亡如印記，使這一切臻於完備。",
+          "sourceReference": "4MA 7:15"
+        },
+        {
+          "number": "16",
+          "text": "一位老人既因敬虔而輕看酷刑，直到死亡，那麼，敬虔的理性確實是情慾的統治者。",
+          "sourceReference": "4MA 7:16"
+        },
+        {
+          "number": "17",
+          "text": "但也許有人會說：「並非人人都能戰勝情慾，因為並非人人都有智慧的理性。」",
+          "sourceReference": "4MA 7:17"
+        },
+        {
+          "number": "18",
+          "text": "唯有那些全心默想敬虔之道的人，才能制服肉體的情慾。",
+          "sourceReference": "4MA 7:18"
+        },
+        {
+          "number": "19",
+          "text": "他們相信，在上帝面前，他們並不死亡；因為他們像我們的祖先亞伯拉罕、以撒、雅各一樣，向上帝仍是活著的。",
+          "sourceReference": "4MA 7:19"
+        },
+        {
+          "number": "20",
+          "text": "所以，有些理性軟弱的人被情慾支配，這件事絕不能推翻我們的論點。",
+          "sourceReference": "4MA 7:20"
+        },
+        {
+          "number": "21",
+          "text": "因為，一個人若敬虔地遵循哲理的一切準則，相信上帝，",
+          "sourceReference": "4MA 7:21"
+        },
+        {
+          "number": "22",
+          "text": "又知道為美德忍受各樣艱難是有福的事，怎會不為敬虔的緣故制服自己的情慾呢？",
+          "sourceReference": "4MA 7:22"
+        },
+        {
+          "number": "23",
+          "text": "唯有智慧而勇敢的人，才是自己情慾的主人。",
+          "sourceReference": "4MA 7:23"
+        },
+        {
+          "number": "24",
+          "text": "因此，連少年人受了敬虔理性的哲理訓練，也能戰勝更苦的酷刑。",
+          "sourceReference": "4MA 7:24"
+        },
+        {
+          "number": "25",
+          "text": "暴君第一次嘗試，不能強迫老人吃不潔淨的食物，顯然已經失敗，",
+          "sourceReference": "4MA 7:25"
+        }
+      ],
+      "shortSection": "堅忍的榜樣"
+    },
+    {
+      "id": "8",
+      "label": "第 8 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "便被激烈的情緒所左右，命人帶來其他成年的希伯來人；他們若肯吃不潔淨的食物，吃完就釋放，若拒絕，就更加殘酷地折磨他們。",
+          "sourceReference": "4MA 8:1"
+        },
+        {
+          "number": "2",
+          "text": "暴君下了這命令後，七個兄弟和他們年老的母親被帶到他面前。他們英俊、端莊、出身良好，個個儀表出眾。",
+          "sourceReference": "4MA 8:2"
+        },
+        {
+          "number": "3",
+          "text": "暴君看見他們像列隊起舞般圍著母親，心生喜愛；他們得體而純真的舉止打動了他。他向他們微笑，叫他們上前，說：",
+          "sourceReference": "4MA 8:3"
+        },
+        {
+          "number": "4",
+          "text": "「年輕人啊，我懷著善意，欣賞你們每個人的俊美。我十分敬重這樣眾多的兄弟，不但勸你們不要效法剛才受刑的老人那般瘋狂，",
+          "sourceReference": "4MA 8:4"
+        },
+        {
+          "number": "5",
+          "text": "也懇請你們順從，享受我的友誼；因為我不但有權懲罰違背命令的人，也有權厚待服從的人。",
+          "sourceReference": "4MA 8:5"
+        },
+        {
+          "number": "6",
+          "text": "所以，你們要信任我；只要放棄本族的生活方式，就能在我的政權中取得有權位的職分。",
+          "sourceReference": "4MA 8:6"
+        },
+        {
+          "number": "7",
+          "text": "你們若改換準則，遵循希臘人的生活方式，就可以盡享青春的歡樂。",
+          "sourceReference": "4MA 8:7"
+        },
+        {
+          "number": "8",
+          "text": "但你們若以不服從激怒我，就會迫使我用可怕的酷刑，毀滅你們每一個人。",
+          "sourceReference": "4MA 8:8"
+        },
+        {
+          "number": "9",
+          "text": "你們要憐憫自己；我雖是仇敵，也因你們的年紀和俊美的容貌而憐惜你們。",
+          "sourceReference": "4MA 8:9"
+        },
+        {
+          "number": "10",
+          "text": "你們難道不想想：若不服從，等著你們的，就只有在酷刑中死去嗎？」",
+          "sourceReference": "4MA 8:10"
+        },
+        {
+          "number": "11",
+          "text": "他說完，便命人把刑具搬來，要用恐懼逼使他們吃不潔淨的肉。",
+          "sourceReference": "4MA 8:11"
+        },
+        {
+          "number": "12",
+          "text": "侍衛搬來刑輪、刑架、鐵鉤、大鍋、煎盤、夾指刑具、鐵手、楔子和風箱；暴君接著說：",
+          "sourceReference": "4MA 8:12"
+        },
+        {
+          "number": "13",
+          "text": "「年輕人啊，你們要懼怕！你們所敬拜的公義，若見你們因強迫而違犯律法，也會憐憫你們。」",
+          "sourceReference": "4MA 8:13"
+        },
+        {
+          "number": "14",
+          "text": "他們聽了這些勸誘的話，又看見可怕的刑具，不但沒有恐懼，反而回答暴君的論辯，用良好的理性摧毀他的威勢。",
+          "sourceReference": "4MA 8:14"
+        },
+        {
+          "number": "15",
+          "text": "現在，讓我們想一想：如果他們中間有人意志薄弱、膽小懦怯，除了下面這些話，他們還會怎樣推論呢？",
+          "sourceReference": "4MA 8:15"
+        },
+        {
+          "number": "16",
+          "text": "「我們真是可憐，又極其愚昧！王勸我們，邀請我們接受他的厚待，我們豈不該服從他嗎？",
+          "sourceReference": "4MA 8:16"
+        },
+        {
+          "number": "17",
+          "text": "我們為何用空洞的勸告鼓舞自己，冒險不服從，招致死亡呢？",
+          "sourceReference": "4MA 8:17"
+        },
+        {
+          "number": "18",
+          "text": "兄弟們啊，我們豈不該懼怕刑具，衡量受刑的威脅，避開這虛榮和自取滅亡的驕傲嗎？",
+          "sourceReference": "4MA 8:18"
+        },
+        {
+          "number": "19",
+          "text": "讓我們憐惜自己的年華，也顧念母親年老。",
+          "sourceReference": "4MA 8:19"
+        },
+        {
+          "number": "20",
+          "text": "要記住，我們將以叛逆者的身分死去。",
+          "sourceReference": "4MA 8:20"
+        },
+        {
+          "number": "21",
+          "text": "若我們迫於情勢而畏懼王，上帝的公義必會赦免我們。",
+          "sourceReference": "4MA 8:21"
+        },
+        {
+          "number": "22",
+          "text": "為何要離開最甜美的生命，使自己失去這可喜的世界呢？",
+          "sourceReference": "4MA 8:22"
+        },
+        {
+          "number": "23",
+          "text": "我們不要抗拒迫不得已的處境，也不要藉自己的受刑追求虛榮。",
+          "sourceReference": "4MA 8:23"
+        },
+        {
+          "number": "24",
+          "text": "律法本身也不會僅因我們害怕酷刑，就任意把我們置於死地。",
+          "sourceReference": "4MA 8:24"
+        },
+        {
+          "number": "25",
+          "text": "我們本可不受王騷擾而活著，為何如此激憤的熱忱在我們心中扎根？為何這致命的頑固，竟使我們覺得可取呢？」",
+          "sourceReference": "4MA 8:25"
+        },
+        {
+          "number": "26",
+          "text": "然而，這些年輕人將要受刑時，沒有說過，也沒有想過這類話。",
+          "sourceReference": "4MA 8:26"
+        },
+        {
+          "number": "27",
+          "text": "因為他們清楚知道將受的苦難，卻能支配痛苦。",
+          "sourceReference": "4MA 8:27"
+        },
+        {
+          "number": "28",
+          "text": "所以，暴君一停止勸他們吃不潔淨之物，他們就同聲回答，彷彿出於同一顆心：",
+          "sourceReference": "4MA 8:28"
+        }
+      ],
+      "shortSection": "七兄弟受審"
+    },
+    {
+      "id": "9",
+      "label": "第 9 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "「暴君啊，你為何遲延？我們寧願死，也不願違背祖先的訓誡。",
+          "sourceReference": "4MA 9:1"
+        },
+        {
+          "number": "2",
+          "text": "我們若不順服律法，不以知識為引導，就是羞辱祖先。",
+          "sourceReference": "4MA 9:2"
+        },
+        {
+          "number": "3",
+          "text": "唆使人違犯律法的暴君啊，你既如此恨我們，就不必比我們自己更憐惜我們。",
+          "sourceReference": "4MA 9:3"
+        },
+        {
+          "number": "4",
+          "text": "因為我們認為，你所提供的生路，比死亡更壞。",
+          "sourceReference": "4MA 9:4"
+        },
+        {
+          "number": "5",
+          "text": "你用酷刑致死來威脅、恐嚇我們，彷彿從以利亞撒的死沒有學到甚麼。",
+          "sourceReference": "4MA 9:5"
+        },
+        {
+          "number": "6",
+          "text": "希伯來人的老人既能忍受酷刑，為信仰而死，我們這些年輕人就更應當輕看你殘酷的刑罰而死；這些刑罰，我們年老的導師已經戰勝了。",
+          "sourceReference": "4MA 9:6"
+        },
+        {
+          "number": "7",
+          "text": "暴君啊，你就試試吧！你若因我們的信仰把我們處死，不要以為折磨我們就能傷害我們。",
+          "sourceReference": "4MA 9:7"
+        },
+        {
+          "number": "8",
+          "text": "因為我們藉著承受這虐待、堅忍到底，將得著美德的賞賜。",
+          "sourceReference": "4MA 9:8"
+        },
+        {
+          "number": "9",
+          "text": "你卻因邪惡而專橫地殺害我們，必受上帝的報應，在火中遭受永遠的刑罰。」",
+          "sourceReference": "4MA 9:9"
+        },
+        {
+          "number": "10",
+          "text": "他們說了這些話，暴君不但因他們不服從而惱怒，也因認為他們忘恩負義而憤恨。",
+          "sourceReference": "4MA 9:10"
+        },
+        {
+          "number": "11",
+          "text": "於是，施刑的人奉他命令，帶來最年長的兄弟，撕開他的內衣，用皮帶把他的雙手和雙臂綁在兩旁。",
+          "sourceReference": "4MA 9:11"
+        },
+        {
+          "number": "12",
+          "text": "他們費力鞭打他，卻毫無效果，就把他拋在刑輪上。",
+          "sourceReference": "4MA 9:12"
+        },
+        {
+          "number": "13",
+          "text": "這高尚的青年被拉伸在刑輪上，關節都脫了位。",
+          "sourceReference": "4MA 9:13"
+        },
+        {
+          "number": "14",
+          "text": "他全身的肢體都脫臼，仍斥責暴君說：",
+          "sourceReference": "4MA 9:14"
+        },
+        {
+          "number": "15",
+          "text": "「最可咒詛的暴君、上天公義的仇敵、心腸殘酷的人啊！你所折磨的我，並不是殺人犯，也不是褻瀆聖物的人，而是上帝律法的捍衛者。」",
+          "sourceReference": "4MA 9:15"
+        },
+        {
+          "number": "16",
+          "text": "持矛的侍衛說：「答應吃吧，就能免受酷刑。」",
+          "sourceReference": "4MA 9:16"
+        },
+        {
+          "number": "17",
+          "text": "他回答：「可咒詛的爪牙啊，你們的刑輪沒有那麼大的力量，能壓住我的理性。砍我的肢體，燒我的肉，扭我的關節吧！",
+          "sourceReference": "4MA 9:17"
+        },
+        {
+          "number": "18",
+          "text": "我在一切刑罰中，都要使你們信服：希伯來人的子孫，為美德奮鬥時，是不可征服的。」",
+          "sourceReference": "4MA 9:18"
+        },
+        {
+          "number": "19",
+          "text": "他說這話時，他們堆起柴火，點燃，又在刑輪上把他拉得更緊。",
+          "sourceReference": "4MA 9:19"
+        },
+        {
+          "number": "20",
+          "text": "整個刑輪沾滿了血；滴下的鮮血澆熄灼熱的灰燼，肉塊散落在刑具的輪軸周圍。",
+          "sourceReference": "4MA 9:20"
+        },
+        {
+          "number": "21",
+          "text": "這位志氣高尚、亞伯拉罕後裔的青年，骨架雖已毀壞，卻沒有呻吟。",
+          "sourceReference": "4MA 9:21"
+        },
+        {
+          "number": "22",
+          "text": "他彷彿被烈火轉化為不朽，仍高尚地忍受拷打，說：",
+          "sourceReference": "4MA 9:22"
+        },
+        {
+          "number": "23",
+          "text": "「兄弟們啊，要效法我！絕不要離開你們的崗位，也不要在勇氣上否認與我的兄弟之情。要為信仰打這神聖而光榮的仗，",
+          "sourceReference": "4MA 9:23"
+        },
+        {
+          "number": "24",
+          "text": "好使那公義、如父親般眷顧我們的上帝，憐憫全族，懲罰這帶來禍害的暴君。」",
+          "sourceReference": "4MA 9:24"
+        },
+        {
+          "number": "25",
+          "text": "這位可敬的青年說完，就突然結束了生命。",
+          "sourceReference": "4MA 9:25"
+        },
+        {
+          "number": "26",
+          "text": "眾人都敬佩他勇敢的心靈。持矛的侍衛便帶來排行第二的兄弟，戴上有尖鉤的鐵手套，把他綁在刑架上。",
+          "sourceReference": "4MA 9:26"
+        },
+        {
+          "number": "27",
+          "text": "他們在施刑前問他是否肯吃，就聽見他高尚的回答。",
+          "sourceReference": "4MA 9:27"
+        },
+        {
+          "number": "28",
+          "text": "他們用鐵手套猛烈扯去他從頸部到下巴的肉；這些像豹一般的野獸，甚至撕去他的頭皮。他堅定地忍受這苦難，說：",
+          "sourceReference": "4MA 9:28"
+        },
+        {
+          "number": "29",
+          "text": "「為祖先的信仰而死，無論哪一種死法，都是何等甘甜！」接著，他對暴君說：",
+          "sourceReference": "4MA 9:29"
+        },
+        {
+          "number": "30",
+          "text": "「一切暴君中最殘酷的啊！你看見自己狂妄的暴政意圖，被我們為信仰的堅忍所戰勝，難道不覺得，你現在所受的折磨比我更大嗎？",
+          "sourceReference": "4MA 9:30"
+        },
+        {
+          "number": "31",
+          "text": "因為我藉著與美德相連的喜樂，減輕自己的痛苦。",
+          "sourceReference": "4MA 9:31"
+        },
+        {
+          "number": "32",
+          "text": "你卻因不敬虔而被將臨的懲罰所折磨。最敗壞的暴君啊，你逃不過上帝忿怒的報應。」",
+          "sourceReference": "4MA 9:32"
+        }
+      ],
+      "shortSection": "兄弟拒絕背道"
+    },
+    {
+      "id": "10",
+      "label": "第 10 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "這位兄弟如此承受了值得讚揚的死亡。第三個被帶來，許多人勸他吃一口，好保住性命。",
+          "sourceReference": "4MA 10:1"
+        },
+        {
+          "number": "2",
+          "text": "他卻大聲說：「你們不知道，那些已死之人的父親，也是我的父親嗎？同一位母親生了我，我也受過同樣的教養。",
+          "sourceReference": "4MA 10:2"
+        },
+        {
+          "number": "3",
+          "text": "我不會否認與兄弟們高尚的親屬關係。",
+          "sourceReference": "4MA 10:3"
+        },
+        {
+          "number": "4",
+          "text": "現在，你們有甚麼刑具，就用在我的身上吧；即使你們想，也不能碰到我的靈魂。」",
+          "sourceReference": "4MA 10:4"
+        },
+        {
+          "number": "5",
+          "text": "他們因他放膽說話而大怒，就用刑具拉扯他的手腳，使其脫臼，又從關節處扭斷，肢解他的身體。",
+          "sourceReference": "4MA 10:5"
+        },
+        {
+          "number": "6",
+          "text": "他們扯拉他的手指、雙臂、雙腿和腳踝。",
+          "sourceReference": "4MA 10:6"
+        },
+        {
+          "number": "7",
+          "text": "他們想盡辦法，仍不能使他窒息而死，就連同指尖撕去他的皮，再把他拖到刑輪上。",
+          "sourceReference": "4MA 10:7"
+        },
+        {
+          "number": "8",
+          "text": "他的脊椎關節在刑輪上被拉鬆，他看見自己的肉被撕成碎片，鮮血從內臟流出。",
+          "sourceReference": "4MA 10:8"
+        },
+        {
+          "number": "9",
+          "text": "他將死的時候說：",
+          "sourceReference": "4MA 10:9"
+        },
+        {
+          "number": "10",
+          "text": "「可咒詛的暴君啊，我們是為上帝的教導和美德，承受這些苦難。",
+          "sourceReference": "4MA 10:10"
+        },
+        {
+          "number": "11",
+          "text": "你卻因不敬虔和流人血，必承受永不止息的刑罰。」",
+          "sourceReference": "4MA 10:11"
+        },
+        {
+          "number": "12",
+          "text": "他這樣死去，無愧於自己的兄弟。他們接著拖來第四個，說：",
+          "sourceReference": "4MA 10:12"
+        },
+        {
+          "number": "13",
+          "text": "「不要像你的兄弟那樣瘋狂；要尊重王，救你自己。」",
+          "sourceReference": "4MA 10:13"
+        },
+        {
+          "number": "14",
+          "text": "他卻對他們說：「你們沒有任何火焰，能灼熱到使我變成懦夫。",
+          "sourceReference": "4MA 10:14"
+        },
+        {
+          "number": "15",
+          "text": "我指著兄弟們有福的死亡、暴君永遠的刑罰，以及敬虔者榮耀的生命起誓，我絕不否認這高尚的兄弟之情。",
+          "sourceReference": "4MA 10:15"
+        },
+        {
+          "number": "16",
+          "text": "暴君啊，設計酷刑吧！好讓你也藉這些刑罰知道，我是先前受刑之人的兄弟。」",
+          "sourceReference": "4MA 10:16"
+        },
+        {
+          "number": "17",
+          "text": "他說完，嗜血、殺人、不敬虔的安提阿古，就命人割掉他的舌頭。",
+          "sourceReference": "4MA 10:17"
+        },
+        {
+          "number": "18",
+          "text": "他卻說：「即使你奪去說話的器官，上帝仍垂聽無聲的人。",
+          "sourceReference": "4MA 10:18"
+        },
+        {
+          "number": "19",
+          "text": "看哪，我已伸出舌頭，割掉吧！即使如此，你也不能使我們的理性沉默。",
+          "sourceReference": "4MA 10:19"
+        },
+        {
+          "number": "20",
+          "text": "我們甘願為上帝失去肢體。",
+          "sourceReference": "4MA 10:20"
+        },
+        {
+          "number": "21",
+          "text": "但上帝必迅速追討你，因為你割去了舌頭，就是歌頌上帝的樂器。」",
+          "sourceReference": "4MA 10:21"
+        }
+      ],
+      "shortSection": "第三與第四子受刑"
+    },
+    {
+      "id": "11",
+      "label": "第 11 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "他在酷刑中受盡摧殘而死後，第五個兄弟便跳上前，說：",
+          "sourceReference": "4MA 11:1"
+        },
+        {
+          "number": "2",
+          "text": "「暴君啊，我不打算逃避為美德所受的刑罰。",
+          "sourceReference": "4MA 11:2"
+        },
+        {
+          "number": "3",
+          "text": "我自願前來，好使你因我的死，多負一項罪行，應受上天的報應和懲罰。",
+          "sourceReference": "4MA 11:3"
+        },
+        {
+          "number": "4",
+          "text": "仇恨美德、仇恨人類的啊，我們做了甚麼，竟使你如此樂於流我們的血？",
+          "sourceReference": "4MA 11:4"
+        },
+        {
+          "number": "5",
+          "text": "我們敬拜萬有的創立者，照著祂卓越的律法生活，這在你眼中竟是惡事嗎？",
+          "sourceReference": "4MA 11:5"
+        },
+        {
+          "number": "6",
+          "text": "這原是值得尊榮，而不是值得刑罰的事，",
+          "sourceReference": "4MA 11:6"
+        },
+        {
+          "number": "7",
+          "text": "只要你還有人的高尚情操，並盼望從上帝得著拯救，就會明白。",
+          "sourceReference": "4MA 11:7"
+        },
+        {
+          "number": "8",
+          "text": "但如今，你與上帝隔絕，竟攻擊那些敬畏上帝的人。」",
+          "sourceReference": "4MA 11:8"
+        },
+        {
+          "number": "9",
+          "text": "他說這話時，持矛的侍衛把他綁起來，拖到刑架旁。",
+          "sourceReference": "4MA 11:9"
+        },
+        {
+          "number": "10",
+          "text": "他們把他的膝部綁在刑架上，用鐵鐐固定，又把他的腰向下彎在刑輪的楔子上；他的身體彎得像蠍子，隨後被扯裂。",
+          "sourceReference": "4MA 11:10"
+        },
+        {
+          "number": "11",
+          "text": "他呼吸受阻，身體被勒緊，仍說：",
+          "sourceReference": "4MA 11:11"
+        },
+        {
+          "number": "12",
+          "text": "「暴君啊，你讓我們藉更高尚的苦難，表明自己對律法的忠誠，這是給了我們極大的恩惠。」",
+          "sourceReference": "4MA 11:12"
+        },
+        {
+          "number": "13",
+          "text": "他也死了以後，第六個被帶出來，還是個很年輕的少年。暴君問他是否肯吃，好得釋放，他說：",
+          "sourceReference": "4MA 11:13"
+        },
+        {
+          "number": "14",
+          "text": "「我的年紀確實比兄長們小，但我的見識與他們一樣成熟。",
+          "sourceReference": "4MA 11:14"
+        },
+        {
+          "number": "15",
+          "text": "我為同一目的而生，也受同樣的養育；我們也理當為同一個緣故而死。",
+          "sourceReference": "4MA 11:15"
+        },
+        {
+          "number": "16",
+          "text": "你若認為，我們不吃不潔淨之物就該受刑，那就施刑吧！」",
+          "sourceReference": "4MA 11:16"
+        },
+        {
+          "number": "17",
+          "text": "他說這話時，他們把他帶到刑輪上。",
+          "sourceReference": "4MA 11:17"
+        },
+        {
+          "number": "18",
+          "text": "他被拉伸在上面，四肢受刑脫臼，底下的火慢慢烤著他。",
+          "sourceReference": "4MA 11:18"
+        },
+        {
+          "number": "19",
+          "text": "他們把尖鐵叉燒熱，刺進他的背部；又刺穿他的兩脅，燒毀他的內臟。",
+          "sourceReference": "4MA 11:19"
+        },
+        {
+          "number": "20",
+          "text": "他受刑時說：「這是何等美好而神聖的爭戰！我們兄弟為信仰被召到痛苦的競技場，卻沒有被征服。",
+          "sourceReference": "4MA 11:20"
+        },
+        {
+          "number": "21",
+          "text": "暴君啊，敬虔的悟性是不可征服的。",
+          "sourceReference": "4MA 11:21"
+        },
+        {
+          "number": "22",
+          "text": "我也以正直的美德為武裝，要與我的兄弟一同離去。",
+          "sourceReference": "4MA 11:22"
+        },
+        {
+          "number": "23",
+          "text": "設計酷刑、與真正敬虔者為敵的人啊，我離去時，也帶著一位大有能力的伸冤者。",
+          "sourceReference": "4MA 11:23"
+        },
+        {
+          "number": "24",
+          "text": "我們六個年輕人，已摧毀你的暴政。",
+          "sourceReference": "4MA 11:24"
+        },
+        {
+          "number": "25",
+          "text": "你不能壓倒我們的理性，也不能強迫我們吃不潔淨之物，這豈不是你的敗亡嗎？",
+          "sourceReference": "4MA 11:25"
+        },
+        {
+          "number": "26",
+          "text": "你的火對我們是冷的，你的刑架不能使我們痛苦，你的暴力不能傷害我們。",
+          "sourceReference": "4MA 11:26"
+        },
+        {
+          "number": "27",
+          "text": "因為保護我們的，不是暴君的侍衛，而是神聖律法的守護者。藉此，我們使理性保持不敗。」",
+          "sourceReference": "4MA 11:27"
+        }
+      ],
+      "shortSection": "第五與第六子受刑"
+    },
+    {
+      "id": "12",
+      "label": "第 12 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "他也承受了有福的殉道，死在被拋入的大鍋裡；接著，第七個、也是最年幼的兄弟上前。",
+          "sourceReference": "4MA 12:1"
+        },
+        {
+          "number": "2",
+          "text": "暴君雖然被他的兄長們嚴厲斥責，仍憐惜他。",
+          "sourceReference": "4MA 12:2"
+        },
+        {
+          "number": "3",
+          "text": "王看見他已被鎖鏈纏住，就命人把他帶近，設法勸他說：",
+          "sourceReference": "4MA 12:3"
+        },
+        {
+          "number": "4",
+          "text": "「你看見你兄長們瘋狂的結局了；他們因不服從，在酷刑中死去。你若不服從，也必遭受慘烈的刑罰，早早喪命。",
+          "sourceReference": "4MA 12:4"
+        },
+        {
+          "number": "5",
+          "text": "但你若服從，就可以作我的朋友，管理王國的事務。」",
+          "sourceReference": "4MA 12:5"
+        },
+        {
+          "number": "6",
+          "text": "他這樣勸過少年後，又召來少年的母親，對她失去這麼多兒子表示同情，希望藉著保全性命的盼望，使她勸服最後存活的兒子。",
+          "sourceReference": "4MA 12:6"
+        },
+        {
+          "number": "7",
+          "text": "母親用希伯來語勉勵他之後——這事我們不久就會述說——他便說：",
+          "sourceReference": "4MA 12:7"
+        },
+        {
+          "number": "8",
+          "text": "「放開我，讓我向王和他所有的朋友說話。」",
+          "sourceReference": "4MA 12:8"
+        },
+        {
+          "number": "9",
+          "text": "他們聽見少年的承諾，非常高興，立刻放開了他。",
+          "sourceReference": "4MA 12:9"
+        },
+        {
+          "number": "10",
+          "text": "他跑到煎盤旁，說：",
+          "sourceReference": "4MA 12:10"
+        },
+        {
+          "number": "11",
+          "text": "「不敬虔的暴君、極其褻瀆的人啊！你從上帝領受了興盛和王國，卻殺害祂的僕人，拷打行敬虔之事的人，難道不羞恥嗎？",
+          "sourceReference": "4MA 12:11"
+        },
+        {
+          "number": "12",
+          "text": "因此，上帝的報應正把你留給永火和刑罰；這些將永遠纏住你。",
+          "sourceReference": "4MA 12:12"
+        },
+        {
+          "number": "13",
+          "text": "你雖然是人，卻極其野蠻，割去與你同有感情、同出一源之人的舌頭，這樣凌辱、折磨他們，難道不羞恥嗎？",
+          "sourceReference": "4MA 12:13"
+        },
+        {
+          "number": "14",
+          "text": "他們勇敢地死去，成全了自己對上帝的敬虔。",
+          "sourceReference": "4MA 12:14"
+        },
+        {
+          "number": "15",
+          "text": "你卻因無故殺害捍衛美德的人，必照自己所當得的哀號。",
+          "sourceReference": "4MA 12:15"
+        },
+        {
+          "number": "16",
+          "text": "所以，」他接著說，「我自己也快要死了，",
+          "sourceReference": "4MA 12:16"
+        },
+        {
+          "number": "17",
+          "text": "我不會離棄我的兄弟。",
+          "sourceReference": "4MA 12:17"
+        },
+        {
+          "number": "18",
+          "text": "我求我祖先的上帝憐憫我的民族。",
+          "sourceReference": "4MA 12:18"
+        },
+        {
+          "number": "19",
+          "text": "但你無論活著或死了，祂都必懲罰你。」",
+          "sourceReference": "4MA 12:19"
+        },
+        {
+          "number": "20",
+          "text": "他這樣禱告完，就投身進入煎盤，因此斷了氣。",
+          "sourceReference": "4MA 12:20"
+        }
+      ],
+      "shortSection": "幼子殉道"
+    },
+    {
+      "id": "13",
+      "label": "第 13 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "七個兄弟既輕看苦難，直到死亡，各方面都承認，正直的理性完全支配情慾。",
+          "sourceReference": "4MA 13:1"
+        },
+        {
+          "number": "2",
+          "text": "倘若他們受情慾奴役，吃了不聖潔之物，我們就會說，他們被情慾征服了。",
+          "sourceReference": "4MA 13:2"
+        },
+        {
+          "number": "3",
+          "text": "如今卻不是這樣；他們藉著蒙上帝稱許的理性，制服了自己的情慾。",
+          "sourceReference": "4MA 13:3"
+        },
+        {
+          "number": "4",
+          "text": "深思的領導作用是不能忽視的，因為它戰勝了情慾和苦難。",
+          "sourceReference": "4MA 13:4"
+        },
+        {
+          "number": "5",
+          "text": "這些人既沒有逃避火燒的痛苦，我們怎能不承認，他們藉正直的理性支配了情慾呢？",
+          "sourceReference": "4MA 13:5"
+        },
+        {
+          "number": "6",
+          "text": "正如人藉著突出於港口前方的高塔，擋住洶湧的波浪，使進港的船隻能平穩航行；",
+          "sourceReference": "4MA 13:6"
+        },
+        {
+          "number": "7",
+          "text": "這些年輕人如七座高塔般的正直理性，也守護了敬虔的港灣，戰勝情慾的風暴。",
+          "sourceReference": "4MA 13:7"
+        },
+        {
+          "number": "8",
+          "text": "他們組成一隊敬虔的神聖合唱者，彼此鼓勵說：",
+          "sourceReference": "4MA 13:8"
+        },
+        {
+          "number": "9",
+          "text": "「兄弟們，讓我們如兄弟一般，為律法一同死去。讓我們效法在亞述的三個青年；他們輕看了同樣帶來痛苦的火爐。",
+          "sourceReference": "4MA 13:9"
+        },
+        {
+          "number": "10",
+          "text": "讓我們在彰顯敬虔的事上，不作懦夫。」",
+          "sourceReference": "4MA 13:10"
+        },
+        {
+          "number": "11",
+          "text": "一個說：「兄弟，要勇敢！」另一個說：「要高尚地忍耐！」",
+          "sourceReference": "4MA 13:11"
+        },
+        {
+          "number": "12",
+          "text": "又有一個說：「要記住你出於怎樣的家系！」他們想起祖先以撒如何為敬虔的緣故，甘願被殺。",
+          "sourceReference": "4MA 13:12"
+        },
+        {
+          "number": "13",
+          "text": "他們個個神情安詳、充滿信心地彼此相望，說：「讓我們全心把生命獻給賜生命的上帝，並用自己的身體遵守律法。",
+          "sourceReference": "4MA 13:13"
+        },
+        {
+          "number": "14",
+          "text": "不要懼怕那自以為能殺人的；",
+          "sourceReference": "4MA 13:14"
+        },
+        {
+          "number": "15",
+          "text": "因為為違背上帝誡命的人所存留的，是心靈極大的試煉，以及永遠受刑的危險。",
+          "sourceReference": "4MA 13:15"
+        },
+        {
+          "number": "16",
+          "text": "所以，讓我們以自制為武裝，這就是屬上帝的理性。",
+          "sourceReference": "4MA 13:16"
+        },
+        {
+          "number": "17",
+          "text": "我們若這樣受苦，亞伯拉罕、以撒、雅各必接納我們，所有祖先也必稱讚我們。」",
+          "sourceReference": "4MA 13:17"
+        },
+        {
+          "number": "18",
+          "text": "每當一個兄弟被拖走，其餘的人就喊道：「兄弟啊，不要使我們蒙羞，也不要辜負在你之前死去的人！」",
+          "sourceReference": "4MA 13:18"
+        },
+        {
+          "number": "19",
+          "text": "你們並非不知道兄弟之情的可貴；神聖而全智的眷顧者，藉父親把這情誼賜給兒女，又使它從母腹中產生。",
+          "sourceReference": "4MA 13:19"
+        },
+        {
+          "number": "20",
+          "text": "這些兄弟在母腹中停留同樣長的時間，經過同樣的時期成形，由同樣的血滋養，又藉同樣的生命法則長成。",
+          "sourceReference": "4MA 13:20"
+        },
+        {
+          "number": "21",
+          "text": "他們相隔相同的時距出生，從同樣的泉源吸乳；他們兄弟的心靈在相愛中一同長大。",
+          "sourceReference": "4MA 13:21"
+        },
+        {
+          "number": "22",
+          "text": "藉著共同的養育、每日的相伴，以及其他教導和對上帝律法的操練，這情誼更加增長。",
+          "sourceReference": "4MA 13:22"
+        },
+        {
+          "number": "23",
+          "text": "兄弟之愛既由這種相通的感情構成，這七個兄弟就有更加同心相契的和諧。",
+          "sourceReference": "4MA 13:23"
+        },
+        {
+          "number": "24",
+          "text": "因為他們受同一律法教導，實踐同樣的美德，在正直的生活中長大，彼此的和諧就日益加深。",
+          "sourceReference": "4MA 13:24"
+        },
+        {
+          "number": "25",
+          "text": "他們對正義與尊榮懷著同樣的熱忱，使彼此的善意與和諧更加深厚。",
+          "sourceReference": "4MA 13:25"
+        },
+        {
+          "number": "26",
+          "text": "這熱忱與敬虔一同發揮作用，使他們更加珍愛兄弟之情。",
+          "sourceReference": "4MA 13:26"
+        },
+        {
+          "number": "27",
+          "text": "然而，雖然天性、相伴和美好的品行都增進了兄弟之愛，留下的人仍忍住悲痛，看著自己的兄弟為信仰受虐，被折磨至死。",
+          "sourceReference": "4MA 13:27"
+        }
+      ],
+      "shortSection": "兄弟同心堅忍"
+    },
+    {
+      "id": "14",
+      "label": "第 14 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "不但如此，他們甚至鼓勵兄弟迎向這虐待；所以，他們不僅自己輕看痛苦，也勝過了兄弟之愛的牽動。",
+          "sourceReference": "4MA 14:1"
+        },
+        {
+          "number": "2",
+          "text": "理性比君王更有王者的權柄，比自由人更自由！",
+          "sourceReference": "4MA 14:2"
+        },
+        {
+          "number": "3",
+          "text": "七個兄弟在敬虔上的齊心協力，是何等神聖而和諧的合奏！",
+          "sourceReference": "4MA 14:3"
+        },
+        {
+          "number": "4",
+          "text": "七個青年沒有一個變得膽怯，也沒有一個在死亡面前退縮。",
+          "sourceReference": "4MA 14:4"
+        },
+        {
+          "number": "5",
+          "text": "他們全都彷彿跑在通往不朽的道路上，穿過酷刑，奔向死亡。",
+          "sourceReference": "4MA 14:5"
+        },
+        {
+          "number": "6",
+          "text": "正如手腳隨著心靈的指示協調活動，這些聖潔的青年也彷彿由敬虔那不朽的心靈引導，同心為信仰赴死。",
+          "sourceReference": "4MA 14:6"
+        },
+        {
+          "number": "7",
+          "text": "七位和諧同心的神聖兄弟啊！正如創造的七日與敬虔相連，",
+          "sourceReference": "4MA 14:7"
+        },
+        {
+          "number": "8",
+          "text": "這些以七為數的青年，也消除了對酷刑的恐懼。",
+          "sourceReference": "4MA 14:8"
+        },
+        {
+          "number": "9",
+          "text": "我們如今聽到這些年輕人的苦難，就不寒而慄；但他們不僅親眼看見、親耳聽見威脅立即付諸實行，更親身承受，仍然堅忍，甚至忍受火燒的痛苦。",
+          "sourceReference": "4MA 14:9"
+        },
+        {
+          "number": "10",
+          "text": "還有甚麼比這更痛苦呢？火的力量猛烈迅速，很快就摧毀他們的身體。",
+          "sourceReference": "4MA 14:10"
+        },
+        {
+          "number": "11",
+          "text": "不要以為理性能在酷刑中統治這些男子，是甚麼奇事；因為連一位婦人的心志，也輕看了更加多重的痛苦。",
+          "sourceReference": "4MA 14:11"
+        },
+        {
+          "number": "12",
+          "text": "這七個青年的母親，忍受了每一個孩子被拷打的苦楚。",
+          "sourceReference": "4MA 14:12"
+        },
+        {
+          "number": "13",
+          "text": "要想想，對兒女的愛是何等普遍，使每個人都被牽引，生出相通的深情。",
+          "sourceReference": "4MA 14:13"
+        },
+        {
+          "number": "14",
+          "text": "即使沒有理性的動物，也像人一樣，對自己的幼小者有相似的憐愛。",
+          "sourceReference": "4MA 14:14"
+        },
+        {
+          "number": "15",
+          "text": "常在我們屋頂出沒的溫馴鳥兒，也會保護雛鳥。",
+          "sourceReference": "4MA 14:15"
+        },
+        {
+          "number": "16",
+          "text": "有些鳥在山頂、山谷的峭壁、樹洞和樹梢築巢孵雛，驅逐入侵者。",
+          "sourceReference": "4MA 14:16"
+        },
+        {
+          "number": "17",
+          "text": "若不能驅逐，牠們就因愛而焦急，在幼鳥周圍盤旋，用自己的聲音鳴叫，盡其所能拯救後代。",
+          "sourceReference": "4MA 14:17"
+        },
+        {
+          "number": "18",
+          "text": "但我們何必只指出沒有理性的動物對幼小者所顯的愛呢？",
+          "sourceReference": "4MA 14:18"
+        },
+        {
+          "number": "19",
+          "text": "連蜜蜂在釀蜜的季節，也攻擊所有接近的東西，用毒刺如劍一般刺向靠近蜂巢的，甚至不惜一死，也要把牠們驅走。",
+          "sourceReference": "4MA 14:19"
+        },
+        {
+          "number": "20",
+          "text": "然而，這些青年的母親，有著與亞伯拉罕相契的精神；對兒子的憐愛，並沒有使她轉離志向。",
+          "sourceReference": "4MA 14:20"
+        }
+      ],
+      "shortSection": "親情與信仰考驗"
+    },
+    {
+      "id": "15",
+      "label": "第 15 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "兒子們的理性啊，你是情慾的主宰！敬虔啊，你比兒女更受母親珍愛！",
+          "sourceReference": "4MA 15:1"
+        },
+        {
+          "number": "2",
+          "text": "當兩件事擺在母親面前，一件是敬虔，另一件是暴君有條件許諾、使七個兒子暫時得以保全，",
+          "sourceReference": "4MA 15:2"
+        },
+        {
+          "number": "3",
+          "text": "她寧可選擇敬虔，因為照上帝的旨意，敬虔保守人進入永生。",
+          "sourceReference": "4MA 15:3"
+        },
+        {
+          "number": "4",
+          "text": "我該如何從品性上描述父母對兒女的感情呢？心靈與形貌的相似，奇妙地印在孩子那小小的身軀中；尤其母親，更深切地體會自己所生兒女的感受。",
+          "sourceReference": "4MA 15:4"
+        },
+        {
+          "number": "5",
+          "text": "母親的天性越是柔弱，又多生兒女，就越疼愛孩子。",
+          "sourceReference": "4MA 15:5"
+        },
+        {
+          "number": "6",
+          "text": "在所有母親中，這七個兒子的母親最疼愛兒女；她經過七次分娩，對他們生出了深厚的愛。",
+          "sourceReference": "4MA 15:6"
+        },
+        {
+          "number": "7",
+          "text": "她為每個孩子承受許多痛苦，自然深深體恤他們；",
+          "sourceReference": "4MA 15:7"
+        },
+        {
+          "number": "8",
+          "text": "然而，因敬畏上帝，她放下了使兒女暫時得救的機會。",
+          "sourceReference": "4MA 15:8"
+        },
+        {
+          "number": "9",
+          "text": "不但如此，他們對律法的美好態度，更加增了她對他們的母愛。",
+          "sourceReference": "4MA 15:9"
+        },
+        {
+          "number": "10",
+          "text": "他們既公義又有節制，勇敢而志氣高尚，愛自己的兄弟，也深愛母親，甚至直到死，仍藉遵守律法來順從她。",
+          "sourceReference": "4MA 15:10"
+        },
+        {
+          "number": "11",
+          "text": "雖然有這許多與愛兒女有關的情由，牽動母親的憐惜，落在任何一個兒子身上的種種酷刑，都不能改變她的信念。",
+          "sourceReference": "4MA 15:11"
+        },
+        {
+          "number": "12",
+          "text": "她反而勸勉每一個兒子，也勸勉他們全體，為信仰赴死。",
+          "sourceReference": "4MA 15:12"
+        },
+        {
+          "number": "13",
+          "text": "神聖的天性、父母的深情、養育兒女的報償，以及不可征服的母愛啊！",
+          "sourceReference": "4MA 15:13"
+        },
+        {
+          "number": "14",
+          "text": "她看著每個兒子受拷打、被火烤，敬虔卻使這位母親不改初衷。",
+          "sourceReference": "4MA 15:14"
+        },
+        {
+          "number": "15",
+          "text": "她看見孩子們的肉在火中消融，肢體在地上抽動，臉上的肉如面具一般向前垂下，落到鬍鬚上。",
+          "sourceReference": "4MA 15:15"
+        },
+        {
+          "number": "16",
+          "text": "母親啊，你這時所受的試煉，比生產的陣痛更苦！",
+          "sourceReference": "4MA 15:16"
+        },
+        {
+          "number": "17",
+          "text": "惟獨你這位婦人，生出了完美的聖潔！",
+          "sourceReference": "4MA 15:17"
+        },
+        {
+          "number": "18",
+          "text": "長子斷氣，不能使你回心轉意；第二個在酷刑中形貌淒慘，第三個吐出最後一口氣，也不能使你動搖。",
+          "sourceReference": "4MA 15:18"
+        },
+        {
+          "number": "19",
+          "text": "你看見他們各人的眼睛，嚴毅地面對酷刑，鼻息也預告死亡，卻沒有哭泣！",
+          "sourceReference": "4MA 15:19"
+        },
+        {
+          "number": "20",
+          "text": "你看見孩子被撕下的肉堆在另一個孩子的肉上，砍下的頭堆在頭上，死者倒在死者身上，原本齊聚的兒女因酷刑變成一片墳場，你卻沒有哀號。",
+          "sourceReference": "4MA 15:20"
+        },
+        {
+          "number": "21",
+          "text": "兒子們在酷刑中呼喚母親的聲音啊！海妖的歌聲或天鵝的鳴唱，也不能如此牽動聽者的心。",
+          "sourceReference": "4MA 15:21"
+        },
+        {
+          "number": "22",
+          "text": "兒子們受刑輪和烈火折磨時，母親自己承受的是何等、何樣的折磨！",
+          "sourceReference": "4MA 15:22"
+        },
+        {
+          "number": "23",
+          "text": "然而，敬虔的理性在苦難中堅固她的勇氣，使她暫時放下對兒女的愛。",
+          "sourceReference": "4MA 15:23"
+        },
+        {
+          "number": "24",
+          "text": "這位高尚的母親，雖看見七個孩子被毀滅，擁抱過他們後，仍藉著對上帝的信心，脫去情感的牽絆。",
+          "sourceReference": "4MA 15:24"
+        },
+        {
+          "number": "25",
+          "text": "她的心靈彷彿一間議事廳，她看見天性、親情、對兒女的愛，以及兒女所受的拷打，像激烈爭辯的顧問，",
+          "sourceReference": "4MA 15:25"
+        },
+        {
+          "number": "26",
+          "text": "而她手中有兩票，一票贊成兒女赴死，另一票贊成保全兒女。",
+          "sourceReference": "4MA 15:26"
+        },
+        {
+          "number": "27",
+          "text": "她沒有偏向那只能使兒女短暫安全、保住性命的選擇。",
+          "sourceReference": "4MA 15:27"
+        },
+        {
+          "number": "28",
+          "text": "這位亞伯拉罕的女兒，反而記念了他神聖的堅忍。",
+          "sourceReference": "4MA 15:28"
+        },
+        {
+          "number": "29",
+          "text": "民族的神聖母親、為律法伸冤的人、信仰的捍衛者、情感爭戰中的先鋒啊！",
+          "sourceReference": "4MA 15:29"
+        },
+        {
+          "number": "30",
+          "text": "你的忍耐比男子更高尚，你堅持到底的勇氣比男人更大！",
+          "sourceReference": "4MA 15:30"
+        },
+        {
+          "number": "31",
+          "text": "正如挪亞的方舟，在充滿全地的洪水中承載著世界，仍抵擋波浪；",
+          "sourceReference": "4MA 15:31"
+        },
+        {
+          "number": "32",
+          "text": "照樣，你這律法的守護者，被情慾的洪流從四面包圍，又遭兒女受刑所形成的猛烈風暴襲擊，仍高尚地抵擋那攻擊敬虔的風浪。",
+          "sourceReference": "4MA 15:32"
+        }
+      ],
+      "shortSection": "母親的勇氣"
+    },
+    {
+      "id": "16",
+      "label": "第 16 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "一位婦人，而且是年老、養育七個孩子的母親，既能忍受眼看兒女受刑至死，就必須承認，敬虔的理性甚至是情感的主宰。",
+          "sourceReference": "4MA 16:1"
+        },
+        {
+          "number": "2",
+          "text": "所以，我已證明，不但男子能支配自己的情慾，一位婦人也能輕看最重的酷刑。",
+          "sourceReference": "4MA 16:2"
+        },
+        {
+          "number": "3",
+          "text": "但以理周圍的獅子，沒有那麼兇猛；米沙利所在的火爐，火焰也沒有那麼猛烈，能比得上她眼看七個兒子受刑時，內心燃燒的天然母愛。",
+          "sourceReference": "4MA 16:3"
+        },
+        {
+          "number": "4",
+          "text": "然而，這位母親藉敬虔的理性，平息了如此巨大而強烈的情感。",
+          "sourceReference": "4MA 16:4"
+        },
+        {
+          "number": "5",
+          "text": "我們也必須想想：這婦人若因身為母親而膽怯，就會為他們哀哭，也許會這樣說：",
+          "sourceReference": "4MA 16:5"
+        },
+        {
+          "number": "6",
+          "text": "「唉，我真是可憐，苦不堪言！我生了七個兒子，如今卻連一個兒子也沒有了。",
+          "sourceReference": "4MA 16:6"
+        },
+        {
+          "number": "7",
+          "text": "七次無益的分娩，七段徒然的產痛，毫無結果的哺乳，以及可悲的養育啊！",
+          "sourceReference": "4MA 16:7"
+        },
+        {
+          "number": "8",
+          "text": "兒子們啊，我為你們忍受許多疼痛，承擔更艱難的養育憂慮，如今全都徒然。",
+          "sourceReference": "4MA 16:8"
+        },
+        {
+          "number": "9",
+          "text": "唉，我的孩子們，你們有的還未成婚，有的婚姻也未留下後代；我將看不見你們的孩子，也不能享受作祖母的喜樂。",
+          "sourceReference": "4MA 16:9"
+        },
+        {
+          "number": "10",
+          "text": "唉，我曾有眾多俊美的兒子，如今竟成了孤獨、滿懷憂傷的寡婦！",
+          "sourceReference": "4MA 16:10"
+        },
+        {
+          "number": "11",
+          "text": "就是我死了，也沒有兒子埋葬我。」然而，這位聖潔、敬畏上帝的母親，並沒有用這樣的哀歌為任何一個兒子哭泣。",
+          "sourceReference": "4MA 16:11"
+        },
+        {
+          "number": "12",
+          "text": "她沒有勸任何一個逃避死亡，也沒有像為死人一般，為他們悲傷。",
+          "sourceReference": "4MA 16:12"
+        },
+        {
+          "number": "13",
+          "text": "她的心志堅如金剛，彷彿要把所有兒子重新生進不朽之境；她反而鼓勵他們為信仰赴死。",
+          "sourceReference": "4MA 16:13"
+        },
+        {
+          "number": "14",
+          "text": "婦人啊，你是上帝為信仰而戰的勇士！你雖年老，又是女子，卻藉忍耐戰勝了暴君；你雖軟弱，在言語和行動上卻顯出更大的力量。",
+          "sourceReference": "4MA 16:14"
+        },
+        {
+          "number": "15",
+          "text": "你與孩子們一同被捕時，站著觀看以利亞撒受刑，用希伯來語對兒子們說：",
+          "sourceReference": "4MA 16:15"
+        },
+        {
+          "number": "16",
+          "text": "「兒子們啊，你們蒙召參與這高尚的爭戰，為民族作見證。要熱切地為本國的律法奮鬥。",
+          "sourceReference": "4MA 16:16"
+        },
+        {
+          "number": "17",
+          "text": "這位老人能為公義忍受痛苦，你們比他年輕，若反而害怕酷刑，就是羞恥。",
+          "sourceReference": "4MA 16:17"
+        },
+        {
+          "number": "18",
+          "text": "要記住，你們藉上帝得以存在，也享受了生命。",
+          "sourceReference": "4MA 16:18"
+        },
+        {
+          "number": "19",
+          "text": "所以，你們理當為上帝忍受一切苦難。",
+          "sourceReference": "4MA 16:19"
+        },
+        {
+          "number": "20",
+          "text": "我們的祖先亞伯拉罕也為祂熱心，甘願獻上我們的先祖以撒；他看著自己作父親的手持刀向兒子揮下，也沒有戰慄。",
+          "sourceReference": "4MA 16:20"
+        },
+        {
+          "number": "21",
+          "text": "義人但以理被扔給獅子；亞拿尼雅、亞撒利雅和米沙利被拋進火爐，他們卻都藉上帝忍耐到底。",
+          "sourceReference": "4MA 16:21"
+        },
+        {
+          "number": "22",
+          "text": "你們既對上帝有同樣的信心，就不要驚惶。",
+          "sourceReference": "4MA 16:22"
+        },
+        {
+          "number": "23",
+          "text": "因為認識敬虔的人，若不挺身抵抗苦難，是不合情理的。」",
+          "sourceReference": "4MA 16:23"
+        },
+        {
+          "number": "24",
+          "text": "七個兒子的母親，用這些道理逐一勸勉兒子，鼓勵並說服他們，不要違背上帝的誡命。",
+          "sourceReference": "4MA 16:24"
+        },
+        {
+          "number": "25",
+          "text": "他們也明白，為上帝而死的人，在上帝面前仍然活著，正如亞伯拉罕、以撒、雅各和所有先祖一樣。",
+          "sourceReference": "4MA 16:25"
+        }
+      ],
+      "shortSection": "母親勉勵眾子"
+    },
+    {
+      "id": "17",
+      "label": "第 17 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "有些持矛的侍衛說，當他們要捉住她，將她處死時，她寧可自己投進火堆，也不讓他們碰她的身體。",
+          "sourceReference": "4MA 17:1"
+        },
+        {
+          "number": "2",
+          "text": "母親啊，你與七個孩子一同摧毀暴君的強暴，使他的邪惡意圖落空，彰顯了信仰的高尚！",
+          "sourceReference": "4MA 17:2"
+        },
+        {
+          "number": "3",
+          "text": "你如同一座以兒女為柱石、堅固建成的房屋，承受酷刑的衝擊，卻不搖動。",
+          "sourceReference": "4MA 17:3"
+        },
+        {
+          "number": "4",
+          "text": "所以，心志聖潔的母親啊，要歡喜！要牢牢持守盼望，相信你在上帝面前的堅貞必有結果。",
+          "sourceReference": "4MA 17:4"
+        },
+        {
+          "number": "5",
+          "text": "天上的月亮與群星，也不及你的光彩；你在上帝面前被立為尊榮，與你用敬虔照亮的兒子們，一同如星辰般安置在天空。",
+          "sourceReference": "4MA 17:5"
+        },
+        {
+          "number": "6",
+          "text": "因為你養育兒女，正如亞伯拉罕的子孫所當行的。",
+          "sourceReference": "4MA 17:6"
+        },
+        {
+          "number": "7",
+          "text": "若我們可以把你故事中的敬虔畫在板上，觀看的人，看見七個孩子的母親為信仰忍受各樣酷刑，直到死亡，就不會只是戰慄。",
+          "sourceReference": "4MA 17:7"
+        },
+        {
+          "number": "8",
+          "text": "若能把以下的話刻在墳墓上，留給本族的人記念，實在是值得的事：",
+          "sourceReference": "4MA 17:8"
+        },
+        {
+          "number": "9",
+          "text": "「這裡埋葬著一位年老的祭司、一位老婦人和七個兒子；他們死於一個企圖摧毀希伯來人社群的暴君之手。",
+          "sourceReference": "4MA 17:9"
+        },
+        {
+          "number": "10",
+          "text": "他們仰望上帝，忍受酷刑至死，也為自己的民族伸了冤。」",
+          "sourceReference": "4MA 17:10"
+        },
+        {
+          "number": "11",
+          "text": "因為他們所完成的，確實是一場神聖的競賽。",
+          "sourceReference": "4MA 17:11"
+        },
+        {
+          "number": "12",
+          "text": "那時，美德主持競賽，把不朽、永生判給藉忍耐獲勝的人。",
+          "sourceReference": "4MA 17:12"
+        },
+        {
+          "number": "13",
+          "text": "以利亞撒首先出場競賽；七個孩子的母親也進入賽場，兄弟們一同奮戰。",
+          "sourceReference": "4MA 17:13"
+        },
+        {
+          "number": "14",
+          "text": "暴君是對手，世界和世上的人是觀眾。",
+          "sourceReference": "4MA 17:14"
+        },
+        {
+          "number": "15",
+          "text": "敬畏上帝之心獲勝，為自己的競技者戴上冠冕。",
+          "sourceReference": "4MA 17:15"
+        },
+        {
+          "number": "16",
+          "text": "誰不敬佩這些捍衛真正律法的勇士？誰不驚歎？",
+          "sourceReference": "4MA 17:16"
+        },
+        {
+          "number": "17",
+          "text": "連暴君自己和他所有的顧問，也敬佩他們的忍耐。",
+          "sourceReference": "4MA 17:17"
+        },
+        {
+          "number": "18",
+          "text": "因著這忍耐，他們如今站在上帝的寶座旁，過著有福的生活。",
+          "sourceReference": "4MA 17:18"
+        },
+        {
+          "number": "19",
+          "text": "因為摩西說：「所有聖民都在你的手下。」",
+          "sourceReference": "4MA 17:19"
+        },
+        {
+          "number": "20",
+          "text": "所以，這些藉上帝得以成聖的人，不僅獲得這尊榮；又因他們使仇敵未能戰勝我們的民族，而得到尊榮。",
+          "sourceReference": "4MA 17:20"
+        },
+        {
+          "number": "21",
+          "text": "那暴君受了懲罰，他們的國土得以潔淨。",
+          "sourceReference": "4MA 17:21"
+        },
+        {
+          "number": "22",
+          "text": "因為他們成了贖去民族罪惡的代價；上帝藉那些敬虔之人的血，以及平息忿怒的死亡，拯救了先前受苦的以色列。",
+          "sourceReference": "4MA 17:22"
+        },
+        {
+          "number": "23",
+          "text": "暴君安提阿古看見他們勇敢的美德，以及在酷刑中的忍耐，便向士兵宣告，以這忍耐為榜樣。",
+          "sourceReference": "4MA 17:23"
+        },
+        {
+          "number": "24",
+          "text": "他的士兵於是在野戰和圍城時，顯出高尚勇敢；他也因此攻陷並征服了所有仇敵的城鎮。",
+          "sourceReference": "4MA 17:24"
+        }
+      ],
+      "shortSection": "母子殉道的見證"
+    },
+    {
+      "id": "18",
+      "label": "第 18 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "以色列的兒女、亞伯拉罕的後裔啊，要順服這律法，在一切事上敬虔，",
+          "sourceReference": "4MA 18:1"
+        },
+        {
+          "number": "2",
+          "text": "要知道，敬虔的理性是情慾的主宰，不僅支配內在的，也支配外在的。",
+          "sourceReference": "4MA 18:2"
+        },
+        {
+          "number": "3",
+          "text": "因此，那些為信仰把身體交付痛苦的人，不但受人敬佩，也被認為配得上帝所賜的分。",
+          "sourceReference": "4MA 18:3"
+        },
+        {
+          "number": "4",
+          "text": "民族藉他們得著和平，在國中重新遵守律法，並把仇敵逐出境外。",
+          "sourceReference": "4MA 18:4"
+        },
+        {
+          "number": "5",
+          "text": "暴君安提阿古在地上受了懲罰，如今死後仍受懲罰；因為他完全無法強迫以色列人接受外邦習俗，離棄祖先的生活方式，",
+          "sourceReference": "4MA 18:5"
+        },
+        {
+          "number": "6",
+          "text": "便離開耶路撒冷，去攻打波斯人。",
+          "sourceReference": "4MA 18:6"
+        },
+        {
+          "number": "7",
+          "text": "七個孩子那位公義的母親，也曾對兒女這樣說：「我從前是貞潔的處女，不離開父家，謹守女人受造所出自的那根肋骨。",
+          "sourceReference": "4MA 18:7"
+        },
+        {
+          "number": "8",
+          "text": "曠野的毀壞者、平原上的強暴者，都沒有傷害我；那毀滅人、欺騙人的蛇，也沒有掠奪我貞潔的童身。我成年以後，就與丈夫相守。",
+          "sourceReference": "4MA 18:8"
+        },
+        {
+          "number": "9",
+          "text": "我的孩子們，你們長大成人時，你們的父親去世了。他是有福的！因為他曾盼望兒女眾多的一生，卻沒有為喪子的日子悲傷。",
+          "sourceReference": "4MA 18:9"
+        },
+        {
+          "number": "10",
+          "text": "他還與你們同在的時候，常教導你們律法和先知的話。",
+          "sourceReference": "4MA 18:10"
+        },
+        {
+          "number": "11",
+          "text": "他常讀給你們聽：亞伯被該隱殺害、以撒被獻上，以及約瑟被囚禁的事。",
+          "sourceReference": "4MA 18:11"
+        },
+        {
+          "number": "12",
+          "text": "他常向你們述說非尼哈的熱心，也告訴你們亞拿尼雅、亞撒利雅和米沙利在火中的事。",
+          "sourceReference": "4MA 18:12"
+        },
+        {
+          "number": "13",
+          "text": "他常稱頌在獅子坑裡的但以理，稱他為有福。",
+          "sourceReference": "4MA 18:13"
+        },
+        {
+          "number": "14",
+          "text": "他常提醒你們以賽亞書上的話：『即使你經過火中，火也不會燒傷你。』",
+          "sourceReference": "4MA 18:14"
+        },
+        {
+          "number": "15",
+          "text": "他向你們吟唱詩人大衛的話：『義人的苦難很多。』",
+          "sourceReference": "4MA 18:15"
+        },
+        {
+          "number": "16",
+          "text": "他宣講所羅門的箴言說：『祂是所有遵行祂旨意之人的生命樹。』",
+          "sourceReference": "4MA 18:16"
+        },
+        {
+          "number": "17",
+          "text": "他常確認以西結所說的：『這些枯骨能活過來嗎？』",
+          "sourceReference": "4MA 18:17"
+        },
+        {
+          "number": "18",
+          "text": "因為他沒有忘記摩西所教的歌，宣告說：『我使人死，也使人活。』",
+          "sourceReference": "4MA 18:18"
+        },
+        {
+          "number": "19",
+          "text": "這就是我們的生命，也是我們日子的長久。」",
+          "sourceReference": "4MA 18:19"
+        },
+        {
+          "number": "20",
+          "text": "那是何等苦澀、卻又不苦澀的一天！希臘人那兇殘的暴君，在殘酷的大鍋中以火對火，懷著沸騰的怒氣，把亞伯拉罕女兒的七個兒子送上刑架，施以一切酷刑。",
+          "sourceReference": "4MA 18:20"
+        },
+        {
+          "number": "21",
+          "text": "他刺穿他們的眼球，割去他們的舌頭，用各樣酷刑把他們處死。",
+          "sourceReference": "4MA 18:21"
+        },
+        {
+          "number": "22",
+          "text": "因此，上帝的報應已追趕，也必繼續追趕這帶來禍害的惡人。",
+          "sourceReference": "4MA 18:22"
+        },
+        {
+          "number": "23",
+          "text": "但亞伯拉罕的兒女和他們得勝的母親，已從上帝領受純潔、不朽的靈魂，一同加入先祖的行列。",
+          "sourceReference": "4MA 18:23"
+        },
+        {
+          "number": "24",
+          "text": "願榮耀歸給祂，直到永永遠遠。阿們。",
+          "sourceReference": "4MA 18:24"
+        }
+      ],
+      "shortSection": "持守律法的勸勉"
     }
   ]
 }

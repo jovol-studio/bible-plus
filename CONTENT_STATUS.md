@@ -1,6 +1,6 @@
-# 來源及缺文盤點（2026-10-27）
+# 來源及缺文盤點（2026-10-28）
 
-49 部擴充書卷有英文；23 部有中文（6 部現成舊譯、17 部既有 AI 初稿）。26 部中文未備妥。本次未新增翻譯。
+49 部擴充書卷有英文；27 部中文已齊（6 部現成舊譯、21 部 AI 初稿）。22 部尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
 
 「有英文」指下列指定底本的內容；殘篇、缺頁及來源原有空節保留原狀，不代表古代作品全部存世。章／段號和特殊編排見各卷 Info。
 
@@ -19,12 +19,12 @@
 | 蘇撒拿傳           | [已收錄](https://ebible.org/eng-web/DNG13.htm)                                                                                                 | 已收錄 1933 舊譯 · [來源](https://bible.fhl.net/new/readsub.php?chineses=%E8%98%87&chap=1&VERSION1=c1933&TABFLAG=0)                                                 |
 | 比勒與大龍         | [已收錄](https://ebible.org/eng-web/DNG14.htm)                                                                                                 | 已收錄 1933 舊譯 · [來源](https://bible.fhl.net/new/readsub.php?chineses=%E5%8B%92&chap=1&VERSION1=c1933&TABFLAG=0)                                                 |
 | 以斯拉續篇上卷     | [已收錄](https://ebible.org/eng-web/1ES01.htm)                                                                                                 | 既有 AI 初稿 · [來源](https://ebible.org/eng-web/1ES01.htm)                                                                                                         |
-| 馬加比三書         | [已收錄](https://ebible.org/eng-web/3MA01.htm)                                                                                                 | 未收錄                                                                                                                                                              |
+| 馬加比三書         | [已收錄](https://ebible.org/eng-web/3MA01.htm)                                                                                                 | AI 翻譯初稿已完成 · 7 章、228 節 |
 | 詩篇第151篇        | [已收錄](https://ebible.org/eng-web/PSX01.htm)                                                                                                 | 未收錄                                                                                                                                                              |
 | 瑪拿西禱言         | [已收錄](https://ebible.org/eng-web/PRM01.htm)                                                                                                 | 已收錄 1933 舊譯 · [來源](https://bible.fhl.net/new/readsub.php?chineses=%E7%A6%B1&chap=1&VERSION1=c1933&TABFLAG=0)                                                 |
-| 馬加比四書（附錄） | [已收錄](https://ebible.org/eng-web/4MA01.htm)                                                                                                 | 未收錄                                                                                                                                                              |
+| 馬加比四書（附錄） | [已收錄](https://ebible.org/eng-web/4MA01.htm)                                                                                                 | AI 翻譯初稿已完成 · 18 章、484 節 |
 | 以斯拉續篇下卷     | [已收錄](https://ebible.org/eng-web/2ES01.htm)                                                                                                 | 既有 AI 初稿 · [來源](https://ebible.org/eng-web/2ES01.htm)                                                                                                         |
-| 革利免前書         | [已收錄](https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt)                                                                          | 未收錄 · [來源](https://bible.fhl.net/AF/readaf.html)                                                                                                               |
+| 革利免前書         | [已收錄](https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt)                                                                          | AI 翻譯初稿已完成 · 65 章及序文 · [英文底本](https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt) |
 | 革利免後書         | [已收錄](https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt)                                                                          | 未收錄 · [來源](https://bible.fhl.net/AF/readaf.html)                                                                                                               |
 | 依格那丟七書       | [已收錄](https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt)                                                                          | 未收錄 · [來源](https://bible.fhl.net/AF/readaf.html)                                                                                                               |
 | 波利甲書           | [已收錄](https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt)                                                                          | 未收錄 · [來源](https://bible.fhl.net/AF/readaf.html)                                                                                                               |

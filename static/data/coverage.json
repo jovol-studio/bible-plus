@@ -141,8 +141,8 @@
     {
       "book": "psalm-151",
       "englishSections": 1,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 1,
+      "complete": true
     },
     {
       "book": "prayer-of-manasseh",
@@ -153,14 +153,14 @@
     {
       "book": "4-maccabees",
       "englishSections": 18,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 18,
+      "complete": true
     },
     {
       "book": "1-clement",
       "englishSections": 65,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 65,
+      "complete": true
     },
     {
       "book": "2-clement",

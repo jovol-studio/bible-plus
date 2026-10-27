@@ -232,3 +232,11 @@ The War Scroll is now imported from a user-supplied HTML file, with 19 columns a
 ## Short navigation titles for imported books
 
 Added concise Traditional Chinese `shortSection` labels for 689 sections across 19 previously unlabeled books. These are editorial navigation summaries of the bundled text or its source headings, not translated scripture or claims of canonical authority. Original source headings, verse text, references, numbering and gaps are preserved. The Info dialog identifies their editorial status.
+
+## 逐卷中文翻譯更新（2026-10-28）
+
+依使用者最新指示，開始逐卷製作缺少的正體中文，並保留原英文。《馬加比三書》（7 章、228 節）、《詩篇第 151 篇》（7 節）及《馬加比四書》（18 章、484 節）已依 App 所收錄的公版 WEB Classic 英文逐節翻譯。中文為 AI 初稿，尚待獨立學術審校，並非官方中文 WEB 或既有出版譯本，也不是從古代原文直接翻譯。資料 source 欄位及 Info 均提供此說明；底本網址與版本記錄保留。
+
+目前 49 部擴充書卷中，27 部已有對應中文（6 部現成舊譯、21 部 AI 初稿），22 部尚待翻譯。詳見 [翻譯進度](TRANSLATION_PROGRESS.md)。
+
+《革利免前書》（65 章及序文）亦已完成正體中文 AI 初稿，直接依 App 收錄的 J. B. Lightfoot《使徒教父》英文、CCEL 轉錄本逐段翻譯。中文不是既有出版譯本，也不是希臘原文直譯；尚待獨立學術審校。原段落定位、底本引文差異及方括號保留；資料中的英文底本雜湊另標為 `englishBaseSha256`，不作中文檔案雜湊使用。

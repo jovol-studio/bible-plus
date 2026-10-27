@@ -11,12 +11,12 @@
     "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
     "rightsNotice": "中文為本 App 新製作的 AI 翻譯初稿，英文底本為公版 WEB Classic；不是官方中文 WEB 譯本，亦未複製其他出版中文譯本。",
     "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
-    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
-    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
     "retrieved": "2026-10-27",
     "editionNote": "逐節對照所收錄的 WEB Classic 英文，保留原章節及敘事差異。",
     "translationNote": "AI-generated Traditional Chinese translation draft, produced sequentially from the bundled WEB Classic English. 未經獨立學術審校；不是已出版的中文譯本，也不是從古代原文直接翻譯。",
-    "translated": "2026-10-27"
+    "translated": "2026-10-27",
+    "englishBaseTextSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "englishBaseArchiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d"
   },
   "chapters": [
     {
