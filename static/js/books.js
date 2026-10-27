@@ -552,28 +552,24 @@ const books = [
   },
   {
     "id": "1-maccabees",
-    "available": false,
     "name": "馬加比一書",
     "english": "1 Maccabees",
     "category": "天主教及東正教增收書卷"
   },
   {
     "id": "2-maccabees",
-    "available": false,
     "name": "馬加比二書",
     "english": "2 Maccabees",
     "category": "天主教及東正教增收書卷"
   },
   {
     "id": "wisdom-of-solomon",
-    "available": false,
     "name": "所羅門智訓",
     "english": "Wisdom of Solomon",
     "category": "天主教及東正教增收書卷"
   },
   {
     "id": "sirach",
-    "available": false,
     "name": "便西拉智訓",
     "english": "Sirach",
     "category": "天主教及東正教增收書卷"
@@ -587,7 +583,6 @@ const books = [
   },
   {
     "id": "letter-of-jeremiah",
-    "available": false,
     "name": "耶利米書信",
     "english": "Letter of Jeremiah",
     "category": "天主教及東正教增收書卷"

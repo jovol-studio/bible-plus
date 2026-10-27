@@ -44,20 +44,24 @@ Shared books appear once. No texts were downloaded for this regrouping.
 - The nine 新約次經 entries are principally [Apostolic Fathers writings](https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/second-century/the-apostolic-fathers), not additional Catholic/Orthodox New Testament canonical books. The list groups Clement together, Ignatius and Polycarp next (with Polycarp’s martyrdom), then Didache, Barnabas, Hermas and Papias. This is editorial navigation, not a prescribed reading sequence or chronological order.
 - Pseudepigrapha keep Enoch 1–3 together, then related patriarchal narratives/testaments, prophetic material, psalms/oracles/War Scroll, and gospels. The unverified 水徒行紀 title remains last as a placeholder. This broad category includes writings from different periods and traditions, not a single canon or literary series.
 
-There are 36 catalog-only entries marked `available: false` in `books.js`. No
+There are 31 catalog-only entries marked `available: false` in `books.js`. No
 scripture text was downloaded for these entries. Selecting them displays a
 not-ready message and does not request a data file. Coverage validation below
-applies to the thirteen bundled works, not these placeholders.
+applies to the eighteen readable works, not these placeholders.
 
 ## Current translation coverage
 
-**All thirteen bundled extension books have complete Traditional Chinese AI drafts matching the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
+**Seventeen bundled extension books have Traditional Chinese AI/machine-translation drafts matching the available text of the bundled English sections.** The full structural completeness check passes. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
 | Work | English sections | Chinese sections saved |
 | --- | ---: | ---: |
 | Tobit / 多比傳 | 14 | 14 |
 | Judith / 猶滴傳 | 16 | 16 |
 | Additions to Esther / 以斯帖記補編 | 6 | 6 |
+| 1 Maccabees / 馬加比一書 | 16 | 16 |
+| 2 Maccabees / 馬加比二書 | 15 | 15 |
+| Wisdom of Solomon / 所羅門智訓 | 19 | 19 |
+| Sirach / 便西拉智訓 | 51 | 51 |
 | Book of Jubilees / 禧年書 | 50 | 50 |
 | 1 Enoch / 以諾一書 | 109 | 109 |
 | 2 Enoch / 以諾二書 | 68 | 68 |
@@ -80,6 +84,10 @@ Eight English works were extracted from [StudyLight's Pseudepigrapha collection]
 | Tobit | [World English Bible Classic, Tobit 1–14](https://ebible.org/eng-web/TOB01.htm) |
 | Judith | [World English Bible Classic, Judith 1–16](https://ebible.org/eng-web/JDT01.htm) |
 | Additions to Esther | [World English Bible Classic, Esther (Greek), extracted additions A–F](https://ebible.org/eng-web/ESG.htm) |
+| 1 Maccabees | [WEB Classic, 1 Maccabees 1–16](https://ebible.org/eng-web/1MA01.htm) |
+| 2 Maccabees | [WEB Classic, 2 Maccabees 1–15](https://ebible.org/eng-web/2MA01.htm) |
+| Wisdom of Solomon | [WEB Classic, Wisdom 1–19](https://ebible.org/eng-web/WIS01.htm) |
+| Sirach | [WEB Classic, Sirach 1–51 with prologue](https://ebible.org/eng-web/SIR01.htm) |
 | Jubilees | R. H. Charles, APOT vol. 2, 1913 |
 | 1 Enoch | R. H. Charles, APOT vol. 2, 1913 |
 | 2 Enoch | W. R. Morfill, edited by R. H. Charles, 1896 |
@@ -190,3 +198,30 @@ The 101 paragraph numbers are editorial reading aids, **not** WEB, Sigao, Vulgat
 Chinese sources located include [the Sigao text](https://www.ccreadbible.org/chinesebible/sigao/Esther_bible_Ch_1_.html) and [the Vatican-hosted Traditional Chinese PDF](https://www.vatican.va/chinese/bibbia/antico-testamento/Ester_zh-t.pdf). [The online Sigao edition’s copyright notice](https://www.ccreadbible.org/chinesebible/otherbible-1/htmtr/bible_21_Ch_2_esther.html) reserves rights. No full-text redistribution permission for this project was established, so these Chinese texts were not imported or used as the translation base.
 
 Chinese is a new Traditional Chinese AI translation draft of the selected WEB excerpts, with short editorial headings. It is not a published Chinese edition and has not received independent scholarly review. The unusual English word `affection` in ESG 1:1 is retained in English; the Chinese draft provisionally interprets it as 苦況 in the calamity context, explicitly flagged for review in `source.translationNote`. English-source public-domain status and trademark conditions, Chinese draft status, and the numbering explanation appear in Info. The project grants no separate content licence for the Chinese draft.
+
+## 1–2 Maccabees, Wisdom of Solomon, and Sirach
+
+English is imported verbatim from the [official WEB Classic verse-per-line archive](https://ebible.org/Scriptures/eng-web_vpl.zip), whose [publisher dedicates the translation to the public domain](https://ebible.org/eng-web/copyright.htm). Original chapter/verse numbers and wording are retained. The JSON metadata records the download date, archive/text SHA-256 hashes, rights notice, and source links. Footnotes are not included. Chinese short chapter headings are editorial navigation aids, not part of the source scripture.
+
+| Work | Chapters | Numbered verse entries | Nonempty numbered verses |
+| --- | ---: | ---: | ---: |
+| 1 Maccabees | 16 | 924 | 924 |
+| 2 Maccabees | 15 | 555 | 555 |
+| Wisdom of Solomon | 19 | 436 | 436 |
+| Sirach | 51 | 1,383 | 1,359 |
+
+Chinese editions were found in the [Chinese Bible Reading Association's Sigao collection](https://www.ccreadbible.org/chinesebible/sigao), including [Wisdom](https://www.ccreadbible.org/chinesebible/sigao/Wisdom_bible_Ch_1_.html) and [Sirach](https://www.ccreadbible.org/chinesebible/sigao/Sirach_bible_Ch_1_.html); the Vatican also hosts [2 Maccabees in Chinese](https://www.vatican.va/chinese/bibbia/antico-testamento/II-Maccabei_zh-t.pdf). Availability online is not permission to redistribute these modern translations. No suitable permission was established, so none of their Chinese text is bundled.
+
+Instead, these four Chinese texts are new **machine-translation drafts from the cited public-domain English**, produced sequentially with Google Translate, normalized to Traditional Chinese with OpenCC, and edited with AI assistance. Wisdom 1–4 and the Sirach prologue were translated directly by AI. Checks cover reference alignment, missing content, chapter counts, and selected corrections to dates, names, and wording; they do **not** constitute a full independent translation or scholarly review. Difficult readings and translation errors may remain. This provenance and draft status are included in each book's Info metadata. The Chinese drafts are not Sigao, not an official Chinese WEB edition, and not translations directly from ancient manuscripts. The software AGPL does not automatically license these content files.
+
+Sirach also includes the ancient translator's prologue from the [official first-chapter page](https://ebible.org/eng-web/SIR01.htm), with that HTML's hash recorded separately. It appears before chapter 1 as `preface`, outside numbered verse counts and numeric input choices; the publisher's modern introductory note is not imported.
+
+The WEB Classic verse-per-line source has 24 empty Sirach references: 1:5, 1:7, 1:21, 3:19, 10:21, 11:15, 13:14, 16:15, 17:5, 17:9, 17:16, 17:18, 17:21, 18:3, 19:18, 19:21, 20:3, 20:32, 22:9, 23:28, 24:18, 24:24, 25:12, 26:19. Both language files retain these as empty strings, so the reader displays its missing-text message. They are not invented or filled from another edition. Validation explicitly allows only this exact set and checks that Chinese preserves the same gaps.
+
+Sirach also omits 12 verse entries entirely: 11:16, 16:16, 19:19, 22:10, and 26:20–27. These are recorded as `source.omittedVerses`; both files preserve the source numbering gaps without manufacturing text or renumbering. They are distinct from the 24 explicit empty entries above. Validation checks the exact expected numbering including these gaps.
+
+## Letter of Jeremiah / 耶利米書信
+
+English: all 73 verses of [WEB Classic Baruch 6](https://ebible.org/eng-web/BAR06.htm), extracted unchanged from the official VPL archive already used above. The app presents the independently selectable letter as chapter 1; each verse retains a `sourceReference` to BAR 6 and its source verse. Archive and text hashes are recorded. The short chapter title is editorial.
+
+Chinese: the [Sigao text, Baruch chapter 6](https://sbbible.dsbiblecentre.org/part_1/36/6.html), was located but its copyrighted full text is not reproduced. Its unnumbered introduction plus 72 verses do not share WEB's 73-verse segmentation. The Chinese JSON is metadata only, with zero chapters, providing the external source link in Info. No replacement translation was made, following the user's preference to use an existing Chinese edition. Coverage correctly reports this book as Chinese-incomplete; `--require-complete` must fail until Chinese content is supplied.

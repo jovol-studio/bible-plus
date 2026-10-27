@@ -1,6 +1,36 @@
 {
   "books": [
     {
+      "book": "letter-of-jeremiah",
+      "englishSections": 1,
+      "chineseSections": 0,
+      "complete": false
+    },
+    {
+      "book": "1-maccabees",
+      "englishSections": 16,
+      "chineseSections": 16,
+      "complete": true
+    },
+    {
+      "book": "2-maccabees",
+      "englishSections": 15,
+      "chineseSections": 15,
+      "complete": true
+    },
+    {
+      "book": "wisdom-of-solomon",
+      "englishSections": 19,
+      "chineseSections": 19,
+      "complete": true
+    },
+    {
+      "book": "sirach",
+      "englishSections": 51,
+      "chineseSections": 51,
+      "complete": true
+    },
+    {
       "book": "tobit",
       "englishSections": 14,
       "chineseSections": 14,
@@ -79,5 +109,5 @@
       "complete": true
     }
   ],
-  "allChineseComplete": true
+  "allChineseComplete": false
 }
