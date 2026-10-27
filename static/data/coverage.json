@@ -135,8 +135,8 @@
     {
       "book": "3-maccabees",
       "englishSections": 7,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 7,
+      "complete": true
     },
     {
       "book": "psalm-151",

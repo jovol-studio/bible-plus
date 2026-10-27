@@ -48,25 +48,25 @@ There are 49 readable extension entries. The 2026-10-27 import added 30 English 
 
 **Seventeen bundled extension books have Traditional Chinese AI/machine-translation drafts matching the available text of the bundled English sections.** Structural validation passes, but the full bilingual completeness check does not: 26 readable books still lack Chinese. This confirms coverage and passage alignment, not independent scholarly review. The reader retains its missing-content fallback if a translation cannot be loaded.
 
-| Work | English sections | Chinese sections saved |
-| --- | ---: | ---: |
-| Tobit / 多比傳 | 14 | 14 |
-| Judith / 猶滴傳 | 16 | 16 |
-| Additions to Esther / 以斯帖記補編 | 6 | 6 |
-| 1 Maccabees / 馬加比一書 | 16 | 16 |
-| 2 Maccabees / 馬加比二書 | 15 | 15 |
-| Wisdom of Solomon / 所羅門智訓 | 19 | 19 |
-| Sirach / 便西拉智訓 | 51 | 51 |
-| Book of Jubilees / 禧年書 | 50 | 50 |
-| 1 Enoch / 以諾一書 | 109 | 109 |
-| 2 Enoch / 以諾二書 | 68 | 68 |
-| 3 Enoch / 以諾三書 | 54 | 54 |
-| Apocalypse of Abraham / 亞伯拉罕啟示錄 | 33 | 33 |
-| Life of Adam and Eve / 亞當和夏娃生平 | 64 | 64 |
-| Testaments of the Twelve Patriarchs / 十二族長遺訓 | 142 | 142 |
-| 1 Esdras / 以斯拉續篇上卷 | 9 | 9 |
-| 2 Esdras / 以斯拉續篇下卷 | 16 | 16 |
-| 2 Baruch / 巴錄二書 | 87 | 87 |
+| Work                                               | English sections | Chinese sections saved |
+| -------------------------------------------------- | ---------------: | ---------------------: |
+| Tobit / 多比傳                                     |               14 |                     14 |
+| Judith / 猶滴傳                                    |               16 |                     16 |
+| Additions to Esther / 以斯帖記補編                 |                6 |                      6 |
+| 1 Maccabees / 馬加比一書                           |               16 |                     16 |
+| 2 Maccabees / 馬加比二書                           |               15 |                     15 |
+| Wisdom of Solomon / 所羅門智訓                     |               19 |                     19 |
+| Sirach / 便西拉智訓                                |               51 |                     51 |
+| Book of Jubilees / 禧年書                          |               50 |                     50 |
+| 1 Enoch / 以諾一書                                 |              109 |                    109 |
+| 2 Enoch / 以諾二書                                 |               68 |                     68 |
+| 3 Enoch / 以諾三書                                 |               54 |                     54 |
+| Apocalypse of Abraham / 亞伯拉罕啟示錄             |               33 |                     33 |
+| Life of Adam and Eve / 亞當和夏娃生平              |               64 |                     64 |
+| Testaments of the Twelve Patriarchs / 十二族長遺訓 |              142 |                    142 |
+| 1 Esdras / 以斯拉續篇上卷                          |                9 |                      9 |
+| 2 Esdras / 以斯拉續篇下卷                          |               16 |                     16 |
+| 2 Baruch / 巴錄二書                                |               87 |                     87 |
 
 The machine-readable current counts are in `static/data/coverage.json`. Sections are not always canonical chapter numbers: see edition notes below. The seventeen existing Chinese drafts are AI translations of the cited English, **not** a published translation, not translated directly from ancient manuscripts, and not independently scholarly reviewed. Proper-name transliterations and difficult textual readings need review.
 
@@ -74,29 +74,29 @@ The machine-readable current counts are in `static/data/coverage.json`. Sections
 
 Eight English works were extracted from [StudyLight's Pseudepigrapha collection](https://www.studylight.org/historical-writings/pseudepigrapha.html), retaining only the historical translation and its source attribution in the distributable JSON, not the site's modern introductions. Each book JSON carries its exact URL, edition credit, retrieval date and raw source SHA-256.
 
-| Work | English edition |
-| --- | --- |
-| Tobit | [World English Bible Classic, Tobit 1–14](https://ebible.org/eng-web/TOB01.htm) |
-| Judith | [World English Bible Classic, Judith 1–16](https://ebible.org/eng-web/JDT01.htm) |
-| Additions to Esther | [World English Bible Classic, Esther (Greek), extracted additions A–F](https://ebible.org/eng-web/ESG.htm) |
-| 1 Maccabees | [WEB Classic, 1 Maccabees 1–16](https://ebible.org/eng-web/1MA01.htm) |
-| 2 Maccabees | [WEB Classic, 2 Maccabees 1–15](https://ebible.org/eng-web/2MA01.htm) |
-| Wisdom of Solomon | [WEB Classic, Wisdom 1–19](https://ebible.org/eng-web/WIS01.htm) |
-| Sirach | [WEB Classic, Sirach 1–51 with prologue](https://ebible.org/eng-web/SIR01.htm) |
-| Jubilees | R. H. Charles, APOT vol. 2, 1913 |
-| 1 Enoch | R. H. Charles, APOT vol. 2, 1913 |
-| 2 Enoch | W. R. Morfill, edited by R. H. Charles, 1896 |
-| 3 Enoch | Hugo Odeberg, 1928 |
-| Apocalypse of Abraham | G. H. Box with J. I. Landsman, 1918 |
-| Life of Adam and Eve | L. S. A. Wells, APOT vol. 2, 1913 |
-| Twelve Patriarchs | R. H. Charles, APOT vol. 2, 1913 |
-| 1 Esdras | [World English Bible Classic, 1 Esdras 1–9](https://ebible.org/eng-web/1ES01.htm) |
-| 2 Esdras | [World English Bible Classic, 2 Esdras 1–16](https://ebible.org/eng-web/2ES01.htm) |
-| 2 Baruch | R. H. Charles, APOT vol. 2, 1913 |
+| Work                  | English edition                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Tobit                 | [World English Bible Classic, Tobit 1–14](https://ebible.org/eng-web/TOB01.htm)                            |
+| Judith                | [World English Bible Classic, Judith 1–16](https://ebible.org/eng-web/JDT01.htm)                           |
+| Additions to Esther   | [World English Bible Classic, Esther (Greek), extracted additions A–F](https://ebible.org/eng-web/ESG.htm) |
+| 1 Maccabees           | [WEB Classic, 1 Maccabees 1–16](https://ebible.org/eng-web/1MA01.htm)                                      |
+| 2 Maccabees           | [WEB Classic, 2 Maccabees 1–15](https://ebible.org/eng-web/2MA01.htm)                                      |
+| Wisdom of Solomon     | [WEB Classic, Wisdom 1–19](https://ebible.org/eng-web/WIS01.htm)                                           |
+| Sirach                | [WEB Classic, Sirach 1–51 with prologue](https://ebible.org/eng-web/SIR01.htm)                             |
+| Jubilees              | R. H. Charles, APOT vol. 2, 1913                                                                           |
+| 1 Enoch               | R. H. Charles, APOT vol. 2, 1913                                                                           |
+| 2 Enoch               | W. R. Morfill, edited by R. H. Charles, 1896                                                               |
+| 3 Enoch               | Hugo Odeberg, 1928                                                                                         |
+| Apocalypse of Abraham | G. H. Box with J. I. Landsman, 1918                                                                        |
+| Life of Adam and Eve  | L. S. A. Wells, APOT vol. 2, 1913                                                                          |
+| Twelve Patriarchs     | R. H. Charles, APOT vol. 2, 1913                                                                           |
+| 1 Esdras              | [World English Bible Classic, 1 Esdras 1–9](https://ebible.org/eng-web/1ES01.htm)                          |
+| 2 Esdras              | [World English Bible Classic, 2 Esdras 1–16](https://ebible.org/eng-web/2ES01.htm)                         |
+| 2 Baruch              | R. H. Charles, APOT vol. 2, 1913                                                                           |
 
 The historical English editions are presented by the hosts as public domain; that designation should not be read as a worldwide rights opinion. In particular, the 1928 Odeberg edition can have different status in countries using the translator's life plus a term. [WEB's publisher explicitly dedicates its text to the public domain](https://ebible.org/eng-web/copyright.htm); the new Chinese translation is not called the World English Bible.
 
-Published Traditional Chinese editions were found in Christian Literature Council's *基督教典外文獻：舊約篇*, including [volume 1 (Enoch)](https://www.cclc.org.hk/product/基督教典外文獻：舊約篇-第一冊/) and [volume 4 (Jubilees and Testaments)](https://www.cclc.org.hk/product/基督教典外文獻：舊約篇-第四冊/). No permission to reproduce those modern translations was established, so their full text is not bundled. The user's approved fallback is an explicitly labelled AI translation.
+Published Traditional Chinese editions were found in Christian Literature Council's _基督教典外文獻：舊約篇_, including [volume 1 (Enoch)](https://www.cclc.org.hk/product/基督教典外文獻：舊約篇-第一冊/) and [volume 4 (Jubilees and Testaments)](https://www.cclc.org.hk/product/基督教典外文獻：舊約篇-第四冊/). No permission to reproduce those modern translations was established, so their full text is not bundled. The user's approved fallback is an explicitly labelled AI translation.
 
 ### Editorial details and known limitations
 
@@ -104,7 +104,7 @@ Published Traditional Chinese editions were found in Christian Literature Counci
 - 2 Enoch uses the 68-chapter Morfill text as transcribed by the host, not later 73-chapter arrangements. The original 1896 edition places 22:1–3 in manuscript A’s apparatus on printed page 27, so the main text begins chapter 22 at verse 4. This is an editorial arrangement, not a lost download; see the [original edition](https://archive.org/details/bookofsecretsofe00morf/page/27). Other gaps and manuscript distinctions remain as printed, not silently renumbered.
 - 3 Enoch includes lettered sections and 48 A–D. All 54 sections (408 passages, including headings) now have Chinese drafts. Source order, repeated verse numbers, and the alternative passages in 48 C are retained. The divine-name lists in 48 B and 48 D retain their source transliterations, with surrounding explanations translated. Conflicting numerical readings are not silently reconciled. The host transcription is not Odeberg’s entire critical apparatus.
 - Apocalypse of Abraham includes a title section plus chapters 1–32. Its source is unversed prose; the reader labels it as text, not invented Bible verse numbers.
-- Life of Adam and Eve is the 51-chapter **Latin Life** plus the source's Slavonic appendix, chapters 28–40. It is not the distinct *Conflict of Adam and Eve with Satan*. Some source combined verse numbers remain within a passage.
+- Life of Adam and Eve is the 51-chapter **Latin Life** plus the source's Slavonic appendix, chapters 28–40. It is not the distinct _Conflict of Adam and Eve with Satan_. Some source combined verse numbers remain within a passage.
 - The Twelve Patriarchs have twelve separately titled testaments with their own chapter numbering. Source manuscript gaps in Zebulun 4, Gad 2 and Joseph 19 are retained. Benjamin 5:5's truncated ending was restored from the [parallel Charles transcription](https://www.earlychristianwritings.com/text/patriarchs-charles.html) and recorded in `source.repairs`.
 - 1 Esdras is a separate nine-chapter work (448 verses), not the canonical book of Ezra. Its own wording, names and verse divisions are preserved rather than harmonized with Ezra, Nehemiah or Chronicles.
 - 2 Esdras combines the existing 5 Ezra (chapters 1–2), 4 Ezra (3–14) and 6 Ezra (15–16) files in chapter order, preserving every English and Chinese passage unchanged, including all 140 verses of chapter 7. The old book IDs redirect to the corresponding chapter of `2-esdras`. These naming conventions do not rename canonical Ezra or Nehemiah. Source URLs, credits and original download hashes remain in the reading JSON files. Downloaded source snapshots have been removed; the app uses the prepared reading files.
@@ -179,14 +179,14 @@ Chinese-source search found the [online Sigao text, 友弟德傳](https://www.cc
 
 English is excerpted from the public-domain [WEB Classic Esther (Greek)](https://ebible.org/eng-web/ESG.htm) in the official `eng-web_vpl.zip` archive. The unchanged English excerpts are regrouped as six additions, in narrative order A–F. [USCCB’s introduction and mapping](https://bible.usccb.org/bible/esther/0) were consulted for the arrangement only; no USCCB translation text is bundled. The edition includes the expanded royal-audience narrative and the final translator’s colophon. It does not duplicate the complete ten-chapter Esther narrative.
 
-| Reader chapter | Addition | WEB ESG source location | Reader paragraphs |
-| --- | --- | --- | ---: |
-| 1 | A / 甲 | Bracketed text within 1:1 | 21 |
-| 2 | B / 乙 | Bracketed text within 3:13, followed by the speech beginning “Remember” in 4:8 | 6 |
-| 3 | C / 丙 | 4:18–47 | 30 |
-| 4 | D / 丁 | Expanded narrative in 5:1–2 | 18 |
-| 5 | E / 戊 | Bracketed text within 8:13 | 15 |
-| 6 | F / 己 | 10:4–14, including the final colophon | 11 |
+| Reader chapter | Addition | WEB ESG source location                                                        | Reader paragraphs |
+| -------------- | -------- | ------------------------------------------------------------------------------ | ----------------: |
+| 1              | A / 甲   | Bracketed text within 1:1                                                      |                21 |
+| 2              | B / 乙   | Bracketed text within 3:13, followed by the speech beginning “Remember” in 4:8 |                 6 |
+| 3              | C / 丙   | 4:18–47                                                                        |                30 |
+| 4              | D / 丁   | Expanded narrative in 5:1–2                                                    |                18 |
+| 5              | E / 戊   | Bracketed text within 8:13                                                     |                15 |
+| 6              | F / 己   | 10:4–14, including the final colophon                                          |                11 |
 
 The 101 paragraph numbers are editorial reading aids, **not** WEB, Sigao, Vulgate, or standard A–F verse numbers. Long source entries in A, B, D, and E are split at sentence boundaries; C and F preserve source-entry boundaries. Joining each source-reference group with a space reconstructs the corresponding English excerpt verbatim, including punctuation and source brackets. Each paragraph stores `sourceReference`; chapter metadata and `source.sectionMappings` retain the mapping. Both files retain the archive and full VPL-text SHA-256 values. Footnotes are not imported.
 
@@ -198,12 +198,12 @@ Chinese is a new Traditional Chinese AI translation draft of the selected WEB ex
 
 English is imported verbatim from the [official WEB Classic verse-per-line archive](https://ebible.org/Scriptures/eng-web_vpl.zip), whose [publisher dedicates the translation to the public domain](https://ebible.org/eng-web/copyright.htm). Original chapter/verse numbers and wording are retained. The JSON metadata records the download date, archive/text SHA-256 hashes, rights notice, and source links. Footnotes are not included. Chinese short chapter headings are editorial navigation aids, not part of the source scripture.
 
-| Work | Chapters | Numbered verse entries | Nonempty numbered verses |
-| --- | ---: | ---: | ---: |
-| 1 Maccabees | 16 | 924 | 924 |
-| 2 Maccabees | 15 | 555 | 555 |
-| Wisdom of Solomon | 19 | 436 | 436 |
-| Sirach | 51 | 1,383 | 1,359 |
+| Work              | Chapters | Numbered verse entries | Nonempty numbered verses |
+| ----------------- | -------: | ---------------------: | -----------------------: |
+| 1 Maccabees       |       16 |                    924 |                      924 |
+| 2 Maccabees       |       15 |                    555 |                      555 |
+| Wisdom of Solomon |       19 |                    436 |                      436 |
+| Sirach            |       51 |                  1,383 |                    1,359 |
 
 Chinese editions were found in the [Chinese Bible Reading Association's Sigao collection](https://www.ccreadbible.org/chinesebible/sigao), including [Wisdom](https://www.ccreadbible.org/chinesebible/sigao/Wisdom_bible_Ch_1_.html) and [Sirach](https://www.ccreadbible.org/chinesebible/sigao/Sirach_bible_Ch_1_.html); the Vatican also hosts [2 Maccabees in Chinese](https://www.vatican.va/chinese/bibbia/antico-testamento/II-Maccabei_zh-t.pdf). Availability online is not permission to redistribute these modern translations. No suitable permission was established, so none of their Chinese text is bundled.
 

@@ -6,10 +6,443 @@
   },
   "language": "zh-Hant",
   "source": {
-    "credit": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。",
-    "rightsNotice": "未收錄中文全文；來源譯文之權利仍屬原權利人。",
-    "editionNote": "本次沒有新增中文翻譯。",
-    "checked": "2026-10-27"
+    "url": "https://ebible.org/eng-web/4MA01.htm",
+    "credit": "正體中文 AI 翻譯初稿，依本 App 收錄的 World English Bible Classic《馬加比四書》英文逐節翻譯。",
+    "rightsUrl": "https://ebible.org/eng-web/copyright.htm",
+    "rightsNotice": "中文為本 App 新製作的 AI 翻譯初稿，英文底本為公版 WEB Classic；不是官方中文 WEB 譯本，亦未複製其他出版中文譯本。",
+    "archiveUrl": "https://ebible.org/Scriptures/eng-web_vpl.zip",
+    "archiveSha256": "121579501b0fa0f55aa5bb3a1d29688aa1e91d6f735966d376298a268673e30d",
+    "textSha256": "1c6283a52413b63f090331ce3a9310a0813875f07bbaeb766f60fa83a145853d",
+    "retrieved": "2026-10-27",
+    "editionNote": "逐節對照所收錄的 WEB Classic 英文，保留原章節及敘事差異。",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。",
+    "translationNote": "AI-generated Traditional Chinese translation draft, produced sequentially from the bundled WEB Classic English. 未經獨立學術審校；不是已出版的中文譯本，也不是從古代原文直接翻譯。",
+    "translated": "2026-10-27"
   },
-  "chapters": []
+  "chapters": [
+    {
+      "id": "1",
+      "label": "第 1 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "我將闡明一個極具哲理的命題，就是敬虔的理性完全支配情慾；因此，我樂意勸你們專心留意這番哲理。",
+          "sourceReference": "4MA 1:1"
+        },
+        {
+          "number": "2",
+          "text": "因為理性是每個人通往知識所必需的階梯；此外，它也包含對最高美德——自制——的讚揚。",
+          "sourceReference": "4MA 1:2"
+        },
+        {
+          "number": "3",
+          "text": "若理性顯然能支配妨礙節制的情慾，例如貪食和淫慾，",
+          "sourceReference": "4MA 1:3"
+        },
+        {
+          "number": "4",
+          "text": "它也必然明顯地支配違反公義的情緒，例如惡意，以及妨礙勇氣的情緒，例如憤怒、痛苦和恐懼。",
+          "sourceReference": "4MA 1:4"
+        },
+        {
+          "number": "5",
+          "text": "也許有人會問：「理性既支配情慾，為何不能支配健忘和無知？」他們提出的是荒謬的論證。",
+          "sourceReference": "4MA 1:5"
+        },
+        {
+          "number": "6",
+          "text": "因為理性所支配的，不是它自身的情態，而是那些違反公義、勇氣、節制與自制的情慾；即使對這些情慾，它也是加以抗拒，而非將它們消滅。",
+          "sourceReference": "4MA 1:6"
+        },
+        {
+          "number": "7",
+          "text": "我本可以從許多其他方面向你們證明，敬虔的理性是情慾唯一的主宰；",
+          "sourceReference": "4MA 1:7"
+        },
+        {
+          "number": "8",
+          "text": "但我要以以利亞撒、七個兄弟和他們母親的堅忍，作最有力的證明；他們為捍衛美德而死。",
+          "sourceReference": "4MA 1:8"
+        },
+        {
+          "number": "9",
+          "text": "他們全都輕看痛苦，直到死亡；藉著這種輕看，他們表明理性能支配情慾。",
+          "sourceReference": "4MA 1:9"
+        },
+        {
+          "number": "10",
+          "text": "因此，我理當因他們的美德，稱讚這些為高尚與良善而與母親一同殉身的人；因他們所得的尊榮，我也要稱他們有福。",
+          "sourceReference": "4MA 1:10"
+        },
+        {
+          "number": "11",
+          "text": "他們的勇氣與忍耐，不但使一般人敬佩，連迫害者也為之驚歎；他們藉忍耐戰勝暴君，促成壓迫本族的暴政覆滅，使自己的國土因此得以潔淨。",
+          "sourceReference": "4MA 1:11"
+        },
+        {
+          "number": "12",
+          "text": "現在，我們可以照慣例先確立論點，隨即探討這個問題，再述說這些人的事蹟，將榮耀歸給全智的上帝。",
+          "sourceReference": "4MA 1:12"
+        },
+        {
+          "number": "13",
+          "text": "所以，問題是：理性是否完全支配情慾？",
+          "sourceReference": "4MA 1:13"
+        },
+        {
+          "number": "14",
+          "text": "那麼，我們先確定甚麼是理性、甚麼是情慾、情慾有多少種，以及理性是否支配所有這些情慾。",
+          "sourceReference": "4MA 1:14"
+        },
+        {
+          "number": "15",
+          "text": "理性是與正直生活相伴的悟性，把對智慧的思量放在首位。",
+          "sourceReference": "4MA 1:15"
+        },
+        {
+          "number": "16",
+          "text": "智慧是對神聖事物、人間事物及其成因的知識。",
+          "sourceReference": "4MA 1:16"
+        },
+        {
+          "number": "17",
+          "text": "這些都包含在律法的教導中；藉此，我們以敬畏的心學習神聖的事，也有益地認識人間的事。",
+          "sourceReference": "4MA 1:17"
+        },
+        {
+          "number": "18",
+          "text": "智慧的各種表現是自制、公義、勇氣和節制。",
+          "sourceReference": "4MA 1:18"
+        },
+        {
+          "number": "19",
+          "text": "其中居首的是自制；正是藉著它，理性得以支配情慾。",
+          "sourceReference": "4MA 1:19"
+        },
+        {
+          "number": "20",
+          "text": "在情慾之中，快樂與痛苦涵蓋最廣；它們按本性也與心靈相關。",
+          "sourceReference": "4MA 1:20"
+        },
+        {
+          "number": "21",
+          "text": "快樂與痛苦周圍伴隨著許多情緒。",
+          "sourceReference": "4MA 1:21"
+        },
+        {
+          "number": "22",
+          "text": "快樂之前有慾望，快樂之後有歡喜。",
+          "sourceReference": "4MA 1:22"
+        },
+        {
+          "number": "23",
+          "text": "痛苦之前有恐懼，痛苦之後有憂傷。",
+          "sourceReference": "4MA 1:23"
+        },
+        {
+          "number": "24",
+          "text": "憤怒是一種兼具快樂與痛苦的情緒；人在發怒時若加以留意，就會明白。",
+          "sourceReference": "4MA 1:24"
+        },
+        {
+          "number": "25",
+          "text": "快樂之中也有一種惡意的傾向，是一切情緒中最複雜的。",
+          "sourceReference": "4MA 1:25"
+        },
+        {
+          "number": "26",
+          "text": "它在心靈中表現為傲慢、貪財、渴求榮譽、好爭、不忠和嫉妒。",
+          "sourceReference": "4MA 1:26"
+        },
+        {
+          "number": "27",
+          "text": "在身體上，則表現為貪吃、毫無選擇地進食，以及獨自暴食。",
+          "sourceReference": "4MA 1:27"
+        },
+        {
+          "number": "28",
+          "text": "因此，快樂與痛苦就像從身體和心靈長出的兩株植物，這些情慾又有許多分枝。",
+          "sourceReference": "4MA 1:28"
+        },
+        {
+          "number": "29",
+          "text": "理性如同照管一切的農夫，把它們一一清理修剪，綁紮、澆灌、移植，從各方面改善品性與情緒的本質。",
+          "sourceReference": "4MA 1:29"
+        },
+        {
+          "number": "30",
+          "text": "因為理性是美德的領袖，也是情慾唯一的統治者。那麼，先從那些妨礙節制的事，看看理性怎樣完全支配情慾。",
+          "sourceReference": "4MA 1:30"
+        },
+        {
+          "number": "31",
+          "text": "節制就是駕馭慾望。",
+          "sourceReference": "4MA 1:31"
+        },
+        {
+          "number": "32",
+          "text": "慾望有些屬於心靈，有些屬於身體；理性顯然能支配兩者。",
+          "sourceReference": "4MA 1:32"
+        },
+        {
+          "number": "33",
+          "text": "若不是這樣，當我們受到禁食之物的誘惑時，為何會拒絕它們所帶來的滿足？豈不是因為理性能命令食慾嗎？我相信正是如此。",
+          "sourceReference": "4MA 1:33"
+        },
+        {
+          "number": "34",
+          "text": "所以，當我們渴望海產、飛鳥、四足獸，以及律法禁止我們吃的各種食物時，就藉理性的支配約束自己。",
+          "sourceReference": "4MA 1:34"
+        },
+        {
+          "number": "35",
+          "text": "因為有節制的悟性能抵抗食慾的衝動，使它退回；身體的一切衝動，也都由理性勒住。",
+          "sourceReference": "4MA 1:35"
+        }
+      ],
+      "shortSection": "敬虔理性與情慾"
+    },
+    {
+      "id": "2",
+      "label": "第 2 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "這有甚麼可驚奇的呢？心靈的慾望在接觸美好的事物後，若受到抑制，",
+          "sourceReference": "4MA 2:1"
+        },
+        {
+          "number": "2",
+          "text": "那麼，約瑟因自制而受稱讚，也正是這個道理：他藉著理性思量，制服了感官的放縱。",
+          "sourceReference": "4MA 2:2"
+        },
+        {
+          "number": "3",
+          "text": "因為他雖然年輕，已到可以交合的年紀，卻藉理性消除了情慾的刺激。",
+          "sourceReference": "4MA 2:3"
+        },
+        {
+          "number": "4",
+          "text": "理性所能制服的，不只是感官享受的衝動，而是一切慾望的衝動。",
+          "sourceReference": "4MA 2:4"
+        },
+        {
+          "number": "5",
+          "text": "例如，律法說：「不可貪戀鄰舍的妻子，也不可貪戀鄰舍的任何東西。」",
+          "sourceReference": "4MA 2:5"
+        },
+        {
+          "number": "6",
+          "text": "既然律法禁止我們貪戀，我就更容易使你們信服：理性能管理我們的慾望，正如它管理那些妨礙公義的情緒一樣。",
+          "sourceReference": "4MA 2:6"
+        },
+        {
+          "number": "7",
+          "text": "否則，獨自貪吃的人、暴食的人和醉酒的人，怎能改正呢？這豈不清楚表明，理性是情慾的主宰嗎？",
+          "sourceReference": "4MA 2:7"
+        },
+        {
+          "number": "8",
+          "text": "因此，一個按律法規範自己行為的人，即使愛財，也會立刻約束自己的性情，借貸給貧乏的人而不收利息，並在第七年免除債務。",
+          "sourceReference": "4MA 2:8"
+        },
+        {
+          "number": "9",
+          "text": "若有人貪婪，律法就藉理性管理他，使他不把莊稼或葡萄收割後所剩的搜拾乾淨。在其他事情上，我們也能看見，是理性戰勝他的情慾。",
+          "sourceReference": "4MA 2:9"
+        },
+        {
+          "number": "10",
+          "text": "因為律法甚至勝過人對父母的愛，不容人因父母的緣故放棄美德。",
+          "sourceReference": "4MA 2:10"
+        },
+        {
+          "number": "11",
+          "text": "它也勝過人對妻子的愛，在她違反律法時責備她。",
+          "sourceReference": "4MA 2:11"
+        },
+        {
+          "number": "12",
+          "text": "它支配父母對子女的愛，使父母因子女的惡行懲戒他們；它也支配朋友間的親密，使人在朋友作惡時勸責他們。",
+          "sourceReference": "4MA 2:12"
+        },
+        {
+          "number": "13",
+          "text": "若說理性為律法的緣故，甚至能戰勝仇恨，你們不要覺得奇怪。",
+          "sourceReference": "4MA 2:13"
+        },
+        {
+          "number": "14",
+          "text": "它不許人砍伐仇敵的果樹，反倒保護它們不受破壞，並收拾它們倒下的殘枝。",
+          "sourceReference": "4MA 2:14"
+        },
+        {
+          "number": "15",
+          "text": "理性顯然也支配那些更猛烈的情慾，例如貪戀權勢、虛浮誇耀和毀謗。",
+          "sourceReference": "4MA 2:15"
+        },
+        {
+          "number": "16",
+          "text": "有節制的悟性排斥這一切邪惡的情慾，也排斥憤怒；連憤怒它也能制服。",
+          "sourceReference": "4MA 2:16"
+        },
+        {
+          "number": "17",
+          "text": "所以，摩西向大坍和亞比蘭發怒時，沒有在怒氣中對他們做甚麼，卻用理性約束自己的憤怒。",
+          "sourceReference": "4MA 2:17"
+        },
+        {
+          "number": "18",
+          "text": "因為正如我所說，有節制的心思能勝過情慾，有些加以糾正，有些加以除去。",
+          "sourceReference": "4MA 2:18"
+        },
+        {
+          "number": "19",
+          "text": "不然，我們極有智慧的祖先雅各，為何責備西緬和利未不顧理性，殺盡示劍人的全族，說：「願他們的怒氣受咒詛！」呢？",
+          "sourceReference": "4MA 2:19"
+        },
+        {
+          "number": "20",
+          "text": "如果理性沒有制服憤怒情緒的能力，他就不會這樣說了。",
+          "sourceReference": "4MA 2:20"
+        },
+        {
+          "number": "21",
+          "text": "因為上帝造人的時候，把情緒和道德本性放在他裡面。",
+          "sourceReference": "4MA 2:21"
+        },
+        {
+          "number": "22",
+          "text": "那時，祂藉著感官，把心智立為至高的神聖領袖。",
+          "sourceReference": "4MA 2:22"
+        },
+        {
+          "number": "23",
+          "text": "祂又把律法賜給這心智；人若照著它生活，心智就能維持節制、公義、良善而勇敢的治理。",
+          "sourceReference": "4MA 2:23"
+        },
+        {
+          "number": "24",
+          "text": "那麼，有人會說，理性既然是情慾的主宰，為何不能控制健忘和無知呢？",
+          "sourceReference": "4MA 2:24"
+        }
+      ],
+      "shortSection": "律法與自制"
+    },
+    {
+      "id": "3",
+      "label": "第 3 章",
+      "section": "",
+      "verses": [
+        {
+          "number": "1",
+          "text": "這個論證極其荒謬，因為理性顯然不是支配它自身的情態，而是支配身體的情慾；",
+          "sourceReference": "4MA 3:1"
+        },
+        {
+          "number": "2",
+          "text": "也就是說，你們中間任何人或許都不能根除慾望，但理性能使你們不受慾望奴役。",
+          "sourceReference": "4MA 3:2"
+        },
+        {
+          "number": "3",
+          "text": "人或許不能從心靈中根除憤怒，卻能夠抵抗憤怒。",
+          "sourceReference": "4MA 3:3"
+        },
+        {
+          "number": "4",
+          "text": "你們中間任何人或許都不能根除惡意，但理性有力量與你們合作，使你們不向惡意屈服。",
+          "sourceReference": "4MA 3:4"
+        },
+        {
+          "number": "5",
+          "text": "因為理性不是情慾的根除者，而是它的對抗者。",
+          "sourceReference": "4MA 3:5"
+        },
+        {
+          "number": "6",
+          "text": "從大衛王口渴的事，可以更清楚明白這一點。",
+          "sourceReference": "4MA 3:6"
+        },
+        {
+          "number": "7",
+          "text": "大衛攻打非利士人一整天，和本國的士兵殺了他們許多人；",
+          "sourceReference": "4MA 3:7"
+        },
+        {
+          "number": "8",
+          "text": "到了晚上，他汗流浹背，十分疲倦，回到王的帳幕。我們祖先的全軍都在帳幕周圍安營。",
+          "sourceReference": "4MA 3:8"
+        },
+        {
+          "number": "9",
+          "text": "其餘的人都在吃晚飯；",
+          "sourceReference": "4MA 3:9"
+        },
+        {
+          "number": "10",
+          "text": "王卻非常口渴，雖然有許多泉水，仍不能藉那些水解渴。",
+          "sourceReference": "4MA 3:10"
+        },
+        {
+          "number": "11",
+          "text": "他反而產生一種不合情理的渴望，想喝敵營裡的水；這渴望越來越強烈，使他心神不安，備受煎熬。",
+          "sourceReference": "4MA 3:11"
+        },
+        {
+          "number": "12",
+          "text": "他的侍衛因王的這種渴望而焦急。於是兩個英勇的年輕士兵，為滿足王的心願，全副武裝，帶著水瓶，越過敵人的壁壘。",
+          "sourceReference": "4MA 3:12"
+        },
+        {
+          "number": "13",
+          "text": "守門的人沒有發覺，他們走遍敵營，尋找那泉水。",
+          "sourceReference": "4MA 3:13"
+        },
+        {
+          "number": "14",
+          "text": "他們勇敢地找到泉源，從中取滿水，要給王喝。",
+          "sourceReference": "4MA 3:14"
+        },
+        {
+          "number": "15",
+          "text": "王雖然渴得難受，卻想到這水等同人命的血，喝下去會嚴重危害自己的靈魂。",
+          "sourceReference": "4MA 3:15"
+        },
+        {
+          "number": "16",
+          "text": "於是，他用理性抵抗慾望，把水倒出來獻給上帝。",
+          "sourceReference": "4MA 3:16"
+        },
+        {
+          "number": "17",
+          "text": "因為有節制的心思有力量戰勝情慾的壓迫，熄滅激動的火焰，",
+          "sourceReference": "4MA 3:17"
+        },
+        {
+          "number": "18",
+          "text": "制服身體的痛苦，不論痛苦多麼劇烈；又藉理性的卓越，藐視情慾的一切攻擊。",
+          "sourceReference": "4MA 3:18"
+        },
+        {
+          "number": "19",
+          "text": "現在，我們該從歷史中舉例，說明有節制的理性。",
+          "sourceReference": "4MA 3:19"
+        },
+        {
+          "number": "20",
+          "text": "從前，我們的祖先因遵守律法，享有安定的和平，生活興旺；甚至亞細亞王西流古尼迦諾也撥款供他們敬拜上帝，並認可他們的政體。",
+          "sourceReference": "4MA 3:20"
+        },
+        {
+          "number": "21",
+          "text": "那時，有些人引進違背公共和諧的新事物，就以種種方式陷入災禍。",
+          "sourceReference": "4MA 3:21"
+        }
+      ],
+      "shortSection": "理性勝過欲望"
+    }
+  ]
 }
