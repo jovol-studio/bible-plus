@@ -177,38 +177,38 @@
     {
       "book": "epistle-of-polycarp",
       "englishSections": 14,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 14,
+      "complete": true
     },
     {
       "book": "martyrdom-of-polycarp",
       "englishSections": 22,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 22,
+      "complete": true
     },
     {
       "book": "didache",
       "englishSections": 16,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 16,
+      "complete": true
     },
     {
       "book": "epistle-of-barnabas",
       "englishSections": 21,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 21,
+      "complete": true
     },
     {
       "book": "shepherd-of-hermas",
       "englishSections": 27,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 27,
+      "complete": true
     },
     {
       "book": "fragments-of-papias",
       "englishSections": 10,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 10,
+      "complete": true
     },
     {
       "book": "testament-of-abraham",
@@ -225,8 +225,8 @@
     {
       "book": "martyrdom-of-isaiah",
       "englishSections": 4,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 4,
+      "complete": true
     },
     {
       "book": "psalms-of-solomon",
@@ -237,14 +237,14 @@
     {
       "book": "sibylline-oracles-3",
       "englishSections": 1,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 1,
+      "complete": true
     },
     {
       "book": "gospel-of-thomas",
       "englishSections": 1,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 1,
+      "complete": true
     },
     {
       "book": "gospel-of-philip",
@@ -255,8 +255,8 @@
     {
       "book": "gospel-of-judas",
       "englishSections": 7,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 7,
+      "complete": true
     },
     {
       "book": "gospel-of-peter",
@@ -267,14 +267,14 @@
     {
       "book": "gospel-of-the-egyptians",
       "englishSections": 1,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 1,
+      "complete": true
     },
     {
       "book": "gospel-of-mary",
       "englishSections": 5,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 5,
+      "complete": true
     },
     {
       "book": "gospel-of-barnabas",

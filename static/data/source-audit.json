@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "policy": "Existing editions retained; sequential Traditional Chinese AI translation drafts authorized by user, with per-book provenance and review status.",
   "books": [
     {
@@ -218,9 +218,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 未經獨立學術審校；不是已出版中文譯本，也不是從古代原文直接翻譯。 依所收錄 Lightfoot 英文逐段翻譯，保留原章序、序文、段落定位及底本引文。段落號為 App 閱讀定位，不是古抄本節號。第 12 章第 2 段的英文方括號未閉合，中文保留標示並註明。"
     },
     {
       "book": "martyrdom-of-polycarp",
@@ -228,9 +228,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留 22 章、序文、段落定位、底本方括號異讀及末章不同傳抄題記；蘇格拉底／伊索克拉底等差異照英文保留，不另行統一。第 14 章禱文逐行對應英文。段落號為 App 閱讀定位，不是古抄本節號。"
     },
     {
       "book": "didache",
@@ -238,9 +238,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留 16 章及原段落定位，禱文逐行對應。第 1 章第 3 段、第 16 章第 1 段的重複語句照底本保留。第 13 章第 1 段 time prophet 疑為轉錄錯字，中文按上下文譯為真正的先知並明示；英文未更動。第 16 章第 5 段按底本 Curse Himself 譯作那受咒詛者自己。段落號為 App 閱讀定位，不是古抄本節號。"
     },
     {
       "book": "epistle-of-barnabas",
@@ -248,9 +248,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留底本的原章序、段落定位、引文、寓意解釋及異讀。段落號為 App 閱讀定位，不是古抄本節號。 第 9 章第 2 段的 ~y 為轉錄殘留，不當正文翻譯；第 10 章第 1 段 seine 按第 3 段 swine 的上下文譯為豬，中文已明示。底本對動物的古代描述、字母數值寓意及第 21 章第 7 段重複語句均保留，不另行改寫。"
     },
     {
       "book": "shepherd-of-hermas",
@@ -258,9 +258,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。按五個異象、十二誡命、十個比喻分為 27 個閱讀單元；並非通行的 114 章編排。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留底本的原章序、段落定位、引文、寓意解釋及異讀。段落號為 App 閱讀定位，不是古抄本節號。已完成 27/27 個閱讀章。 全書按五個異象、十二誡命、十個比喻編成 27 個閱讀單元，並非通行的 114 章編排。第 1 章第 8 段 present work 按上下文理解為今世，中文已註明。 第 3 章第 49、51 段德目次序依底本保留，沒有統一改排。第 3 章第 61 段、第 22 章第 21、35 段底本不成對的方括號保留並加註；第 4 章第 20 段 old 按前文 gold 譯作金子，中文已註明。 第 25 章第 21 段的未配對右括號保留並註明；第 26 章第 32 段轉錄的 Land rested] 按上下文讀作 [and rested]。"
     },
     {
       "book": "fragments-of-papias",
@@ -268,9 +268,9 @@
       "english": "bundled",
       "englishUrl": "https://www.newadvent.org/fathers/0125.htm",
       "englishNote": "採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。本作品以殘篇流傳，收錄來源現存全文並不表示原書完整。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.newadvent.org/fathers/0125.htm",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 按底本完整翻譯所收錄的十則殘篇（12 個閱讀段），不代表原著五卷全書已保存。保留轉述者的敘述、括號、引文和原有主張；經文引句按本底本翻譯，不替換為其他中文版。第 4 則開頭未配對括號及第 9 則不完整句子已註明。段號僅為 App 閱讀定位。"
     },
     {
       "book": "1-enoch",
@@ -368,9 +368,9 @@
       "english": "bundled",
       "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/martyrdom-of-isaiah.html",
       "englishNote": "只收錄歷史譯文，未匯入網站現代導言。底本為抽出的殉道記，僅含第 1、2、3、5 章，保留缺章及跳號；不是完整以賽亞升天記。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/martyrdom-of-isaiah.html",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 只收錄歷史譯文，未匯入網站現代導言。底本為抽出的殉道記，僅含第 1、2、3、5 章，保留缺章及跳號；不是完整以賽亞升天記。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 原文內嵌的 6b、7 等節號照錄為 6下、7 等；† 表示底本疑難讀文，‹ › 與方括號保留。第 2 章第 12 段開出的方括號在底本無閉合，未補正文。不同拼法的人名依底本保留。"
     },
     {
       "book": "2-baruch",
@@ -398,9 +398,9 @@
       "english": "bundled",
       "englishUrl": "https://elfinspell.com/SibyllineOraclesBk3.html",
       "englishNote": "完整卷三 986 行英語詩譯，App 以單章逐行閱讀；行號為 Terry 英譯行號，不是希臘原文行號。未含註釋。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://elfinspell.com/SibyllineOraclesBk3.html",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 完整卷三 986 行英語詩譯，App 以單章逐行閱讀；行號為 Terry 英譯行號，不是希臘原文行號。未含註釋。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 中文按 Terry 英譯 986 行逐行對應，跨行句子須連讀；並非依希臘原文重新分行。古代地名採音譯，保留詩中神話、預言及結尾敘事，不作歷史訂正。"
     },
     {
       "book": "war-scroll",
@@ -418,9 +418,9 @@
       "english": "bundled",
       "englishUrl": "https://www.gospels.net/thomas",
       "englishNote": "保留底本缺文記號及手稿頁碼。第 1 章收錄序言及 114 則語錄。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bryan1974.pixnet.net/blog/posts/1823997",
-      "chineseNote": "已找到現代中文轉載；版本及完整收錄權利尚待確認。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.gospels.net/thomas",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留底本缺文記號及手稿頁碼。第 1 章收錄序言及 114 則語錄。僅匯入譯文，不含書籍廣告。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 序言及 114 則語錄完整對應；／ ＼ 保留英譯 / \\ 的異讀標記，第 114 則沿用此底本的問句形式，未改用其他版本。"
     },
     {
       "book": "gospel-of-philip",
@@ -438,9 +438,9 @@
       "english": "bundled",
       "englishUrl": "https://www.gospels.net/judas",
       "englishNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://matters.town/a/zc3g0xro0ark/history",
-      "chineseNote": "已找到現代中文譯文合集線索；譯本及完整收錄權利尚待確認。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.gospels.net/judas",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 數字 33–58 為底本手稿頁碼，保留在對應文字位置；缺文不補，跨段的不完整引文及括號依底本保留。"
     },
     {
       "book": "gospel-of-peter",
@@ -458,9 +458,9 @@
       "english": "bundled",
       "englishUrl": "https://mail.earlychristianwritings.com/text/gospelegyptians.html",
       "englishNote": "本項明確採希臘文《埃及人福音》的教父引文殘篇及 James 說明，不是拿戈瑪第同名科普特《大不可見靈聖書》。原完整作品已佚；段號為閱讀定位，並非原章節。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://mail.earlychristianwritings.com/text/gospelegyptians.html",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 本項明確採希臘文《埃及人福音》的教父引文殘篇及 James 說明，不是拿戈瑪第同名科普特《大不可見靈聖書》。原完整作品已佚；段號為閱讀定位，並非原章節。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 中文包含所收錄的教父引文與 M. R. James 說明，兩者都按英文翻譯，不能視為古代福音原著完整正文；其中頁碼為歷史書籍頁碼。"
     },
     {
       "book": "gospel-of-mary",
@@ -468,9 +468,9 @@
       "english": "bundled",
       "englishUrl": "https://www.gospels.net/mary",
       "englishNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://matters.town/a/zc3g0xro0ark/history",
-      "chineseNote": "已找到現代中文譯文合集線索；譯本及完整收錄權利尚待確認。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.gospels.net/mary",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 數字 7–19 為手稿頁碼；第 1–6、11–14 頁缺失的提示保留，未補寫。／ ＼ 保留英譯的異讀標記。"
     },
     {
       "book": "gospel-of-barnabas",

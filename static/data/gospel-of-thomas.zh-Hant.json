@@ -6,11 +6,597 @@
   },
   "language": "zh-Hant",
   "source": {
-    "credit": "已找到現代中文轉載；版本及完整收錄權利尚待確認。",
-    "rightsNotice": "未收錄中文全文；來源譯文之權利仍屬原權利人。",
-    "editionNote": "本次沒有新增中文翻譯。",
-    "checked": "2026-10-27",
-    "url": "https://bryan1974.pixnet.net/blog/posts/1823997"
+    "url": "https://www.gospels.net/thomas",
+    "credit": "正體中文 AI 翻譯初稿，依 App 收錄的英文逐段翻譯。英文來源：Mark M. Mattison, The Gospel of Thomas; translation explicitly dedicated to the public domain by the translator.",
+    "rightsNotice": "譯者在來源頁明確將此英譯奉獻為公版，允許任何用途之複製及修改。 中文為本 App 新製作的 AI 翻譯初稿。",
+    "retrieved": "2026-10-27",
+    "editionNote": "保留底本缺文記號及手稿頁碼。第 1 章收錄序言及 114 則語錄。僅匯入譯文，不含書籍廣告。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 序言及 114 則語錄完整對應；／ ＼ 保留英譯 / \\ 的異讀標記，第 114 則沿用此底本的問句形式，未改用其他版本。",
+    "englishBaseSha256": "d550efcb29b46ac6be80403c70c6fa27e78186aec03e4024ba3c8aa93a2685a6",
+    "translationNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。",
+    "translated": "2026-10-29",
+    "translationProgress": "已完成 1/1 個閱讀單元。"
   },
-  "chapters": []
+  "chapters": [
+    {
+      "id": "1",
+      "label": "第 1 章",
+      "section": "耶穌語錄",
+      "verses": [
+        {
+          "number": "preface",
+          "text": "這些是永活的耶穌所說、由低土馬猶大多馬寫下的隱祕話語。"
+        },
+        {
+          "number": "1",
+          "text": "他說：「凡發現這些話語意義的人，必不嘗死亡。」",
+          "sourceHeading": "Saying 1: True Meaning"
+        },
+        {
+          "number": "2",
+          "text": "耶穌說：「尋找的人不應停止，直到尋見。尋見時，他們會不安；不安時，他們會〔……〕驚奇，並統治全體。」",
+          "sourceHeading": "Saying 2: Seek and Find"
+        },
+        {
+          "number": "3",
+          "text": "耶穌說：「你們的領袖若告訴你們：『看，國度在天上，』天上的鳥就會比你們先到。他們若說：『在海裡，』魚就會比你們先到。其實，國度在你們裡面，也在你們外面。你們認識自己時，就會被認識，也會明白自己是永活之父的兒女。但你們若不認識自己，就活在貧窮裡，而且你們就是那貧窮。」",
+          "sourceHeading": "Saying 3: Seeking Within"
+        },
+        {
+          "number": "4",
+          "text": "耶穌說：「年長的人不會遲疑向一個才七天大的孩子詢問生命的地方，他們就會活著；因為許多在先的將在後，並且成為一。」",
+          "sourceHeading": "Saying 4: First and Last"
+        },
+        {
+          "number": "5",
+          "text": "耶穌說：「要認識你眼前的事，向你隱藏的就必向你顯明；因為沒有隱藏的事不被顯明。」",
+          "sourceHeading": "Saying 5: Hidden and Revealed"
+        },
+        {
+          "number": "6",
+          "text": "門徒對他說：「你要我們禁食嗎？我們該怎樣禱告？該施捨嗎？該避開甚麼食物？」耶穌說：「不要說謊，不要做自己憎惡的事，因為一切都在天面前顯露；沒有隱藏的事不被顯明，也沒有掩蓋的事能一直保密。」",
+          "sourceHeading": "Saying 6: Public Ritual"
+        },
+        {
+          "number": "7",
+          "text": "耶穌說：「被人吃掉、然後成為人的獅子有福了；但被獅子吃掉、而獅子成為人的那個人，多麼可悲！」",
+          "sourceHeading": "Saying 7: The Lion and the Human"
+        },
+        {
+          "number": "8",
+          "text": "他說：「人好比聰明的漁夫，把網撒進海裡，拉上來時滿是小魚。聰明的漁夫在其中發現一條大而好的魚，便把所有小魚丟回海裡，毫不費力地選了大魚。有耳可聽的，就應當聽！」",
+          "sourceHeading": "Saying 8: The Parable of the Fish"
+        },
+        {
+          "number": "9",
+          "text": "耶穌說：「看，撒種的人出去，抓一把種子撒開。有些落在路旁，鳥來把它們收去；另一些落在岩石上，沒有在土裡扎根，也沒有長出向天的麥穗；又有些落在荊棘間，種子被擠住，又被蟲吃了；最後，有些落在好土裡，向天結出果實，有六十倍，有一百二十倍。」",
+          "sourceHeading": "Saying 9: The Parable of the Sower"
+        },
+        {
+          "number": "10",
+          "text": "耶穌說：「我把火投在世界上；看，我看守著它，直到它燃燒起來。」",
+          "sourceHeading": "Saying 10: Jesus and Fire (1)"
+        },
+        {
+          "number": "11",
+          "text": "耶穌說：「這天將消失，上面的那一層天也將消失。死的不是活的，活的也不會死。你們吃死物的日子，使它成了活的。當你們在光中，會怎樣做？當你們原是一的那日，卻變得分裂；當你們分裂時，會怎樣做？」",
+          "sourceHeading": "Saying 11: Those Who Are Living Won't Die (1)"
+        },
+        {
+          "number": "12",
+          "text": "門徒對耶穌說：「我們知道你將離開我們，那時誰帶領我們？」耶穌對他們說：「無論你們在哪裡，都要到義人雅各那裡；天地是為他而產生的。」",
+          "sourceHeading": "Saying 12: James the Just"
+        },
+        {
+          "number": "13",
+          "text": "耶穌對門徒說：「若把我比作某個人，你們會說我像誰？」西門彼得說：「你像公義的天使。」馬太說：「你像智慧的哲學家。」多馬說：「老師，我完全無法說你像誰。」耶穌說：「我不是你的老師。因你已喝了我量給你的湧泉，便陶醉了。」他帶多馬到一旁，告訴他三件事。多馬回到同伴那裡，他們問：「耶穌對你說甚麼？」多馬說：「若我告訴你們他對我說的其中一件事，你們就會拿石頭扔我；火將從石頭出來，燒盡你們。」",
+          "sourceHeading": "Saying 13: Thomas' Confession"
+        },
+        {
+          "number": "14",
+          "text": "耶穌對他們說：「你們若禁食，會使自己招罪；若禱告，會被定罪；若施捨，會傷害自己的靈。你們進入任何地方、走遍鄉間時，若有人接待，就醫治他們中間的病人，吃他們給你們的東西；因為進入口中的，不會玷污你們，從口中出來的，才會玷污你們。」",
+          "sourceHeading": "Saying 14: Public Ministry"
+        },
+        {
+          "number": "15",
+          "text": "耶穌說：「你們看見那不是由女子所生的，就面伏於地，敬拜那一位；那就是你們的父。」",
+          "sourceHeading": "Saying 15: Worship"
+        },
+        {
+          "number": "16",
+          "text": "耶穌說：「人也許以為我來是把和平投在世界上，不知道我來是把分裂投在地上：火、刀劍和戰爭。一家若有五人，就有三人對兩人，兩人對三人，父親對兒子，兒子對父親。他們將站起，成為一。」",
+          "sourceHeading": "Saying 16: Not Peace, but War"
+        },
+        {
+          "number": "17",
+          "text": "耶穌說：「我要給你們眼未曾見、耳未曾聽、手未曾摸、人心未曾想過的。」",
+          "sourceHeading": "Saying 17: Divine Gift"
+        },
+        {
+          "number": "18",
+          "text": "門徒對耶穌說：「請告訴我們，我們的終局怎樣來到？」耶穌說：「你們已發現起初，才去尋找終局嗎？因為終局就在起初所在之處。能站在起初的人有福了，他們會知道終局，也不嘗死亡。」",
+          "sourceHeading": "Saying 18: Beginning and End"
+        },
+        {
+          "number": "19",
+          "text": "耶穌說：「在成為存在以前已存在的人有福了。你們若作我的門徒，聽從我的信息，這些石頭就會作你們的僕人；因為樂園中有五棵樹，夏冬不變，葉子不落。認識它們的人，不嘗死亡。」",
+          "sourceHeading": "Saying 19: Five Trees in Paradise"
+        },
+        {
+          "number": "20",
+          "text": "門徒問耶穌：「請告訴我們，天國可比作甚麼？」他說：「可比作芥菜種。它雖是所有種子中最小的，落在耕過的土裡，卻長成大植株，足以庇護天上的鳥。」",
+          "sourceHeading": "Saying 20: The Parable of the Mustard Seed"
+        },
+        {
+          "number": "21",
+          "text": "馬利亞對耶穌說：「你的門徒像誰？」他說：「像住在不屬於自己田地裡的小孩子。田主來時會說：『把田還給我們。』他們便在田主面前脫光，讓田主收回，把田還給他們。所以我說，屋主若知道強盜要來，就會預先警醒，不讓強盜闖進自己所管的房子，偷走財物。因此，你們要提防世界！預備保護自己，免得強盜襲擊，因你們所預料的必來到。願你們中間有智慧的人！果實成熟時，收割者便手持鐮刀，迅速來收割。有耳可聽的，就應當聽！」",
+          "sourceHeading": "Saying 21: The Parables of the Field, the Bandits, and the Reaper"
+        },
+        {
+          "number": "22",
+          "text": "耶穌看見一些吃奶的幼兒，對門徒說：「這些吃奶的孩子，可比作進入國度的人。」他們說：「那我們要像小孩子一樣進入國度嗎？」耶穌說：「當你們使二成一，使內如外、外如內、上如下，使男與女成為一，使男不再是男、女不再是女；當你們以眼代眼、以手代手、以腳代腳、以形像代形像，那時你們就會進入〔國度〕。」",
+          "sourceHeading": "Saying 22: Making the Two into One"
+        },
+        {
+          "number": "23",
+          "text": "耶穌說：「我要揀選你們，千人中取一人，萬人中取兩人，他們將站立，成為單一。」",
+          "sourceHeading": "Saying 23: Those Who are Chosen (1)"
+        },
+        {
+          "number": "24",
+          "text": "門徒說：「請指給我們看你所在的地方，因我們需要尋找它。」他說：「有耳可聽的，就應當聽！光存在於光明之人裡面，他們照亮全世界；若不發光，就有黑暗。」",
+          "sourceHeading": "Saying 24: Light"
+        },
+        {
+          "number": "25",
+          "text": "耶穌說：「要愛你的弟兄，如同自己的靈魂；保護他，如同眼中的瞳仁。」",
+          "sourceHeading": "Saying 25: Love and Protect"
+        },
+        {
+          "number": "26",
+          "text": "耶穌說：「你看見弟兄眼中的木屑，卻看不見自己眼中的樑木。你除去自己眼中的樑木，才看得清楚，能取出弟兄眼中的木屑。」",
+          "sourceHeading": "Saying 26: Speck and Beam"
+        },
+        {
+          "number": "27",
+          "text": "「你們若不禁戒世界，就找不到國度；若不使安息日真正成為安息日，就看不見父。」",
+          "sourceHeading": "Saying 27: Fasting and Sabbath"
+        },
+        {
+          "number": "28",
+          "text": "耶穌說：「我站在世界中央，以肉身向他們顯現。我發現他們全醉了，沒發現一個口渴的。我的靈魂為人類的兒女痛苦，因他們心裡瞎了，不能看見。他們空空來到世界，也打算空空離開。如今他們醉著，等甩掉酒意，才會改變。」",
+          "sourceHeading": "Saying 28: The World is Drunk"
+        },
+        {
+          "number": "29",
+          "text": "耶穌說：「肉身若因靈而存在，是奇妙的；靈若因身體而存在，更是奇妙！但我驚奇的是，〔如此〕巨大的財富，怎被放進這貧窮之中。」",
+          "sourceHeading": "Saying 29: Spirit and Body"
+        },
+        {
+          "number": "30",
+          "text": "耶穌說：「哪裡有三位神祇，他們就是神聖的；哪裡有兩人或一人，我就與他們同在。」",
+          "sourceHeading": "Saying 30: Divine Presence"
+        },
+        {
+          "number": "31",
+          "text": "耶穌說：「先知在自己的村莊不受歡迎；醫生不醫治認識他的人。」",
+          "sourceHeading": "Saying 31: Prophet and Doctor"
+        },
+        {
+          "number": "32",
+          "text": "耶穌說：「建在高山上、設有防禦的城，不能傾倒，也不能隱藏。」",
+          "sourceHeading": "Saying 32: The Parable of the Fortified City"
+        },
+        {
+          "number": "33",
+          "text": "耶穌說：「你用一隻耳朵聽到的，要用雙耳聽，然後在屋頂宣告。沒有人點燈，卻放在籃子底下或隱密地方；人把燈放在燈臺上，讓所有進出的人看見光。」",
+          "sourceHeading": "Saying 33: The Parable of the Lamp"
+        },
+        {
+          "number": "34",
+          "text": "耶穌說：「瞎子若領瞎子，兩人都跌進坑裡。」",
+          "sourceHeading": "Saying 34: The Parable of Those Who Can't See"
+        },
+        {
+          "number": "35",
+          "text": "耶穌說：「人若不先捆住強者的手，就不能闖進他的房子，強行佔取；捆住以後，才能搶掠房子。」",
+          "sourceHeading": "Saying 35: The Parable of Binding the Strong"
+        },
+        {
+          "number": "36",
+          "text": "耶穌說：「不要從早到晚，或從晚到早，為穿甚麼而憂慮。」",
+          "sourceHeading": "Saying 36: Anxiety"
+        },
+        {
+          "number": "37",
+          "text": "門徒說：「你何時向我們顯現？我們何時看見你？」耶穌說：「當你們脫光卻不羞恥，像小孩子那樣，把衣服丟在地上踩踏，那時〔你們〕就會看見永活者之子，不再害怕。」",
+          "sourceHeading": "Saying 37: Seeing Jesus"
+        },
+        {
+          "number": "38",
+          "text": "耶穌說：「你們常想聽我如今告訴你們的信息，卻沒有別人能讓你們聽到。日子將到，你們會尋找我，卻找不到。」",
+          "sourceHeading": "Saying 38: Finding Jesus"
+        },
+        {
+          "number": "39",
+          "text": "耶穌說：「法利賽人和學者拿走知識的鑰匙，把它藏起來；自己不進去，也不讓想進去的人進去。所以，要像蛇一樣智慧，像鴿子一樣純真。」",
+          "sourceHeading": "Saying 39: The Keys of Knowledge"
+        },
+        {
+          "number": "40",
+          "text": "耶穌說：「有一株葡萄樹栽在父之外，因得不到養分，將被連根拔起、毀滅。」",
+          "sourceHeading": "Saying 40: A Grapevine"
+        },
+        {
+          "number": "41",
+          "text": "耶穌說：「手裡有的，還會得更多；甚麼也沒有的，連僅有的一點也會失去。」",
+          "sourceHeading": "Saying 41: More and Less"
+        },
+        {
+          "number": "42",
+          "text": "耶穌說：「要作過路的人。」",
+          "sourceHeading": "Saying 42: Passing By"
+        },
+        {
+          "number": "43",
+          "text": "門徒對他說：「你是誰，竟向我們說這些？」他說：「你們不從我對你們說的話認出我是誰，卻變得像那些猶太人，只愛樹而恨果子，或只愛果子而恨樹。」",
+          "sourceHeading": "Saying 43: The Tree and the Fruit"
+        },
+        {
+          "number": "44",
+          "text": "耶穌說：「褻瀆父的會得赦免，褻瀆子的會得赦免；但褻瀆聖靈的，無論地上天上，都不得赦免。」",
+          "sourceHeading": "Saying 44: Blasphemy"
+        },
+        {
+          "number": "45",
+          "text": "耶穌說：「不能從荊棘收葡萄，也不能從蒺藜採無花果，因它們不結這些果子。〔良善的人〕從自己的寶庫拿出善物；〔邪惡的〕人從邪惡寶庫拿出惡物。他們說惡言，因心裡滿是邪惡。」",
+          "sourceHeading": "Saying 45: Good and Evil"
+        },
+        {
+          "number": "46",
+          "text": "耶穌說：「從亞當到施洗約翰，沒有一個出生的人，比施洗約翰偉大到不必在他面前垂眼。但我說，你們中間凡成為小孩子的，必認識國度，變得比約翰更大。」",
+          "sourceHeading": "Saying 46: Greater than John the Baptizer"
+        },
+        {
+          "number": "47",
+          "text": "耶穌說：「沒有人能同時騎兩匹馬、拉兩張弓；僕人也不能跟隨兩個領袖，因他會尊敬一個、輕看另一個。沒有人喝了陳酒，立刻想喝新酒；新酒不裝進舊皮袋，免得皮袋脹裂；陳酒也不裝進新皮袋，免得酒壞了。不把新布補丁縫在舊衣上，免得扯破。」",
+          "sourceHeading": "Saying 47: The Parables of Divided Loyalties, New Wine in Old Wineskins, and New Patch on Old Cloth"
+        },
+        {
+          "number": "48",
+          "text": "耶穌說：「若兩人在同一屋裡彼此和好，他們對山說『移開』，山就會移開。」",
+          "sourceHeading": "Saying 48: Unity (1)"
+        },
+        {
+          "number": "49",
+          "text": "耶穌說：「那些成為一、蒙揀選的人有福了，因你們會找到國度；你們從那裡來，也將回到那裡。」",
+          "sourceHeading": "Saying 49: Those Who Are Chosen (2)"
+        },
+        {
+          "number": "50",
+          "text": "耶穌說：「他們若問『你們從哪裡來？』就說：『我們從光而來，就是光自行產生、〔建立〕自身、以他們的形像顯現的地方。』若問『是你們嗎？』就說：『我們是光的兒女，蒙永活的父揀選。』若問『你們裡面有父的甚麼記號？』就說：『是運動和安息。』」",
+          "sourceHeading": "Saying 50: Our Origin and Identity"
+        },
+        {
+          "number": "51",
+          "text": "門徒問：「死人何時得安息，新世界何時來到？」他說：「你們所尋找的已經來了，你們卻不知道。」",
+          "sourceHeading": "Saying 51: The New World"
+        },
+        {
+          "number": "52",
+          "text": "門徒說：「以色列有二十四位先知說過話，他們全都講論你。」他說：「你們忽略眼前的永活者，卻談論那些已死的人。」",
+          "sourceHeading": "Saying 52: Twenty-Four Prophets"
+        },
+        {
+          "number": "53",
+          "text": "門徒問：「割禮有用，還是沒有用？」他說：「若有用，父母生出的孩子就會天生受了割禮；但靈裡真正的割禮，在各方面都有益處。」",
+          "sourceHeading": "Saying 53: True Circumcision"
+        },
+        {
+          "number": "54",
+          "text": "耶穌說：「貧窮的人有福了，因天國是你們的。」",
+          "sourceHeading": "Saying 54: Those Who Are Poor"
+        },
+        {
+          "number": "55",
+          "text": "耶穌說：「不恨父母的，不能作我的門徒；不恨兄弟姊妹、不像我一樣背起自己十字架的，也不配屬我。」",
+          "sourceHeading": "Saying 55: Discipleship (1)"
+        },
+        {
+          "number": "56",
+          "text": "耶穌說：「認識世界的人，找到了一具屍體；找到屍體的人，世界不配得他。」",
+          "sourceHeading": "Saying 56: The World is a Corpse"
+        },
+        {
+          "number": "57",
+          "text": "耶穌說：「我父的國可比作一個有〔好〕種子的人。仇敵夜裡來，把雜草撒在好種子中。那人不讓人拔草，對他們說：『免得拔草時，把麥子也拔出來。收割那天，雜草就會顯明，然後拔出來焚燒。』」",
+          "sourceHeading": "Saying 57: The Parable of the Weeds"
+        },
+        {
+          "number": "58",
+          "text": "耶穌說：「受過許多苦的人有福了，他們已找到生命。」",
+          "sourceHeading": "Saying 58: Finding Life"
+        },
+        {
+          "number": "59",
+          "text": "耶穌說：「趁仍活著，要尋找永活者；若死了才想尋找，就不能找到。」",
+          "sourceHeading": "Saying 59: The Living One"
+        },
+        {
+          "number": "60",
+          "text": "他們看見一個撒瑪利亞人帶著羔羊往猶太去。他問門徒：「你們想，他要對羔羊做甚麼？」他們說：「殺了吃。」他說：「羊活著時，他不會吃；只有殺死、成了屍體，才會吃。」他們說：「他不能用別的方法。」他說：「你們也要尋找安息之所，免得成為屍體，被人吃掉。」",
+          "sourceHeading": "Saying 60: Don't Become a Corpse"
+        },
+        {
+          "number": "61",
+          "text": "耶穌說：「兩人躺在榻上，一人死，另一人活。」撒羅米說：「先生，你是誰，竟登上我的榻，吃我桌上的食物，彷彿來自某位？」耶穌說：「我是那在平等中存在的；屬我父的一部分已賜給我。」她說：「我是你的門徒。」他說：「所以我告訴你，人若是／平等的＼，就充滿光；若分裂，就充滿黑暗。」",
+          "sourceHeading": "Saying 61: Jesus and Salome"
+        },
+        {
+          "number": "62",
+          "text": "耶穌說：「我把奧祕告訴〔配得我〕奧祕的人。不要讓左手知道右手在做甚麼。」",
+          "sourceHeading": "Saying 62: Mysteries"
+        },
+        {
+          "number": "63",
+          "text": "耶穌說：「有個富人，錢財很多。他說：『我要用錢撒種、收割、栽植，讓果實裝滿倉房，便不再缺甚麼。』他心裡這樣想，卻在當夜死了。有耳可聽的，就應當聽！」",
+          "sourceHeading": "Saying 63: The Parable of the Rich Fool"
+        },
+        {
+          "number": "64",
+          "text": "耶穌說：「有人打算宴客，晚餐準備好，就差僕人召請客人。僕人到第一人那裡說：『主人請你。』那人說：『一些商人欠我錢，今晚要來，我得去吩咐他們。請容我不赴宴。』僕人到另一人那裡說：『主人請你。』那人說：『我剛買房子，今天必須去處理，沒時間。』僕人到另一人那裡說：『主人請你。』那人說：『朋友結婚，我要準備晚餐，不能去，請容我不赴宴。』僕人又到一人那裡說：『主人請你。』那人說：『我剛買農場，要去收租，不能來，請見諒。』僕人回去告訴主人：『你邀請的人都推辭了。』主人說：『到路上去，把遇見的人帶來吃飯。』買賣的人和商人，不會〔進入〕我父的地方。」",
+          "sourceHeading": "Saying 64: The Parable of the Dinner Party"
+        },
+        {
+          "number": "65",
+          "text": "他說：「有位〔債主〕擁有葡萄園，租給佃農耕作，好收取果實。他差僕人去，讓佃農交出園中果實；他們抓住僕人，毆打，幾乎殺死他。僕人回去報告，主人說：『也許只是他不認識他們。』又差另一僕人去，佃農也打了他。主人便差兒子去，想：『也許他們會尊重我兒子。』佃農知道他是葡萄園的繼承人，就抓住殺了他。有耳可聽的，就應當聽！」",
+          "sourceHeading": "Saying 65: The Parable of the Sharecroppers"
+        },
+        {
+          "number": "66",
+          "text": "耶穌說：「把建造者棄絕的石頭指給我看，那就是房角石。」",
+          "sourceHeading": "Saying 66: The Rejected Cornerstone"
+        },
+        {
+          "number": "67",
+          "text": "耶穌說：「知道一切，自己卻有所欠缺的人，就是欠缺一切。」",
+          "sourceHeading": "Saying 67: Knowing Isn't Everything"
+        },
+        {
+          "number": "68",
+          "text": "耶穌說：「你們受仇恨、被逼迫時有福了；你們受逼迫的地方，將不再被找到。」",
+          "sourceHeading": "Saying 68: Persecution"
+        },
+        {
+          "number": "69",
+          "text": "耶穌說：「在自己心裡受過逼迫的人有福了，他們真正認識父。飢餓的人有福了，他們的肚腹必得飽足。」",
+          "sourceHeading": "Saying 69: Those Who Are Persecuted"
+        },
+        {
+          "number": "70",
+          "text": "耶穌說：「你們若生出內在所有的，內在所有的就會救你們；若〔你們〕裡面沒有，那內在所缺的〔必〕殺死你們。」",
+          "sourceHeading": "Saying 70: Salvation is Within"
+        },
+        {
+          "number": "71",
+          "text": "耶穌說：「我要毀掉〔這〕房子，沒有人能再建造它〔……〕」",
+          "sourceHeading": "Saying 71: Destroying the Temple"
+        },
+        {
+          "number": "72",
+          "text": "〔有人對他說：〕「請吩咐我的兄弟與我分產業。」他說：「誰立我作分產業的人？」他轉向門徒說：「我真是分產業的人嗎？」",
+          "sourceHeading": "Saying 72: Not a Divider"
+        },
+        {
+          "number": "73",
+          "text": "耶穌說：「莊稼確實很多，工人卻少；所以要祈求主，差工人去收割。」",
+          "sourceHeading": "Saying 73: Workers for the Harvest"
+        },
+        {
+          "number": "74",
+          "text": "他說：「主啊，許多人圍在井旁，卻沒有水可喝。」",
+          "sourceHeading": "Saying 74: The Empty Well"
+        },
+        {
+          "number": "75",
+          "text": "耶穌說：「許多人在門口等候，但那些成為一的人，會進入洞房。」",
+          "sourceHeading": "Saying 75: The Bridal Chamber"
+        },
+        {
+          "number": "76",
+          "text": "耶穌說：「父的國可比作有貨物的商人，發現一顆珍珠。商人有智慧，賣掉貨物，為自己買下那唯一的珍珠。你們也要尋找不朽壞、長存的財寶，那裡沒有蛾來吃，也沒有蟲毀壞。」",
+          "sourceHeading": "Saying 76: The Parable of the Pearl"
+        },
+        {
+          "number": "77",
+          "text": "耶穌說：「我是超乎一切的光。我就是全體。全體從我而來，向我展開。劈開木頭，我在那裡；搬起石頭，你會在那裡找到我。」",
+          "sourceHeading": "Saying 77: Jesus is the All"
+        },
+        {
+          "number": "78",
+          "text": "耶穌說：「你們到曠野去看甚麼？被風吹動的蘆葦？穿華服的〔人〕，〔像你們的〕統治者和有權勢者？他們穿華麗〔衣服〕，卻不能認識真理。」",
+          "sourceHeading": "Saying 78: Into the Desert"
+        },
+        {
+          "number": "79",
+          "text": "人群中一個女子對他說：「懷你的胎和哺育你的乳房有福了。」他對〔她〕說：「聽了父的信息而遵守的人有福了，因日子將到，你們會說：『未曾受孕的胎、未曾哺乳的乳房有福了。』」",
+          "sourceHeading": "Saying 79: Listening to the Message"
+        },
+        {
+          "number": "80",
+          "text": "耶穌說：「認識世界的人，找到了身體；但找到身體的人，世界不配得他。」",
+          "sourceHeading": "Saying 80: The World is a Body"
+        },
+        {
+          "number": "81",
+          "text": "耶穌說：「富有的人應成為統治者；有權力的人應放下權力。」",
+          "sourceHeading": "Saying 81: Riches and Renunciation (1)"
+        },
+        {
+          "number": "82",
+          "text": "耶穌說：「靠近我的，就是靠近火；遠離我的，就是遠離國度。」",
+          "sourceHeading": "Saying 82: Jesus and Fire (2)"
+        },
+        {
+          "number": "83",
+          "text": "耶穌說：「形像向人顯露，其中的光卻隱藏在父之光的形像裡。祂將被顯明，祂的形像卻被祂的光隱藏。」",
+          "sourceHeading": "Saying 83: Light and Images"
+        },
+        {
+          "number": "84",
+          "text": "耶穌說：「看見自己的模樣時，你們歡喜；但看見那些在你們以前已存在、不死、又未顯露的形像時，你們要承受多少啊！」",
+          "sourceHeading": "Saying 84: Our Previous Images"
+        },
+        {
+          "number": "85",
+          "text": "耶穌說：「亞當從極大的能力和財富而生，卻沒有成為配得你們的。若他配得，〔就不會嘗〕死亡。」",
+          "sourceHeading": "Saying 85: Adam Wasn't Worthy"
+        },
+        {
+          "number": "86",
+          "text": "耶穌說：「〔狐狸有洞，〕鳥有巢，人子卻沒有枕頭安息的地方。」",
+          "sourceHeading": "Saying 86: Foxes and Birds"
+        },
+        {
+          "number": "87",
+          "text": "耶穌說：「依賴身體的身體，多麼可憐；依賴兩者的靈魂，也多麼可憐。」",
+          "sourceHeading": "Saying 87: Body and Soul"
+        },
+        {
+          "number": "88",
+          "text": "耶穌說：「天使和先知將來到你們這裡，把屬於你們的交給你們。你們把自己所有的給他們，又問自己：『他們何時來取走屬於他們的？』」",
+          "sourceHeading": "Saying 88: Angels and Prophets"
+        },
+        {
+          "number": "89",
+          "text": "耶穌說：「為甚麼洗杯子外面？你們不知道，造裡面的，也造了外面嗎？」",
+          "sourceHeading": "Saying 89: Inside and Outside"
+        },
+        {
+          "number": "90",
+          "text": "耶穌說：「到我這裡來，因我的軛容易，我的要求輕省，你們必得甦息。」",
+          "sourceHeading": "Saying 90: Jesus' Yoke is Easy"
+        },
+        {
+          "number": "91",
+          "text": "他們說：「告訴我們你是誰，好讓我們信靠你。」他說：「你們會辨讀天和地的面貌，卻不認識眼前這一位，也不會辨讀當下。」",
+          "sourceHeading": "Saying 91: Reading the Signs"
+        },
+        {
+          "number": "92",
+          "text": "耶穌說：「尋找，就會尋見。從前我沒有回答你們的問題；如今我想給你們答案，你們卻不尋找了。」",
+          "sourceHeading": "Saying 92: Look and Find"
+        },
+        {
+          "number": "93",
+          "text": "「不要把聖物給狗，免得被丟在糞堆；不要把珍珠丟給豬，免得牠們〔……〕」",
+          "sourceHeading": "Saying 93: Don't Throw Pearls to Pigs"
+        },
+        {
+          "number": "94",
+          "text": "耶穌〔說：〕「尋找的人會尋見，〔叩門的人，〕門會為他打開。」",
+          "sourceHeading": "Saying 94: Knock and It Will Be Opened"
+        },
+        {
+          "number": "95",
+          "text": "〔耶穌說：〕「若有錢，不要放債取利；反要給〔那〕不會還你的人。」",
+          "sourceHeading": "Saying 95: Giving Money"
+        },
+        {
+          "number": "96",
+          "text": "耶穌〔說：〕「父的國可比作一個女子，拿一點酵，〔藏〕在麵粉裡，做成大麵包。有耳可聽的，就應當聽！」",
+          "sourceHeading": "Saying 96: The Parable of the Yeast"
+        },
+        {
+          "number": "97",
+          "text": "耶穌說：「父的國可比作一個女子，帶著一罐麵粉，走在〔一條〕長路上。罐柄斷了，麵粉沿路灑在身後，她卻不知道；直到回家放下罐子，發現空了，才知道出了問題。」",
+          "sourceHeading": "Saying 97: The Parable of the Jar of Flour"
+        },
+        {
+          "number": "98",
+          "text": "耶穌說：「父的國可比作一個人，想殺死有權勢的人。他在家拔劍刺牆，試驗手勁是否足夠，然後殺了那有權勢的人。」",
+          "sourceHeading": "Saying 98: The Parable of the Assassin"
+        },
+        {
+          "number": "99",
+          "text": "門徒說：「你的兄弟和母親站在外面。」他說：「這裡遵行我父旨意的人，就是我的兄弟和母親；他們才會進入我父的國。」",
+          "sourceHeading": "Saying 99: Jesus' True Family"
+        },
+        {
+          "number": "100",
+          "text": "他們給耶穌看一枚金幣，說：「屬凱撒的人要我們納貢。」他說：「屬凱撒的給凱撒，屬上帝的給上帝，屬我的給我。」",
+          "sourceHeading": "Saying 100: Give to Caesar What Belongs to Caesar"
+        },
+        {
+          "number": "101",
+          "text": "「不如我一樣恨自己〔父親〕和母親的，不能作我的〔門徒〕；〔不〕如我一樣愛自己〔父親〕和母親的，也不能作我的〔門徒〕。因為我的母親〔……〕，但〔我〕真正的〔母親〕賜給我生命。」",
+          "sourceHeading": "Saying 101: Discipleship (2)"
+        },
+        {
+          "number": "102",
+          "text": "耶穌說：「法利賽人多麼可悲，像睡在牛食槽裡的狗；狗自己不吃，也〔不讓〕牛吃。」",
+          "sourceHeading": "Saying 102: The Dog in the Feeding Trough"
+        },
+        {
+          "number": "103",
+          "text": "耶穌說：「知道強盜將從哪裡進來的人有福了；〔他能〕起來部署防禦，在強盜到來前預備保護自己。」",
+          "sourceHeading": "Saying 103: The Parable of the Bandits"
+        },
+        {
+          "number": "104",
+          "text": "他們對〔耶穌〕說：「來，今天一起禱告禁食吧。」耶穌說：「我做錯了甚麼？我失敗了嗎？不，等新郎離開洞房，人們才應禁食禱告。」",
+          "sourceHeading": "Saying 104: Prayer and Fasting"
+        },
+        {
+          "number": "105",
+          "text": "耶穌說：「認識自己父母的人，會被稱為私生子。」",
+          "sourceHeading": "Saying 105: Knowing Father and Mother"
+        },
+        {
+          "number": "106",
+          "text": "耶穌說：「當你們使二成一，就會成為人類之子；若說『山啊，移開！』山就會移開。」",
+          "sourceHeading": "Saying 106: Unity (2)"
+        },
+        {
+          "number": "107",
+          "text": "耶穌說：「國度可比作有一百隻羊的牧人。最大的一隻走失了，他留下九十九隻，尋找那隻，直到找著。經過這番勞苦，他對羊說：『我愛你，勝過那九十九隻。』」",
+          "sourceHeading": "Saying 107: The Parable of the Lost Sheep"
+        },
+        {
+          "number": "108",
+          "text": "耶穌說：「從我口中喝的人，會成為像我一樣，我自己也會像他們；那時，隱藏的必向他們顯明。」",
+          "sourceHeading": "Saying 108: Becoming Like Jesus"
+        },
+        {
+          "number": "109",
+          "text": "耶穌說：「國度可比作一個人，田裡〔藏〕有寶藏，〔他〕卻不知道。死後，他把田留給兒子；兒子也不知道，接過田就賣了。買主耕田，〔發現〕寶藏，便開始隨意借錢給人，收取利息。」",
+          "sourceHeading": "Saying 109: The Parable of the Hidden Treasure"
+        },
+        {
+          "number": "110",
+          "text": "耶穌說：「找到世界而富有的人，應捨棄世界。」",
+          "sourceHeading": "Saying 110: Riches and Renunciation (2)"
+        },
+        {
+          "number": "111",
+          "text": "耶穌說：「天地將在你們面前捲起，從永活者得生命的人，不會看見死亡。」耶穌不是說過：「找到自己的人，世界不配得他」嗎？",
+          "sourceHeading": "Saying 111: Those Who are Living Won't Die (2)"
+        },
+        {
+          "number": "112",
+          "text": "耶穌說：「依賴靈魂的肉身，多麼可悲；依賴肉身的靈魂，多麼可悲。」",
+          "sourceHeading": "Saying 112: Flesh and Soul"
+        },
+        {
+          "number": "113",
+          "text": "門徒問：「國度何時來到？」「它不會藉著察看而來。人不會說『看這裡！』或『看那裡！』其實，父的國已遍布地上，人卻看不見。」",
+          "sourceHeading": "Saying 113: The Kingdom is Already Present"
+        },
+        {
+          "number": "114",
+          "text": "西門彼得對他們說：「馬利亞應離開我們，因女人不配得生命。」耶穌說：「看，我要使她成為男人嗎？為使她也成為活的靈，她與你們男人平等；因每個使自己成為男性樣式的女人，都會進入天國。」《多馬福音》",
+          "sourceHeading": "Saying 114: Peter and Mary"
+        }
+      ]
+    }
+  ]
 }
