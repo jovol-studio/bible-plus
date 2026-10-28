@@ -165,14 +165,14 @@
     {
       "book": "2-clement",
       "englishSections": 20,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 20,
+      "complete": true
     },
     {
       "book": "letters-of-ignatius",
       "englishSections": 91,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 91,
+      "complete": true
     },
     {
       "book": "epistle-of-polycarp",

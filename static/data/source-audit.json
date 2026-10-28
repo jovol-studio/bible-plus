@@ -198,9 +198,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 未經獨立學術審校；不是已出版中文譯本，也不是從古代原文直接翻譯。 依所收錄 Lightfoot 英文逐段翻譯，保留原章序、段落定位及底本異讀。段落號為 App 閱讀定位，不是古抄本節號。 第 13 章第 4 段的英文轉錄句意不完整，中文明示而不擅補；第 11 章第 7 段的重複語句保留。第 14 章第 4 段及第 16 章第 4 段的 HTML 殘留標記不當作正文翻譯。"
     },
     {
       "book": "letters-of-ignatius",
@@ -208,9 +208,9 @@
       "english": "bundled",
       "englishUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
       "englishNote": "保留所列 Lightfoot 底本的完整正文及原章序；段落號為 App 閱讀定位，不是古抄本節號。序文置於第 1 章之前，異讀照底本保留。七封書信按底本次序合併為連續閱讀章號，並記錄各信原章號。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://bible.fhl.net/AF/readaf.html",
-      "chineseNote": "黃錫木主編《使徒教父著作》，信望愛線上閱讀；僅提供來源連結，未收錄全文。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://ccel.org/ccel/l/lightfoot/fathers/cache/fathers.txt",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled J. B. Lightfoot English. 未經獨立學術審校；不是已出版中文譯本，也不是從古代原文直接翻譯。 七封書信按 Lightfoot 底本次序編為 91 個閱讀章，保留各信原章號、序文、段落定位及底本異讀。段落號為 App 閱讀定位，不是古抄本節號。七封書信、91 個閱讀章及序文已全部完成中文初稿。閱讀章 30 第 2 段英文轉錄語句有缺誤，中文明示而不自行補寫。 閱讀章 73 第 2 段的英文方括號未閉合，中文保留標示並註明。"
     },
     {
       "book": "epistle-of-polycarp",
