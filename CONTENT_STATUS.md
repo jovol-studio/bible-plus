@@ -1,6 +1,6 @@
 # 來源及缺文盤點（2026-10-29）
 
-49 部擴充書卷有英文；45 部中文已齊（6 部現成舊譯、39 部 AI 初稿）。4 部尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
+49 部擴充書卷有英文；47 部中文已齊（6 部現成舊譯、41 部 AI 初稿）。《巴拿巴福音》中文部分完成（序言及第 1–25 章／共 222 章）；《水徒行紀》尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
 
 「有英文」指下列指定底本的內容；殘篇、缺頁及來源原有空節保留原狀，不代表古代作品全部存世。章／段號和特殊編排見各卷 Info。
 
@@ -48,12 +48,12 @@
 | 西卜神諭篇卷三     | [已收錄](https://elfinspell.com/SibyllineOraclesBk3.html)                                                                                      | AI 翻譯初稿（依現存英文底本補齊，待審校） |
 | 戰卷               | [已收錄使用者提供檔案](https://www.qumran.org/js/qumran/hss/1qm)                      | AI 初稿已完成（19 欄／362 行，保留缺文）                                                                                                                                                              |
 | 多馬福音           | [已收錄](https://www.gospels.net/thomas)                                                                                                       | AI 翻譯初稿（依現存英文底本補齊，待審校） |
-| 腓力福音           | [已收錄](https://www.gospels.net/philip)                                                                                                       | 未收錄 · [來源](https://lib.exchristian.hk/philip.html)                                                                                                             |
+| 腓力福音           | [已收錄](https://www.gospels.net/philip)                                                                                                       | AI 初稿已完成（18 單元／103 段） |
 | 猶大福音           | [已收錄](https://www.gospels.net/judas)                                                                                                        | AI 翻譯初稿（依現存英文底本補齊，待審校） |
-| 彼得福音           | [已收錄](https://www.newadvent.org/fathers/1001.htm)                                                                                           | 未收錄 · [來源](https://lib.exchristian.hk/peter.html)                                                                                                              |
+| 彼得福音           | [已收錄](https://www.newadvent.org/fathers/1001.htm)                                                                                           | AI 初稿已完成（現存殘篇 14 單元） |
 | 埃及人福音         | [已收錄](https://mail.earlychristianwritings.com/text/gospelegyptians.html)                                                                    | AI 翻譯初稿（依現存英文底本補齊，待審校） |
 | 抹大拉的馬利亞福音 | [已收錄](https://www.gospels.net/mary)                                                                                                         | AI 翻譯初稿（依現存英文底本補齊，待審校） |
-| 巴拿巴福音         | [已收錄](https://media.zoraweb.com/gospel-barnabas)                                                                                            | 未收錄 · [來源](https://meimentang.com/wp-content/uploads/2021/09/25%E6%96%B0%E7%BA%A6%E4%BC%AA%E7%BB%8F%EF%BC%9A%E5%B7%B4%E6%8B%BF%E5%B7%B4%E7%A6%8F%E9%9F%B3.pdf) |
+| 巴拿巴福音         | [已收錄](https://media.zoraweb.com/gospel-barnabas)                                                                                            | AI 初稿部分完成（序言及第 1–25 章／222 章） |
 | 水徒行紀           | [已收錄](https://www.gutenberg.org/ebooks/44073)                                                                                               | 未收錄                                                                                                                                                              |
 
 ## 版本限制

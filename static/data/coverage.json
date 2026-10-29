@@ -249,8 +249,8 @@
     {
       "book": "gospel-of-philip",
       "englishSections": 18,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 18,
+      "complete": true
     },
     {
       "book": "gospel-of-judas",
@@ -261,8 +261,8 @@
     {
       "book": "gospel-of-peter",
       "englishSections": 14,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 14,
+      "complete": true
     },
     {
       "book": "gospel-of-the-egyptians",
@@ -279,7 +279,7 @@
     {
       "book": "gospel-of-barnabas",
       "englishSections": 222,
-      "chineseSections": 0,
+      "chineseSections": 25,
       "complete": false
     },
     {

@@ -428,9 +428,9 @@
       "english": "bundled",
       "englishUrl": "https://www.gospels.net/philip",
       "englishNote": "保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://lib.exchristian.hk/philip.html",
-      "chineseNote": "已找到現代中文線上文本；僅提供來源連結。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.gospels.net/philip",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 保留底本缺文記號及手稿頁碼。按來源主題分段列為閱讀單元；App 章／段號不是古抄本章節號。僅匯入譯文，不含書籍廣告。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 已完成 18 個閱讀單元、103 段。保留手稿頁碼 51–86、缺文、補入文字及譯者校訂符號（／＼）；洞房等特殊用語依所收錄英文翻譯。"
     },
     {
       "book": "gospel-of-judas",
@@ -448,9 +448,9 @@
       "english": "bundled",
       "englishUrl": "https://www.newadvent.org/fathers/1001.htm",
       "englishNote": "採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。本作品以殘篇流傳，收錄來源現存全文並不表示原書完整。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://lib.exchristian.hk/peter.html",
-      "chineseNote": "已找到現代中文線上文本；僅提供來源連結。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.newadvent.org/fathers/1001.htm",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。本作品以殘篇流傳，收錄來源現存全文並不表示原書完整。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 已完成所收錄的 14 個閱讀單元。保留底本補字與殘缺結尾；譯完現存殘篇不表示原書完整。"
     },
     {
       "book": "gospel-of-the-egyptians",
@@ -478,9 +478,9 @@
       "english": "bundled",
       "englishUrl": "https://media.zoraweb.com/gospel-barnabas",
       "englishNote": "收錄序言及 222 章；段號為閱讀定位。這是《巴拿巴福音》，不是《巴拿巴書信》。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://meimentang.com/wp-content/uploads/2021/09/25%E6%96%B0%E7%BA%A6%E4%BC%AA%E7%BB%8F%EF%BC%9A%E5%B7%B4%E6%8B%BF%E5%B7%B4%E7%A6%8F%E9%9F%B3.pdf",
-      "chineseNote": "已找到中文 PDF；譯者及完整收錄權利尚待確認。"
+      "chinese": "AI translation draft (partial)",
+      "chineseUrl": "https://media.zoraweb.com/gospel-barnabas",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是原語文直譯。 收錄序言及 222 章；段號為閱讀定位。這是《巴拿巴福音》，不是《巴拿巴書信》。 已完成序言及 25/222 章；其餘中文尚待翻譯。 保留底本敘述、序言目錄及章段定位，不以其他福音書改寫。 序言原列第 28–222 章僅有編號，照錄不補題；第 23 章英文轉錄的第一人稱跳轉按底本保留。"
     },
     {
       "book": "shuitu-xingji",
