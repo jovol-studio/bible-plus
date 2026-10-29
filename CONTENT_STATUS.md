@@ -1,6 +1,6 @@
 # 來源及缺文盤點（2026-10-29）
 
-49 部擴充書卷有英文；41 部中文已齊（6 部現成舊譯、35 部 AI 初稿）。8 部尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
+49 部擴充書卷有英文；43 部中文已齊（6 部現成舊譯、37 部 AI 初稿）。6 部尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
 
 「有英文」指下列指定底本的內容；殘篇、缺頁及來源原有空節保留原狀，不代表古代作品全部存世。章／段號和特殊編排見各卷 Info。
 
@@ -38,10 +38,10 @@
 | 以諾三書           | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/3-enoch.html)                                                           | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/3-enoch.html)                                                                   |
 | 禧年書             | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/jubilees.html)                                                          | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/jubilees.html)                                                                  |
 | 亞當和夏娃生平     | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/life-of-adam-and-eve.html)                                              | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/life-of-adam-and-eve.html)                                                      |
-| 亞伯拉罕遺訓       | [已收錄](https://www.newadvent.org/fathers/1007.htm)                                                                                           | 未收錄                                                                                                                                                              |
+| 亞伯拉罕遺訓       | [已收錄](https://www.newadvent.org/fathers/1007.htm)                                                                                           | AI 初稿已完成（長本及短本共 35 個閱讀單元）                                                                                                                                                              |
 | 亞伯拉罕啟示錄     | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/apocalypse-of-abraham.html)                                             | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/apocalypse-of-abraham.html)                                                     |
 | 十二族長遺訓       | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/testaments-of-the-twelve-patriarchs.html)                               | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/testaments-of-the-twelve-patriarchs.html)                                       |
-| 摩西遺訓           | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/assumption-of-moses.html)                                               | 未收錄                                                                                                                                                              |
+| 摩西遺訓           | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/assumption-of-moses.html)                                               | AI 初稿已完成（12 章／134 段，保留缺文）                                                                                                                                                              |
 | 以賽亞殉道記       | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/martyrdom-of-isaiah.html)                                               | AI 翻譯初稿（依現存英文底本補齊，待審校） |
 | 巴錄二書           | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/2-baruch.html)                                                          | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/2-baruch.html)                                                                  |
 | 所羅門詩篇         | [已收錄](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/) | 未收錄                                                                                                                                                              |

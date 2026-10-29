@@ -328,9 +328,9 @@
       "english": "bundled",
       "englishUrl": "https://www.newadvent.org/fathers/1007.htm",
       "englishNote": "採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。包括長本 20 章及短本；此底本短本有重複第 8 章及第 12 章移位，共 15 段，照原來源次序保留，App 共 35 個連續閱讀單元。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.newadvent.org/fathers/1007.htm",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 採用所列 Ante-Nicene Fathers 歷史英譯，閱讀段號為 App 定位，非原經節號。包括長本 20 章及短本；此底本短本有重複第 8 章及第 12 章移位，共 15 段，照原來源次序保留，App 共 35 個連續閱讀單元。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 已完成長本 20 章與短本 15 個閱讀單元，共 35 單元。短本第 3 章英文缺詞以中文編者註標示，短本第 13 章末尾省略號照底本保留；不補寫缺文。"
     },
     {
       "book": "apocalypse-of-abraham",
@@ -358,9 +358,9 @@
       "english": "bundled",
       "englishUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/assumption-of-moses.html",
       "englishNote": "只收錄歷史譯文，未匯入網站現代導言。保留底本殘缺及原章節號；現存抄本結尾殘缺。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.studylight.org/historical-writings/pseudepigrapha/assumption-of-moses.html",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 只收錄歷史譯文，未匯入網站現代導言。保留底本殘缺及原章節號；現存抄本結尾殘缺。 中文保留底本缺文、異讀標記及閱讀定位，未以其他版本補寫。 已完成現存英文 12 章、134 個編號段落的中文初稿。保留 †、‹› 等校勘標記、方括號內容及省略號；第 7 章缺文及第 12 章殘缺結尾未補寫。第 10 章 CCL 譯為二百五十，未將底本的時期或年代改寫成其他版本的數字。"
     },
     {
       "book": "martyrdom-of-isaiah",

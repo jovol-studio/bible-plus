@@ -213,14 +213,14 @@
     {
       "book": "testament-of-abraham",
       "englishSections": 35,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 35,
+      "complete": true
     },
     {
       "book": "testament-of-moses",
       "englishSections": 12,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 12,
+      "complete": true
     },
     {
       "book": "martyrdom-of-isaiah",
