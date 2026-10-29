@@ -279,8 +279,8 @@
     {
       "book": "gospel-of-barnabas",
       "englishSections": 222,
-      "chineseSections": 156,
-      "complete": false
+      "chineseSections": 222,
+      "complete": true
     },
     {
       "book": "shuitu-xingji",

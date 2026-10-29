@@ -1,6 +1,6 @@
 # 來源及缺文盤點（2026-10-29）
 
-49 部擴充書卷有英文；47 部中文已齊（6 部現成舊譯、41 部 AI 初稿）。《巴拿巴福音》中文部分完成（序言及第 1–35 章／共 222 章）；《水徒行紀》尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
+49 部擴充書卷有英文；48 部中文已齊（6 部現成舊譯、42 部 AI 初稿）。《巴拿巴福音》中文初稿已完成（序言及全部 222 章／669 個編號段落）；《水徒行紀》尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
 
 「有英文」指下列指定底本的內容；殘篇、缺頁及來源原有空節保留原狀，不代表古代作品全部存世。章／段號和特殊編排見各卷 Info。
 
@@ -53,7 +53,7 @@
 | 彼得福音           | [已收錄](https://www.newadvent.org/fathers/1001.htm)                                                                                           | AI 初稿已完成（現存殘篇 14 單元） |
 | 埃及人福音         | [已收錄](https://mail.earlychristianwritings.com/text/gospelegyptians.html)                                                                    | AI 翻譯初稿（依現存英文底本補齊，待審校） |
 | 抹大拉的馬利亞福音 | [已收錄](https://www.gospels.net/mary)                                                                                                         | AI 翻譯初稿（依現存英文底本補齊，待審校） |
-| 巴拿巴福音         | [已收錄](https://media.zoraweb.com/gospel-barnabas)                                                                                            | AI 初稿部分完成（序言及第 1–156 章／222 章） |
+| 巴拿巴福音         | [已收錄](https://media.zoraweb.com/gospel-barnabas)                                                                                            | AI 初稿完成（序言及全部 222 章／669 個編號段落） |
 | 水徒行紀           | [已收錄](https://www.gutenberg.org/ebooks/44073)                                                                                               | 未收錄                                                                                                                                                              |
 
 ## 版本限制
