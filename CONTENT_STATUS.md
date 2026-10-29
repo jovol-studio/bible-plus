@@ -1,6 +1,6 @@
 # 來源及缺文盤點（2026-10-29）
 
-49 部擴充書卷有英文；43 部中文已齊（6 部現成舊譯、37 部 AI 初稿）。6 部尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
+49 部擴充書卷有英文；45 部中文已齊（6 部現成舊譯、39 部 AI 初稿）。4 部尚無中文正文。逐卷翻譯進度見 TRANSLATION_PROGRESS.md。
 
 「有英文」指下列指定底本的內容；殘篇、缺頁及來源原有空節保留原狀，不代表古代作品全部存世。章／段號和特殊編排見各卷 Info。
 
@@ -44,9 +44,9 @@
 | 摩西遺訓           | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/assumption-of-moses.html)                                               | AI 初稿已完成（12 章／134 段，保留缺文）                                                                                                                                                              |
 | 以賽亞殉道記       | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/martyrdom-of-isaiah.html)                                               | AI 翻譯初稿（依現存英文底本補齊，待審校） |
 | 巴錄二書           | [已收錄](https://www.studylight.org/historical-writings/pseudepigrapha/2-baruch.html)                                                          | 既有 AI 初稿 · [來源](https://www.studylight.org/historical-writings/pseudepigrapha/2-baruch.html)                                                                  |
-| 所羅門詩篇         | [已收錄](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/) | 未收錄                                                                                                                                                              |
+| 所羅門詩篇         | [已收錄](https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/) | AI 初稿已完成（18 篇／605 段）                                                                                                                                                              |
 | 西卜神諭篇卷三     | [已收錄](https://elfinspell.com/SibyllineOraclesBk3.html)                                                                                      | AI 翻譯初稿（依現存英文底本補齊，待審校） |
-| 戰卷               | [已收錄使用者提供檔案](https://www.qumran.org/js/qumran/hss/1qm)                      | 未收錄                                                                                                                                                              |
+| 戰卷               | [已收錄使用者提供檔案](https://www.qumran.org/js/qumran/hss/1qm)                      | AI 初稿已完成（19 欄／362 行，保留缺文）                                                                                                                                                              |
 | 多馬福音           | [已收錄](https://www.gospels.net/thomas)                                                                                                       | AI 翻譯初稿（依現存英文底本補齊，待審校） |
 | 腓力福音           | [已收錄](https://www.gospels.net/philip)                                                                                                       | 未收錄 · [來源](https://lib.exchristian.hk/philip.html)                                                                                                             |
 | 猶大福音           | [已收錄](https://www.gospels.net/judas)                                                                                                        | AI 翻譯初稿（依現存英文底本補齊，待審校） |
@@ -63,7 +63,7 @@
 - 《埃及人福音》：希臘文作品現存引文殘篇及 James 歷史說明，不與科普特同名作品混用。
 - 《亞伯拉罕遺訓》：長、短兩個版本均保留；短本來源有重複／移位章號，App 採連續閱讀單元。
 - 《黑馬牧人書》：五個異象、十二誡命、十個比喻，共 27 閱讀單元。
-- 《西卜神諭篇卷三》：Terry 英譯 986 行；《所羅門詩篇》採來源段落定位，保留來源節號及誤植，未自行補譯。
+- 《西卜神諭篇卷三》：Terry 英譯 986 行；《所羅門詩篇》採來源段落定位，保留來源節號及誤植，中文初稿不補寫缺文。
 - 《三童歌》：中文 68 節與英文 67 節按內容對照；全部中文字句及原節號均保留。
 - 其餘未收錄中文：已找到的現代譯文只記錄連結；未找到核實來源的保留缺文提示。
 

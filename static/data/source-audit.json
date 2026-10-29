@@ -388,9 +388,9 @@
       "english": "bundled",
       "englishUrl": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/",
       "englishNote": "以來源段落提供閱讀定位，並非聖經節號；原文中的節號、括號及來源誤植均保留，未自行校訂。使用條件及署名照錄。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "本次未找到已核實可收錄的完整中文來源；保留缺文提示，不另作翻譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-psalms-of-solomon/",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是古代原文直譯。 以來源段落提供閱讀定位，並非聖經節號；原文中的節號、括號及來源誤植均保留，未自行校訂。使用條件及署名照錄。 中文保留來源節號、空括號及缺文省略號，不補寫佚失內容；英文括號中的補充詞譯入句中。 已完成 18 篇、605 個編號段落。保留來源重複、跳號及不完整節號；第 17 篇方括號內容照譯，第 18 篇不配對括號照錄。中文標點作閱讀排版，原英文未改動。"
     },
     {
       "book": "sibylline-oracles-3",
@@ -408,9 +408,9 @@
       "english": "bundled",
       "englishUrl": "https://www.qumran.org/js/qumran/hss/1qm",
       "englishNote": "收錄所提供 HTML 中的 1QM 第 1–19 欄及原行號。App 的章／節控制對應欄／行，並非原作章節。保留缺文 […]、補入文字 [文字]、不確定讀法及來源拼寫；跳號不補造。兩處來源行號誤植僅修正閱讀定位：第 5 欄第 11 行後所印 17 改定位為 12；第 14 欄第 7 行後所印 9 改定位為 8，原印號保留於 sourceNumber／sourceReference。只正規化 HTML 排版空白，不補譯或新增中文。先前線上頁尾稱譯文可能出自 Wise、Abegg、Cook，所提供檔案未附完整譯者來源，故未確證版本。",
-      "chinese": "not bundled",
-      "chineseUrl": "",
-      "chineseNote": "未提供中文文本；依使用者指示不另譯。"
+      "chinese": "AI translation draft",
+      "chineseUrl": "https://www.qumran.org/js/qumran/hss/1qm",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是希伯來文原卷直譯。 收錄所提供 HTML 中的 1QM 第 1–19 欄及原行號。App 的章／節控制對應欄／行，並非原作章節。保留缺文 […]、補入文字 [文字]、不確定讀法及來源拼寫；跳號不補造。兩處來源行號誤植僅修正閱讀定位：第 5 欄第 11 行後所印 17 改定位為 12；第 14 欄第 7 行後所印 9 改定位為 8，原印號保留於 sourceNumber／sourceReference。英文僅正規化 HTML 排版空白。先前線上頁尾稱譯文可能出自 Wise、Abegg、Cook，所提供檔案未附完整譯者來源，故未確證版本。 中文保留缺文與補入文字標記；方括號範圍按中文語序對應，跨行文字須連讀，純缺文行加註「底本缺文」，不補寫佚失內容。 已完成 19/19 欄。 共 362 個編號行，包含原卷純缺文行；第 9 欄重複的 Raphael 名字和各欄特殊數字照底本保留。"
     },
     {
       "book": "gospel-of-thomas",

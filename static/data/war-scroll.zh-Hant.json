@@ -6,9 +6,2020 @@
   },
   "language": "zh-Hant",
   "source": {
-    "credit": "未提供中文文本。",
-    "rightsNotice": "未收錄中文譯文。",
-    "editionNote": "依使用者指示不另作翻譯，保留缺文提示。"
+    "url": "https://www.qumran.org/js/qumran/hss/1qm",
+    "credit": "正體中文 AI 翻譯初稿，依 App 收錄的英文逐行翻譯。英文來源：使用者提供的 War Scroll (1QM).html；檔案標示儲存自 Qumran.org，網頁作者 Andreas Itzchak Rehberg。",
+    "rightsNotice": "由使用者提供檔案進行格式整理；不宣稱譯文為公版或取得再散布授權。英文譯文權利仍歸原權利人，並不因 App 的 AGPL 授權而改變。",
+    "editionNote": "收錄所提供 HTML 中的 1QM 第 1–19 欄及原行號。App 的章／節控制對應欄／行，並非原作章節。保留缺文 […]、補入文字 [文字]、不確定讀法及來源拼寫；跳號不補造。兩處來源行號誤植僅修正閱讀定位：第 5 欄第 11 行後所印 17 改定位為 12；第 14 欄第 7 行後所印 9 改定位為 8，原印號保留於 sourceNumber／sourceReference。英文僅正規化 HTML 排版空白。先前線上頁尾稱譯文可能出自 Wise、Abegg、Cook，所提供檔案未附完整譯者來源，故未確證版本。 中文保留缺文與補入文字標記；方括號範圍按中文語序對應，跨行文字須連讀，純缺文行加註「底本缺文」，不補寫佚失內容。 已完成 19/19 欄。 共 362 個編號行，包含原卷純缺文行；第 9 欄重複的 Raphael 名字和各欄特殊數字照底本保留。",
+    "providedFile": "War Scroll (1QM).html",
+    "imported": "2026-10-27",
+    "navigationNote": "章節簡題為 Bible+ 編輯所加的中文導覽摘要，不是原文標題或新增經文翻譯。",
+    "englishBaseSha256": "ef7b248ca44d72324d1ef5fe3fcc78606c484e94d831bf0796a541575f780946",
+    "translationNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是希伯來文原卷直譯。",
+    "translated": "2026-10-29",
+    "translationProgress": "已完成 19/19 欄。"
   },
-  "chapters": []
+  "chapters": [
+    {
+      "id": "1",
+      "label": "Chapter 1",
+      "section": "",
+      "sourceReference": "1QM column 1",
+      "verses": [
+        {
+          "number": "1",
+          "text": "給訓[導者，戰爭的規則。]光明之子的首次進攻，要針對黑暗之子的軍隊，就是彼列的軍隊：以東、摩押、亞捫人的部隊，以及[亞瑪力人]、",
+          "sourceReference": "1QM 1:1"
+        },
+        {
+          "number": "2",
+          "text": "非利士和亞述的基提人部隊。支持他們的是背約的人。利未子孫、猶大子孫和便雅憫子孫，就是那些被放逐到曠野的人，要與他們交戰，",
+          "sourceReference": "1QM 1:2"
+        },
+        {
+          "number": "3",
+          "text": "以[…]攻擊他們所有的軍隊；那時，光明之子的流亡者從列族的曠野歸來，在耶路撒冷的曠野安營。戰後，他們要從那地方上去，",
+          "sourceReference": "1QM 1:3"
+        },
+        {
+          "number": "4",
+          "text": "而[基提人的王；][要進入]埃及。在他的時候，他要帶着烈怒出征，與北方諸王交戰，在怒中出發，要毀滅並除去",
+          "sourceReference": "1QM 1:4"
+        },
+        {
+          "number": "5",
+          "text": "以[色列的力量。那時，]神的百姓必有得救的時候，他軍中的眾人必有掌權的時候，彼列的一切軍隊則要永遠滅亡。[大]恐慌要臨到",
+          "sourceReference": "1QM 1:5"
+        },
+        {
+          "number": "6",
+          "text": "雅弗的子孫[中間]，亞述要倒下，無人援助；基提人的霸權要終止，使邪惡被征服，毫無餘剩。沒有一個倖存者，出於",
+          "sourceReference": "1QM 1:6"
+        },
+        {
+          "number": "7",
+          "text": "[所有的]黑暗[之子]。",
+          "sourceReference": "1QM 1:7"
+        },
+        {
+          "number": "8",
+          "text": "那時，[公義之子]要照耀世界四極，不斷發光，直到黑暗所定的時期終結。然後，在神所定的時候，他偉大的榮美要照耀，直到",
+          "sourceReference": "1QM 1:8"
+        },
+        {
+          "number": "9",
+          "text": "永[遠的]世代；使所有光明之子享有平安、福分、榮耀、喜樂和長壽。基提人倒下的日子，在以色列的神面前必有戰爭和可怕的殺戮，",
+          "sourceReference": "1QM 1:9"
+        },
+        {
+          "number": "10",
+          "text": "因為這是他自古所定的日子，要與黑暗之子打一場滅絕之戰。那日，眾神的會眾和人的會眾要彼此交戰，造成大殺戮。",
+          "sourceReference": "1QM 1:10"
+        },
+        {
+          "number": "11",
+          "text": "光明之子和黑暗的軍隊要交鋒，以顯明神的力量；大群人的吼聲、眾神和人的吶喊響起，這是災難的日子。這是",
+          "sourceReference": "1QM 1:11"
+        },
+        {
+          "number": "12",
+          "text": "神所救贖的[全體]百姓遭遇困苦的時候。在他們一切患難中，沒有像這樣的；它急速走向完成，成為永遠的救贖。他們與基提人交戰的日子，",
+          "sourceReference": "1QM 1:12"
+        },
+        {
+          "number": "13",
+          "text": "他們要[出戰，]在戰場殺戮。三個回合中，光明之子要站立得穩，打擊邪惡；另三個回合中，彼列的軍隊要奮力，使",
+          "sourceReference": "1QM 1:13"
+        },
+        {
+          "number": "14",
+          "text": "[光明的軍隊]退卻。[當]步兵的旗幟使他們心驚膽戰時，神的力量要堅固[光明之子的心。]第七個回合，神大能的手要勝過",
+          "sourceReference": "1QM 1:14"
+        },
+        {
+          "number": "15",
+          "text": "[彼列和]他權下的[眾]天使，以及[他的軍隊中的]所有人，[他們必永遠被毀滅。]",
+          "sourceReference": "1QM 1:15"
+        },
+        {
+          "number": "16",
+          "text": "[…]聖者要發光，援助[…]真理，消滅黑暗之子。那時[…]",
+          "sourceReference": "1QM 1:16",
+          "sourceHeading": "The annihilation of the Sons of Darkness and service to God during the war years."
+        },
+        {
+          "number": "17",
+          "text": "[…]巨大的[吼]聲[…]他們拿起[戰爭的]器具。",
+          "sourceReference": "1QM 1:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 1:18"
+        },
+        {
+          "number": "19",
+          "text": "[…各支派的首領……以及祭司，",
+          "sourceReference": "1QM 1:19"
+        },
+        {
+          "number": "20",
+          "text": "[利未人、各支派的首領、會眾的族長……祭司，利未人也是如此，以及各首領的班次，]",
+          "sourceReference": "1QM 1:20"
+        }
+      ],
+      "shortSection": "光暗兩軍交戰"
+    },
+    {
+      "id": "2",
+      "label": "Chapter 2",
+      "section": "",
+      "sourceReference": "1QM column 2",
+      "verses": [
+        {
+          "number": "1",
+          "text": "會眾各宗族的首領，共五十二人。他們要把祭司首領排列在大祭司及其副手之後；十二位祭司首領負責",
+          "sourceReference": "1QM 2:1"
+        },
+        {
+          "number": "2",
+          "text": "在神面前常獻的祭。各班的首領，共二十六人，要按班供職。在他們之後，利未人的首領常常供職，共十二人，每個",
+          "sourceReference": "1QM 2:2"
+        },
+        {
+          "number": "3",
+          "text": "支派一人。他們各班的首領，要各按職分供職。支派首領和會眾的族長要協助他們，常站在聖所門口。",
+          "sourceReference": "1QM 2:3"
+        },
+        {
+          "number": "4",
+          "text": "各班的首領，年滿五十歲的，要在節期、月朔、安息日和一年中的每一天，與所委任的人一同站立供職。",
+          "sourceReference": "1QM 2:4"
+        },
+        {
+          "number": "5",
+          "text": "他們要在燔祭和其他祭物旁供職，照神的旨意安排馨香的香，為他的全體會眾贖罪，並常在他面前",
+          "sourceReference": "1QM 2:5"
+        },
+        {
+          "number": "6",
+          "text": "榮耀的桌旁得飽足。他們要在豁免年安排這一切。在其餘三十三年的戰爭中，有名望的人、",
+          "sourceReference": "1QM 2:6"
+        },
+        {
+          "number": "7",
+          "text": "蒙會眾召選的人，以及會眾各宗族的所有首領，要為列國各地的戰事揀選戰士。他們要從以色列所有支派中，為自己預備",
+          "sourceReference": "1QM 2:7"
+        },
+        {
+          "number": "8",
+          "text": "能戰的人，年復一年按戰爭的召令出征。但豁免年不得預備人出戰，因為那是以色列",
+          "sourceReference": "1QM 2:8"
+        },
+        {
+          "number": "9",
+          "text": "安歇的安息年。在三十五年的服役期間，要進行戰爭。其中六年，全體會眾一同作戰；",
+          "sourceReference": "1QM 2:9"
+        },
+        {
+          "number": "10",
+          "text": "其餘二十九年，則分隊作戰。第一年，要與美索不達米亞交戰；第二年，與路德的子孫交戰；第三年，",
+          "sourceReference": "1QM 2:10"
+        },
+        {
+          "number": "11",
+          "text": "與其他亞蘭子孫交戰，就是幼發拉底河那邊的烏斯、戶勒、多加和米沙。第四、第五年，與亞法撒的子孫交戰；",
+          "sourceReference": "1QM 2:11"
+        },
+        {
+          "number": "12",
+          "text": "第六、第七年，與所有亞述、波斯的子孫，以及遠至大曠野的東方人交戰。第八年，與",
+          "sourceReference": "1QM 2:12"
+        },
+        {
+          "number": "13",
+          "text": "以攔的子孫交戰；第九年，與以實瑪利和基土拉的子孫交戰。接下來十年，要分兵攻擊所有含的子孫，",
+          "sourceReference": "1QM 2:13"
+        },
+        {
+          "number": "14",
+          "text": "按[他們的宗]族和[疆]域作戰。餘下十年，要按各地的疆域，分兵攻擊所有[雅弗的子孫]。",
+          "sourceReference": "1QM 2:14"
+        },
+        {
+          "number": "15",
+          "text": "[號角的規則：號角，]就是各項任務中發警報的號角，為[…]為他們所委任的人，",
+          "sourceReference": "1QM 2:15",
+          "sourceHeading": "The description of the trumpets."
+        },
+        {
+          "number": "16",
+          "text": "[按萬人、千人、百人、五十人]和十人編組。在號[角上……]",
+          "sourceReference": "1QM 2:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 2:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 2:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 2:19"
+        },
+        {
+          "number": "20",
+          "text": "[…他們要寫……號角，屬於]",
+          "sourceReference": "1QM 2:20"
+        }
+      ],
+      "shortSection": "敬拜與戰爭年期"
+    },
+    {
+      "id": "3",
+      "label": "Chapter 3",
+      "section": "",
+      "sourceReference": "1QM column 3",
+      "verses": [
+        {
+          "number": "1",
+          "text": "戰鬥隊形，以及戰門開啟、步兵前進時召集他們的號角、發出擊殺信號的號角、",
+          "sourceReference": "1QM 3:1"
+        },
+        {
+          "number": "2",
+          "text": "伏兵的號角、敵軍敗退時追擊的號角，以及戰鬥返回時重新集合的號角。在召集會眾的號角上，他們要寫：「神所召的人。」",
+          "sourceReference": "1QM 3:2"
+        },
+        {
+          "number": "3",
+          "text": "在召集首領的號角上，要寫：「神的領袖。」在隊形的號角上，要寫：「神的規則。」在有名望之人的號角上，[要寫：]",
+          "sourceReference": "1QM 3:3"
+        },
+        {
+          "number": "4",
+          "text": "「會眾各宗族的首領。」當他們在聚會之所集合時，要寫：「神給聖潔會眾的見證。」在各營的號角上，",
+          "sourceReference": "1QM 3:4"
+        },
+        {
+          "number": "5",
+          "text": "要寫：「神的平安在他聖民的營中。」在出征的號角上，要寫：「神的大能作為，要驅散仇敵，使所有憎恨",
+          "sourceReference": "1QM 3:5"
+        },
+        {
+          "number": "6",
+          "text": "公義的人逃跑，並從所有憎恨神的人收回憐憫。」在戰鬥隊形的號角上，要寫：「神各隊的陣列，要向所有黑暗之子施行他忿怒的報應。」",
+          "sourceReference": "1QM 3:6"
+        },
+        {
+          "number": "7",
+          "text": "在戰門開啟、步兵出擊敵陣時，用以召集步兵的號角上，要寫：「在神所定的時候，",
+          "sourceReference": "1QM 3:7"
+        },
+        {
+          "number": "8",
+          "text": "記念報應。」在擊殺的號角上，要寫：「神大能的手在戰爭中，使所有因不忠而被殺的人倒下。」在伏兵的號角上，要寫：",
+          "sourceReference": "1QM 3:8"
+        },
+        {
+          "number": "9",
+          "text": "「神的奧祕，要掃除邪惡。」在追擊的號角上，要寫：「神已擊打所有黑暗之子；在他們滅盡以前，他不止息怒氣。」",
+          "sourceReference": "1QM 3:9"
+        },
+        {
+          "number": "10",
+          "text": "從戰場返回隊形時，要在撤回的號角上寫：「神已聚集。」在從",
+          "sourceReference": "1QM 3:10"
+        },
+        {
+          "number": "11",
+          "text": "與敵交戰之處返回、進入耶路撒冷會眾的號角上，要寫：「神使人平安歸來的歡樂。」",
+          "sourceReference": "1QM 3:11"
+        },
+        {
+          "number": "13",
+          "text": "全體會眾按隊形所用旗幟的規則。在全體百姓最前面的大旗上，要寫：「神的百姓」，以及「以色列」",
+          "sourceReference": "1QM 3:13",
+          "sourceHeading": "The description of the banners."
+        },
+        {
+          "number": "14",
+          "text": "和「亞倫」的名字，並按出生次序寫上以色列十二支派的名字。在每三個支派組成的「營」之首的旗幟上，",
+          "sourceReference": "1QM 3:14"
+        },
+        {
+          "number": "15",
+          "text": "要寫：「神的靈」，[以及三個支派的名字。]在各支派的旗幟[上]，要寫：「神的旗號」，以及該支[派]",
+          "sourceReference": "1QM 3:15"
+        },
+        {
+          "number": "16",
+          "text": "各宗族領袖的名字。[…以及]萬人隊領袖的名字，和各首領的名字，屬於[…]",
+          "sourceReference": "1QM 3:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]他所屬的百人隊。在旗幟上[…]",
+          "sourceReference": "1QM 3:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 3:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 3:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 3:20"
+        }
+      ],
+      "shortSection": "號角與軍旗"
+    },
+    {
+      "id": "4",
+      "label": "Chapter 4",
+      "section": "",
+      "sourceReference": "1QM column 4",
+      "verses": [
+        {
+          "number": "1",
+          "text": "在米拉利的旗幟上，要寫：「神的供物」，以及米拉利領袖的名字和各千人隊首領的名字。在[千]人隊的旗幟上，要寫：「神的怒氣已向",
+          "sourceReference": "1QM 4:1"
+        },
+        {
+          "number": "2",
+          "text": "彼列及其軍中所有的人發出，一個不留」，以及千夫長和他所屬各百夫長的名字。在百人隊的旗幟上，要寫：「神的百人隊，",
+          "sourceReference": "1QM 4:2"
+        },
+        {
+          "number": "3",
+          "text": "向有罪的血肉之人作戰的力量」，以及百夫長和他所屬各十夫長的名字。在五十人隊的旗幟上，要寫：「惡人的立足之地，",
+          "sourceReference": "1QM 4:3"
+        },
+        {
+          "number": "4",
+          "text": "[因]神的能力而終結」，以及五十夫長和他所屬各十夫長的名字。在十人隊的旗幟上，要寫：「用十弦琴",
+          "sourceReference": "1QM 4:4"
+        },
+        {
+          "number": "5",
+          "text": "向神唱歡樂之歌」，以及十夫長和他麾下九人的名字。",
+          "sourceReference": "1QM 4:5"
+        },
+        {
+          "number": "6",
+          "text": "出戰時，要在旗幟上寫：「神的真理」、「神的公義」、「神的榮耀」、「神的公平」，接着列出他們完整的名字。",
+          "sourceReference": "1QM 4:6"
+        },
+        {
+          "number": "7",
+          "text": "接近戰場時，要在旗幟上寫：「神的右手」、「神所定的時候」、「神的震動」、「神所擊殺的人」；接着寫上他們完整的名字。",
+          "sourceReference": "1QM 4:7"
+        },
+        {
+          "number": "8",
+          "text": "從戰場歸來時，要在旗幟上寫：「神的崇高」、「神的偉大」、「對神的讚美」、「神的榮耀」，並寫上他們完整的名字。",
+          "sourceReference": "1QM 4:8"
+        },
+        {
+          "number": "9",
+          "text": "會眾旗幟的規則：出征時，要在第一面旗上寫：「神的會眾」；第二面寫：「神的眾營」；第三面寫：",
+          "sourceReference": "1QM 4:9"
+        },
+        {
+          "number": "10",
+          "text": "「神的支派」；第四面寫：「神的宗族」；第五面寫：「神的各隊」；第六面寫：「神的會眾」；第七面寫：「蒙神",
+          "sourceReference": "1QM 4:10"
+        },
+        {
+          "number": "11",
+          "text": "召選的人」；第八面寫：「神的軍隊」。要照完整次序，寫上他們全部的名字。接近戰場時，要在旗幟上寫：",
+          "sourceReference": "1QM 4:11"
+        },
+        {
+          "number": "12",
+          "text": "「神的戰爭」、「神的報償」、「神的訴訟」、「神的報復」、「神的力量」、「神的報應」、「神的大能」、「神對一切虛妄驕傲列國的殲滅」。並且",
+          "sourceReference": "1QM 4:12"
+        },
+        {
+          "number": "13",
+          "text": "要在上面寫出他們完整的名字。從戰場歸來時，要在旗幟上寫：「神的拯救」、「神的勝利」、「神的幫助」、「神的扶持」、",
+          "sourceReference": "1QM 4:13"
+        },
+        {
+          "number": "14",
+          "text": "「神的喜樂」、「向神的感謝」、「對神的讚美」和「神的平安」。",
+          "sourceReference": "1QM 4:14"
+        },
+        {
+          "number": "15",
+          "text": "[旗幟的長度。]全體會眾的大旗要長十四肘；[三個支派]的旗幟[長十]三肘；",
+          "sourceReference": "1QM 4:15"
+        },
+        {
+          "number": "16",
+          "text": "[一個支派的旗幟]長十二肘；萬人隊的旗幟長十[一肘；千人隊的旗幟長十肘；百人隊的旗幟長九]肘；",
+          "sourceReference": "1QM 4:16"
+        },
+        {
+          "number": "17",
+          "text": "[五十人隊的旗幟長八]肘；十人隊的旗幟長七[肘……]。",
+          "sourceReference": "1QM 4:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 4:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 4:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 4:20"
+        }
+      ],
+      "shortSection": "軍旗規制"
+    },
+    {
+      "id": "5",
+      "label": "Chapter 5",
+      "section": "",
+      "sourceReference": "1QM column 5",
+      "verses": [
+        {
+          "number": "1",
+          "text": "在全民族領袖的[盾]牌上，要寫他的名字、「以色列」、「利未」和「亞倫」的名字，並按出生次序寫以色列十二支派的名字，",
+          "sourceReference": "1QM 5:1",
+          "sourceHeading": "The description of the shields."
+        },
+        {
+          "number": "2",
+          "text": "以及各支派十二位首領的名字。",
+          "sourceReference": "1QM 5:2"
+        },
+        {
+          "number": "3",
+          "text": "軍隊齊備、組成前方戰陣時，各隊作戰排列的規則：每個戰陣由一千人組成。每個戰陣要有七排前列，",
+          "sourceReference": "1QM 5:3",
+          "sourceHeading": "The description of the arming and deployment of the divisions."
+        },
+        {
+          "number": "4",
+          "text": "依次排列，各人站在同伴後方。他們都要持銅盾，磨得像",
+          "sourceReference": "1QM 5:4"
+        },
+        {
+          "number": "5",
+          "text": "照面的鏡子。盾牌的邊框要有編織紋和環紋，由巧匠製作；金、銀、銅相連，",
+          "sourceReference": "1QM 5:5"
+        },
+        {
+          "number": "6",
+          "text": "並鑲寶石，色彩斑斕如錦。這是巧匠精心製成的作品。盾牌長二肘半，寬一肘半。他們手中要持長矛",
+          "sourceReference": "1QM 5:6"
+        },
+        {
+          "number": "7",
+          "text": "和劍。長矛長七肘，其中矛套與矛刃共長半肘。矛套上要刻三道帶紋，形成編織紋的邊框，",
+          "sourceReference": "1QM 5:7"
+        },
+        {
+          "number": "8",
+          "text": "以金、銀、銅連接，如精巧設計的作品。在環狀紋飾中、每道帶紋兩側，",
+          "sourceReference": "1QM 5:8"
+        },
+        {
+          "number": "9",
+          "text": "周圍都要鑲寶石，色彩如錦，由巧匠精心製作，並有麥穗。帶紋之間的矛套要刻槽，如同",
+          "sourceReference": "1QM 5:9"
+        },
+        {
+          "number": "10",
+          "text": "柱身，精巧製成。矛刃要用閃亮的白鐵，由巧匠精心製作，刃中嵌入純金麥穗，朝",
+          "sourceReference": "1QM 5:10"
+        },
+        {
+          "number": "11",
+          "text": "尖端漸細。劍要用爐中煉淨的精鐵，磨得像照面的鏡子，由巧匠精心製作，兩面有",
+          "sourceReference": "1QM 5:11"
+        },
+        {
+          "number": "12",
+          "text": "純金麥穗的浮雕。邊線要直達劍尖，每邊兩道。劍長一肘",
+          "sourceReference": "1QM 5:17",
+          "sourceNumber": "17"
+        },
+        {
+          "number": "13",
+          "text": "半，寬四指。劍鞘寬四拇指，直到劍鞘的長度為四掌。劍鞘的兩",
+          "sourceReference": "1QM 5:13"
+        },
+        {
+          "number": "14",
+          "text": "側要用五掌長的皮帶繫住。劍柄要用上好的角，由巧匠製作，以金、銀和寶石作多彩紋飾。",
+          "sourceReference": "1QM 5:14"
+        },
+        {
+          "number": "16",
+          "text": "當[…站立]就位時，要排出七個戰陣，一個接着一個，",
+          "sourceReference": "1QM 5:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]並留出[間隔……三]十肘，步[兵]要站在那裏，",
+          "sourceReference": "1QM 5:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]向前[…]",
+          "sourceReference": "1QM 5:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 5:19"
+        },
+        {
+          "number": "20",
+          "text": "[…他們要投石]",
+          "sourceReference": "1QM 5:20"
+        }
+      ],
+      "shortSection": "盾牌與軍陣"
+    },
+    {
+      "id": "6",
+      "label": "Chapter 6",
+      "section": "",
+      "sourceReference": "1QM column 6",
+      "verses": [
+        {
+          "number": "1",
+          "text": "七次，然後返回原位。在他們之後，三隊步兵要前進，站在各戰陣之間。第一隊要向",
+          "sourceReference": "1QM 6:1"
+        },
+        {
+          "number": "2",
+          "text": "敵陣投擲七支戰矛。第一支矛的刃上要寫：「矛的閃光，為神的力量。」第二件武器上要寫：",
+          "sourceReference": "1QM 6:2"
+        },
+        {
+          "number": "3",
+          "text": "「帶血的投射兵器，藉神的忿怒使被殺者倒下。」第三支矛上要寫：「劍刃按神的審判，吞噬邪惡的被殺者。」",
+          "sourceReference": "1QM 6:3"
+        },
+        {
+          "number": "4",
+          "text": "每一種都要投擲七次，然後返回原位。接着，兩隊步兵要前出，站在兩軍戰陣之間，",
+          "sourceReference": "1QM 6:4"
+        },
+        {
+          "number": "5",
+          "text": "第一隊配矛和盾，第二隊配盾和劍；按神的判決擊倒被殺者，憑神的能力制服",
+          "sourceReference": "1QM 6:5"
+        },
+        {
+          "number": "6",
+          "text": "敵陣，並照所有虛妄驕傲列國的惡報應他們。如此，王權要歸以色列的神，他要藉自己百姓中的聖民大顯能力。",
+          "sourceReference": "1QM 6:6"
+        },
+        {
+          "number": "8",
+          "text": "戰陣左右也要有七排騎兵就位。他們的隊列要分列兩側，一邊七百",
+          "sourceReference": "1QM 6:8",
+          "sourceHeading": "The description of the deployment of the cavalry."
+        },
+        {
+          "number": "9",
+          "text": "騎，另一邊也七百騎。二百騎要與步兵戰陣的一千人一同出動，並如此",
+          "sourceReference": "1QM 6:9"
+        },
+        {
+          "number": "10",
+          "text": "部署在營的四周。排列成戰陣的全軍，合計四千六百人，加上一千四百騎兵，",
+          "sourceReference": "1QM 6:10"
+        },
+        {
+          "number": "11",
+          "text": "每個戰陣五十人。騎馬的人連同全軍的騎兵，合共六千，每支派五百。所有與步兵一同出",
+          "sourceReference": "1QM 6:11"
+        },
+        {
+          "number": "12",
+          "text": "戰的騎兵，都要騎牡馬；馬要迅速、靈敏、堅韌、成年，受過作戰訓練，",
+          "sourceReference": "1QM 6:12"
+        },
+        {
+          "number": "13",
+          "text": "習慣聽見各種聲響、看見各種景象。騎乘的人要能戰，受過騎術訓練，年齡",
+          "sourceReference": "1QM 6:13"
+        },
+        {
+          "number": "14",
+          "text": "介乎三十至四十五歲。軍隊的騎兵要四十至五十歲，他們",
+          "sourceReference": "1QM 6:14"
+        },
+        {
+          "number": "15",
+          "text": "[…]頭盔和護脛，手持圓盾和長[八肘的]矛，[…]",
+          "sourceReference": "1QM 6:15"
+        },
+        {
+          "number": "16",
+          "text": "[…]以及弓箭和戰矛，全都在[…]預備好，",
+          "sourceReference": "1QM 6:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]並流出那些有罪而被殺之人的血。這些就是[…]",
+          "sourceReference": "1QM 6:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 6:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 6:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 6:20"
+        }
+      ],
+      "shortSection": "騎兵與兵員"
+    },
+    {
+      "id": "7",
+      "label": "Chapter 7",
+      "section": "",
+      "sourceReference": "1QM column 7",
+      "verses": [
+        {
+          "number": "1",
+          "text": "軍中的人要四十至五十歲。營中受委任的人要五十至六十歲。軍官",
+          "sourceReference": "1QM 7:1",
+          "sourceHeading": "The recruitment and age of the soldiers."
+        },
+        {
+          "number": "2",
+          "text": "也要四十至五十歲。凡剝取死者衣物、收取戰利品、潔淨土地、看守軍械的，",
+          "sourceReference": "1QM 7:2"
+        },
+        {
+          "number": "3",
+          "text": "以及預備給養的，都要二十五至三十歲。從他們離開",
+          "sourceReference": "1QM 7:3"
+        },
+        {
+          "number": "4",
+          "text": "耶路撒冷出戰，直到返回，少年和婦女都不可進入營地。殘疾、失明、跛腳、皮膚有永久缺陷，或身體在禮儀上",
+          "sourceReference": "1QM 7:4"
+        },
+        {
+          "number": "5",
+          "text": "不潔的人，都不可與他們一同出戰。他們全都要自願參戰，靈與肉身潔淨，為報仇之日預備好。凡",
+          "sourceReference": "1QM 7:5"
+        },
+        {
+          "number": "6",
+          "text": "在戰日因生殖器官的情況而在禮儀上不潔的人，不可與他們一同下去交戰，因為聖天使在他們的軍中。所有營地",
+          "sourceReference": "1QM 7:6"
+        },
+        {
+          "number": "7",
+          "text": "與廁所之間，要相隔約二千肘；所有營地周圍，都不可見到羞恥的裸露。",
+          "sourceReference": "1QM 7:7"
+        },
+        {
+          "number": "9",
+          "text": "當戰陣與敵軍對列、陣對陣時，要有七位",
+          "sourceReference": "1QM 7:9",
+          "sourceHeading": "The ministry of the priests and Levites."
+        },
+        {
+          "number": "10",
+          "text": "亞倫子孫中的祭司，從中央開口走到兩軍戰陣之間的空地。他們穿潔白的細麻衣：麻布內袍、麻布褲，束着撚成的細麻腰帶，帶有藍紫、",
+          "sourceReference": "1QM 7:10"
+        },
+        {
+          "number": "11",
+          "text": "紫紅和朱紅色，以及巧匠製成的多彩紋飾，頭戴裝飾的帽子。這是作戰的衣服，不得帶入聖所。",
+          "sourceReference": "1QM 7:11"
+        },
+        {
+          "number": "12",
+          "text": "其中一位祭司要走在戰陣眾人前面，鼓勵他們作戰。其餘六位手中要拿着",
+          "sourceReference": "1QM 7:12"
+        },
+        {
+          "number": "13",
+          "text": "集合的號角、記念的號角、警報的號角、追擊的號角和重新集合的號角。祭司走到",
+          "sourceReference": "1QM 7:13"
+        },
+        {
+          "number": "14",
+          "text": "兩軍戰陣之間的空地時，七位利未人要與他們同去，手裏拿七支公羊角。三位利未軍官要走在",
+          "sourceReference": "1QM 7:14"
+        },
+        {
+          "number": "15",
+          "text": "祭司和利未人前面。祭司要吹兩支集[合的]號角，[…作]戰，在五十面盾牌之上，",
+          "sourceReference": "1QM 7:15"
+        },
+        {
+          "number": "16",
+          "text": "五十名步兵要從一個門口出來，[…]利未人、軍官。與",
+          "sourceReference": "1QM 7:16"
+        },
+        {
+          "number": "17",
+          "text": "各戰陣一同，他們要全照[這個]次[序]出動。[…步]兵從各門口出來，",
+          "sourceReference": "1QM 7:17"
+        },
+        {
+          "number": "18",
+          "text": "[站在]兩軍戰陣之間，[…]戰[鬥]",
+          "sourceReference": "1QM 7:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 7:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 7:20"
+        }
+      ],
+      "shortSection": "軍營與祭司"
+    },
+    {
+      "id": "8",
+      "label": "Chapter 8",
+      "section": "",
+      "sourceReference": "1QM column 8",
+      "verses": [
+        {
+          "number": "1",
+          "text": "號角要不斷吹響，引導投石手，直到他們投擲完七",
+          "sourceReference": "1QM 8:1"
+        },
+        {
+          "number": "2",
+          "text": "次。然後祭司要吹返回的號角，他們便沿第一個戰陣的側邊走，",
+          "sourceReference": "1QM 8:2"
+        },
+        {
+          "number": "3",
+          "text": "返回自己的位置。祭司要吹集合的號角，",
+          "sourceReference": "1QM 8:3"
+        },
+        {
+          "number": "4",
+          "text": "三隊步兵要從各門口出來，站在戰陣之間，騎兵在他們旁邊，",
+          "sourceReference": "1QM 8:4"
+        },
+        {
+          "number": "5",
+          "text": "分列左右。祭司要以號角吹出平穩的音，作為部署戰陣的信號。",
+          "sourceReference": "1QM 8:5"
+        },
+        {
+          "number": "6",
+          "text": "各縱隊要排成隊形，各就各位。他們排好三個隊形以後，",
+          "sourceReference": "1QM 8:6"
+        },
+        {
+          "number": "7",
+          "text": "祭司要給他們吹第二個信號，就是低沉連續的音，作為前進信號，直到他們接近",
+          "sourceReference": "1QM 8:7"
+        },
+        {
+          "number": "8",
+          "text": "敵軍戰陣，握住武器。然後祭司要用六支",
+          "sourceReference": "1QM 8:8"
+        },
+        {
+          "number": "9",
+          "text": "擊殺的號角，吹出尖銳短促的音，指揮戰鬥；利未人和所有拿公羊角的百姓，要一同吹出",
+          "sourceReference": "1QM 8:9"
+        },
+        {
+          "number": "10",
+          "text": "宏大的戰爭警報，使仇敵心驚膽戰。隨着警報聲，",
+          "sourceReference": "1QM 8:10"
+        },
+        {
+          "number": "11",
+          "text": "戰矛要飛出，擊倒被殺者。然後公羊角要停止發聲，但祭司仍要以號[角]",
+          "sourceReference": "1QM 8:11"
+        },
+        {
+          "number": "12",
+          "text": "繼續吹出尖銳短促的音，發出戰鬥信號，直到他們向",
+          "sourceReference": "1QM 8:12"
+        },
+        {
+          "number": "13",
+          "text": "敵陣投擲七次。之後，祭司要為他們吹撤回的號角，",
+          "sourceReference": "1QM 8:13"
+        },
+        {
+          "number": "14",
+          "text": "發出低沉、平穩、連續的音。[祭]司要照這規則，為三隊吹號。當",
+          "sourceReference": "1QM 8:14"
+        },
+        {
+          "number": "15",
+          "text": "第一隊投擲時，[祭司、利未人，以及所有拿公羊]角的百姓，要吹出宏大的警報，",
+          "sourceReference": "1QM 8:15"
+        },
+        {
+          "number": "16",
+          "text": "指揮戰[鬥，直到投擲七次。之後，]祭司[要]為他們[吹]",
+          "sourceReference": "1QM 8:16"
+        },
+        {
+          "number": "17",
+          "text": "撤[回的]號角，[…他們要站回]戰陣中的原位，",
+          "sourceReference": "1QM 8:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]並站立就位，",
+          "sourceReference": "1QM 8:18"
+        },
+        {
+          "number": "19",
+          "text": "[…被]殺者，",
+          "sourceReference": "1QM 8:19"
+        },
+        {
+          "number": "20",
+          "text": "[所有拿公羊角的百姓要吹出極響亮的戰爭警報，聲音傳出時，]",
+          "sourceReference": "1QM 8:20"
+        }
+      ],
+      "shortSection": "祭司號令"
+    },
+    {
+      "id": "9",
+      "label": "Chapter 9",
+      "section": "",
+      "sourceReference": "1QM column 9",
+      "verses": [
+        {
+          "number": "1",
+          "text": "他們的手要開始擊倒被殺者，所有百姓要停止警報聲；祭司卻要繼續吹",
+          "sourceReference": "1QM 9:1"
+        },
+        {
+          "number": "2",
+          "text": "擊殺的號角，指揮戰鬥，直到敵軍戰敗，轉身撤退。祭司要吹警報，指揮戰鬥；",
+          "sourceReference": "1QM 9:2"
+        },
+        {
+          "number": "3",
+          "text": "敵軍在他們面前敗退時，祭司要吹集合的號角，所有步兵便要從",
+          "sourceReference": "1QM 9:3"
+        },
+        {
+          "number": "4",
+          "text": "前方戰陣中出去，到他們那裏站立；除正在交戰的一隊外，另有六隊，合共七個戰陣、二萬八千名",
+          "sourceReference": "1QM 9:4"
+        },
+        {
+          "number": "5",
+          "text": "士兵和六千騎兵。這一切都要追擊，在神的戰爭中毀滅仇敵，徹底殲滅。",
+          "sourceReference": "1QM 9:5"
+        },
+        {
+          "number": "6",
+          "text": "祭司要為他們吹追擊的號角，他們要分隊追殲所有仇敵。騎兵",
+          "sourceReference": "1QM 9:6"
+        },
+        {
+          "number": "7",
+          "text": "要從戰場兩翼逼退敵人，直到滅盡。被殺者倒下時，祭司要繼續在遠處吹號，不可進入",
+          "sourceReference": "1QM 9:7"
+        },
+        {
+          "number": "8",
+          "text": "屍體中間，免得被他們不潔的血玷污，因為祭司是聖潔的。他們不可讓祭司受膏的油，被",
+          "sourceReference": "1QM 9:8"
+        },
+        {
+          "number": "9",
+          "text": "虛妄驕傲列國的血褻瀆。",
+          "sourceReference": "1QM 9:9"
+        },
+        {
+          "number": "10",
+          "text": "變更戰鬥隊形的規則，為要排列位置，對付[…]鉗形攻勢和塔形陣，",
+          "sourceReference": "1QM 9:10",
+          "sourceHeading": "The description of the maneuvers of the battle divisions."
+        },
+        {
+          "number": "11",
+          "text": "弧形陣和塔形陣；緩慢向前推進時，各縱隊和側翼要從戰陣的[兩]邊出動，[使]",
+          "sourceReference": "1QM 9:11"
+        },
+        {
+          "number": "12",
+          "text": "敵軍喪膽。塔形陣士兵的盾牌要長三肘，長矛要[長]八肘。塔形陣",
+          "sourceReference": "1QM 9:12"
+        },
+        {
+          "number": "13",
+          "text": "要從戰陣中前出，每邊一百面盾牌。[因為]他們要圍住塔形陣朝前的三面，",
+          "sourceReference": "1QM 9:13"
+        },
+        {
+          "number": "14",
+          "text": "合共三百面盾牌。每個塔形陣有三個門口，一個在[右邊，]一個在左邊。在塔形陣士兵所有的盾牌上，",
+          "sourceReference": "1QM 9:14"
+        },
+        {
+          "number": "15",
+          "text": "要寫：第一面，「米[迦勒]」；[第二面，「加百列」；第三面，]「撒利爾」；第四面，「拉斐爾」。",
+          "sourceReference": "1QM 9:15"
+        },
+        {
+          "number": "16",
+          "text": "「米迦勒」和「加百列」在[右邊，「拉斐爾」和「拉斐爾」在左邊。",
+          "sourceReference": "1QM 9:16"
+        },
+        {
+          "number": "17",
+          "text": "並且[…]因為向那四個[…他們]要為[…]的[戰陣]設下埋伏，",
+          "sourceReference": "1QM 9:17"
+        },
+        {
+          "number": "18",
+          "text": "並且[…他們要倒]在[被殺者……]之上，",
+          "sourceReference": "1QM 9:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 9:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 9:20"
+        }
+      ],
+      "shortSection": "作戰部署"
+    },
+    {
+      "id": "10",
+      "label": "Chapter 10",
+      "section": "",
+      "sourceReference": "1QM column 10",
+      "verses": [
+        {
+          "number": "1",
+          "text": "我們的營地，並使自己避免任何羞恥的裸露；他（摩西）告訴我們，你在我們中間，是偉大可畏的神，掠奪一切",
+          "sourceReference": "1QM 10:1",
+          "sourceHeading": "The address of the chiefpriest."
+        },
+        {
+          "number": "2",
+          "text": "在[我們面前]的仇敵。他從古時就教導我們歷代的人，說：你們臨近戰場時，祭司要站立，向百姓宣告，",
+          "sourceReference": "1QM 10:2"
+        },
+        {
+          "number": "3",
+          "text": "說：「以色列啊，要聽！今天你們要與仇敵交戰，不要害怕，也不要膽怯。",
+          "sourceReference": "1QM 10:3"
+        },
+        {
+          "number": "4",
+          "text": "不要戰[兢，也不]要因他們驚恐，因為你們的神與你們同行，要為你們與仇敵爭戰，拯救",
+          "sourceReference": "1QM 10:4"
+        },
+        {
+          "number": "5",
+          "text": "你們。」（申命記 20:2–4）我們的[軍官要向所有預備作戰、心裏甘願的人講話，以神的能力堅固他們，使所有",
+          "sourceReference": "1QM 10:5"
+        },
+        {
+          "number": "6",
+          "text": "喪膽的人返回，並一同堅固所有英勇戰士。他們要述說你藉摩西所[說]的話：「當你們的土地上發生戰爭，",
+          "sourceReference": "1QM 10:6"
+        },
+        {
+          "number": "7",
+          "text": "要抵抗攻擊你們的敵人時，[你們]要吹號示警，使你們在自己的神面前蒙記念，",
+          "sourceReference": "1QM 10:7"
+        },
+        {
+          "number": "8",
+          "text": "得救脫離仇敵。」（民數記 10:9）",
+          "sourceReference": "1QM 10:8"
+        },
+        {
+          "number": "9",
+          "text": "以及你的大能。誰能像你的百姓以色列？你從地上萬民中揀選他們歸給自己，",
+          "sourceReference": "1QM 10:9",
+          "sourceHeading": "The prayer of the chiefpriest."
+        },
+        {
+          "number": "10",
+          "text": "他們是聖約聖民的百姓，通曉律例，在悟[性]上蒙光照，[…]聽見榮耀的聲音，又看見",
+          "sourceReference": "1QM 10:10"
+        },
+        {
+          "number": "11",
+          "text": "聖天使；他們的耳朵開通，聽見深奧之事。[神啊，你創造了]廣闊的天空、眾光體的軍隊、",
+          "sourceReference": "1QM 10:11"
+        },
+        {
+          "number": "12",
+          "text": "眾靈的職務、聖者的權域，[你榮]耀的寶庫，[…]雲彩。那創造大地、劃定各區界限，",
+          "sourceReference": "1QM 10:12"
+        },
+        {
+          "number": "13",
+          "text": "分成曠野和平原，並造出地上一切出產、果[實……]、海洋的環界、江河的源頭和深淵裂隙的，",
+          "sourceReference": "1QM 10:13"
+        },
+        {
+          "number": "14",
+          "text": "也造野獸、飛禽、人的形體及其[後裔的世代]、語言的混亂、民族的分散、宗族的居所，",
+          "sourceReference": "1QM 10:14"
+        },
+        {
+          "number": "15",
+          "text": "以及土地的產業，[…和]聖潔的節期、年歲的循環和",
+          "sourceReference": "1QM 10:15"
+        },
+        {
+          "number": "16",
+          "text": "永恆的時期。[…]這些事，我們從你的悟性得知，這悟性[…]",
+          "sourceReference": "1QM 10:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]你的[耳朵]向我們的呼喊，因為[…]",
+          "sourceReference": "1QM 10:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]他的家[…]",
+          "sourceReference": "1QM 10:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 10:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 10:20"
+        }
+      ],
+      "shortSection": "祭司的禱告"
+    },
+    {
+      "id": "11",
+      "label": "Chapter 11",
+      "section": "",
+      "sourceReference": "1QM column 11",
+      "verses": [
+        {
+          "number": "1",
+          "text": "戰爭實在屬於你；藉你手的力量，他們的屍首被擊碎，無人埋葬。那迦特人歌利亞，是勇猛的戰士，",
+          "sourceReference": "1QM 11:1"
+        },
+        {
+          "number": "2",
+          "text": "你卻把他交在你僕人大衛手中，因為他倚靠你的大名，而不倚靠刀劍和長矛；戰爭原是屬於你的。",
+          "sourceReference": "1QM 11:2"
+        },
+        {
+          "number": "3",
+          "text": "他藉你的聖名多次制服非利士人。你也藉我們列王的手，多次拯救我們，",
+          "sourceReference": "1QM 11:3"
+        },
+        {
+          "number": "4",
+          "text": "出於你的憐憫，不是按我們的行為，因為我們行了惡，也不是因我們悖逆的行徑。戰爭屬你，力量出於你，",
+          "sourceReference": "1QM 11:4"
+        },
+        {
+          "number": "5",
+          "text": "並非我們所有。不是我們的能力或手中的力量成就勇武之事，而是你的能力和偉大勇力所成就。正[如你從前告訴",
+          "sourceReference": "1QM 11:5"
+        },
+        {
+          "number": "6",
+          "text": "我們，說：「有星要出於雅各，有杖要興起於以色列，擊碎摩押的額角，拆毀塞特所有的子孫；",
+          "sourceReference": "1QM 11:6"
+        },
+        {
+          "number": "7",
+          "text": "他要從雅各而下，除滅城中的餘民；仇敵要成為產業，以色列要行勇武之事。」（民數記 24:17–19）你藉受膏者，",
+          "sourceReference": "1QM 11:7"
+        },
+        {
+          "number": "8",
+          "text": "就是預見所定之事的人，告訴我們你手所行戰爭的時[期]，為要在仇敵中榮耀自己{爭戰}，使彼列的眾軍、那七個",
+          "sourceReference": "1QM 11:8"
+        },
+        {
+          "number": "9",
+          "text": "虛妄驕傲的國家倒下，倒在受壓迫者手中；你曾以[能]力、報應和奇妙的力量救贖他們。消沉的心要成為盼望之門。你要待他們，如你曾待法老",
+          "sourceReference": "1QM 11:9"
+        },
+        {
+          "number": "10",
+          "text": "和他戰車的軍官，在紅海中所行的一樣。你要點燃心靈謙卑的人，如禾捆中的火炬，吞滅惡人。你必不退回，直到",
+          "sourceReference": "1QM 11:10"
+        },
+        {
+          "number": "11",
+          "text": "有罪的人被殲滅。從前，你預告了你手向基提人施行大能的[定]期，說：「亞述要倒在非人的刀下；非世人的",
+          "sourceReference": "1QM 11:11"
+        },
+        {
+          "number": "12",
+          "text": "刀，要吞滅他。」（以賽亞書 31:8）",
+          "sourceReference": "1QM 11:12"
+        },
+        {
+          "number": "13",
+          "text": "你要把各地的[仇]敵交在受壓迫者手中，交在伏於塵土者手中，使萬民中的一切勇士倒下，讓",
+          "sourceReference": "1QM 11:13"
+        },
+        {
+          "number": "14",
+          "text": "惡人應得的報應歸到[…]的頭上；按你的真理向所有世人宣告公義的判決，並在百姓中為自己立永遠的名。",
+          "sourceReference": "1QM 11:14"
+        },
+        {
+          "number": "15",
+          "text": "[…]戰爭，在列國餘民面前顯為大、顯為聖，使[他們]知道[你]",
+          "sourceReference": "1QM 11:15"
+        },
+        {
+          "number": "16",
+          "text": "[是神……當你]向歌革及所有聚[集在我們周圍]的軍隊施行審判時，[…]",
+          "sourceReference": "1QM 11:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]因為你要從天[上]與他們爭戰，[…]",
+          "sourceReference": "1QM 11:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]臨到他們，使之混亂，[…]",
+          "sourceReference": "1QM 11:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 11:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 11:20"
+        }
+      ],
+      "shortSection": "上帝施行拯救"
+    },
+    {
+      "id": "12",
+      "label": "Chapter 12",
+      "section": "",
+      "sourceReference": "1QM column 12",
+      "verses": [
+        {
+          "number": "1",
+          "text": "你在天上有眾多聖者，在崇高的居所有天使的軍隊，讚[美]你的[名]。聖民中的選民，",
+          "sourceReference": "1QM 12:1"
+        },
+        {
+          "number": "2",
+          "text": "你已為自己建立在一個[群體中。他們全軍名字的數]目（或名[冊]）與你同在，存於你的聖潔居所；聖[者的數目]在你榮耀的住處。",
+          "sourceReference": "1QM 12:2"
+        },
+        {
+          "number": "3",
+          "text": "賜福的憐憫[…]你用生命的筆，為他們刻下你的平安之約，為要永遠統治[他們]，",
+          "sourceReference": "1QM 12:3"
+        },
+        {
+          "number": "4",
+          "text": "委派你[選]民的軍[隊]，按千人、萬人，與你的聖者[和]天使同在，並引導他們",
+          "sourceReference": "1QM 12:4"
+        },
+        {
+          "number": "5",
+          "text": "作戰，[使]地上的敵人藉你的判決受審[定罪]。他們要與天上的選民一同[得勝]。",
+          "sourceReference": "1QM 12:5"
+        },
+        {
+          "number": "7",
+          "text": "神啊，你在統治的榮耀中令人敬[畏]；你的聖者之會在我們中間，永[遠]扶持我們。我們[要向君王表示輕蔑，向勇士表示譏諷",
+          "sourceReference": "1QM 12:7"
+        },
+        {
+          "number": "8",
+          "text": "和鄙視。因主是聖潔的，榮耀的王與聖者一同在我們中間。[勇士和]天使的軍隊，與我們受委派的軍兵同在。",
+          "sourceReference": "1QM 12:8"
+        },
+        {
+          "number": "9",
+          "text": "戰[爭]的勇士與我們的隊伍同在，他眾靈的軍隊伴隨我們的腳步。我們的騎兵[如]雲，又如霧覆蓋大地，",
+          "sourceReference": "1QM 12:9"
+        },
+        {
+          "number": "10",
+          "text": "又如連綿大雨，把審判降在地上所有產物之上。勇士啊，起來！榮耀者啊，擄取你的俘虜！大行勇武之事的，收取",
+          "sourceReference": "1QM 12:10"
+        },
+        {
+          "number": "11",
+          "text": "你的戰利品！把手放在仇敵的頸項，把腳踏在被殺者的背上。擊碎那些與你為敵的列國，願你的刀劍",
+          "sourceReference": "1QM 12:11"
+        },
+        {
+          "number": "12",
+          "text": "吞噬有罪的肉身。以榮耀充滿你的土地，以福分充滿你的產業。願你的田野牲畜眾多，你的宮殿滿有金銀和珍貴",
+          "sourceReference": "1QM 12:12"
+        },
+        {
+          "number": "13",
+          "text": "的寶石。錫安啊，要大大歡喜；耶路撒冷啊，要以歡歌發光。猶大各城啊，都要歡樂，永遠敞開",
+          "sourceReference": "1QM 12:13"
+        },
+        {
+          "number": "14",
+          "text": "你們的城[門]，讓列國的財富送到你們這裏，他們的君王要服事你們。凡壓迫你們的，都要向你們下拜，舔",
+          "sourceReference": "1QM 12:14"
+        },
+        {
+          "number": "15",
+          "text": "[你們腳上的]塵土。[我百姓的女子啊，]要歡呼，以榮耀的飾物裝扮自己；統治那[國度]，",
+          "sourceReference": "1QM 12:15"
+        },
+        {
+          "number": "16",
+          "text": "[…以]色列要永遠作王。",
+          "sourceReference": "1QM 12:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]他們是勇猛的戰士，耶路撒冷啊，[…]",
+          "sourceReference": "1QM 12:17"
+        },
+        {
+          "number": "18",
+          "text": "[被高舉]超乎諸天，主啊，[願你的榮耀高過全地……]",
+          "sourceReference": "1QM 12:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 12:19"
+        },
+        {
+          "number": "20",
+          "text": "[…然後大祭司要站立]",
+          "sourceReference": "1QM 12:20",
+          "sourceHeading": "The blessings of the war recited by all the leaders after the victory."
+        }
+      ],
+      "shortSection": "得勝的頌讚"
+    },
+    {
+      "id": "13",
+      "label": "Chapter 13",
+      "section": "",
+      "sourceReference": "1QM column 13",
+      "verses": [
+        {
+          "number": "1",
+          "text": "以及與他同在的弟兄，就是[祭]司、利未人和軍中所有長老。他們要各站其位，頌讚以色列的神和他一切真實的作為，並在那裏咒詛",
+          "sourceReference": "1QM 13:1"
+        },
+        {
+          "number": "2",
+          "text": "[彼]列及其軍隊的一切靈。他們要應聲說：「以色列的神當受頌讚，因他一切聖潔的旨意和真實的作為。蒙福的也有",
+          "sourceReference": "1QM 13:2"
+        },
+        {
+          "number": "3",
+          "text": "那些以公義服事他、藉信心認識他的人。",
+          "sourceReference": "1QM 13:3"
+        },
+        {
+          "number": "4",
+          "text": "彼列因爭競的意圖而受咒詛，因可責的統治而受咒詛。他那一分所屬的眾靈，都因邪惡的意圖而受咒詛。",
+          "sourceReference": "1QM 13:4"
+        },
+        {
+          "number": "5",
+          "text": "他們因一切污穢骯髒的服事而受咒詛。他們屬黑暗的一分；神的一分卻是",
+          "sourceReference": "1QM 13:5"
+        },
+        {
+          "number": "6",
+          "text": "[永恆的]光。",
+          "sourceReference": "1QM 13:6"
+        },
+        {
+          "number": "7",
+          "text": "你是我們列祖的神。我們永遠頌讚你的名，因為我們是[永]恆的百姓。你與我們列祖立約，並要為他們的後裔堅立這約，",
+          "sourceReference": "1QM 13:7"
+        },
+        {
+          "number": "8",
+          "text": "直到永恆的世代。在你榮耀的一切見證中，你的[恩慈]在我們中間蒙記念；為了你的約，幫助餘民和倖存者，",
+          "sourceReference": "1QM 13:8"
+        },
+        {
+          "number": "9",
+          "text": "並述[說]你真實的作為和奇妙大能的判決。[神啊，]你創造我們，歸你作永遠的百姓，又按你的真理，",
+          "sourceReference": "1QM 13:9"
+        },
+        {
+          "number": "10",
+          "text": "使我們歸入光明的一分。你自古指派光明之君幫助我們，因為[所有公義之子都屬他的一分，]一切真理之靈都在他權下。你親自",
+          "sourceReference": "1QM 13:10"
+        },
+        {
+          "number": "11",
+          "text": "造彼列，使他歸於深坑；他是惡意的天使，他的[權域]在黑[暗]中，他的計謀是定罪和控告。他那一分所屬的眾靈，",
+          "sourceReference": "1QM 13:11"
+        },
+        {
+          "number": "12",
+          "text": "就是毀滅的天使，都照黑暗的規則行事，因為這是他們唯一的[慾]望。但我們在你真理的一分中，因",
+          "sourceReference": "1QM 13:12"
+        },
+        {
+          "number": "13",
+          "text": "你大能的手而歡喜。我們因你的拯救歡喜，以[你的]幫[助和]平[安]為樂。以色列的神啊，誰的力量能像你？然而，",
+          "sourceReference": "1QM 13:13"
+        },
+        {
+          "number": "14",
+          "text": "你大能的手與受壓迫者同在。在[你有效的]扶持上，哪個天使或領袖能像你？[因]你自古為自己定了大[戰之日……]",
+          "sourceReference": "1QM 13:14"
+        },
+        {
+          "number": "15",
+          "text": "[…要扶]持真理，毀滅不義，使黑暗降卑，使光明強盛，並且[…]",
+          "sourceReference": "1QM 13:15"
+        },
+        {
+          "number": "16",
+          "text": "[…]使之永遠站立，消滅所有黑暗之子，使[所有光明之子]歡樂，[…]",
+          "sourceReference": "1QM 13:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 13:17"
+        },
+        {
+          "number": "18",
+          "text": "[…因]你親自指定我們，為一個所[定的時候……]",
+          "sourceReference": "1QM 13:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 13:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 13:20"
+        }
+      ],
+      "shortSection": "光暗權勢對立"
+    },
+    {
+      "id": "14",
+      "label": "Chapter 14",
+      "section": "",
+      "sourceReference": "1QM column 14",
+      "verses": [
+        {
+          "number": "1",
+          "text": "如同他向埃及偶像所發烈怒的火。",
+          "sourceReference": "1QM 14:1"
+        },
+        {
+          "number": "2",
+          "text": "他們離開被殺者、進入營地後，全體要唱歸回的頌歌。早晨要洗衣，潔淨自己，",
+          "sourceReference": "1QM 14:2",
+          "sourceHeading": "The blessings of the war recited by all the leaders in the morning before the battle."
+        },
+        {
+          "number": "3",
+          "text": "除去有罪肉身的血，返回先前站立的地方，就是敵軍被殺者倒下以前，他們列陣之處。在那裏，全體要頌讚",
+          "sourceReference": "1QM 14:3"
+        },
+        {
+          "number": "4",
+          "text": "以色列的神，一同歡喜高舉他的名。他們要應聲說：「以色列的神當受頌讚，他為自己的約持守慈愛，並為他所救贖的百姓守住所定的",
+          "sourceReference": "1QM 14:4"
+        },
+        {
+          "number": "5",
+          "text": "拯救之期。他呼召跌倒的人去成就奇妙的[事]，又聚集列國的會眾，使之滅盡，毫無餘剩；為要在審判中扶起",
+          "sourceReference": "1QM 14:5"
+        },
+        {
+          "number": "6",
+          "text": "心已消沉的人，開啞巴的口，歌唱[神的]大能作為，教導軟弱的[手]作戰。他使雙膝發顫的人有力量站立，",
+          "sourceReference": "1QM 14:6"
+        },
+        {
+          "number": "7",
+          "text": "使從腰胯到肩頭受創的人剛強。在心靈貧乏者中[…]剛硬的心；一切邪惡列國都要藉行為純全的人而終結，",
+          "sourceReference": "1QM 14:7"
+        },
+        {
+          "number": "8",
+          "text": "他們所有的勇士都無處立足。但我們是[你百姓的餘]民。慈愛的神啊，[你的名當受頌讚，]你為我們的先祖守約。在",
+          "sourceReference": "1QM 14:9",
+          "sourceNumber": "9"
+        },
+        {
+          "number": "9",
+          "text": "我們歷代之中，彼列掌權之時，你向[百姓的餘]民顯出奇妙的憐憫。他們所有仇恨的奧祕，也未使我們偏離",
+          "sourceReference": "1QM 14:9"
+        },
+        {
+          "number": "10",
+          "text": "你的約。你把他毀滅的靈[從我們這裏趕走。當他權下的人自招定罪時，]你保全了蒙你救贖之人的性命。你以力量扶起",
+          "sourceReference": "1QM 14:10"
+        },
+        {
+          "number": "11",
+          "text": "跌倒的人，卻要砍倒高大的，[使他們降卑。]他們所有的勇士無人搭救，敏捷的人無處避難。你要把羞辱",
+          "sourceReference": "1QM 14:11"
+        },
+        {
+          "number": "12",
+          "text": "歸還他們的尊貴人，他們一切虛妄的存在[都要如無]有。但我們，你的聖民，要因你真實的作為讚美你的名。",
+          "sourceReference": "1QM 14:12"
+        },
+        {
+          "number": "13",
+          "text": "因你的大能作為，我們要[高舉你的榮美，在]永恆的世代與定期中，在白晝開始、夜間，",
+          "sourceReference": "1QM 14:13"
+        },
+        {
+          "number": "14",
+          "text": "以及黎明和黃昏，你的[榮耀旨意]何等偉大；你奇妙的奧祕在[你]至高的天上，要為自己從塵土中[扶起]那些人，",
+          "sourceReference": "1QM 14:14"
+        },
+        {
+          "number": "15",
+          "text": "使眾神中的那些降卑。",
+          "sourceReference": "1QM 14:15"
+        },
+        {
+          "number": "16",
+          "text": "眾神之神啊，起來，起來！以大能奮起，[萬王之王啊……]",
+          "sourceReference": "1QM 14:16"
+        },
+        {
+          "number": "17",
+          "text": "願所有黑暗之子[從你面前四散。]願你威榮的光[永遠照耀眾神和世人，如火燃燒在受咒詛者的幽暗之地。]",
+          "sourceReference": "1QM 14:17"
+        },
+        {
+          "number": "18",
+          "text": "願它焚燒[陰間受咒詛的人，]成為[犯罪者中永遠的]烈火，[…直到永恆的一切定期。]",
+          "sourceReference": "1QM 14:18"
+        },
+        {
+          "number": "19",
+          "text": "[他們要在那裏重唱所有戰爭感恩頌歌，然後返回各營。]",
+          "sourceReference": "1QM 14:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 14:20"
+        }
+      ],
+      "shortSection": "戰前讚美與禱告"
+    },
+    {
+      "id": "15",
+      "label": "Chapter 15",
+      "section": "",
+      "sourceReference": "1QM column 15",
+      "verses": [
+        {
+          "number": "1",
+          "text": "這是以色[列]遭難的時候，是與所有列國交戰所定的時期。神的旨意是永遠的救贖，",
+          "sourceReference": "1QM 15:1"
+        },
+        {
+          "number": "2",
+          "text": "卻要毀滅一切邪惡的國家。所有[預備好]作戰的人都要出發，在基提人的王和彼列的一切軍隊對面安營；",
+          "sourceReference": "1QM 15:2"
+        },
+        {
+          "number": "3",
+          "text": "那些軍隊與他聚集，要迎接神的刀劍施行[報仇]之日。",
+          "sourceReference": "1QM 15:3"
+        },
+        {
+          "number": "4",
+          "text": "那時，大祭司要站起，他的弟兄，就是[祭司]、利未人和全軍的人，都與他同在。他要高聲宣讀",
+          "sourceReference": "1QM 15:4",
+          "sourceHeading": "The final battle the first engagement."
+        },
+        {
+          "number": "5",
+          "text": "戰爭定期的禱文，照《定期規則》（Serekh Itto）書中所寫的，包括他們感謝的一切話。然後他要在那裏排好",
+          "sourceReference": "1QM 15:5"
+        },
+        {
+          "number": "6",
+          "text": "所有戰陣，照《戰卷》所[寫的。接着，那由所有弟兄為報仇之時所指派的祭司，",
+          "sourceReference": "1QM 15:6"
+        },
+        {
+          "number": "7",
+          "text": "要走遍各處，鼓勵[他們作戰，]並應聲說：「要像戰士一樣剛強壯膽。",
+          "sourceReference": "1QM 15:7"
+        },
+        {
+          "number": "8",
+          "text": "不要害怕，不要灰[心，也不要膽怯。]不要驚慌，不要因他們受驚。不要",
+          "sourceReference": "1QM 15:8"
+        },
+        {
+          "number": "9",
+          "text": "退後，也不要[從他們面前逃跑。]因為他們是邪惡的會眾，一切行為都在黑暗中；",
+          "sourceReference": "1QM 15:9"
+        },
+        {
+          "number": "10",
+          "text": "這是[他們的]慾望。[他們把一切]避難所[建在謊言中。]他們的力量如消散的煙，他們整個",
+          "sourceReference": "1QM 15:10"
+        },
+        {
+          "number": "11",
+          "text": "龐大的集會，[如被風吹散的糠秕……荒]涼，再尋不見。每一個貪婪之物，都要迅速枯萎，",
+          "sourceReference": "1QM 15:11"
+        },
+        {
+          "number": "12",
+          "text": "[如收割時的花。……來吧，]要為神的戰爭奮勇，因為今天是神所定的戰日，",
+          "sourceReference": "1QM 15:12"
+        },
+        {
+          "number": "13",
+          "text": "[是神]對所有列[國……向]一切血肉之人施行審[判]之日。以色列的神正以奇妙的[力量]舉起手，",
+          "sourceReference": "1QM 15:13"
+        },
+        {
+          "number": "14",
+          "text": "[攻擊一切邪惡之靈……眾]神中的勇士正束腰備[戰，]聖[者]的隊形",
+          "sourceReference": "1QM 15:14"
+        },
+        {
+          "number": "15",
+          "text": "[正預備]迎接[報仇]之日，[…]",
+          "sourceReference": "1QM 15:15"
+        },
+        {
+          "number": "16",
+          "text": "以[色列]的神[…]",
+          "sourceReference": "1QM 15:16"
+        },
+        {
+          "number": "17",
+          "text": "要除去彼[列……]",
+          "sourceReference": "1QM 15:17"
+        },
+        {
+          "number": "18",
+          "text": "在他的地獄裏[…]",
+          "sourceReference": "1QM 15:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 15:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 15:20"
+        }
+      ],
+      "shortSection": "決戰開始"
+    },
+    {
+      "id": "16",
+      "label": "Chapter 16",
+      "section": "",
+      "sourceReference": "1QM column 16",
+      "verses": [
+        {
+          "number": "1",
+          "text": "直到一切[…]的源頭都終止。[因為]以色列的神已召刀劍攻擊所有列國，他要藉自己百姓中的聖民大行勇武之事。」",
+          "sourceReference": "1QM 16:1"
+        },
+        {
+          "number": "3",
+          "text": "他們要[在那日，]在與基提人眾營對峙之處，遵行這一切規則。然後祭司要為他們吹",
+          "sourceReference": "1QM 16:3"
+        },
+        {
+          "number": "4",
+          "text": "記念的號角。戰[門]要打開，[步兵]要出來，在戰陣之間排成縱隊。祭司要為他們吹",
+          "sourceReference": "1QM 16:4"
+        },
+        {
+          "number": "5",
+          "text": "列陣的信號，各縱隊[要]隨號角聲[展開，]直到各人站好自己的位置。接着祭司要為他們吹",
+          "sourceReference": "1QM 16:5"
+        },
+        {
+          "number": "6",
+          "text": "第二個信號，就是[交戰的信號。]他們靠近基提人的戰陣，進入投擲距離時，各人要舉起拿着",
+          "sourceReference": "1QM 16:6"
+        },
+        {
+          "number": "7",
+          "text": "戰爭武器的手。然後六位[祭司要用]擊殺的[號角]吹出尖銳短促的音，指揮戰鬥。利未人和所有拿",
+          "sourceReference": "1QM 16:7"
+        },
+        {
+          "number": "8",
+          "text": "公羊角的百姓，要大聲吹出[作戰信號]。聲音傳出時，步兵要開始擊倒基提人的被殺者；所有",
+          "sourceReference": "1QM 16:8"
+        },
+        {
+          "number": "9",
+          "text": "百姓要停止發信號，[但祭司]仍要繼續吹擊殺的號角，戰事要勝過基提人。",
+          "sourceReference": "1QM 16:9"
+        },
+        {
+          "number": "11",
+          "text": "當[彼列]準備幫助黑暗之子，步兵中的被殺者因神的奧祕開始倒下，神又藉這些奧祕試驗所有奉派作戰的人時，",
+          "sourceReference": "1QM 16:11",
+          "sourceHeading": "The final battle the second engagement."
+        },
+        {
+          "number": "12",
+          "text": "祭司要吹集合的號角，使另一個戰陣作為預備隊前出，在戰陣之間就位。",
+          "sourceReference": "1QM 16:12"
+        },
+        {
+          "number": "13",
+          "text": "他們要為正在作戰的人吹返回的信號。然後大祭司要上前，站在戰陣前，藉",
+          "sourceReference": "1QM 16:13"
+        },
+        {
+          "number": "14",
+          "text": "[神奇妙的大能]鼓勵他們的心，堅固他們的手，為他作戰。",
+          "sourceReference": "1QM 16:14"
+        },
+        {
+          "number": "15",
+          "text": "他要應聲說：「[神當受頌讚，因為]他在熔爐中試驗自己百姓的心。而非[…]你們的被殺者[…]。因你們自古就順服",
+          "sourceReference": "1QM 16:15"
+        },
+        {
+          "number": "16",
+          "text": "神的奧祕。[如今你們要壯膽，站在缺口；神使……剛強時，不要懼怕。]",
+          "sourceReference": "1QM 16:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 16:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 16:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 16:19"
+        },
+        {
+          "number": "20",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 16:20"
+        }
+      ],
+      "shortSection": "再戰與勉勵"
+    },
+    {
+      "id": "17",
+      "label": "Chapter 17",
+      "section": "",
+      "sourceReference": "1QM column 17",
+      "verses": [
+        {
+          "number": "1",
+          "text": "他要以焚燒指定他們的報應，[…]那些經熔爐試驗的人。他要磨利戰爭的器具，直到[一切邪惡的列國終結]以前，都不變鈍。",
+          "sourceReference": "1QM 17:1"
+        },
+        {
+          "number": "2",
+          "text": "至於你們，要記念亞倫的兒子[拿答和亞比]戶所受的審判；神藉這審判，在[全體百姓]面前顯為聖。[但以利亞撒]",
+          "sourceReference": "1QM 17:2"
+        },
+        {
+          "number": "3",
+          "text": "和以他瑪，他為自己保留，作永遠的[祭司職分]之約。",
+          "sourceReference": "1QM 17:3"
+        },
+        {
+          "number": "4",
+          "text": "至於你們，要壯膽，不要懼怕他們，[…因為]他們的結局是虛空，他們的慾望歸於空無。他們的支援沒有力[量]；他們不[知道，一切現有和將有的，都出於]",
+          "sourceReference": "1QM 17:4"
+        },
+        {
+          "number": "5",
+          "text": "以色列的神。他[…]在一切永遠存在之中。今天是他所定的時候，要制服並羞辱那邪惡國度的",
+          "sourceReference": "1QM 17:5"
+        },
+        {
+          "number": "6",
+          "text": "君王。他要藉米迦勒權柄之下那威嚴天使的能力，向蒙救贖的群體賜下永遠的扶持。藉永恆的光，",
+          "sourceReference": "1QM 17:6"
+        },
+        {
+          "number": "7",
+          "text": "他要歡喜地照亮以色列的約，賜平安與福分給屬神的一分；在眾神中高舉米迦勒的權柄，在一切血肉之人中高舉",
+          "sourceReference": "1QM 17:7"
+        },
+        {
+          "number": "8",
+          "text": "以色列的統治。公義要在高處歡喜，所有屬他真理的子民要因永恆的知識歡樂。至於你們，他聖約的子民啊，",
+          "sourceReference": "1QM 17:8"
+        },
+        {
+          "number": "9",
+          "text": "要在神的熔爐中壯膽，直到他揮手，完成烈火的試煉，就是關乎你們存留的奧祕。」",
+          "sourceReference": "1QM 17:9"
+        },
+        {
+          "number": "10",
+          "text": "這些話說完以後，祭司要吹信號，使他們排成戰陣各隊。各縱隊要隨號角聲展開，",
+          "sourceReference": "1QM 17:10",
+          "sourceHeading": "The final battle the third engagement."
+        },
+        {
+          "number": "11",
+          "text": "直到各人站好自己的位置。接着祭司要再吹號，發出交戰的信號。當",
+          "sourceReference": "1QM 17:11"
+        },
+        {
+          "number": "12",
+          "text": "步[兵]接近基提[人的戰]陣，進入投擲距離時，各人要舉起拿着武器的手。然後祭司要吹",
+          "sourceReference": "1QM 17:12"
+        },
+        {
+          "number": "13",
+          "text": "擊殺的號角，[利未人和所有]拿公羊角的百姓，要吹出作戰信號。步兵要攻擊",
+          "sourceReference": "1QM 17:13"
+        },
+        {
+          "number": "14",
+          "text": "基提人的軍隊，[信號聲傳出時，]他們便開始擊倒被殺者。然後全體百姓要停止發信號，祭司卻",
+          "sourceReference": "1QM 17:14"
+        },
+        {
+          "number": "15",
+          "text": "繼續吹[擊殺的號角]；戰[事]要[勝]過基[提人，彼列的部隊]在他們面前被擊敗。",
+          "sourceReference": "1QM 17:15"
+        },
+        {
+          "number": "16",
+          "text": "第三個回合也是如此，[…]被殺倒下，[…]",
+          "sourceReference": "1QM 17:16"
+        }
+      ],
+      "shortSection": "爭戰與信心考驗"
+    },
+    {
+      "id": "18",
+      "label": "Chapter 18",
+      "section": "",
+      "sourceReference": "1QM column 18",
+      "verses": [
+        {
+          "number": "1",
+          "text": "[在第七個回合，]神大能的手要舉起，攻擊彼列及其權下的一切軍[隊]，施行永遠的殺戮，",
+          "sourceReference": "1QM 18:1",
+          "sourceHeading": "The final battle the fourth, fifth, and sixth engagements. Nothing of these engagements is preserved. The final battle the seventh engagement."
+        },
+        {
+          "number": "2",
+          "text": "[…]以及聖者追擊亞述時的吶喊。那時，雅弗的子孫要倒下，永不再起，基提人要被粉碎，沒有",
+          "sourceReference": "1QM 18:2"
+        },
+        {
+          "number": "3",
+          "text": "[餘民，也沒有倖存者。如此，]以色列的神要舉手攻擊彼列的全部軍眾。那時，祭司要吹出信號，",
+          "sourceReference": "1QM 18:3"
+        },
+        {
+          "number": "4",
+          "text": "[用六支記念的號角，]所有戰陣要在他們那裏集合，分隊攻擊基提人的所有[營地]，",
+          "sourceReference": "1QM 18:4"
+        },
+        {
+          "number": "5",
+          "text": "將他們徹底殲滅。[當]那日太陽急速下沉時，大祭司、祭司，以及與他同在的[利未人]，",
+          "sourceReference": "1QM 18:5"
+        },
+        {
+          "number": "6",
+          "text": "還有[戰陣的]首領和軍[中的人]，要在那裏頌讚以色列的神。他們要應聲說：「眾[神之]神啊，你的名當受頌讚，因為",
+          "sourceReference": "1QM 18:6"
+        },
+        {
+          "number": "7",
+          "text": "你為百姓行了奇事，自古就為我們守約。你多次為我們打開救恩的門，",
+          "sourceReference": "1QM 18:7"
+        },
+        {
+          "number": "8",
+          "text": "為[你的約]的緣故。[你也照]向我們所施的恩慈，在患難中供應我們。公義的神啊，你為自己的名行了這事。",
+          "sourceReference": "1QM 18:8"
+        },
+        {
+          "number": "10",
+          "text": "[…你在我們身上行了]奇事，又行奇事，自古未曾有過這樣的事；因你知道我們所定的時候。今天，[你的]能力已照耀",
+          "sourceReference": "1QM 18:10",
+          "sourceHeading": "Thanksgiving for final victory."
+        },
+        {
+          "number": "11",
+          "text": "我們，[你也向]我們[顯明]你憐憫的手，藉永遠的救贖與我們同在，要除去仇敵的統治，使之不再存在；這是你大能的手。",
+          "sourceReference": "1QM 18:11"
+        },
+        {
+          "number": "12",
+          "text": "在戰[爭中，你要向]我們的仇敵[顯出力量，]徹底殺滅他們。如今，這日子催促我們[去]追擊他們的軍眾，因為你",
+          "sourceReference": "1QM 18:12"
+        },
+        {
+          "number": "13",
+          "text": "[…]你擊碎勇士的心，使無人能站立。能力屬你，戰爭在你手中，沒有",
+          "sourceReference": "1QM 18:13"
+        },
+        {
+          "number": "14",
+          "text": "[神能像你……]你的[…]以及你旨意所定的時候，並報復[…]你的[仇敵]，你要從[…]剪除，是",
+          "sourceReference": "1QM 18:14"
+        },
+        {
+          "number": "15",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 18:15"
+        },
+        {
+          "number": "16",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 18:16"
+        },
+        {
+          "number": "17",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 18:17"
+        },
+        {
+          "number": "18",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 18:18"
+        },
+        {
+          "number": "19",
+          "text": "[…]〔底本缺文〕",
+          "sourceReference": "1QM 18:19"
+        },
+        {
+          "number": "20",
+          "text": "[…我們要向君王表示輕蔑，]",
+          "sourceReference": "1QM 18:20"
+        }
+      ],
+      "shortSection": "最後得勝與感恩"
+    },
+    {
+      "id": "19",
+      "label": "Chapter 19",
+      "section": "",
+      "sourceReference": "1QM column 19",
+      "verses": [
+        {
+          "number": "1",
+          "text": "[向勇士表示譏諷和鄙視。]因我們威嚴的主是聖潔的。榮耀的王與我們同在，他眾靈的[軍隊伴隨我們的腳步。我們的騎兵]",
+          "sourceReference": "1QM 19:1"
+        },
+        {
+          "number": "2",
+          "text": "[如雲，又如霧]覆蓋大地，如連綿大雨，把審判降在地上所有產物之上。勇士啊，起來！]",
+          "sourceReference": "1QM 19:2"
+        },
+        {
+          "number": "3",
+          "text": "[榮耀者啊，擄取你的俘虜！大行勇武之事的，收]取你的戰利品！把手放在仇敵的頸項，把[腳]踏在",
+          "sourceReference": "1QM 19:3"
+        },
+        {
+          "number": "4",
+          "text": "[被殺者的背上。擊碎那些與你為敵的列國，]讓你的刀劍吞噬肉身。以榮耀充滿你的土地，以福分充滿你的產業。願[你的田野牲畜眾多，]",
+          "sourceReference": "1QM 19:4"
+        },
+        {
+          "number": "5",
+          "text": "[金銀充滿]你的宮殿。錫安啊，要大大歡喜；猶[大]各城啊，都要歡樂。[敞開]",
+          "sourceReference": "1QM 19:5"
+        },
+        {
+          "number": "6",
+          "text": "[你們的城門，直到永遠，讓列國的財富送到你們這裏，他們的君王要服事你們。凡壓迫]你們的，都要向你們下拜，",
+          "sourceReference": "1QM 19:6"
+        },
+        {
+          "number": "7",
+          "text": "[舔你們腳上的塵土。我百姓的女]子啊，要放聲歡呼。以榮耀的飾物裝扮自己，[統治]那[國度……]",
+          "sourceReference": "1QM 19:7"
+        },
+        {
+          "number": "8",
+          "text": "[…]你的[…]以及以色列，作[永遠的統治。",
+          "sourceReference": "1QM 19:8"
+        },
+        {
+          "number": "9",
+          "text": "[然後，他們要在那夜聚集]於營中，休息直到早晨。清早，他們要來到戰陣所[在]之處，",
+          "sourceReference": "1QM 19:9",
+          "sourceHeading": "Ceremony after the final battle."
+        },
+        {
+          "number": "10",
+          "text": "[就是基提人的勇士、]亞述的眾軍，以及所有聚集與他們同在的列國軍隊[倒下的地方，]查看[那些]被殺者的眾[屍首是否已死，]",
+          "sourceReference": "1QM 19:10"
+        },
+        {
+          "number": "11",
+          "text": "[無人埋葬；他們]在那裏被神的刀劍殺倒。大[祭]司要與他的[副]手、弟兄[祭司們，]一同走近，",
+          "sourceReference": "1QM 19:11"
+        },
+        {
+          "number": "12",
+          "text": "[還有利未人、作戰的領袖，]以及所有戰陣的首領和[軍官……]",
+          "sourceReference": "1QM 19:12"
+        },
+        {
+          "number": "13",
+          "text": "[…一同。他們站在基提人的被殺者面前時，要]在那裏[讚美以色列的]神，[並應聲說：……]",
+          "sourceReference": "1QM 19:13"
+        },
+        {
+          "number": "14",
+          "text": "[…歸給至高神，以及……]",
+          "sourceReference": "1QM 19:14"
+        }
+      ],
+      "shortSection": "凱旋與戰後禮儀"
+    }
+  ]
 }

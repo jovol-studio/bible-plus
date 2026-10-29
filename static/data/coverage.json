@@ -231,8 +231,8 @@
     {
       "book": "psalms-of-solomon",
       "englishSections": 18,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 18,
+      "complete": true
     },
     {
       "book": "sibylline-oracles-3",
@@ -291,8 +291,8 @@
     {
       "book": "war-scroll",
       "englishSections": 19,
-      "chineseSections": 0,
-      "complete": false
+      "chineseSections": 19,
+      "complete": true
     }
   ],
   "allChineseComplete": false
