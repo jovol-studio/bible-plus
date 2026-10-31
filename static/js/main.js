@@ -289,10 +289,51 @@ $('chapter').addEventListener('change', () => {
   if (c && !c.verses.some(v => v.number !== 'preface' && verseValue(v) === $('verse').value)) $('verse').value = verseValue(c.verses[0]);
 });
 $('verse').addEventListener('input', () => $('verse').setCustomValidity(''));
+// Fix the reader in place while a modal is open, including on mobile Safari.
+let modalScroll = null;
+function showDialog(dialog) {
+  if (dialog.open) return;
+  modalScroll = {x: window.scrollX, y: window.scrollY};
+  document.body.style.setProperty('--modal-scroll-top', `-${modalScroll.y}px`);
+  document.body.classList.add('modal-open');
+  dialog.showModal();
+}
+function restoreModalScroll() {
+  if (!modalScroll || document.querySelector('dialog[open]')) return;
+  const {x, y} = modalScroll;
+  modalScroll = null;
+  document.body.classList.remove('modal-open');
+  document.body.style.removeProperty('--modal-scroll-top');
+  window.scrollTo({left: x, top: y, behavior: 'instant'});
+}
+function closeDialog(dialog) {
+  dialog.close();
+  // Restore before a picker selection navigates to its new passage.
+  restoreModalScroll();
+}
+for (const dialog of [$('about'), $('reference-picker')]) {
+  dialog.addEventListener('close', restoreModalScroll);
+  dialog.addEventListener('cancel', event => {
+    event.preventDefault();
+    closeDialog(dialog);
+  });
+}
+const mobileReferences = window.matchMedia('(max-width: 760px), (pointer: coarse)');
+function syncReferenceControls() {
+  for (const id of ['chapter', 'verse']) {
+    const input = $(id);
+    input.readOnly = mobileReferences.matches;
+    input.inputMode = mobileReferences.matches ? 'none' : 'numeric';
+    input.title = mobileReferences.matches ? `點選選取${id === 'chapter' ? '章' : '節'}` : `輸入${id === 'chapter' ? '章' : '節'}號，或按兩下選取`;
+  }
+}
+mobileReferences.addEventListener('change', syncReferenceControls);
+syncReferenceControls();
 let pickerInput = null;
 function openReferencePicker(id) {
   if (!ready || $('reference-picker').open) return;
   pickerInput = $(id);
+  $('reference-picker').dataset.selection = id;
   updateVerseOptions();
   $('picker-title').textContent = id === 'chapter' ? '選取章' : '選取節';
   const choices = [...$(`${id}-options`).options];
@@ -318,39 +359,46 @@ function openReferencePicker(id) {
       pickerInput.value = choice.value;
       pickerInput.dispatchEvent(new Event('input', {bubbles: true}));
       pickerInput.dispatchEvent(new Event('change', {bubbles: true}));
-      $('reference-picker').close();
+      closeDialog($('reference-picker'));
       $('navigation').requestSubmit();
     });
     return button;
   });
   $('picker-options').replaceChildren(...buttons);
   if (!buttons.length) $('picker-options').textContent = '請先輸入有效章號。';
-  $('reference-picker').showModal();
+  showDialog($('reference-picker'));
   const chosen = buttons.find(button => button.hasAttribute('aria-current')) || buttons[0];
   chosen?.focus();
   chosen?.scrollIntoView({block: 'nearest'});
 }
 for (const id of ['chapter', 'verse']) {
+  $(id).addEventListener('click', () => {
+    if (mobileReferences.matches) openReferencePicker(id);
+  });
   $(id).addEventListener('dblclick', () => openReferencePicker(id));
   $(id).addEventListener('keydown', event => {
-    if (event.key === 'F4' || (event.altKey && event.key === 'ArrowDown')) {
+    if ((mobileReferences.matches && ['Enter', ' '].includes(event.key)) || event.key === 'F4' || (event.altKey && event.key === 'ArrowDown')) {
       event.preventDefault(); openReferencePicker(id);
     }
   });
 }
-$('close-picker').addEventListener('click', () => $('reference-picker').close());
-$('reference-picker').addEventListener('close', () => pickerInput?.focus());
+$('close-picker').addEventListener('click', () => closeDialog($('reference-picker')));
+$('reference-picker').addEventListener('close', () => pickerInput?.focus({preventScroll: true}));
 $('reference-picker').addEventListener('click', event => {
   if (event.target !== $('reference-picker')) return;
   const rect = event.target.getBoundingClientRect();
-  if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) event.target.close();
+  if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) closeDialog(event.target);
 });
 $('picker-options').addEventListener('keydown', event => {
   const buttons = [...$('picker-options').querySelectorAll('button')];
   const index = buttons.indexOf(document.activeElement);
-  if (index < 0 || !['ArrowUp', 'ArrowDown', 'Home', 'End'].includes(event.key)) return;
+  const isVerse = $('reference-picker').dataset.selection === 'verse';
+  const keys = ['ArrowUp', 'ArrowDown', 'Home', 'End', ...(isVerse ? ['ArrowLeft', 'ArrowRight'] : [])];
+  if (index < 0 || !keys.includes(event.key)) return;
   event.preventDefault();
-  const next = event.key === 'Home' ? 0 : event.key === 'End' ? buttons.length - 1 : Math.max(0, Math.min(buttons.length - 1, index + (event.key === 'ArrowDown' ? 1 : -1)));
+  const columns = isVerse ? getComputedStyle($('picker-options')).gridTemplateColumns.split(' ').length : 1;
+  const step = {ArrowUp: -columns, ArrowDown: columns, ArrowLeft: -1, ArrowRight: 1}[event.key] || 0;
+  const next = event.key === 'Home' ? 0 : event.key === 'End' ? buttons.length - 1 : Math.max(0, Math.min(buttons.length - 1, index + step));
   buttons[next].focus();
 });
 
@@ -359,12 +407,12 @@ $('version').addEventListener('change', () => loadBook(chapters[current]?.id, ch
 $('language').addEventListener('change', render);
 $('size').addEventListener('change', () => { document.body.dataset.size = $('size').value; persist(); if (ready) selectPassage(selected); });
 $('previous').addEventListener('click', () => move(-1)); $('next').addEventListener('click', () => move(1));
-$('info').addEventListener('click', () => $('about').showModal());
-$('close-info').addEventListener('click', () => $('about').close());
+$('info').addEventListener('click', () => showDialog($('about')));
+$('close-info').addEventListener('click', () => closeDialog($('about')));
 $('about').addEventListener('click', event => {
   if (event.target !== $('about')) return;
   const rect = event.target.getBoundingClientRect();
-  if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) event.target.close();
+  if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) closeDialog(event.target);
 });
 document.addEventListener('keydown', event => {
   if ($('about').open || $('reference-picker').open || event.altKey || event.ctrlKey || event.metaKey) return;

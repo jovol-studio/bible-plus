@@ -507,3 +507,48 @@ body[data-size="presentation"] #reading-header { display: none; }
 #reading-header { align-items: center; }
 .reading-title { display: flex; align-items: center; gap: .65rem; min-width: 0; }
 .reading-icon { display: block; width: 40px; height: 40px; flex: 0 0 40px; border-radius: 10px; }
+
+/* Keep touch scrolling inside the modal rather than the reader behind it. */
+body.modal-open {
+  position: fixed;
+  top: var(--modal-scroll-top);
+  left: 0;
+  right: 0;
+  overflow: hidden;
+}
+html:has(dialog[open]) { overflow: hidden; }
+dialog { overscroll-behavior: contain; }
+#reference-picker[open] { display: flex; flex-direction: column; }
+#reference-picker .dialog-heading { flex-shrink: 0; }
+#picker-options {
+  min-height: 0;
+  overscroll-behavior: contain;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
+}
+#controls input[readonly] { cursor: pointer; caret-color: transparent; }
+#controls input[readonly]::-webkit-inner-spin-button,
+#controls input[readonly]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+#controls input[readonly] { appearance: textfield; -moz-appearance: textfield; }
+
+/* Verse numbers use compact touch targets; chapter descriptions stay in rows. */
+#reference-picker[data-selection="verse"] { width: min(600px, calc(100% - 2rem)); }
+#reference-picker[data-selection="verse"] #picker-options {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 6px;
+}
+#reference-picker[data-selection="verse"] #picker-options button {
+  min-width: 0;
+  min-height: 44px;
+  margin: 0;
+  padding: .65rem .2rem;
+  text-align: center;
+  border: 1px solid var(--line);
+  font-variant-numeric: tabular-nums;
+}
+@media (min-width: 640px) {
+  #reference-picker[data-selection="verse"] #picker-options {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+}
