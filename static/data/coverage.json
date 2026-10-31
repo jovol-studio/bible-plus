@@ -285,8 +285,8 @@
     {
       "book": "shuitu-xingji",
       "englishSections": 182,
-      "chineseSections": 150,
-      "complete": false
+      "chineseSections": 182,
+      "complete": true
     },
     {
       "book": "war-scroll",
@@ -295,5 +295,5 @@
       "complete": true
     }
   ],
-  "allChineseComplete": false
+  "allChineseComplete": true
 }

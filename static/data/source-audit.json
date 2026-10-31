@@ -488,9 +488,9 @@
       "english": "bundled",
       "englishUrl": "https://www.gutenberg.org/ebooks/44073",
       "englishNote": "全書正文 182 章，保留原節號；不含現代網站摘要、出版序言及索引。這是近代宗教著作，不是古代彼得福音。 本次只匯入現有英文，不另作翻譯。",
-      "chinese": "AI translation draft (partial)",
+      "chinese": "AI translation draft",
       "chineseUrl": "https://www.gutenberg.org/ebooks/44073",
-      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是原語文直譯。 全書正文 182 章，保留原節號；不含現代網站摘要、出版序言及索引。這是近代宗教著作，不是古代彼得福音。 已完成 150/182 章；其餘中文尚待翻譯。 保留底本敘事、人物及原節號，不以其他福音書改寫。Holy Breath 統一譯為「聖息」。"
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled English. 尚未經獨立學術審校；不是已出版中文譯本，也不是原語文直譯。 全書正文 182 章，保留原節號；不含現代網站摘要、出版序言及索引。這是近代宗教著作，不是古代彼得福音。 已完成全部 182 章、5343 節；中文為尚待獨立審校的 AI 翻譯初稿。 保留底本敘事、人物及原節號，不以其他福音書改寫。Holy Breath 統一譯為「聖息」。"
     }
   ]
 }
