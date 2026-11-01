@@ -552,3 +552,9 @@ dialog { overscroll-behavior: contain; }
     grid-template-columns: repeat(10, minmax(0, 1fr));
   }
 }
+
+/* Keep mobile reading at its initial scale while allowing touch scrolling. */
+@media (max-width: 760px), (pointer: coarse) {
+  html, body, dialog { touch-action: pan-x pan-y; }
+  #controls input, #controls select { font-size: max(16px, 1rem); }
+}
