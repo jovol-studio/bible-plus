@@ -32,8 +32,8 @@ Original source: https://github.com/jovol-studio/bible-plus
 <nav id="controls" aria-label="閱讀選項">
   <form id="navigation">
     <label class="book-control"><span class="field-label">書卷</span><select id="book"></select></label>
-    <label class="location-control"><span class="field-label">章</span><input id="chapter" type="number" list="chapter-options" required autocomplete="off" aria-label="章" title="輸入章號，或按兩下選取" aria-haspopup="dialog" aria-controls="reference-picker"><datalist id="chapter-options"></datalist></label>
-    <label class="location-control"><span class="field-label">節</span><input id="verse" type="text" list="verse-options" required autocomplete="off" aria-label="節" title="輸入節號，或按兩下選取" aria-haspopup="dialog" aria-controls="reference-picker"><datalist id="verse-options"></datalist></label>
+    <label class="location-control"><span class="field-label">章</span><input id="chapter" type="number" required autocomplete="off" aria-label="章" title="輸入章號，或按兩下選取" aria-haspopup="dialog" aria-controls="reference-picker"><datalist id="chapter-options"></datalist></label>
+    <label class="location-control"><span class="field-label">節</span><input id="verse" type="text" required autocomplete="off" aria-label="節" title="輸入節號，或按兩下選取" aria-haspopup="dialog" aria-controls="reference-picker"><datalist id="verse-options"></datalist></label>
     <button id="go" type="submit">去</button>
     <div class="chapter-paging" role="group" aria-label="切換章節">
       <button id="previous" type="button" aria-label="上一章" title="上一章"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m14 6-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
