@@ -268,3 +268,7 @@ Added concise Traditional Chinese `shortSection` labels for 689 sections across 
 《巴拿巴福音》已完成序言及全部 222 章、669 個編號段落的正體中文 AI 初稿。依本地 Lonsdale 與 Laura Ragg（1907）英文底本逐段翻譯，保留序言目錄、段號、敘事差異、補字標記與來源資訊，不以其他聖經版本改寫。第 135 章誤植 pound 依上下文翻譯並保留註記；其他轉錄問題見各卷 Info。中文尚待獨立審校。
 
 《水徒行紀》已完成全部 182 章、5343 節的正體中文 AI 初稿，依本地 Levi H. Dowling（1908）英文正文逐節翻譯。保留原敘事、括注、章節中繼資料、節號及本書特有觀念，不以正典經文改寫；Holy Breath 統一譯為「聖息」。英文底本未改動，中文尚待獨立審校。
+
+## 歷史參考書：猶太古史
+
+《猶太古史》（Antiquities of the Jews），作者 Flavius Josephus，共 20 卷，已加入書目，標示「尚未備妥」。英文候選來源為 [Project Gutenberg #2848](https://www.gutenberg.org/ebooks/2848)，William Whiston 譯本；尚未匯入正文。中文有出版譯本，但完整可用下載來源仍待確認。此書屬歷史參考著作，獨立於聖經、次經及偽經分類，亦不計入已收錄的 49 部擴充書卷。

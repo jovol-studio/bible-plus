@@ -832,5 +832,13 @@ const books = [
     "english": "The Aquarian Gospel of Jesus the Christ",
     "category": "典外書卷 / 偽經",
     "catalogNote": "Levi H. Dowling 於 1908 年出版的近代宗教著作，採 Project Gutenberg 英文版，並非古代《彼得福音》。"
+  },
+  {
+    "id": "antiquities-of-the-jews",
+    "name": "猶太古史",
+    "english": "Antiquities of the Jews",
+    "category": "歷史參考書",
+    "available": false,
+    "catalogNote": "約瑟夫（Flavius Josephus）的歷史著作，共 20 卷。英文已找到 William Whiston 譯本（Project Gutenberg #2848）；正文尚未匯入，中文全文來源仍待確認。"
   }
 ];

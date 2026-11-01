@@ -34,7 +34,8 @@ const categoryEnglish = {
   '東正教增收書卷': 'Additional Orthodox Books',
   '舊約次經': 'Old Testament Apocrypha',
   '新約次經': 'New Testament Apocrypha',
-  '典外書卷 / 偽經': 'Extra-canonical Books / Pseudepigrapha'
+  '典外書卷 / 偽經': 'Extra-canonical Books / Pseudepigrapha',
+  '歷史參考書': 'Historical References'
 };
 let group;
 for (const book of books) {
@@ -143,13 +144,37 @@ async function loadBook(chapterId, verseNumber) {
     console.error(error);
   }
 }
-function persist() {
-  if (activeBook().available === false) {
-    history.replaceState(null, '', '#' + new URLSearchParams({book: $('book').value, language: $('language').value, size: $('size').value}));
-    return;
+const readingStateKey = 'bible-plus.reading-state';
+function savedReadingState() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(readingStateKey));
+    return saved && typeof saved === 'object' && !Array.isArray(saved) ? saved : {};
+  } catch { return {}; }
+}
+function restoreParams() {
+  const saved = savedReadingState();
+  const params = new URLSearchParams(location.hash.slice(1));
+  // Explicit passage links take priority; never borrow a chapter from another book.
+  const hasPassage = ['book', 'chapter', 'verse'].some(key => params.has(key));
+  for (const key of ['book', 'chapter', 'verse', 'version', 'language', 'size']) {
+    if (hasPassage && ['book', 'chapter', 'verse'].includes(key)) continue;
+    if (!params.has(key) && typeof saved[key] === 'string') params.set(key, saved[key]);
   }
-  if (!ready) return;
-  history.replaceState(null, '', '#' + new URLSearchParams({book: $('book').value, chapter: chapters[current].id, verse: chapters[current].verses[selected].number, version: activeBook().index !== undefined ? preferredBibleVersion : 'web', language: $('language').value, size: $('size').value}));
+  if (bibleVersions.some(([id]) => id === saved.preferredBibleVersion)) preferredBibleVersion = saved.preferredBibleVersion;
+  return params;
+}
+function persist() {
+  const unavailable = activeBook().available === false;
+  if (!unavailable && !ready) return;
+  const state = {book: $('book').value, language: $('language').value, size: $('size').value};
+  if (!unavailable) Object.assign(state, {
+    chapter: chapters[current].id,
+    verse: chapters[current].verses[selected].number,
+    version: activeBook().index !== undefined ? preferredBibleVersion : 'web'
+  });
+  history.replaceState(null, '', '#' + new URLSearchParams(state));
+  // Storage may be unavailable in private browsing or under browser restrictions.
+  try { localStorage.setItem(readingStateKey, JSON.stringify({...state, preferredBibleVersion})); } catch {}
 }
 function chapterLabel(chapter) {
   return chapter.label.replace(/^Chapter\s+/i, '');
@@ -426,7 +451,7 @@ document.addEventListener('keydown', event => {
   if (event.key === 'ArrowDown') selectPassage(Math.min(chapters[current].verses.length - 1, selected + 1));
 });
 async function restore() {
-  const params = new URLSearchParams(location.hash.slice(1));
+  const params = restoreParams();
   const legacyEzraStart = {'4-ezra': '3', '5-ezra': '1', '6-ezra': '15'}[params.get('book')];
   if (legacyEzraStart) {
     params.set('book', '2-esdras');
@@ -436,7 +461,7 @@ async function restore() {
   preferredBibleVersion = bibleVersions.some(([id]) => id === params.get('version')) ? params.get('version') : preferredBibleVersion;
   $('version').value = '';
   syncVersionOptions(activeBook());
-  for (const [id, fallback] of [['language','zh-Hant'], ['size','normal']]) $(id).value = [...$(id).options].some(o => o.value === params.get(id)) ? params.get(id) : fallback;
+  for (const [id, fallback] of [['language','both'], ['size','normal']]) $(id).value = [...$(id).options].some(o => o.value === params.get(id)) ? params.get(id) : fallback;
   document.body.dataset.size = $('size').value;
   await loadBook(params.get('chapter'), params.get('verse'));
   if (ready && (params.has('verse') || $('size').value === 'presentation')) selectPassage(selected);

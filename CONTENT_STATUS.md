@@ -68,3 +68,7 @@
 - 其餘未收錄中文：已找到的現代譯文只記錄連結；未找到核實來源的保留缺文提示。
 
 逐卷機器可讀記錄見 [source-audit.json](static/data/source-audit.json)，章節覆蓋見 [coverage.json](static/data/coverage.json)。
+
+## 歷史參考書：猶太古史
+
+《猶太古史》（Antiquities of the Jews），作者 Flavius Josephus，共 20 卷，已加入書目，標示「尚未備妥」。英文候選來源為 [Project Gutenberg #2848](https://www.gutenberg.org/ebooks/2848)，William Whiston 譯本；尚未匯入正文。中文有出版譯本，但完整可用下載來源仍待確認。此書屬歷史參考著作，獨立於聖經、次經及偽經分類，亦不計入已收錄的 49 部擴充書卷。
