@@ -271,4 +271,8 @@ Added concise Traditional Chinese `shortSection` labels for 689 sections across 
 
 ## 歷史參考書：猶太古史
 
-《猶太古史》（Antiquities of the Jews），作者 Flavius Josephus，共 20 卷，已加入書目，標示「尚未備妥」。英文候選來源為 [Project Gutenberg #2848](https://www.gutenberg.org/ebooks/2848)，William Whiston 譯本；尚未匯入正文。中文有出版譯本，但完整可用下載來源仍待確認。此書屬歷史參考著作，獨立於聖經、次經及偽經分類，亦不計入已收錄的 49 部擴充書卷。
+《猶太古史》（Antiquities of the Jews），作者 Flavius Josephus，已收錄 William Whiston 英譯本 20 卷、256 章及作者序言，共 1434 個閱讀條目。來源：[Project Gutenberg #2848](https://www.gutenberg.org/ebooks/2848)。正文只合併換行與空白，保留用字、括注和原段號；不含目錄及譯者註腳，原註號可於來源查閱。第 2 卷第 6 章原段號由 8 跳至 10，照錄不補造；八個未印首段號的章以 1 作閱讀定位。章欄採 1–256 連續閱讀編號，標題及選章標籤保留原卷、章。序言附在第一章之前。
+
+[信心聖經神學院](https://fbny.org/seminary/publishing)有出版中文《猶太古史記》，但尚未取得完整可匯入文本，因此 App 目前僅提供英文並顯示中文缺文提示，未另作翻譯。此書獨立歸於「歷史參考書」，不計入已完成雙語的 49 部擴充書卷；加入本書後，全書目不再是全部雙語。
+
+可用 `python3 scripts/import_antiquities.py --source /path/to/2848.txt --check` 核對原始下載檔與閱讀資料。來源 SHA-256 及版本說明保存在 JSON 的 source 欄位。

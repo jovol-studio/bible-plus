@@ -293,7 +293,13 @@
       "englishSections": 19,
       "chineseSections": 19,
       "complete": true
+    },
+    {
+      "book": "antiquities-of-the-jews",
+      "englishSections": 256,
+      "chineseSections": 0,
+      "complete": false
     }
   ],
-  "allChineseComplete": true
+  "allChineseComplete": false
 }

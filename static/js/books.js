@@ -838,7 +838,7 @@ const books = [
     "name": "猶太古史",
     "english": "Antiquities of the Jews",
     "category": "歷史參考書",
-    "available": false,
-    "catalogNote": "約瑟夫（Flavius Josephus）的歷史著作，共 20 卷。英文已找到 William Whiston 譯本（Project Gutenberg #2848）；正文尚未匯入，中文全文來源仍待確認。"
+    "chapterTitlesStandalone": true,
+    "catalogNote": "約瑟夫（Flavius Josephus）的歷史著作，已收錄 William Whiston 英譯本 20 卷、256 章及作者序言。章欄為連續閱讀編號，標題保留原卷章；中文尚未收錄。"
   }
 ];
