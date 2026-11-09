@@ -497,10 +497,11 @@
       "name": "猶太古史",
       "english": "bundled",
       "englishUrl": "https://www.gutenberg.org/ebooks/2848",
-      "englishNote": "收錄作者序言及 20 卷全部 256 章正文；不含重複目錄及譯者註腳，原註號保留，可於來源全文查閱。保留底本拼字、轉錄缺誤和括注，不另行改寫。章欄採 1–256 連續閱讀編號；標題保留原卷、章。節欄是 Whiston 版章內段號，不是其他版本的連續節號；八個未印首段號的章以 1 定位。第 2 卷第 6 章底本段號由 8 跳至 10，照錄不補造。中文尚未收錄。",
-      "chinese": "not bundled",
-      "chineseUrl": "https://fbny.org/seminary/publishing",
-      "chineseNote": "已確認信心聖經神學院出版中文《猶太古史記》，尚未取得完整可匯入文本；未以出版介紹或節錄冒充全文，未另作翻譯。"
+      "englishNote": "收錄作者序言及 20 卷全部 256 章正文；不含重複目錄及譯者註腳，原註號保留，可於來源全文查閱。保留底本拼字、轉錄缺誤和括注，不另行改寫。章欄採 1–256 連續閱讀編號；標題保留原卷、章。節欄是 Whiston 版章內段號，不是其他版本的連續節號；八個未印首段號的章以 1 定位。第 2 卷第 6 章底本段號由 8 跳至 10，照錄不補造。",
+      "chinese": "AI translation draft (partial)",
+      "chineseUrl": "https://www.gutenberg.org/ebooks/2848",
+      "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled William Whiston English. 尚未經獨立學術審校；不是已出版中文譯本，也不是希臘原文直譯。保留底本敘述、數字、括注及章段定位，不以正典經文改寫；內嵌註號以「〔原註 n〕」標示，註文見英文來源。 已完成作者序言及第 1–4 卷全部 61 章（61/256 章，含序言共 324 個閱讀條目）；下一章為第 5 卷第 1 章。",
+      "translationUpdated": "2026-11-10"
     }
   ]
 }

@@ -839,6 +839,6 @@ const books = [
     "english": "Antiquities of the Jews",
     "category": "歷史參考書",
     "chapterTitlesStandalone": true,
-    "catalogNote": "約瑟夫（Flavius Josephus）的歷史著作，已收錄 William Whiston 英譯本 20 卷、256 章及作者序言。章欄為連續閱讀編號，標題保留原卷章；中文尚未收錄。"
+    "catalogNote": "約瑟夫（Flavius Josephus）的歷史著作，已收錄 William Whiston 英譯本 20 卷、256 章及作者序言。章欄為連續閱讀編號，標題保留原卷章；中文 AI 初稿已完成作者序言及第 1–4 卷全部 61 章，其餘待譯。"
   }
 ];
