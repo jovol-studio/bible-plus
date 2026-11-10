@@ -14,6 +14,7 @@ def normalize(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 def parse(raw):
+    chapter_titles = json.loads((ROOT / 'scripts/antiquities-chapter-titles.zh-Hant.json').read_text())
     text = raw.decode('utf-8-sig').replace('\r\n', '\n')
     text = text.split('PREFACE.1', 1)[1].split('*** END OF THE PROJECT GUTENBERG')[0]
     preface = text.split('FOOTNOTES', 1)[0].strip()
@@ -53,9 +54,10 @@ def parse(raw):
             if volume == number == 1:
                 verses.insert(0, {'number': 'preface', 'text': normalize(preface)})
             chapters.append({'id': f'{volume}-{number}', 'label': f'第 {volume} 卷 第 {number} 章',
-                             'section': normalize(title), 'shortSection': f'第 {volume} 卷 · 第 {number} 章',
+                             'section': normalize(title), 'shortSection': f"第 {volume} 卷 · 第 {number} 章｜{chapter_titles[f'{volume}-{number}']}",
                              'sourceHeading': normalize(title), 'sourceBook': volume, 'sourceChapter': number,
                              'verses': verses})
+    assert list(chapter_titles) == [chapter['id'] for chapter in chapters]
     assert seen == list(range(1, 21))
     return chapters
 
@@ -76,7 +78,7 @@ def main():
         'retrieved': '2026-11-01',
         'sha256': hashlib.sha256(raw).hexdigest(),
         'editionNote': '收錄作者序言及 20 卷全部 256 章正文；不含重複目錄及譯者註腳，原註號保留，可於來源全文查閱。保留底本拼字、轉錄缺誤和括注，不另行改寫。章欄採 1–256 連續閱讀編號；標題保留原卷、章。節欄是 Whiston 版章內段號，不是其他版本的連續節號；八個未印首段號的章以 1 定位。第 2 卷第 6 章底本段號由 8 跳至 10，照錄不補造。',
-        'navigationNote': '選章標籤保留卷與章定位；完整英文標題保留於 sourceHeading。序言附於第 1 卷第 1 章之前。'
+        'navigationNote': '選章標籤保留卷與章定位，並附中文內容短題；短題為編輯導讀，完整英文標題保留於 sourceHeading。序言附於第 1 卷第 1 章之前。'
     }
     assert len(chapters) == 256
     data = {'id': 'antiquities-of-the-jews', 'title': {'en': 'Antiquities of the Jews', 'zh-Hant': '猶太古史'}, 'language': 'en', 'source': source, 'chapters': chapters}
