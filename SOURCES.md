@@ -276,3 +276,7 @@ Added concise Traditional Chinese `shortSection` labels for 689 sections across 
 [信心聖經神學院](https://fbny.org/seminary/publishing)有出版中文《猶太古史記》，但尚未取得完整可匯入文本，未收錄該出版譯本。2026-11-08：依使用者指示，直接按本地 Whiston 英文開始製作正體中文 AI 初稿。2026-11-12 進度：已完成作者序言及第 1–20 卷全部 256 章（256/256 章，含序言共 1434 個閱讀條目）；全書中文 AI 初稿已齊，尚待獨立學術審校。 中文尚待獨立學術審校，不是希臘原文直譯。保留底本敘述、數字、括注及章段定位；內嵌註號以「〔原註 n〕」標示，註文見英文來源。全部章段已有中文對應。此書獨立歸於「歷史參考書」，不計入已完成雙語的 49 部擴充書卷；此書與 49 部擴充書卷的中英章段對應均已齊備。
 
 可用 `python3 scripts/import_antiquities.py --source /path/to/2848.txt --check` 核對原始下載檔與閱讀資料。來源 SHA-256 及版本說明保存在 JSON 的 source 欄位。
+
+## 埃塞俄比亞正典待補書目
+
+2026-11-12：新增 13 個僅列書目的待補項目，詳見 [內容盤點](CONTENT_STATUS.md#埃塞俄比亞正典待補清單2026-11-12)。依使用者要求，未下載、匯入或翻譯任何新正文；尚未選定文本版本或授權。書目辨識依據列於該清單，並存於 `source-audit.json` 各項的 `canonReferences`；這些連結不是正文來源。閱讀器以 `available: false` 顯示「尚未備妥」，不請求正文檔案。

@@ -502,6 +502,201 @@
       "chineseUrl": "https://www.gutenberg.org/ebooks/2848",
       "chineseNote": "AI-generated Traditional Chinese translation draft from the bundled William Whiston English. 尚未經獨立學術審校；不是已出版中文譯本，也不是希臘原文直譯。保留底本敘述、數字、括注及章段定位，不以正典經文改寫；內嵌註號以「〔原註 n〕」標示，註文見英文來源。 已完成作者序言及第 1–20 卷全部 256 章（256/256 章，含序言共 1434 個閱讀條目）；全書中文 AI 初稿已齊，尚待獨立學術審校。",
       "translationUpdated": "2026-11-12"
+    },
+    {
+      "book": "1-meqabyan",
+      "name": "埃塞俄比亞馬加比一書",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "狹義舊約",
+      "catalogNote": "狹義舊約。與現有希臘傳統《馬加比一書》不同。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "2-meqabyan",
+      "name": "埃塞俄比亞馬加比二書",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "狹義舊約",
+      "catalogNote": "狹義舊約。與現有希臘傳統《馬加比二書》不同；部分書目與第三書合計。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "3-meqabyan",
+      "name": "埃塞俄比亞馬加比三書",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "狹義舊約",
+      "catalogNote": "狹義舊約。與現有希臘傳統《馬加比三書》不同；部分書目與第二書合計。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "4-baruch",
+      "name": "巴錄四書（埃塞俄比亞傳統）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "狹義舊約",
+      "catalogNote": "狹義舊約。屬耶利米相關文集中的《巴錄餘言》，不是《巴錄書》或《巴錄二書》；須核對埃塞俄比亞文本及其編排。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "josippon",
+      "name": "約瑟本古利安書",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義舊約增收",
+      "catalogNote": "廣義舊約增收。亦稱 Pseudo-Josephus，埃塞俄比亞傳統分八部分；不是約瑟夫《猶太古史》。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "sinodos-sirate-tsion",
+      "name": "錫安規章（Sinodos）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "sinodos-tizaz",
+      "name": "誡命書（Sinodos）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "sinodos-gitsew",
+      "name": "Gitsew（Sinodos）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一；中文名稱暫保留原名。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "sinodos-abtilis",
+      "name": "Abtilis（Sinodos）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一；中文名稱暫保留原名。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "ethiopic-covenant-1",
+      "name": "盟約書上卷（埃塞俄比亞傳統）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。亦稱 First Book of Dominos，屬 Mäshafä Kidan 第一部分。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "ethiopic-covenant-2",
+      "name": "盟約書下卷（埃塞俄比亞傳統）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。亦稱 Second Book of Dominos，屬 Mäshafä Kidan 第二部分。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "ethiopic-clement",
+      "name": "革利免書（埃塞俄比亞傳統）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。不是現有《革利免前書》或《革利免後書》。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
+    },
+    {
+      "book": "ethiopic-didascalia",
+      "name": "教誨書（埃塞俄比亞傳統）",
+      "english": "not downloaded",
+      "chinese": "not translated",
+      "catalogOnly": true,
+      "canonScope": "廣義新約增收",
+      "catalogNote": "廣義新約增收。不是《十二使徒遺訓》（Didache）；須選定埃塞俄比亞傳本，不能以其他同名教會規章替代。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。",
+      "canonReferences": [
+        "https://www.ethiopianorthodox.org/english/canonical/books.html",
+        "https://www.islamic-awareness.org/bible/text/canon/ethiopican",
+        "https://ethiopianorthodoxbible.wordpress.com/ethiopian-orthodox-canon-of-scripture/"
+      ],
+      "catalogUpdated": "2026-11-12"
     }
   ]
 }

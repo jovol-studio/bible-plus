@@ -636,6 +636,110 @@ const books = [
     "catalogNote": "部分東正教聖經列為附錄；收錄與地位因傳統及版本而異。"
   },
   {
+    "id": "1-meqabyan",
+    "name": "埃塞俄比亞馬加比一書",
+    "english": "1 Meqabyan",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "狹義舊約。與現有希臘傳統《馬加比一書》不同。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "2-meqabyan",
+    "name": "埃塞俄比亞馬加比二書",
+    "english": "2 Meqabyan",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "狹義舊約。與現有希臘傳統《馬加比二書》不同；部分書目與第三書合計。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "3-meqabyan",
+    "name": "埃塞俄比亞馬加比三書",
+    "english": "3 Meqabyan",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "狹義舊約。與現有希臘傳統《馬加比三書》不同；部分書目與第二書合計。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "4-baruch",
+    "name": "巴錄四書（埃塞俄比亞傳統）",
+    "english": "4 Baruch / Rest of the Words of Baruch",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "狹義舊約。屬耶利米相關文集中的《巴錄餘言》，不是《巴錄書》或《巴錄二書》；須核對埃塞俄比亞文本及其編排。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "josippon",
+    "name": "約瑟本古利安書",
+    "english": "Josippon / Yosëf wäldä Koryon",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義舊約增收。亦稱 Pseudo-Josephus，埃塞俄比亞傳統分八部分；不是約瑟夫《猶太古史》。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "sinodos-sirate-tsion",
+    "name": "錫安規章（Sinodos）",
+    "english": "Sirate Tsion / Order of Zion",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "sinodos-tizaz",
+    "name": "誡命書（Sinodos）",
+    "english": "Tizaz / Te’ezaz",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "sinodos-gitsew",
+    "name": "Gitsew（Sinodos）",
+    "english": "Gitsew / Gessew",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一；中文名稱暫保留原名。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "sinodos-abtilis",
+    "name": "Abtilis（Sinodos）",
+    "english": "Abtilis / Abtelis",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。Sinodos 教會規章集四部分之一；中文名稱暫保留原名。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "ethiopic-covenant-1",
+    "name": "盟約書上卷（埃塞俄比亞傳統）",
+    "english": "Ethiopic Book of the Covenant I",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。亦稱 First Book of Dominos，屬 Mäshafä Kidan 第一部分。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "ethiopic-covenant-2",
+    "name": "盟約書下卷（埃塞俄比亞傳統）",
+    "english": "Ethiopic Book of the Covenant II",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。亦稱 Second Book of Dominos，屬 Mäshafä Kidan 第二部分。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "ethiopic-clement",
+    "name": "革利免書（埃塞俄比亞傳統）",
+    "english": "Ethiopic Clement / Qälëmentos",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。不是現有《革利免前書》或《革利免後書》。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
+    "id": "ethiopic-didascalia",
+    "name": "教誨書（埃塞俄比亞傳統）",
+    "english": "Ethiopic Didascalia",
+    "category": "埃塞俄比亞正教會增收書卷",
+    "available": false,
+    "catalogNote": "廣義新約增收。不是《十二使徒遺訓》（Didache）；須選定埃塞俄比亞傳本，不能以其他同名教會規章替代。 目前僅列入待補書目，未下載或收錄正文；書名為編輯用名稱。"
+  },
+  {
     "id": "2-esdras",
     "name": "以斯拉續篇下卷",
     "english": "2 Esdras",
