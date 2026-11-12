@@ -297,9 +297,9 @@
     {
       "book": "antiquities-of-the-jews",
       "englishSections": 256,
-      "chineseSections": 209,
-      "complete": false
+      "chineseSections": 256,
+      "complete": true
     }
   ],
-  "allChineseComplete": false
+  "allChineseComplete": true
 }
